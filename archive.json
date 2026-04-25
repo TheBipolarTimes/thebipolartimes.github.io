@@ -1,0 +1,14 @@
+{
+  "publication": "The BiPolar Times",
+  "slogan": "The Newspaper That Connects The Markets Of Both Worlds",
+  "timezone": "Asia/Bangkok",
+  "editions": [
+    {
+      "date": "2026-04-25",
+      "title": "April 25, 2026 Edition",
+      "file": "snapshots/snapshot-2026-04-25.json",
+      "exportedAt": "2026-04-25T09:45:29.704Z",
+      "summary": "US, East + SE Asia, and Commodities market snapshot."
+    }
+  ]
+}
