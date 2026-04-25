@@ -92,8 +92,18 @@
       document.querySelector('.slogan').textContent = data.slogan || 'The Newspaper That Connects The Markets Of Both Worlds';
       const nav = document.getElementById('nav');
       order.filter(id=>data.sections?.[id]).forEach(id => {
-        const btn = document.createElement('button'); btn.dataset.id=id; btn.textContent=data.sections[id].label; btn.onclick=()=>renderSection(data,id); nav.appendChild(btn);
+        const btn = document.createElement('button');
+        btn.dataset.id = id;
+        btn.textContent = data.sections[id].label;
+        btn.onclick = () => renderSection(data, id);
+        nav.appendChild(btn);
       });
+
+      const archiveBtn = document.createElement('button');
+      archiveBtn.textContent = 'PREVIOUS EDITIONS';
+      archiveBtn.onclick = () => { window.location.href = 'archive.html'; };
+      nav.appendChild(archiveBtn);
+
       renderSection(data, order.find(id=>data.sections?.[id]) || Object.keys(data.sections||{})[0]);
       document.getElementById('footer').textContent = `${data.publication || 'The BiPolar Times'} · ${data.timezone || 'Asia/Bangkok'} · Read-only snapshot`;
     }).catch(err => {
