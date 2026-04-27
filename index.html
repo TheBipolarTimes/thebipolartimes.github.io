@@ -86,16 +86,38 @@
       const [lead, ...rest] = news;
       document.getElementById('content').innerHTML = `<div class="section-head"><div><div class="section-title">${esc(sec.label)}</div><div class="timestamp">Last refreshed ${esc(fmt(sec.lastUpdated,true))} · ${news.length} stories</div></div><div class="ticker">${esc(sec.ticker)}</div></div>${lead?storyCard(lead,true):'<p>No stories in this section.</p>'}${rest.length?`<div class="grid">${rest.map(x=>storyCard(x,false)).join('')}</div>`:''}`;
     }
+    function dateFromSnapshotFilename(filename) {
+      const match = String(filename || '').match(/snapshot-(\d{4}-\d{2}-\d{2})\.json$/);
+      return match ? match[1] : '';
+    }
+
+    function formatEditionTitle(dateString) {
+      if (!dateString) return 'Untitled edition';
+      const date = new Date(`${dateString}T00:00:00+07:00`);
+      if (Number.isNaN(date.getTime())) return dateString;
+      return new Intl.DateTimeFormat('en-US', {
+        timeZone: 'Asia/Bangkok',
+        month: 'short',
+        day: 'numeric',
+        year: 'numeric'
+      }).format(date) + ' Edition';
+    }
+
     async function renderArchive() {
       document.querySelectorAll('.nav button').forEach(b => b.classList.toggle('active', b.dataset.id === 'archive'));
       try {
-        const res = await fetch('archive.json', {cache: 'no-store'});
-        if (!res.ok) throw new Error('archive.json not found');
-        const archive = await res.json();
-        const editions = [...(archive.editions || [])].sort((a, b) => new Date(b.date || b.exportedAt || 0) - new Date(a.date || a.exportedAt || 0));
-        document.getElementById('content').innerHTML = `<div class="section-head"><div><div class="section-title">Previous Editions</div><div class="timestamp">Latest editions first · ${editions.length} archived edition${editions.length === 1 ? '' : 's'}</div></div><div class="ticker">The BiPolar Times Archive</div></div><div class="grid">${editions.map(ed => `<article class="card"><h3>${esc(ed.title || ed.label || ed.date || 'Untitled edition')}</h3><p>${esc(ed.description || 'Read this archived market snapshot.')}</p><div class="meta">${esc(ed.date || '')}${ed.exportedAt ? ' · Exported ' + esc(fmt(ed.exportedAt, true)) : ''}</div><p style="margin-top:12px"><a href="edition.html?file=${encodeURIComponent(ed.file || ed.path || '')}" style="color:#1E1B16;font-weight:700;text-decoration:none;border-bottom:1px solid #1E1B16">READ EDITION →</a></p></article>`).join('')}</div>`;
+        const res = await fetch('snapshots/index.json', {cache: 'no-store'});
+        if (!res.ok) throw new Error('snapshots/index.json not found');
+        const listing = await res.json();
+        const files = Array.isArray(listing.files) ? listing.files : [];
+        const editions = files
+          .map(file => ({ file: `snapshots/${file}`, date: dateFromSnapshotFilename(file), title: formatEditionTitle(dateFromSnapshotFilename(file)) }))
+          .filter(ed => ed.date && ed.file)
+          .sort((a, b) => new Date(b.date) - new Date(a.date));
+
+        document.getElementById('content').innerHTML = `<div class="section-head"><div><div class="section-title">Previous Editions</div><div class="timestamp">Latest editions first · ${editions.length} archived edition${editions.length === 1 ? '' : 's'}</div></div><div class="ticker">The BiPolar Times Archive</div></div><div class="grid">${editions.map(ed => `<article class="card"><h3>${esc(ed.title)}</h3><p>Read this archived market snapshot.</p><div class="meta">${esc(ed.date)}</div><p style="margin-top:12px"><a href="edition.html?file=${encodeURIComponent(ed.file)}" style="color:#1E1B16;font-weight:700;text-decoration:none;border-bottom:1px solid #1E1B16">READ EDITION →</a></p></article>`).join('')}</div>`;
       } catch (err) {
-        document.getElementById('content').innerHTML = `<div class="error">Could not load <strong>archive.json</strong>. Make sure archive.json is in the same folder as index.html.</div>`;
+        document.getElementById('content').innerHTML = `<div class="error">Could not load <strong>snapshots/index.json</strong>. Create this file inside the snapshots folder with a files array, for example: {&quot;files&quot;:[&quot;snapshot-2026-04-27.json&quot;,&quot;snapshot-2026-04-25.json&quot;]}</div>`;
         console.error(err);
       }
     }
