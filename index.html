@@ -49,7 +49,7 @@
   
   <main class="page">
     <div class="rule-thick"></div><div class="rule-thin"></div>
-    <div class="topline"><span id="dateLine">Bangkok Time</span><span id="exportLine">Static Snapshot</span></div>
+    <div class="topline"><span id="dateLine">Bangkok Time</span><span id="exportLine"></span></div>
     <h1 class="masthead">The BiPolar Times</h1>
     <div class="slogan">The Newspaper That Connects The Markets Of Both Worlds</div>
     <p class="subtitle">AI-Powered Financial Intelligence · Read-Only Market Snapshot</p>
@@ -86,45 +86,59 @@
       const [lead, ...rest] = news;
       document.getElementById('content').innerHTML = `<div class="section-head"><div><div class="section-title">${esc(sec.label)}</div><div class="timestamp">Last refreshed ${esc(fmt(sec.lastUpdated,true))} · ${news.length} stories</div></div><div class="ticker">${esc(sec.ticker)}</div></div>${lead?storyCard(lead,true):'<p>No stories in this section.</p>'}${rest.length?`<div class="grid">${rest.map(x=>storyCard(x,false)).join('')}</div>`:''}`;
     }
-    function dateFromSnapshotFilename(filename) {
-      const match = String(filename || '').match(/snapshot-(\d{4}-\d{2}-\d{2})\.json$/);
-      return match ? match[1] : '';
-    }
-
-    function formatEditionTitle(dateString) {
-      if (!dateString) return 'Untitled edition';
-      const date = new Date(`${dateString}T00:00:00+07:00`);
-      if (Number.isNaN(date.getTime())) return dateString;
-      return new Intl.DateTimeFormat('en-US', {
-        timeZone: 'Asia/Bangkok',
-        month: 'short',
-        day: 'numeric',
-        year: 'numeric'
-      }).format(date) + ' Edition';
-    }
-
     async function renderArchive() {
       document.querySelectorAll('.nav button').forEach(b => b.classList.toggle('active', b.dataset.id === 'archive'));
       try {
         const res = await fetch('snapshots/index.json', {cache: 'no-store'});
         if (!res.ok) throw new Error('snapshots/index.json not found');
-        const listing = await res.json();
-        const files = Array.isArray(listing.files) ? listing.files : [];
-        const editions = files
-          .map(file => ({ file: `snapshots/${file}`, date: dateFromSnapshotFilename(file), title: formatEditionTitle(dateFromSnapshotFilename(file)) }))
-          .filter(ed => ed.date && ed.file)
-          .sort((a, b) => new Date(b.date) - new Date(a.date));
+        const index = await res.json();
+        const files = Array.isArray(index.files) ? index.files : [];
 
-        document.getElementById('content').innerHTML = `<div class="section-head"><div><div class="section-title">Previous Editions</div><div class="timestamp">Latest editions first · ${editions.length} archived edition${editions.length === 1 ? '' : 's'}</div></div><div class="ticker">The BiPolar Times Archive</div></div><div class="grid">${editions.map(ed => `<article class="card"><h3>${esc(ed.title)}</h3><p>Read this archived market snapshot.</p><div class="meta">${esc(ed.date)}</div><p style="margin-top:12px"><a href="edition.html?file=${encodeURIComponent(ed.file)}" style="color:#1E1B16;font-weight:700;text-decoration:none;border-bottom:1px solid #1E1B16">READ EDITION →</a></p></article>`).join('')}</div>`;
+        const editions = files
+          .map(file => {
+            const match = file.match(/(\d{4}-\d{2}-\d{2})/);
+            const date = match ? match[1] : '';
+            const title = date
+              ? new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'Asia/Bangkok' }).format(new Date(date + 'T00:00:00+07:00')) + ' Edition'
+              : file.replace(/\.json$/i, '');
+            return {
+              file: file.startsWith('snapshots/') ? file : `snapshots/${file}`,
+              date,
+              title
+            };
+          })
+          .sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
+
+        document.getElementById('content').innerHTML = `
+          <div class="section-head">
+            <div>
+              <div class="section-title">Previous Editions</div>
+              <div class="timestamp">Latest editions first · ${editions.length} archived edition${editions.length === 1 ? '' : 's'}</div>
+            </div>
+            <div class="ticker">The BiPolar Times Archive</div>
+          </div>
+          <div class="grid">
+            ${editions.map(ed => `
+              <article class="card">
+                <h3>
+                  <a href="edition.html?file=${encodeURIComponent(ed.file)}" style="color:#1E1B16;text-decoration:none;border-bottom:1px solid transparent">
+                    ${esc(ed.title)}
+                  </a>
+                </h3>
+                <p>Read this archived market snapshot.</p>
+                <div class="meta">${esc(ed.date)}</div>
+              </article>
+            `).join('')}
+          </div>`;
       } catch (err) {
-        document.getElementById('content').innerHTML = `<div class="error">Could not load <strong>snapshots/index.json</strong>. Create this file inside the snapshots folder with a files array, for example: {&quot;files&quot;:[&quot;snapshot-2026-04-27.json&quot;,&quot;snapshot-2026-04-25.json&quot;]}</div>`;
+        document.getElementById('content').innerHTML = `<div class="error">Could not load <strong>snapshots/index.json</strong>. Make sure it is inside the snapshots folder.</div>`;
         console.error(err);
       }
     }
 
     fetch('snapshot.json', {cache: 'no-store'}).then(r => { if(!r.ok) throw new Error('snapshot.json not found'); return r.json(); }).then(data => {
       document.getElementById('dateLine').textContent = new Intl.DateTimeFormat('en-US', {timeZone:'Asia/Bangkok', weekday:'long', year:'numeric', month:'long', day:'numeric'}).format(new Date(data.exportedAt || Date.now()));
-      document.getElementById('exportLine').textContent = data.exportedAt ? 'Exported ' + fmt(data.exportedAt,true) : 'Static Snapshot';
+      document.getElementById('exportLine').textContent = '';
       document.querySelector('.slogan').textContent = data.slogan || 'The Newspaper That Connects The Markets Of Both Worlds';
       const nav = document.getElementById('nav');
       order.filter(id=>data.sections?.[id]).forEach(id => {
