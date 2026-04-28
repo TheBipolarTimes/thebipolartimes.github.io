@@ -2,71 +2,122 @@
   "publication": "The BiPolar Times",
   "slogan": "The Newspaper That Connects The Markets Of Both Worlds",
   "timezone": "Asia/Bangkok",
-  "exportedAt": "2026-04-27T03:37:55.819Z",
+  "exportedAt": "2026-04-28T09:55:10.864Z",
   "generatedFrom": "private-dashboard",
   "sections": {
     "us": {
       "id": "us",
       "label": "US",
       "ticker": "NYSE · NASDAQ · S&P 500",
-      "lastUpdated": "2026-04-27T03:37:26.352Z",
-      "news": []
+      "lastUpdated": "2026-04-28T09:53:07.922Z",
+      "news": [
+        {
+          "headline": "OpenAI Ends Microsoft Exclusivity; MSFT Dips, Alphabet Gains on AI Rivalry Shift",
+          "body": "Microsoft and OpenAI announced a restructured partnership on April 27, ending Microsoft's exclusive right to sell OpenAI's AI models and clearing the way for OpenAI to serve customers via Amazon Web Services, Google Cloud, and others. Microsoft shares initially fell ~1-5% intraday on the news before closing largely flat, while Alphabet gained ~1.8% and Amazon CEO Andy Jassy confirmed OpenAI models would reach AWS 'in the coming weeks.' Under revised terms, Microsoft retains a non-exclusive IP license through 2032 and a guaranteed 20% revenue share from OpenAI through 2030, but loses its structural cloud moat that had underpinned Azure AI growth. The deal reshapes the competitive landscape ahead of Microsoft's Wednesday earnings report and raises questions about Azure's AI differentiation versus rivals.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Reuters / Bloomberg",
+          "publishedAtISO": "2026-04-27T14:00:00Z",
+          "publishedAt": "Apr 27, 2026, 21:00 Bangkok"
+        },
+        {
+          "headline": "POET Technologies Crashes ~47% After Marvell Cancels All Celestial AI Orders",
+          "body": "POET Technologies plunged a record ~47% on April 27 after Marvell Technology canceled all purchase orders tied to Celestial AI, citing alleged violations of POET's confidentiality obligations stemming from the CFO publicly disclosing order details in a media interview. Marvell shares also fell ~5-6% on the day as investors reassessed the AI optical networking supply chain. The collapse reversed a 108% surge POET had posted the prior week on speculation it was embedded in Marvell's AI data center hardware stack; the stock erased nearly all of those gains in a single session. The episode highlights execution and contractual risk for micro-cap AI hardware companies heavily reliant on a single Tier-1 customer relationship.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Yahoo Finance / Motley Fool",
+          "publishedAtISO": "2026-04-27T13:00:00Z",
+          "publishedAt": "Apr 27, 2026, 20:00 Bangkok"
+        },
+        {
+          "headline": "United-American Airlines Merger Talks Collapse; UAL CEO Confirms Dead End",
+          "body": "United Airlines CEO Scott Kirby confirmed on April 27 that merger discussions with American Airlines had ended after American 'declined to engage and instead responded by publicly closing the door.' Kirby had approached American in recent weeks about a combination that would have created the world's largest airline by several metrics; American swiftly and publicly rejected the approach. Both stocks saw only modest moves — United fell less than 1% and American gained less than 1% — suggesting markets had not priced in a deal premium, but the episode highlights ongoing consolidation ambitions in US aviation and potential regulatory appetite for mega-mergers under the current administration.",
+          "sector": "Industrials",
+          "sentiment": "neutral",
+          "magnitude": "medium",
+          "source": "Yahoo Finance",
+          "publishedAtISO": "2026-04-27T12:28:00Z",
+          "publishedAt": "Apr 27, 2026, 19:28 Bangkok"
+        },
+        {
+          "headline": "Domino's Pizza Drops ~9% on Q1 Miss; Cuts Full-Year Same-Store Sales Guidance",
+          "body": "Domino's Pizza (DPZ) fell roughly 9% on April 27 after reporting Q1 2026 EPS of $4.13, missing the ~$4.27 consensus, with revenues of $1.15 billion also below the $1.16 billion estimate. Domestic same-store sales rose only 0.9% versus expectations of ~2.3-2.6%, and international comps declined 0.4%; CEO Russell Weiner cited 'COVID-level' consumer sentiment lows and intensifying competition from rival pizza chains. The company lowered its full-year US same-store sales guidance to low single digits from a prior 3% target, sending the stock to a new 52-week low and signaling broader consumer-spending stress in the quick-service restaurant sector. The print also weighed on broader restaurant peer sentiment.",
+          "sector": "Consumer Discretionary",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNBC / Yahoo Finance",
+          "publishedAtISO": "2026-04-27T12:26:00Z",
+          "publishedAt": "Apr 27, 2026, 19:26 Bangkok"
+        },
+        {
+          "headline": "China Blocks Meta's $2B Manus AI Acquisition, Orders Deal Unwound",
+          "body": "China's National Development and Reform Commission on April 27 ordered Meta and Manus to withdraw their completed $2 billion acquisition, citing concerns over technology leakage amid the US-China tech rivalry. Meta, which had already integrated Manus into internal systems, said the transaction 'complied fully with applicable law' and anticipated 'an appropriate resolution.' Despite the regulatory shock, Meta shares closed up ~0.5%, with markets viewing the setback as manageable given Meta's scale, though the ruling is expected to chill future cross-border AI acquisitions and rattled tech investors with Chinese-linked exposure. The move comes weeks before a high-profile Trump-Xi summit in Beijing.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Bloomberg / CNBC",
+          "publishedAtISO": "2026-04-27T10:00:00Z",
+          "publishedAt": "Apr 27, 2026, 17:00 Bangkok"
+        }
+      ]
     },
     "asia": {
       "id": "asia",
       "label": "East + SE Asia",
       "ticker": "Nikkei · HSI · SSE · KOSPI · TWSE · SET · SGX · IDX · KLSE · PSEi · VN-Index",
-      "lastUpdated": "2026-04-27T03:15:53.466Z",
+      "lastUpdated": "2026-04-28T09:51:49.821Z",
       "news": [
         {
-          "headline": "Nikkei, KOSPI Scale Fresh All-Time Highs as Iran Proposal Lifts Asia Risk Sentiment",
-          "body": "Japan's Nikkei 225 added 1.4% and South Korea's KOSPI surged 1.83% on April 27, both notching simultaneous record highs as Asia-Pacific markets rallied after a report that Iran submitted a proposal to the U.S. to reopen the Strait of Hormuz. Hang Seng futures edged fractionally higher while mainland China's CSI 300 added 0.25%. The dual record breaks — coming despite stalled U.S.-Iran peace talks over the weekend — underscore how strongly regional equities are tracking geopolitical headline flow and AI-driven tech momentum.",
+          "headline": "KOSPI Hits Fresh All-Time High of 6,641 as Korea Market Cap Tops $4.1 Trillion",
+          "body": "South Korea's KOSPI closed at a new all-time high of 6,641.02 on April 28, touching an intraday peak of 6,712.73 — the first time the index surpassed 6,700 — and racing toward the 7,000 threshold. The combined value of the Kospi and Kosdaq crossed 6,000 trillion won ($4.1 trillion) for the first time, with Samsung Electronics and SK Hynix alone accounting for 43.6% of the main board. Institutional investors led net buying of 351.5 billion won, buoyed by AI semiconductor earnings momentum and anticipation of Magnificent-7 earnings releases. The index has surged 8.6% in just eight trading days this month, with analysts at Meritz Securities projecting upside to the mid-to-high 7,000 range.",
           "sector": "Technology",
           "sentiment": "positive",
           "magnitude": "high",
-          "source": "CNBC / Business Standard",
-          "publishedAtISO": "2026-04-27T03:00:00Z",
-          "publishedAt": "Apr 27, 2026, 10:00 Bangkok"
+          "source": "Korea Herald / KED Global / UPI",
+          "publishedAtISO": "2026-04-28T09:00:00Z",
+          "publishedAt": "Apr 28, 2026, 16:00 Bangkok"
         },
         {
-          "headline": "China March Industrial Profits Surge 15.8% YoY, Accelerating from Jan-Feb Pace",
-          "body": "China's industrial profits jumped 15.8% year-on-year in March 2026, accelerating from the already strong 15.2% pace recorded in the first two months of the year, supporting modest gains in the CSI 300 (+0.25%) on April 27. The data signals resilient factory-sector earnings despite elevated global energy prices linked to Middle East disruptions. Markets are watching whether momentum holds into Q2 as oil-driven cost pressures could squeeze downstream manufacturers. The print adds to the earlier Q1 GDP beat of 5.0% year-on-year and supports the case for continued equity re-rating in Chinese industrials.",
-          "sector": "Other",
-          "sentiment": "positive",
-          "magnitude": "medium",
-          "source": "CNBC",
-          "publishedAtISO": "2026-04-27T02:00:00Z",
-          "publishedAt": "Apr 27, 2026, 09:00 Bangkok"
-        },
-        {
-          "headline": "BOJ Holds at 0.75%, Cuts Growth Forecast; June Hike Signal Watched Closely",
-          "body": "The Bank of Japan convened its April 27-28 policy meeting widely expected to leave the benchmark rate unchanged at 0.75%, but with a hawkish tilt: the quarterly outlook report is set to cut the fiscal 2026 GDP growth forecast while sharply revising inflation higher, reflecting surging fuel costs from the Iran war energy shock. Nearly two-thirds of economists in a Reuters poll expect the policy rate to reach 1.0% by end-June, and markets are focused on Governor Ueda's post-meeting press conference for explicit signalling. A hawkish hold would reinforce upward pressure on short-end JGB yields and the yen, representing a significant headwind for export-oriented Nikkei constituents.",
+          "headline": "BoJ Holds at 0.75% but Shocks with Hawkish Inflation Upgrade; Nikkei Falls",
+          "body": "The Bank of Japan held its policy rate at 0.75% on April 28 in a divided 6-3 vote, with members Nakagawa, Takata, and Tamura all dissenting in favour of an immediate hike to 1.0% — the most hawkish split in years. The board simultaneously slashed its FY2026 growth forecast to 0.5% from 1.0% while raising its core CPI forecast sharply to 2.8% from 1.9%, framing the outcome as a stagflationary holding pattern driven by Iran-war oil prices. The Nikkei 225 fell more than 1% in response to the hawkish language and inflation revision, while the yen traded near 159 per dollar. Markets now price further hikes in H2 2026 as the conditions the majority cited for restraint — growth uncertainty — narrow.",
           "sector": "Finance",
-          "sentiment": "neutral",
-          "magnitude": "high",
-          "source": "Japan Times / InvestingLive",
-          "publishedAtISO": "2026-04-27T01:00:00Z",
-          "publishedAt": "Apr 27, 2026, 08:00 Bangkok"
-        },
-        {
-          "headline": "Brent Jumps 2% to $107 as Iran Talks Collapse; Asia Risk Assets Hold Firm",
-          "body": "Oil prices surged more than 2% — Brent to $107.49/bbl and WTI to $96.19 — after Trump scrapped a second round of U.S.-Iran peace negotiations over the weekend and Iran's Revolutionary Guard boarded two cargo ships near the Strait of Hormuz. Despite the energy shock, Asian equities proved resilient, with the Nikkei adding 0.53% to a fresh record and the KOSPI jumping 1% to its own all-time high on April 27. The divergence between elevated oil prices and buoyant equity sentiment reflects investor confidence that Middle East disruption remains contained for now, though energy-import-heavy markets like South Korea and Japan face growing margin pressure if crude stays elevated.",
-          "sector": "Energy",
           "sentiment": "negative",
           "magnitude": "high",
-          "source": "CNBC",
-          "publishedAtISO": "2026-04-27T00:30:00Z",
-          "publishedAt": "Apr 27, 2026, 07:30 Bangkok"
+          "source": "CNBC / Japan Times / FXStreet",
+          "publishedAtISO": "2026-04-28T03:00:00Z",
+          "publishedAt": "Apr 28, 2026, 10:00 Bangkok"
         },
         {
-          "headline": "Nikkei Closes at Record 59,716 as Tech Names Lead; BOJ Hold Expected at Apr 27-28 Meeting",
-          "body": "Japan's Nikkei 225 closed at a record 59,716.18 on Friday April 25, rising 0.97% and capping a third consecutive weekly gain as AI-linked semiconductor stocks outperformed. Ibiden Co surged 12.6%, Advantest gained 5.5%, and Lasertec rose 3.8%, pulling the index higher. Japan's core inflation accelerated for the first time in five months but remained below the BOJ's 2% target, keeping markets confident the central bank will hold rates at its April 27-28 policy meeting. Markets widely expect rates on hold as policymakers weigh energy-driven inflation risks against a slowing growth outlook.",
+          "headline": "Nikkei 225 Closes Above 60,000 for First Time Ever on AI and Earnings Surge",
+          "body": "Japan's Nikkei 225 closed at a record 60,537.36 on April 27 — rising 1.38% and surpassing the 60,000 milestone for the first time in the index's history — driven by AI and semiconductor stocks including Advantest (+7%), Fujikura (+5.1%), and Disco Corp (+6.1%). Fanuc jumped nearly 16% after strong earnings from its factory automation and robotics divisions, while the broader Topix added 0.5%. The Nikkei has gained 18.6% year-to-date and crossed 60,000 just six months after first breaking through 50,000. The milestone came as investors shrugged off stalled US-Iran peace talks, though the rally pulled back slightly on April 28 on profit-taking and the BoJ decision.",
           "sector": "Technology",
           "sentiment": "positive",
           "magnitude": "high",
-          "source": "Reuters / Trading Economics",
-          "publishedAtISO": "2026-04-25T07:00:00Z",
-          "publishedAt": "Apr 25, 2026, 14:00 Bangkok"
+          "source": "Nippon.com / Japan Times / Trading Economics",
+          "publishedAtISO": "2026-04-27T08:00:00Z",
+          "publishedAt": "Apr 27, 2026, 15:00 Bangkok"
+        },
+        {
+          "headline": "SK Hynix Q1 2026: Record ¥52.6T Revenue, 72% Operating Margin on AI Demand Surge",
+          "body": "SK Hynix reported record-breaking Q1 2026 results on April 22-23, with revenue of 52.58 trillion won (+198% YoY, +60% QoQ), operating profit of 37.61 trillion won at a 72% margin, and net profit of 40.35 trillion won — all setting all-time quarterly highs. Revenue crossed 50 trillion won for the first time in a quarter, driven by HBM, high-capacity server DRAM, and eSSDs amid the AI infrastructure supercycle; DRAM ASPs rose mid-60% quarter-on-quarter. Shares surged 5.73% on April 27 to a record 1,292,000 won, pushing the KOSPI to new highs, and the stock has gained over 80% year-to-date. The company guided Q2 DRAM shipments up high-single-digit QoQ and flagged that customer demand for the next three years already exceeds its supply capacity.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "SK Hynix IR / CNBC / Seoul Economic Daily",
+          "publishedAtISO": "2026-04-27T07:00:00Z",
+          "publishedAt": "Apr 27, 2026, 14:00 Bangkok"
+        },
+        {
+          "headline": "China Q1 Industrial Profits Surge 15.5% YoY; Kweichow Moutai Drops on Soft Demand",
+          "body": "China's industrial profits rose 15.5% year-on-year in Q1 2026, accelerating from 15.2% in January-February, providing support for the Shanghai Composite, which edged up 0.16% to 4,086 on April 27. Producer prices also posted their first turnaround after more than three years of deflation, reinforcing the industrial recovery narrative. However, baijiu bellwether Kweichow Moutai fell 3.79% — continuing a slide after Q1 2026 earnings showed net profit rising only 1.47% YoY to 27.2 billion yuan, a -5.35% EPS miss versus consensus, highlighting lingering weakness in domestic consumer discretionary demand. The mixed signals — strong industrial output but soft consumption — underscore the uneven nature of China's recovery and weighed on sentiment in consumer-facing SSE names.",
+          "sector": "Other",
+          "sentiment": "neutral",
+          "magnitude": "medium",
+          "source": "Trading Economics / MarketScreener / Reuters",
+          "publishedAtISO": "2026-04-27T06:00:00Z",
+          "publishedAt": "Apr 27, 2026, 13:00 Bangkok"
         }
       ]
     },
@@ -74,57 +125,57 @@
       "id": "commodities",
       "label": "Commodities",
       "ticker": "WTI · Brent · Gas · RBOB · Heating Oil · Coal · Gold · Silver · Copper · Aluminum · Iron Ore · Lithium · Platinum · Palladium · Grains · Softs · Oilseeds · Lumber · Rubber · BDI",
-      "lastUpdated": "2026-04-27T03:25:26.891Z",
+      "lastUpdated": "2026-04-28T09:54:53.848Z",
       "news": [
         {
-          "headline": "Oil Rebounds as Iran Doubles Down on Strait of Hormuz Closure, Blocks Peace Path",
-          "body": "WTI crude rose to $96.36/bbl early Monday after Iran's president told Pakistan's PM that ongoing U.S. actions were 'undermining trust' and complicating dialogue, while Iran's deputy parliament speaker publicly threatened that controlling the strait would impact 25% of the world's economy. Peace talks collapsed over the weekend after Iran's foreign minister left Islamabad without meeting U.S. officials following Trump's order to halt negotiations. WTI logged a +13% weekly gain last week—its biggest since early March—as the Strait of Hormuz remains functionally closed to most commercial traffic. Markets remain on edge ahead of a critical FOMC meeting April 28–29, with analysts warning oil flows could take months to normalize even if the strait reopens.",
+          "headline": "Silver Spikes to $75.67 as US-Iran Peace Talks Collapse, Dual Demand Lifts Metal",
+          "body": "International spot silver surged to $75.67/oz on April 28 as the collapse of US-Iran peace negotiations amplified safe-haven buying while simultaneously lifting crude oil prices that support biodiesel and industrial demand. Silver futures had been trading near $73/oz the prior session before the weekend diplomatic breakdown sent the metal sharply higher; year-on-year, silver is up roughly 33% and has broadly outpaced gold in 2026. The dual role of silver as both a precious and industrial metal—with key uses in solar panels and electronics—makes it acutely sensitive to concurrent geopolitical risk and energy-price-driven inflation expectations.",
+          "sector": "Precious Metals",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Sunday Guardian Live",
+          "publishedAtISO": "2026-04-28T05:49:00Z",
+          "publishedAt": "Apr 28, 2026, 12:49 Bangkok"
+        },
+        {
+          "headline": "Brent Surges Above $111 on Collapsed Iran Talks, Hormuz Flows Near Zero",
+          "body": "Brent crude futures climbed above $111/bbl on Tuesday—their highest since March 2026—as US President Trump expressed dissatisfaction with Iran's latest peace proposal and the Strait of Hormuz remained effectively closed in the ninth week of the conflict. Tehran conveyed via Pakistani mediators that hostilities could cease if Washington lifted its naval blockade and provided assurances against future military action, but the US signaled counteroffers were pending. The IEA has characterized the disruption as the largest energy supply shock on record; the EIA estimates Gulf producers collectively shut in 9.1 mb/d of crude in April. Markets face a direct supply-tightness premium with no clear resolution timeline, keeping upside risks elevated.",
           "sector": "Energy",
           "sentiment": "negative",
           "magnitude": "high",
-          "source": "CNN / Bloomberg",
-          "publishedAtISO": "2026-04-27T04:00:00Z",
-          "publishedAt": "Apr 27, 2026, 11:00 Bangkok"
+          "source": "Trading Economics / Reuters",
+          "publishedAtISO": "2026-04-28T04:00:00Z",
+          "publishedAt": "Apr 28, 2026, 11:00 Bangkok"
         },
         {
-          "headline": "Gold Posts ~3% Weekly Loss as Hormuz Inflation Risk Weighs on Bullion Into FOMC",
-          "body": "Gold held near $4,710–$4,718/oz heading into Monday's open, on track for roughly a 3% weekly decline, as surging energy prices driven by the Strait of Hormuz closure intensified inflation fears and bolstered expectations of Federal Reserve rate hikes. The precious metal is now approximately 10% below its January all-time high of $5,595. Rising Treasury yields near 4.5% and a firmer U.S. dollar are capping upside, while the FOMC's April 28–29 meeting—where rates are expected to hold at 3.50–3.75%—will be closely watched for any hawkish pivot signals. Structural tailwinds from central bank buying and geopolitical risk provide a partial floor, but the energy-inflation channel remains the dominant near-term headwind.",
+          "headline": "Gold Slides to ~$4,628 as Pre-Fed Caution, Oil-Driven Inflation Weigh on Bullion",
+          "body": "Spot gold fell to approximately $4,628/oz on Tuesday, reversing from Friday's close near $4,700, as markets priced in a hawkish hold by the Fed at Wednesday's FOMC meeting amid persistent oil-shock inflation. The metal has shed roughly 2.5% over the past week, caught in a squeeze between geopolitical safe-haven demand and rising real yields driven by the Strait of Hormuz energy shock—with 10-year Treasury yields climbing toward 4.36%. Markets will watch the Fed's rate guidance closely; CME data show a 99.5% probability of no change at 3.50–3.75%, but any hawkish dot-plot signal could extend the selloff toward the $4,550–$4,579 support zone.",
           "sector": "Gold",
           "sentiment": "negative",
           "magnitude": "high",
-          "source": "Trading Economics / JM Bullion / LiteFinance",
-          "publishedAtISO": "2026-04-26T22:00:00Z",
-          "publishedAt": "Apr 27, 2026, 05:00 Bangkok"
+          "source": "LiteFinance / Investing.com",
+          "publishedAtISO": "2026-04-28T03:00:00Z",
+          "publishedAt": "Apr 28, 2026, 10:00 Bangkok"
         },
         {
-          "headline": "US Natural Gas Hits Oct-2024 Low on Record Storage Build, Mild Weather Outlook",
-          "body": "US natural gas futures dropped 3.6% to $2.52/MMBtu on April 24, the lowest since October 2024, as mild spring weather suppresses heating demand and enables outsized inventory injections. The EIA reported a 103 bcf storage build for the week ended April 17—well above both the 77 bcf year-ago figure and the 64 bcf five-year average—pushing total inventories to roughly 8% above seasonal norms. Supply has also declined about 4.1 bcfd over 18 days to an 11-week low of 108.1 bcfd as low prices prompt producers including EQT to curtail output. Gas prices are down ~19% year-on-year and fell nearly 5.8% for the week, with no material demand catalyst expected until summer cooling season begins.",
-          "sector": "Energy",
-          "sentiment": "negative",
-          "magnitude": "high",
-          "source": "Trading Economics",
-          "publishedAtISO": "2026-04-25T18:00:00Z",
-          "publishedAt": "Apr 26, 2026, 01:00 Bangkok"
-        },
-        {
-          "headline": "US Winter Wheat Crop Hits Multi-Year Low Rating as Southern Plains Drought Deepens",
-          "body": "Just 30% of the U.S. winter wheat crop was rated good-to-excellent as of the week ending April 27, the lowest since 2023, with nearly 90% of Nebraska and Oklahoma now under drought and over half of Texas, Oklahoma, Colorado, and Nebraska crops rated poor-to-very-poor. Kansas—the top hard red winter wheat state—saw its good-to-excellent rating fall further to approximately 24%, with some farmers consulting insurance adjusters about potential abandonment and harvest running up to three weeks early due to drought-induced stress. USDA meteorologist Brad Rippey described conditions as among the worst seen heading into the spring growing season. Some wheat futures contracts jumped more than 3% on the week as the market priced in supply risk, though ample global supplies from Russia and South America are limiting the upside.",
+          "headline": "US Winter Wheat Crop Ratings Hit Multi-Year Low at ~29% G/E Amid Severe Drought",
+          "body": "Reuters-surveyed analysts expected the USDA's April 28 crop progress report to show just 29% of the US winter wheat crop in good-to-excellent condition for the week ended April 26—down from 30% the prior week and the lowest for this calendar period since 2023. Approximately 70% of the winter wheat crop area is experiencing drought, and Kansas City HRW July futures jumped nearly 19.75 cents on Monday on the deteriorating ratings. Saudi Arabia separately purchased 985,000 metric tons of wheat via Red Sea routing to avoid Hormuz disruptions, signaling active global supply-chain rerouting that adds premium to wheat prices.",
           "sector": "Agriculture",
           "sentiment": "negative",
           "magnitude": "high",
-          "source": "Bloomberg / Fortune / USDA",
-          "publishedAtISO": "2026-04-25T16:00:00Z",
-          "publishedAt": "Apr 25, 2026, 23:00 Bangkok"
+          "source": "Reuters / Trading Economics",
+          "publishedAtISO": "2026-04-27T17:48:00Z",
+          "publishedAt": "Apr 28, 2026, 00:48 Bangkok"
         },
         {
-          "headline": "Copper Slips Below $6/lb as Hormuz Energy Shock Clouds Industrial Demand Outlook",
-          "body": "Copper futures fell back below $6/lb late in the week ended April 24, relinquishing earlier gains made when Chinese pre-holiday restocking and a record 1.33 million-ton March smelter output lifted prices above that key level. Continued disruption in the Strait of Hormuz has elevated inflation risks and growth fears, creating headwinds for industrial metals via both the rate-hike channel and potential demand weakness. Copper is up 8.85% over the past month but faces near-term pressure as peace negotiations stall and Trump has signaled the U.S. naval blockade will remain until a full deal is signed. Rio Tinto reported a 9% Q1 copper production increase from Oyu Tolgoi, adding supply-side weight.",
+          "headline": "Copper Flat Near $6/lb as China Pre-Holiday Restocking Offsets Macro Headwinds",
+          "body": "Copper futures hovered around $6/lb on Monday, with downside pressure from Hormuz-linked inflation and tightening monetary policy concerns partially offset by Chinese restocking activity ahead of the May 1–5 Labor Day holiday. Official data confirmed Chinese smelters set an all-time high of 1.33 million tons of refined copper in March, though treatment/refining charges deteriorated further to a record negative $66.1/ton. J.P. Morgan warned that sustained Brent near $110/bbl could strip 1.4 percentage points from 2026 copper demand growth, while China's sulfuric acid export ban effective May adds a structural supply-side cost squeeze for non-Chinese smelters.",
           "sector": "Base Metals",
-          "sentiment": "negative",
+          "sentiment": "neutral",
           "magnitude": "medium",
-          "source": "Trading Economics",
-          "publishedAtISO": "2026-04-25T14:00:00Z",
-          "publishedAt": "Apr 25, 2026, 21:00 Bangkok"
+          "source": "Trading Economics / J.P. Morgan",
+          "publishedAtISO": "2026-04-27T14:00:00Z",
+          "publishedAt": "Apr 27, 2026, 21:00 Bangkok"
         }
       ]
     }
