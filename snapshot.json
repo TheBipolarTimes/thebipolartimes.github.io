@@ -2,64 +2,64 @@
   "publication": "The BiPolar Times",
   "slogan": "The Newspaper That Connects The Markets Of Both Worlds",
   "timezone": "Asia/Bangkok",
-  "exportedAt": "2026-04-28T09:55:10.864Z",
+  "exportedAt": "2026-04-29T01:39:14.673Z",
   "generatedFrom": "private-dashboard",
   "sections": {
     "us": {
       "id": "us",
       "label": "US",
       "ticker": "NYSE · NASDAQ · S&P 500",
-      "lastUpdated": "2026-04-28T09:53:07.922Z",
+      "lastUpdated": "2026-04-29T01:33:57.211Z",
       "news": [
         {
-          "headline": "OpenAI Ends Microsoft Exclusivity; MSFT Dips, Alphabet Gains on AI Rivalry Shift",
-          "body": "Microsoft and OpenAI announced a restructured partnership on April 27, ending Microsoft's exclusive right to sell OpenAI's AI models and clearing the way for OpenAI to serve customers via Amazon Web Services, Google Cloud, and others. Microsoft shares initially fell ~1-5% intraday on the news before closing largely flat, while Alphabet gained ~1.8% and Amazon CEO Andy Jassy confirmed OpenAI models would reach AWS 'in the coming weeks.' Under revised terms, Microsoft retains a non-exclusive IP license through 2032 and a guaranteed 20% revenue share from OpenAI through 2030, but loses its structural cloud moat that had underpinned Azure AI growth. The deal reshapes the competitive landscape ahead of Microsoft's Wednesday earnings report and raises questions about Azure's AI differentiation versus rivals.",
+          "headline": "Robinhood Misses Q1 Revenue & EBITDA Estimates; HOOD Falls ~9% After Hours",
+          "body": "Robinhood reported Q1 2026 revenue of $1.07 billion (vs. $1.13–1.18 billion estimated) and EPS of $0.38 (vs. ~$0.42–0.44 consensus), with adjusted EBITDA of $534 million missing the $582 million forecast by 8.2%. Crypto trading revenue collapsed 47% year-over-year as the digital asset market slumped, the dominant driver of the miss despite 15% overall revenue growth. HOOD stock fell ~9% in after-hours trading; the company provided no 2026 revenue guidance and disclosed an additional $100 million investment to support the Treasury's Trump Accounts program. The miss highlights Robinhood's continued vulnerability to crypto market cycles as it works to diversify into wealth management, banking, and prediction markets.",
+          "sector": "Finance",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Yahoo Finance / CoinGape / Investing.com",
+          "publishedAtISO": "2026-04-28T20:30:00Z",
+          "publishedAt": "Apr 29, 2026, 03:30 Bangkok"
+        },
+        {
+          "headline": "WSJ Report: OpenAI Missed Revenue & User Targets, Dragging AI Stocks Lower",
+          "body": "A Wall Street Journal report published April 28 revealed OpenAI missed multiple monthly revenue targets in early 2026 and fell short of a goal to reach 1 billion weekly ChatGPT users, with CFO Sarah Friar privately warning the company may struggle to fund its massive data-center commitments if growth doesn't accelerate. Oracle, which holds a $300 billion five-year compute deal with OpenAI, dropped over 4%; CoreWeave fell ~6%; Broadcom and AMD each shed ~4%; Nvidia declined ~3%. The Nasdaq Composite fell 0.9% and the Nasdaq-100 dropped 1.5% on the day, as investors re-examined the sustainability of AI capex across the sector. OpenAI pushed back, calling the report 'clickbait' and saying the business was 'firing on all cylinders.'",
           "sector": "Technology",
           "sentiment": "negative",
           "magnitude": "high",
-          "source": "Reuters / Bloomberg",
-          "publishedAtISO": "2026-04-27T14:00:00Z",
-          "publishedAt": "Apr 27, 2026, 21:00 Bangkok"
+          "source": "Wall Street Journal / CNBC / Bloomberg",
+          "publishedAtISO": "2026-04-28T12:00:00Z",
+          "publishedAt": "Apr 28, 2026, 19:00 Bangkok"
         },
         {
-          "headline": "POET Technologies Crashes ~47% After Marvell Cancels All Celestial AI Orders",
-          "body": "POET Technologies plunged a record ~47% on April 27 after Marvell Technology canceled all purchase orders tied to Celestial AI, citing alleged violations of POET's confidentiality obligations stemming from the CFO publicly disclosing order details in a media interview. Marvell shares also fell ~5-6% on the day as investors reassessed the AI optical networking supply chain. The collapse reversed a 108% surge POET had posted the prior week on speculation it was embedded in Marvell's AI data center hardware stack; the stock erased nearly all of those gains in a single session. The episode highlights execution and contractual risk for micro-cap AI hardware companies heavily reliant on a single Tier-1 customer relationship.",
+          "headline": "Spotify Slides 12% on Weak Q2 Profit Guidance Despite Q1 User Beat",
+          "body": "Spotify reported Q1 2026 EPS of $3.46, beating estimates of $3.03, but revenue of $4.54 billion missed the $4.62 billion consensus, with ad-supported revenue declining 5% year-over-year for a second consecutive quarter. The stock tumbled over 12% as Q2 operating income guidance came in below analyst expectations, spooking investors despite monthly active users rising 12% YoY to 761 million and premium subscribers climbing 9% to 293 million. Management framed the ad weakness as a near-term hurdle and pointed to AI-driven personalization tools in beta, but the soft forward guidance overshadowed the subscriber momentum. Markets care because the miss signals continued monetization challenges in digital audio and raises questions about ARPU expansion from recent price hikes.",
           "sector": "Technology",
           "sentiment": "negative",
           "magnitude": "high",
-          "source": "Yahoo Finance / Motley Fool",
-          "publishedAtISO": "2026-04-27T13:00:00Z",
-          "publishedAt": "Apr 27, 2026, 20:00 Bangkok"
+          "source": "Benzinga / Archynewsy / Investing.com",
+          "publishedAtISO": "2026-04-28T11:00:00Z",
+          "publishedAt": "Apr 28, 2026, 18:00 Bangkok"
         },
         {
-          "headline": "United-American Airlines Merger Talks Collapse; UAL CEO Confirms Dead End",
-          "body": "United Airlines CEO Scott Kirby confirmed on April 27 that merger discussions with American Airlines had ended after American 'declined to engage and instead responded by publicly closing the door.' Kirby had approached American in recent weeks about a combination that would have created the world's largest airline by several metrics; American swiftly and publicly rejected the approach. Both stocks saw only modest moves — United fell less than 1% and American gained less than 1% — suggesting markets had not priced in a deal premium, but the episode highlights ongoing consolidation ambitions in US aviation and potential regulatory appetite for mega-mergers under the current administration.",
-          "sector": "Industrials",
-          "sentiment": "neutral",
-          "magnitude": "medium",
-          "source": "Yahoo Finance",
-          "publishedAtISO": "2026-04-27T12:28:00Z",
-          "publishedAt": "Apr 27, 2026, 19:28 Bangkok"
-        },
-        {
-          "headline": "Domino's Pizza Drops ~9% on Q1 Miss; Cuts Full-Year Same-Store Sales Guidance",
-          "body": "Domino's Pizza (DPZ) fell roughly 9% on April 27 after reporting Q1 2026 EPS of $4.13, missing the ~$4.27 consensus, with revenues of $1.15 billion also below the $1.16 billion estimate. Domestic same-store sales rose only 0.9% versus expectations of ~2.3-2.6%, and international comps declined 0.4%; CEO Russell Weiner cited 'COVID-level' consumer sentiment lows and intensifying competition from rival pizza chains. The company lowered its full-year US same-store sales guidance to low single digits from a prior 3% target, sending the stock to a new 52-week low and signaling broader consumer-spending stress in the quick-service restaurant sector. The print also weighed on broader restaurant peer sentiment.",
-          "sector": "Consumer Discretionary",
-          "sentiment": "negative",
+          "headline": "General Motors Crushes Q1 Estimates; EPS $3.70 vs. $2.62 Expected, Raises Guidance",
+          "body": "General Motors reported Q1 2026 adjusted EPS of $3.70, trouncing the LSEG consensus of $2.62, as the automaker posted $4.2 billion in adjusted earnings versus the ~$3 billion expected. GM raised its full-year 2026 EBITDA outlook to $13.5–$15.5 billion, up $500 million from prior guidance, and lifted full-year adjusted EPS guidance to $11.50–$13.50. Shares traded more than 4% higher on the day, signaling the market's relief that GM is holding up despite high gas prices and geopolitical uncertainty. The beat reinforces that domestic vehicle demand and pricing power remain resilient heading into the key summer selling season.",
+          "sector": "Other",
+          "sentiment": "positive",
           "magnitude": "high",
-          "source": "CNBC / Yahoo Finance",
-          "publishedAtISO": "2026-04-27T12:26:00Z",
-          "publishedAt": "Apr 27, 2026, 19:26 Bangkok"
+          "source": "CNBC / Motley Fool / TheStreet",
+          "publishedAtISO": "2026-04-28T10:00:00Z",
+          "publishedAt": "Apr 28, 2026, 17:00 Bangkok"
         },
         {
-          "headline": "China Blocks Meta's $2B Manus AI Acquisition, Orders Deal Unwound",
-          "body": "China's National Development and Reform Commission on April 27 ordered Meta and Manus to withdraw their completed $2 billion acquisition, citing concerns over technology leakage amid the US-China tech rivalry. Meta, which had already integrated Manus into internal systems, said the transaction 'complied fully with applicable law' and anticipated 'an appropriate resolution.' Despite the regulatory shock, Meta shares closed up ~0.5%, with markets viewing the setback as manageable given Meta's scale, though the ruling is expected to chill future cross-border AI acquisitions and rattled tech investors with Chinese-linked exposure. The move comes weeks before a high-profile Trump-Xi summit in Beijing.",
-          "sector": "Technology",
-          "sentiment": "negative",
+          "headline": "Coca-Cola Jumps 6% After Best Organic Growth in Five Quarters, Lifts Full-Year EPS Guide",
+          "body": "Coca-Cola posted Q1 2026 revenue of $12.47 billion (vs. $12.24 billion expected) and adjusted EPS of $0.86 (vs. $0.81 consensus), with organic revenue growth of 10%—the company's strongest in five quarters—driven by a 13% volume surge in Coke Zero Sugar and global unit case volume up 3% versus the 1% analyst expectation. The company raised its full-year comparable EPS growth outlook to 8–9% from 7–8% and reiterated its 4–5% organic revenue growth target. Shares surged ~6% to above $80, the best single-day performance in years, benefiting from a defensive rotation as tech stocks sold off on the OpenAI report. The results underscore Coca-Cola's pricing power and brand resilience even as some consumer segments face pressure from inflation and Middle East conflict uncertainty.",
+          "sector": "Other",
+          "sentiment": "positive",
           "magnitude": "high",
-          "source": "Bloomberg / CNBC",
-          "publishedAtISO": "2026-04-27T10:00:00Z",
-          "publishedAt": "Apr 27, 2026, 17:00 Bangkok"
+          "source": "Bloomberg / CNBC / IBTimes",
+          "publishedAtISO": "2026-04-28T08:30:00Z",
+          "publishedAt": "Apr 28, 2026, 15:30 Bangkok"
         }
       ]
     },
@@ -67,57 +67,57 @@
       "id": "asia",
       "label": "East + SE Asia",
       "ticker": "Nikkei · HSI · SSE · KOSPI · TWSE · SET · SGX · IDX · KLSE · PSEi · VN-Index",
-      "lastUpdated": "2026-04-28T09:51:49.821Z",
+      "lastUpdated": "2026-04-29T01:36:23.453Z",
       "news": [
         {
-          "headline": "KOSPI Hits Fresh All-Time High of 6,641 as Korea Market Cap Tops $4.1 Trillion",
-          "body": "South Korea's KOSPI closed at a new all-time high of 6,641.02 on April 28, touching an intraday peak of 6,712.73 — the first time the index surpassed 6,700 — and racing toward the 7,000 threshold. The combined value of the Kospi and Kosdaq crossed 6,000 trillion won ($4.1 trillion) for the first time, with Samsung Electronics and SK Hynix alone accounting for 43.6% of the main board. Institutional investors led net buying of 351.5 billion won, buoyed by AI semiconductor earnings momentum and anticipation of Magnificent-7 earnings releases. The index has surged 8.6% in just eight trading days this month, with analysts at Meritz Securities projecting upside to the mid-to-high 7,000 range.",
+          "headline": "Lightelligence Surges 383% on HK Debut in Largest Main Board IPO Pop in a Decade",
+          "body": "Shanghai Xizhi Technology (Lightelligence), China's first publicly listed AI photonics chipmaker, surged 383.6% on its Hong Kong main board debut on April 28, closing at HK$886 against an IPO price of HK$183.20 — the largest first-day gain for a main board listing in nearly 10 years. The IPO raised HK$2.4 billion, with the retail tranche oversubscribed 5,785 times; cornerstone investors included Alibaba, GIC, Temasek, BlackRock, and Fidelity. The company, which leads China's third-party scale-up optical interconnect market, remains loss-making with a 1.3 billion yuan net loss in 2025 on 106 million yuan revenue, highlighting the speculative premium markets are placing on AI infrastructure plays. The listing sets the first public benchmark for optical computing as an asset class and is expected to accelerate follow-on AI semiconductor offerings on HKEX.",
           "sector": "Technology",
           "sentiment": "positive",
           "magnitude": "high",
-          "source": "Korea Herald / KED Global / UPI",
-          "publishedAtISO": "2026-04-28T09:00:00Z",
-          "publishedAt": "Apr 28, 2026, 16:00 Bangkok"
+          "source": "Caixin Global / Bloomberg",
+          "publishedAtISO": "2026-04-28T15:56:00Z",
+          "publishedAt": "Apr 28, 2026, 22:56 Bangkok"
         },
         {
-          "headline": "BoJ Holds at 0.75% but Shocks with Hawkish Inflation Upgrade; Nikkei Falls",
-          "body": "The Bank of Japan held its policy rate at 0.75% on April 28 in a divided 6-3 vote, with members Nakagawa, Takata, and Tamura all dissenting in favour of an immediate hike to 1.0% — the most hawkish split in years. The board simultaneously slashed its FY2026 growth forecast to 0.5% from 1.0% while raising its core CPI forecast sharply to 2.8% from 1.9%, framing the outcome as a stagflationary holding pattern driven by Iran-war oil prices. The Nikkei 225 fell more than 1% in response to the hawkish language and inflation revision, while the yen traded near 159 per dollar. Markets now price further hikes in H2 2026 as the conditions the majority cited for restraint — growth uncertainty — narrow.",
-          "sector": "Finance",
+          "headline": "SoftBank Tumbles ~10% on Tokyo as OpenAI Misses Revenue and User Growth Targets",
+          "body": "SoftBank Group (9984.T) fell 9.86% to ¥5,268 on April 28 — its steepest single-session drop in six months and the worst performer on the Nikkei 225 — after the Wall Street Journal reported OpenAI missed internal user and revenue growth projections, sparking concern over the sustainability of SoftBank's $30 billion follow-on investment commitment. SoftBank holds an approximately 11% stake in OpenAI and has already deployed the first $10 billion tranche via a bridge facility, with two further $10 billion installments scheduled for July and October. The sell-off dragged broader Asian tech sentiment, with Hitachi down 5.8% and Tokyo Electron off 4.1% on the same session. OpenAI CEO Sam Altman disputed the report, but the market reaction underscored how deeply SoftBank's valuation is now tethered to OpenAI's growth narrative.",
+          "sector": "Technology",
           "sentiment": "negative",
           "magnitude": "high",
-          "source": "CNBC / Japan Times / FXStreet",
-          "publishedAtISO": "2026-04-28T03:00:00Z",
-          "publishedAt": "Apr 28, 2026, 10:00 Bangkok"
+          "source": "CNBC / Reuters",
+          "publishedAtISO": "2026-04-28T12:00:00Z",
+          "publishedAt": "Apr 28, 2026, 19:00 Bangkok"
         },
         {
-          "headline": "Nikkei 225 Closes Above 60,000 for First Time Ever on AI and Earnings Surge",
-          "body": "Japan's Nikkei 225 closed at a record 60,537.36 on April 27 — rising 1.38% and surpassing the 60,000 milestone for the first time in the index's history — driven by AI and semiconductor stocks including Advantest (+7%), Fujikura (+5.1%), and Disco Corp (+6.1%). Fanuc jumped nearly 16% after strong earnings from its factory automation and robotics divisions, while the broader Topix added 0.5%. The Nikkei has gained 18.6% year-to-date and crossed 60,000 just six months after first breaking through 50,000. The milestone came as investors shrugged off stalled US-Iran peace talks, though the rally pulled back slightly on April 28 on profit-taking and the BoJ decision.",
+          "headline": "Korea Stock Market Overtakes UK to Rank 8th Globally on AI Chip Surge",
+          "body": "South Korea's total stock market capitalisation surged over 45% this year to $4.04 trillion, surpassing the UK's $4.04 trillion and vaulting the KOSPI to 8th place among global bourses, Bloomberg data confirmed on April 28. The KOSPI broke intraday through the 6,700 mark for the first time before closing at 6,641, with Samsung Electronics and SK Hynix — whose combined record Q1 earnings underpinned the rally — now accounting for more than 40% of total market cap. The UK market was roughly double Korea's size as recently as end-2024, making the reversal one of the fastest in modern market history. Goldman Sachs raised its KOSPI target to 8,000, citing a 200%-plus upward revision to its 2026 earnings growth forecast driven by AI chip demand.",
           "sector": "Technology",
           "sentiment": "positive",
           "magnitude": "high",
-          "source": "Nippon.com / Japan Times / Trading Economics",
+          "source": "Bloomberg / Korea Times",
+          "publishedAtISO": "2026-04-28T07:15:00Z",
+          "publishedAt": "Apr 28, 2026, 14:15 Bangkok"
+        },
+        {
+          "headline": "CATL Prices $5B HK Share Placement at Low End; Stock Falls Up to 9.2% on Dilution",
+          "body": "Contemporary Amperex Technology (3750.HK) raised HK$39.2 billion (~$5 billion) in Hong Kong's largest share placement of 2026, pricing at HK$628.20 per share — the bottom of the HK$628.20–HK$651.80 range and a 7% discount to the prior close. More than 150 entities participated, including hedge funds, sovereign wealth funds, and existing shareholders, but shares fell as much as 9.2% intraday to HK$613.50 on April 28 as dilution concerns outweighed deal demand. Net proceeds are earmarked for global new-energy projects, R&D, and overseas expansion as CATL accelerates its zero-carbon strategy amid the Iran-driven oil shock tailwind for EV adoption. HSBC maintained a Buy with a raised HK$790 price target, citing CATL's Q1 net profit of 20.7 billion yuan, up 49% year-on-year.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Bloomberg / CNBC / Reuters",
+          "publishedAtISO": "2026-04-27T14:00:00Z",
+          "publishedAt": "Apr 27, 2026, 21:00 Bangkok"
+        },
+        {
+          "headline": "Nikkei Hits All-Time High Above 60,500; KOSPI Scales Fresh Record at 6,615 on Semis",
+          "body": "Japan's Nikkei 225 closed at a record 60,537.36 on April 27, up 1.38%, crossing the 60,000 milestone for the first time as semiconductor and AI-linked stocks surged on strong earnings momentum and continued foreign inflows tied to Japan's governance reform rally. South Korea's KOSPI simultaneously jumped 2.15% to a fresh all-time high of 6,615.03, powered by semiconductor heavyweights led by SK Hynix and Samsung Electronics on robust memory and HBM demand for AI data centers. China's CSI 300 was little changed after March industrial profits accelerated to +15.8% year-on-year, beating the prior month's +15.2%. Both Japan and Korea's record highs were achieved against a backdrop of stalled U.S.–Iran negotiations, demonstrating Asia's tech-led equity resilience to ongoing geopolitical risks.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CNBC / Investing.com",
           "publishedAtISO": "2026-04-27T08:00:00Z",
           "publishedAt": "Apr 27, 2026, 15:00 Bangkok"
-        },
-        {
-          "headline": "SK Hynix Q1 2026: Record ¥52.6T Revenue, 72% Operating Margin on AI Demand Surge",
-          "body": "SK Hynix reported record-breaking Q1 2026 results on April 22-23, with revenue of 52.58 trillion won (+198% YoY, +60% QoQ), operating profit of 37.61 trillion won at a 72% margin, and net profit of 40.35 trillion won — all setting all-time quarterly highs. Revenue crossed 50 trillion won for the first time in a quarter, driven by HBM, high-capacity server DRAM, and eSSDs amid the AI infrastructure supercycle; DRAM ASPs rose mid-60% quarter-on-quarter. Shares surged 5.73% on April 27 to a record 1,292,000 won, pushing the KOSPI to new highs, and the stock has gained over 80% year-to-date. The company guided Q2 DRAM shipments up high-single-digit QoQ and flagged that customer demand for the next three years already exceeds its supply capacity.",
-          "sector": "Technology",
-          "sentiment": "positive",
-          "magnitude": "high",
-          "source": "SK Hynix IR / CNBC / Seoul Economic Daily",
-          "publishedAtISO": "2026-04-27T07:00:00Z",
-          "publishedAt": "Apr 27, 2026, 14:00 Bangkok"
-        },
-        {
-          "headline": "China Q1 Industrial Profits Surge 15.5% YoY; Kweichow Moutai Drops on Soft Demand",
-          "body": "China's industrial profits rose 15.5% year-on-year in Q1 2026, accelerating from 15.2% in January-February, providing support for the Shanghai Composite, which edged up 0.16% to 4,086 on April 27. Producer prices also posted their first turnaround after more than three years of deflation, reinforcing the industrial recovery narrative. However, baijiu bellwether Kweichow Moutai fell 3.79% — continuing a slide after Q1 2026 earnings showed net profit rising only 1.47% YoY to 27.2 billion yuan, a -5.35% EPS miss versus consensus, highlighting lingering weakness in domestic consumer discretionary demand. The mixed signals — strong industrial output but soft consumption — underscore the uneven nature of China's recovery and weighed on sentiment in consumer-facing SSE names.",
-          "sector": "Other",
-          "sentiment": "neutral",
-          "magnitude": "medium",
-          "source": "Trading Economics / MarketScreener / Reuters",
-          "publishedAtISO": "2026-04-27T06:00:00Z",
-          "publishedAt": "Apr 27, 2026, 13:00 Bangkok"
         }
       ]
     },
@@ -125,57 +125,57 @@
       "id": "commodities",
       "label": "Commodities",
       "ticker": "WTI · Brent · Gas · RBOB · Heating Oil · Coal · Gold · Silver · Copper · Aluminum · Iron Ore · Lithium · Platinum · Palladium · Grains · Softs · Oilseeds · Lumber · Rubber · BDI",
-      "lastUpdated": "2026-04-28T09:54:53.848Z",
+      "lastUpdated": "2026-04-29T01:38:52.130Z",
       "news": [
         {
-          "headline": "Silver Spikes to $75.67 as US-Iran Peace Talks Collapse, Dual Demand Lifts Metal",
-          "body": "International spot silver surged to $75.67/oz on April 28 as the collapse of US-Iran peace negotiations amplified safe-haven buying while simultaneously lifting crude oil prices that support biodiesel and industrial demand. Silver futures had been trading near $73/oz the prior session before the weekend diplomatic breakdown sent the metal sharply higher; year-on-year, silver is up roughly 33% and has broadly outpaced gold in 2026. The dual role of silver as both a precious and industrial metal—with key uses in solar panels and electronics—makes it acutely sensitive to concurrent geopolitical risk and energy-price-driven inflation expectations.",
-          "sector": "Precious Metals",
-          "sentiment": "positive",
-          "magnitude": "high",
-          "source": "Sunday Guardian Live",
-          "publishedAtISO": "2026-04-28T05:49:00Z",
-          "publishedAt": "Apr 28, 2026, 12:49 Bangkok"
-        },
-        {
-          "headline": "Brent Surges Above $111 on Collapsed Iran Talks, Hormuz Flows Near Zero",
-          "body": "Brent crude futures climbed above $111/bbl on Tuesday—their highest since March 2026—as US President Trump expressed dissatisfaction with Iran's latest peace proposal and the Strait of Hormuz remained effectively closed in the ninth week of the conflict. Tehran conveyed via Pakistani mediators that hostilities could cease if Washington lifted its naval blockade and provided assurances against future military action, but the US signaled counteroffers were pending. The IEA has characterized the disruption as the largest energy supply shock on record; the EIA estimates Gulf producers collectively shut in 9.1 mb/d of crude in April. Markets face a direct supply-tightness premium with no clear resolution timeline, keeping upside risks elevated.",
+          "headline": "UAE Quits OPEC and OPEC+ Effective May 1, Ending 59-Year Membership",
+          "body": "The United Arab Emirates announced on April 28 it will leave OPEC and OPEC+ effective May 1, ending nearly six decades of membership, citing national interest and a desire to pursue an independent output strategy. The UAE was OPEC's third-largest producer before the Iran war, accounting for roughly 12% of the cartel's supply, with capacity of approximately 4.8 million barrels per day. Near-term market impact is muted because the Strait of Hormuz remains effectively closed and UAE exports are bottlenecked regardless of quota status; however, analysts warn the exit could trigger contagion, with Kazakhstan flagged as a potential next departure. Post-conflict, the UAE's freedom to ramp output uncapped could flood markets and structurally undermine OPEC's price-management role.",
           "sector": "Energy",
           "sentiment": "negative",
           "magnitude": "high",
-          "source": "Trading Economics / Reuters",
-          "publishedAtISO": "2026-04-28T04:00:00Z",
-          "publishedAt": "Apr 28, 2026, 11:00 Bangkok"
+          "source": "Bloomberg / Reuters / OilPrice.com",
+          "publishedAtISO": "2026-04-28T16:00:00Z",
+          "publishedAt": "Apr 28, 2026, 23:00 Bangkok"
         },
         {
-          "headline": "Gold Slides to ~$4,628 as Pre-Fed Caution, Oil-Driven Inflation Weigh on Bullion",
-          "body": "Spot gold fell to approximately $4,628/oz on Tuesday, reversing from Friday's close near $4,700, as markets priced in a hawkish hold by the Fed at Wednesday's FOMC meeting amid persistent oil-shock inflation. The metal has shed roughly 2.5% over the past week, caught in a squeeze between geopolitical safe-haven demand and rising real yields driven by the Strait of Hormuz energy shock—with 10-year Treasury yields climbing toward 4.36%. Markets will watch the Fed's rate guidance closely; CME data show a 99.5% probability of no change at 3.50–3.75%, but any hawkish dot-plot signal could extend the selloff toward the $4,550–$4,579 support zone.",
+          "headline": "WTI Surges ~4% Past $100/bbl as Trump Rejects Iran Hormuz Proposal",
+          "body": "WTI crude futures climbed nearly 4% to above $100 per barrel on April 28, extending a seventh consecutive session of gains and hitting their highest level since early April, after President Trump was reported dissatisfied with Iran's latest Strait of Hormuz reopening proposal. Iran conveyed via Pakistani mediators that it would cease hostilities if the US lifted its naval blockade and deferred nuclear talks, but Washington rejected the terms with Tehran's nuclear program remaining the central sticking point. Brent touched $111.57/bbl, with Hormuz loadings running at just 3.8 million bpd — down from over 20 million pre-conflict — keeping the supply shock at historically unprecedented scale per the IEA. Markets now await the May 3 OPEC+ meeting and any counteroffer from Washington, with the IEA warning of a potential demand slowdown compounding the supply crisis.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Reuters / Trading Economics / OilPrice.com",
+          "publishedAtISO": "2026-04-28T13:00:00Z",
+          "publishedAt": "Apr 28, 2026, 20:00 Bangkok"
+        },
+        {
+          "headline": "Saudi Arabia Eyes $5–$12/bbl Cut to June Asia OSPs as War Rally Fades",
+          "body": "Saudi Arabia is expected to slash its official selling prices for June-loading crude to Asia by $5 to $12 per barrel from record highs set for May, according to a Reuters survey of Asian refinery sources published April 28. Arab Light's June OSP could fall to a premium of $7.50–$14.50/bbl over Dubai/Oman, down from a record $19.50 premium for May, as Asian spot market premiums softened sharply and Chinese refiners cut May Saudi crude purchases to a record low of 20 million barrels due to margin pressure. Replacement cargoes from the US, West Africa, and Russian crude under US waivers are filling part of the gap, easing the acute panic-buying premium. The wide forecast range signals ongoing uncertainty and the potential for a significant realignment of crude pricing dynamics once Hormuz eventually reopens.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Reuters / OilPrice.com",
+          "publishedAtISO": "2026-04-28T09:04:00Z",
+          "publishedAt": "Apr 28, 2026, 16:04 Bangkok"
+        },
+        {
+          "headline": "Asia LNG Imports Hit 7-Year Low in March; Qatar Infrastructure Damage Delays Supply Wave",
+          "body": "Asian LNG imports fell 4.3% year-on-year to 21.12 million tonnes in March 2026, the lowest March figure in seven years, as the Strait of Hormuz closure stranded all Qatari and UAE supply, per the Gas Exporting Countries Forum. The IEA separately warned that damage to Qatar's Ras Laffan liquefaction facility — the world's largest, offline since a March 2 attack — will delay the anticipated global LNG supply expansion wave by at least two years, with a cumulative supply loss of ~120 billion cubic metres projected between 2026 and 2030. Asian LNG spot prices surged over 140% following QatarEnergy's force majeure declaration, squeezing South Asian buyers particularly hard; China's 30-day rolling LNG import average in April hit its lowest level since 2018. The medium-term supply tightness now extends well beyond the conflict itself, fundamentally repricing LNG market risk for the rest of the decade.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "OilPrice.com / IEA",
+          "publishedAtISO": "2026-04-28T07:40:00Z",
+          "publishedAt": "Apr 28, 2026, 14:40 Bangkok"
+        },
+        {
+          "headline": "Gold Falls ~2% to 3-Week Low as BOJ Turns Hawkish and Oil Inflation Fears Mount",
+          "body": "Spot gold dropped approximately 1.8–2% to around $4,578–$4,615/oz on April 28, its lowest level since early April, as surging oil prices intensified inflation fears and the Bank of Japan's hawkish tilt — keeping rates on hold but significantly raising its fiscal 2026 inflation forecast with three board members proposing hikes — amplified rate-sensitive pressure on non-yielding bullion. Silver fell a sharper 3.54% to $73.22/oz, reflecting its higher beta in risk-off sessions, while the 10-year US Treasury yield climbed to a 3-week high. Markets are now pricing a hawkish hold from the Fed at its April 29–30 meeting, with Julius Baer analyst Carsten Menke noting that gold's decline directly mirrors the rise in oil driven by stalled US–Iran talks. A Reuters poll of 31 analysts published April 27 nonetheless raised the median 2026 gold price forecast to a record $4,916/oz, suggesting the selloff is viewed by institutions as a buying opportunity rather than a structural break.",
           "sector": "Gold",
           "sentiment": "negative",
           "magnitude": "high",
-          "source": "LiteFinance / Investing.com",
-          "publishedAtISO": "2026-04-28T03:00:00Z",
-          "publishedAt": "Apr 28, 2026, 10:00 Bangkok"
-        },
-        {
-          "headline": "US Winter Wheat Crop Ratings Hit Multi-Year Low at ~29% G/E Amid Severe Drought",
-          "body": "Reuters-surveyed analysts expected the USDA's April 28 crop progress report to show just 29% of the US winter wheat crop in good-to-excellent condition for the week ended April 26—down from 30% the prior week and the lowest for this calendar period since 2023. Approximately 70% of the winter wheat crop area is experiencing drought, and Kansas City HRW July futures jumped nearly 19.75 cents on Monday on the deteriorating ratings. Saudi Arabia separately purchased 985,000 metric tons of wheat via Red Sea routing to avoid Hormuz disruptions, signaling active global supply-chain rerouting that adds premium to wheat prices.",
-          "sector": "Agriculture",
-          "sentiment": "negative",
-          "magnitude": "high",
-          "source": "Reuters / Trading Economics",
-          "publishedAtISO": "2026-04-27T17:48:00Z",
-          "publishedAt": "Apr 28, 2026, 00:48 Bangkok"
-        },
-        {
-          "headline": "Copper Flat Near $6/lb as China Pre-Holiday Restocking Offsets Macro Headwinds",
-          "body": "Copper futures hovered around $6/lb on Monday, with downside pressure from Hormuz-linked inflation and tightening monetary policy concerns partially offset by Chinese restocking activity ahead of the May 1–5 Labor Day holiday. Official data confirmed Chinese smelters set an all-time high of 1.33 million tons of refined copper in March, though treatment/refining charges deteriorated further to a record negative $66.1/ton. J.P. Morgan warned that sustained Brent near $110/bbl could strip 1.4 percentage points from 2026 copper demand growth, while China's sulfuric acid export ban effective May adds a structural supply-side cost squeeze for non-Chinese smelters.",
-          "sector": "Base Metals",
-          "sentiment": "neutral",
-          "magnitude": "medium",
-          "source": "Trading Economics / J.P. Morgan",
-          "publishedAtISO": "2026-04-27T14:00:00Z",
-          "publishedAt": "Apr 27, 2026, 21:00 Bangkok"
+          "source": "CNBC / Reuters / USAGOLD",
+          "publishedAtISO": "2026-04-28T06:27:00Z",
+          "publishedAt": "Apr 28, 2026, 13:27 Bangkok"
         }
       ]
     }
