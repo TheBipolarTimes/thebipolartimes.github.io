@@ -1,0 +1,173 @@
+{
+  "publication": "The BiPolar Times",
+  "slogan": "The Newspaper That Connects The Markets Of Both Worlds",
+  "timezone": "Asia/Bangkok",
+  "exportedAt": "2026-05-05T08:26:50.534Z",
+  "generatedFrom": "private-dashboard",
+  "sections": {
+    "us": {
+      "id": "us",
+      "label": "US",
+      "ticker": "NYSE · NASDAQ · S&P 500",
+      "lastUpdated": "2026-05-05T08:23:48.339Z",
+      "news": [
+        {
+          "headline": "Pfizer Q1 2026 Beats EPS Consensus; Full-Year $59.5–$62.5B Revenue Guidance Reaffirmed",
+          "body": "Pfizer reported Q1 2026 results before the open on May 5, delivering an adjusted EPS beat against the $0.72–$0.74 consensus, extending its streak of four consecutive quarterly beats with an average surprise of ~31% over the prior year. Revenue came in above the $13.82B consensus estimate, with non-COVID operational products — including Vyndaqel, Padcev, Eliquis, and Nurtec — driving core growth. Management reaffirmed full-year 2026 adjusted EPS guidance of $2.80–$3.00 and revenue of $59.5–$62.5B, while flagging ~$1.5B in LOE headwinds and COVID revenue declining toward ~$5B. Markets are watching whether the obesity pipeline (PF-3944/Metsera) and oncology assets can offset structural revenue pressure as key patent expirations approach.",
+          "sector": "Healthcare",
+          "sentiment": "positive",
+          "magnitude": "medium",
+          "source": "Pfizer IR / MarketBeat / TipRanks",
+          "publishedAtISO": "2026-05-05T11:00:00Z",
+          "publishedAt": "May 5, 2026, 18:00 Bangkok"
+        },
+        {
+          "headline": "AMD Reports Q1 2026 Earnings After Close; Data Center Growth, MI-Series GPU Ramp in Focus",
+          "body": "Advanced Micro Devices released Q1 2026 results after the May 5 market close, with Wall Street expecting revenue of ~$9.84B (+32% YoY) and EPS of $1.29 (+34% YoY). Key focus areas include data center segment revenue (consensus ~$5.56B, +51.5% YoY), MI350/MI325 GPU ramp commentary, and any update on China export licenses. Options markets priced approximately an 8% post-earnings move; the stock had already surged 74% in April on hyperscaler AI capex tailwinds and upgraded analyst targets. HSBC downgraded AMD to Hold on May 4, citing valuation concerns, sending shares down ~5%.",
+          "sector": "Technology",
+          "sentiment": "neutral",
+          "magnitude": "high",
+          "source": "CNBC / TipRanks / HeyGoTrade",
+          "publishedAtISO": "2026-05-05T09:00:00Z",
+          "publishedAt": "May 5, 2026, 16:00 Bangkok"
+        },
+        {
+          "headline": "Pinterest Surges ~15% on Q1 Beat: Revenue $1.01B (+18% YoY), EPS 27¢ vs. 23¢ Expected",
+          "body": "Pinterest reported Q1 2026 EPS of $0.27 adjusted (24.7% above consensus) and revenue of $1.01B vs. $966M expected, with global monthly active users reaching 631M — a tenth consecutive quarter of double-digit user growth. The company issued Q2 revenue guidance of $1.13–$1.15B, above the $1.11B Wall Street estimate. Shares surged roughly 15% after-hours, snapping a five-quarter streak of EPS misses. Management credited AI-driven bidding optimizations for partially offsetting headwinds from large retail advertisers.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CNBC / Yahoo Finance",
+          "publishedAtISO": "2026-05-04T20:30:00Z",
+          "publishedAt": "May 5, 2026, 03:30 Bangkok"
+        },
+        {
+          "headline": "Palantir Q1 2026: Revenue +85% YoY, Fastest Growth Since IPO; Full-Year Guide Raised to $7.66B",
+          "body": "Palantir reported Q1 2026 EPS of $0.33 adjusted (vs. $0.28 expected) and revenue of $1.63B (vs. $1.54B consensus), marking 85% year-over-year growth — its fastest as a public company. Net income roughly quadrupled to $870.5M. Management raised full-year 2026 revenue guidance from $7.19B to $7.65–$7.66B, far above the $7.27B LSEG consensus, and guided Q2 revenue at $1.8B vs. $1.68B expected. CEO Alex Karp also stated he expects the combined U.S. business to double again in 2027, lifting sentiment significantly into Tuesday's session.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Bloomberg / CNBC",
+          "publishedAtISO": "2026-05-04T20:09:00Z",
+          "publishedAt": "May 5, 2026, 03:09 Bangkok"
+        },
+        {
+          "headline": "Circle (CRCL) Surges 18% as CLARITY Act Compromise Unlocks Stablecoin Regulatory Path",
+          "body": "Circle Internet Group jumped as much as 20% intraday on May 4 after bipartisan senators released a compromise text for the Digital Asset Market CLARITY Act, resolving a months-long deadlock over stablecoin yield. The deal bans passive interest-like rewards on idle stablecoin balances but preserves activity-based rewards, a structure favorable to Circle's USDC model. Coinbase (COIN) gained 6.4% and Robinhood (HOOD) rose 4.2% in sympathy; Polymarket odds of the bill passing in 2026 jumped to 61%. Meta's rollout of USDC creator payments and Visa's blockchain network expansion added additional fuel to the rally.",
+          "sector": "Finance",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CoinDesk / CNBC / Invezz",
+          "publishedAtISO": "2026-05-04T17:34:00Z",
+          "publishedAt": "May 5, 2026, 00:34 Bangkok"
+        }
+      ]
+    },
+    "asia": {
+      "id": "asia",
+      "label": "East + SE Asia",
+      "ticker": "Nikkei · HSI · SSE · KOSPI · TWSE · SET · SGX · IDX · KLSE · PSEi · VN-Index",
+      "lastUpdated": "2026-05-05T08:20:36.373Z",
+      "news": [
+        {
+          "headline": "TAIEX Closes Above 40,000 for First Time on AI Capex Surge; Taiwan GDP Beats",
+          "body": "Taiwan's TAIEX posted a record daily point gain of 1,778.51 pts (+4.57%) on May 4, closing at 40,705.14, its first-ever close above 40,000. TSMC surged 6.56% to NT$2,275 and MediaTek hit its 10% daily limit at NT$2,870, driven by the four major US cloud providers announcing aggregate 2026 capex of US$725 billion, up 77% year-on-year. The move was amplified by a blowout GDP print: Taiwan's Q1 2026 GDP grew 13.69% year-on-year, the fastest in nearly four decades, powered by a 51% jump in exports. Foreign institutional investors were net buyers of NT$66.98 billion, the sixth-largest on record.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Taipei Times / Focus Taiwan (CNA)",
+          "publishedAtISO": "2026-05-05T02:00:00Z",
+          "publishedAt": "May 5, 2026, 09:00 Bangkok"
+        },
+        {
+          "headline": "Hormuz Ceasefire Jolted as US-Iran Exchange Fire; Oil Spikes Past $115, Asia Markets Rattled",
+          "body": "Crude oil surged above $115 per barrel on May 4 after the US and Iran exchanged fire in the Strait of Hormuz, rupturing a four-week-old ceasefire and reigniting energy supply fears across Asia. Brent edged back to just under $114 at Tuesday's open, but the renewed escalation — including Iranian warnings against US 'Project Freedom' escort operations — weighed on oil-importing Southeast Asian markets and energy-sensitive equities. Australian shares opened lower, while markets in Japan, South Korea, and mainland China were closed for public holidays. South and Southeast Asian equity benchmarks including Indonesia's IDX and the Philippines' PSEi face renewed pressure as both nations remain critically exposed, with the Philippines importing ~98% of crude from the Middle East.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Bloomberg / CNBC",
+          "publishedAtISO": "2026-05-04T22:07:00Z",
+          "publishedAt": "May 5, 2026, 05:07 Bangkok"
+        },
+        {
+          "headline": "BOK Signals Rate-Hike Pivot; Base Rate Seen at 3% by Year-End on Inflation Threat",
+          "body": "Bank of Korea Senior Deputy Governor Ryoo Sang-dai stated at the ADB annual meeting in Samarkand on May 3–4 that 'the time may have come to consider halting rate cuts and shifting toward rate hikes,' marking a sharp pivot from the BOK's prior easing stance. The BOK has held its base rate at 2.5% since May 2025; markets now price two hikes in 2026 — July and a follow-up — bringing the rate to 3% by year-end. The hawkish signal comes as inflation is forecast to rise to the mid-to-high 2% range in April due to oil price pass-through, with JPMorgan raising its Korea 2026 CPI forecast to 2.7% and BofA to 2.9%. The Korean won led regional currency gains on the news.",
+          "sector": "Finance",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Korea Herald / Seoul Economic Daily",
+          "publishedAtISO": "2026-05-04T16:24:00Z",
+          "publishedAt": "May 4, 2026, 23:24 Bangkok"
+        },
+        {
+          "headline": "KOSPI Surges 5.12% to Record 6,937; SK Hynix Jumps 12.5%, Market Cap Tops ₩1 Quadrillion",
+          "body": "South Korea's KOSPI closed at a record 6,936.99 on May 4, up 338 points (+5.12%), propelled by a delayed catch-up rally after the Labor Day holiday. SK Hynix surged 12.52% to ₩1.447 million, becoming only the second Korean company after Samsung Electronics to exceed ₩1 quadrillion (~$696 billion) in market cap following its record Q1 operating profit of ₩37.6 trillion on HBM/AI memory demand. Samsung Electronics gained 5.44% to ₩232,500. The combined weighting of Samsung and SK Hynix in the KOSPI reached an all-time high of 42.2%, with foreign and institutional investors posting a combined net ₩6.5 trillion in buying.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Seoul Economic Daily / Korea Herald",
+          "publishedAtISO": "2026-05-04T09:31:00Z",
+          "publishedAt": "May 4, 2026, 16:31 Bangkok"
+        }
+      ]
+    },
+    "commodities": {
+      "id": "commodities",
+      "label": "Commodities",
+      "ticker": "WTI · Brent · Gas · RBOB · Heating Oil · Coal · Gold · Silver · Copper · Aluminum · Iron Ore · Lithium · Platinum · Palladium · Grains · Softs · Oilseeds · Lumber · Rubber · BDI",
+      "lastUpdated": "2026-05-05T08:21:59.417Z",
+      "news": [
+        {
+          "headline": "Brent Surges 6% as Iran Strikes UAE Oil Hub, Attacks US-Flagged Ships at Hormuz",
+          "body": "Brent crude futures jumped ~6% to settle at $114.44/bbl on May 4 — the highest since mid-2022 — after Iran launched cruise missiles, drones, and small-craft attacks targeting US warships and commercial vessels in the Strait of Hormuz, while a drone strike ignited a fire at the UAE's Fujairah oil hub. The UAE confirmed Iranian missiles targeted an ADNOC-owned crude tanker and condemned the strikes as 'acts of piracy,' while the US denied Iranian claims that a Navy frigate was hit. The escalation represents the worst breach of the early-April ceasefire, threatening the only viable alternative export route bypassing the strait. Eurasia Group analysts warn oil will remain above $100 and US gasoline will hit $5/gallon by June without a deal to reopen Hormuz.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNBC / BOE Report / Al Jazeera",
+          "publishedAtISO": "2026-05-04T21:30:00Z",
+          "publishedAt": "May 5, 2026, 04:30 Bangkok"
+        },
+        {
+          "headline": "Gold Falls 2% as Hormuz Escalation Firms Dollar, Intensifies Rate-Hike Fears",
+          "body": "Spot gold dropped ~2% to around $4,513–$4,587/oz on May 4 as the renewed Strait of Hormuz flare-up strengthened the US dollar and deepened inflation fears, undermining bullion's near-term appeal as a non-yielding asset. TD Securities' Bart Melek noted the news 'raised the specter of inflation issues, along with fairly hawkish signals on interest rates.' Barclays joined a growing list of brokerages pricing out any 2026 Fed easing, and CME data shows a 94.9% probability the Fed holds at 3.50–3.75% in June. Gold is now down roughly 12–15% from its January all-time high of $5,595/oz as energy-driven stagflation concerns dominate the macro backdrop.",
+          "sector": "Gold",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNBC / USAGOLD",
+          "publishedAtISO": "2026-05-04T20:00:00Z",
+          "publishedAt": "May 5, 2026, 03:00 Bangkok"
+        },
+        {
+          "headline": "TTF European Gas Spikes 7% to ~€49/MWh as Hormuz Ceasefire Collapses",
+          "body": "European TTF natural gas futures surged 7% to nearly €49/MWh on May 4 after Iran's fresh attacks on UAE oil infrastructure and US vessels shattered the fragile early-April ceasefire, reigniting fears over prolonged Hormuz LNG disruption. The strait has been effectively closed since late February, cutting roughly one-fifth of global LNG flows; European gas prices have now risen approximately 40% since the conflict began. Iran's Revolutionary Guards Navy also issued an expanded maritime control zone encompassing UAE ports Fujairah and Khorfakkan, threatening the key pipeline bypass route. Some Asian buyers have reduced LNG imports to ease the competition for cargoes, but European markets remain acutely exposed.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Trading Economics / Al Jazeera",
+          "publishedAtISO": "2026-05-04T18:00:00Z",
+          "publishedAt": "May 5, 2026, 01:00 Bangkok"
+        },
+        {
+          "headline": "FOMC Holds at 3.5–3.75% in Dramatic 8-4 Split; Rate-Hike Odds Rise for Commodities",
+          "body": "The Federal Reserve voted 8-4 on April 29 to hold rates steady at 3.50–3.75% — the largest FOMC dissent since 1992 — with three hawks (Hammack, Kashkari, Logan) voting to remove the easing bias entirely, a direct signal that rate hikes are now in play. Market expectations for any 2026 cut have collapsed to just 17%, with a 7% probability of a hike priced in, fundamentally resetting the rate backdrop for non-yielding commodities like gold and silver. The meeting was Powell's last as chair; Kevin Warsh is expected to take over May 15 with a structurally hawkish reputation and preference for balance sheet reduction. Higher-for-longer rates have already suppressed gold from its January highs and are weighing on industrial metal demand forecasts.",
+          "sector": "Precious Metals",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNBC / Fortune / NAI 500",
+          "publishedAtISO": "2026-05-04T10:00:00Z",
+          "publishedAt": "May 4, 2026, 17:00 Bangkok"
+        },
+        {
+          "headline": "UAE Exits OPEC Effective May 1, Freeing 4.8 Mbpd Capacity from Quota Constraints",
+          "body": "The UAE formally exited OPEC and OPEC+ on May 1, 2026, ending nearly six decades of membership and removing the cartel's third-largest producer — with capacity of 4.8 million bpd — from coordinated quota discipline. Energy Minister Al Mazrouei framed the exit as a sovereign decision timed to minimize market disruption given Hormuz shipping constraints, but analysts flagged it as a structural blow to OPEC cohesion and a potential catalyst for further defections by overproducers such as Kazakhstan and Nigeria. The UAE's Fujairah terminal — its primary bypass export route — was subsequently struck by Iranian drones on May 4, directly threatening the very infrastructure that made the exit viable. Market reaction was initially muted given export constraints, but the long-term supply outlook shifted materially bearish for crude once Hormuz reopens.",
+          "sector": "Energy",
+          "sentiment": "neutral",
+          "magnitude": "high",
+          "source": "CNBC / Al Jazeera / Gulf News",
+          "publishedAtISO": "2026-05-03T12:00:00Z",
+          "publishedAt": "May 3, 2026, 19:00 Bangkok"
+        }
+      ]
+    }
+  }
+}
