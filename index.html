@@ -97,14 +97,10 @@
         const editions = files
           .map(file => {
             const match = file.match(/(\d{4}-\d{2}-\d{2})/);
-            const date = match ? match[1] : '';
-            const title = date
-              ? new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'Asia/Bangkok' }).format(new Date(date + 'T00:00:00+07:00')) + ' Edition'
-              : file.replace(/\.json$/i, '');
+            const date = match ? match[1] : file.replace(/\.json$/i, '');
             return {
               file: file.startsWith('snapshots/') ? file : `snapshots/${file}`,
-              date,
-              title
+              date
             };
           })
           .sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
@@ -117,17 +113,11 @@
             </div>
             <div class="ticker">The BiPolar Times Archive</div>
           </div>
-          <div class="grid">
+          <div style="border-top:2px solid var(--ink);">
             ${editions.map(ed => `
-              <article class="card">
-                <h3>
-                  <a href="edition.html?file=${encodeURIComponent(ed.file)}" style="color:#1E1B16;text-decoration:none;border-bottom:1px solid transparent">
-                    ${esc(ed.title)}
-                  </a>
-                </h3>
-                <p>Read this archived market snapshot.</p>
-                <div class="meta">${esc(ed.date)}</div>
-              </article>
+              <a href="edition.html?file=${encodeURIComponent(ed.file)}" style="display:block;color:#1E1B16;text-decoration:none;border-bottom:1px solid #C8C2B0;padding:14px 0;font:700 22px/1.2 'IBM Plex Sans', sans-serif;letter-spacing:-0.01em;">
+                ${esc(ed.date)}
+              </a>
             `).join('')}
           </div>`;
       } catch (err) {
