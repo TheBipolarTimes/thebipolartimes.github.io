@@ -1,0 +1,173 @@
+{
+  "publication": "The BiPolar Times",
+  "slogan": "The Newspaper That Connects The Markets Of Both Worlds",
+  "timezone": "Asia/Bangkok",
+  "exportedAt": "2026-05-08T06:44:52.921Z",
+  "generatedFrom": "private-dashboard",
+  "sections": {
+    "us": {
+      "id": "us",
+      "label": "US",
+      "ticker": "NYSE · NASDAQ · S&P 500",
+      "lastUpdated": "2026-05-08T06:44:36.758Z",
+      "news": [
+        {
+          "headline": "Datadog Surges ~30% on Q1 Earnings Blowout, Raises Full-Year Outlook",
+          "body": "Datadog (DDOG) reported Q1 2026 revenue of $1.01 billion, up 32% year-over-year, marking the company's first quarter above $1 billion and beating consensus estimates of ~$960 million. Adjusted EPS of $0.60 topped the $0.51 estimate. Management raised FY2026 revenue guidance to $4.30–$4.34 billion from prior guidance of $4.06–$4.10 billion. The stock surged ~30%, driven by record new logo acquisition, AI training workload expansion, and hyperscaler GPU monitoring adoption, with Guggenheim raising its price target to $225.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Seeking Alpha / Datadog IR",
+          "publishedAtISO": "2026-05-07T22:00:00Z",
+          "publishedAt": "May 8, 2026, 05:00 Bangkok"
+        },
+        {
+          "headline": "Fortinet Jumps ~22% on Q1 Beat-and-Raise, AI Security Demand Accelerates",
+          "body": "Fortinet (FTNT) delivered Q1 2026 non-GAAP EPS of $0.82 versus $0.62 consensus on revenue of $1.85 billion (+20% YoY), with product revenue surging 41% and billings up 31% to $2.09 billion. Management raised full-year 2026 revenue guidance to $7.71–$7.87 billion, ahead of the prior $7.6 billion Street consensus. Shares closed up approximately 22%, with BofA raising its price target to $130 and Arete upgrading from Sell to Buy. The result signaled robust enterprise AI infrastructure security spending.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "StocksToTrade / Trefis / Yahoo Finance",
+          "publishedAtISO": "2026-05-07T14:00:00Z",
+          "publishedAt": "May 7, 2026, 21:00 Bangkok"
+        },
+        {
+          "headline": "Planet Fitness Crashes 33% on Worst-Ever Single-Day Drop After Guidance Cut",
+          "body": "Planet Fitness (PLNT) reported Q1 2026 EPS of $0.74 (beat vs. $0.63 estimate) and revenue of $337.2 million (+21.9% YoY), but net new member additions fell 36% year-over-year. Management slashed FY2026 revenue guidance from $1.44 billion to $1.41 billion and withdrew its three-year growth algorithm, while pausing a planned Black Card price hike. Shares plunged to a new 52-week low of $37.03, with William Blair downgrading to Market Perform and multiple analysts cutting targets, citing a failed brand strategy pivot.",
+          "sector": "Other",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNBC / Benzinga / Investing.com",
+          "publishedAtISO": "2026-05-07T13:30:00Z",
+          "publishedAt": "May 7, 2026, 20:30 Bangkok"
+        },
+        {
+          "headline": "AMD Surges 16–19% After Q1 Blowout; Data Center Revenue +57% YoY",
+          "body": "Advanced Micro Devices (AMD) reported Q1 2026 revenue of $10.25 billion (+38% YoY), beating the $9.89 billion consensus, with non-GAAP EPS of $1.37 topping estimates of $1.29. Data Center segment revenue rose 57% to $5.8 billion, driven by EPYC CPU share gains and Instinct GPU ramp for AI workloads. AMD guided Q2 2026 revenue to ~$11.2 billion (+46% YoY), well above Street expectations, sending shares up 16–19% the following session and lifting the broader semiconductor sector.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CNBC / AMD IR / Investing.com",
+          "publishedAtISO": "2026-05-06T08:00:00Z",
+          "publishedAt": "May 6, 2026, 15:00 Bangkok"
+        }
+      ]
+    },
+    "asia": {
+      "id": "asia",
+      "label": "East + SE Asia",
+      "ticker": "Nikkei · HSI · SSE · KOSPI · TWSE · SET · SGX · IDX · KLSE · PSEi · VN-Index",
+      "lastUpdated": "2026-05-08T06:41:09.212Z",
+      "news": [
+        {
+          "headline": "Asia Markets Retreat Friday as US-Iran Hormuz Clashes Reignite Risk-Off",
+          "body": "Asia-Pacific markets traded lower on Friday May 8 as US and Iranian forces exchanged fire in the Strait of Hormuz, with each side blaming the other for initiating the attack. Japan's Nikkei 225 slipped 0.68% amid profit-taking after the prior session's record high, South Korea's KOSPI fell 0.93%, Hong Kong's Hang Seng dropped 1.19%, and China's CSI 300 declined 0.90%. The escalation undercut the prior session's risk rally, raising fears of renewed oil supply disruption and dampening the short-lived Iran ceasefire optimism that had driven the previous day's historic gains across the region.",
+          "sector": "Other",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNBC",
+          "publishedAtISO": "2026-05-08T03:00:00Z",
+          "publishedAt": "May 8, 2026, 10:00 Bangkok"
+        },
+        {
+          "headline": "Nikkei Posts Largest Single-Day Point Gain in History, Surging 5.6% to 62,834",
+          "body": "Japan's Nikkei 225 closed at a record 62,833.84 on May 7, rising 3,320.72 points — its largest single-day point advance ever — as Tokyo markets reopened after the extended Golden Week holiday and caught up with US tech earnings beats and Iran peace optimism. SoftBank Group surged over 18%, Ibiden climbed 22.4%, semiconductor wafer maker Sumco jumped 19.7%, and Mitsui Kinzoku gained 19%; 30 of 33 TSE industry sectors advanced. Trading value on the TSE Prime Market hit ¥10.84 trillion ($69.4bn), the highest of 2026, signalling broad institutional conviction behind the AI and materials-led rally.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CNBC / BBN Times",
+          "publishedAtISO": "2026-05-07T08:30:00Z",
+          "publishedAt": "May 7, 2026, 15:30 Bangkok"
+        },
+        {
+          "headline": "Hang Seng Hits Three-Month High at 26,626 on Iran Deal Hopes; SMIC, Tencent Lead",
+          "body": "Hong Kong's Hang Seng Index surged 1.6% to close at 26,626 on May 7, its highest since February 2026, as reports indicated the US and Iran were nearing a memorandum of understanding to end hostilities and potentially reopen the Strait of Hormuz. Tech shares led gains with Kuaishou Technology rising 7.3%, SMIC up 2.5%, Tencent up 3.4%, and Pop Mart gaining 4.0%; the Shenzhen Component climbed 1.18% to a five-year high. Separately, China's financial regulator reportedly ordered major state-owned banks to halt new lending to five Iran-linked refiners sanctioned by the US, introducing regulatory friction for energy credit that markets are monitoring.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "medium",
+          "source": "Trading Economics",
+          "publishedAtISO": "2026-05-07T08:00:00Z",
+          "publishedAt": "May 7, 2026, 15:00 Bangkok"
+        },
+        {
+          "headline": "KOSPI Hits Record 7,490 as Samsung Crosses $1 Trillion Market Cap on AI Chip Surge",
+          "body": "South Korea's KOSPI closed at an all-time high of 7,490.05 on May 7, up 1.43%, a day after surging 6.45% to break the 7,000 barrier for the first time on May 6, with Samsung Electronics rising 14.4% to cross a $1 trillion market cap and become the second Asian company to do so. SK Hynix jumped over 10% as Samsung began mass commercial shipments of HBM4 chips and confirmed tripling HBM sales in 2026; the combined Samsung/SK Hynix KOSPI market cap share hit a record 42.2%. Retail investors net sold 14.8 trillion won — a record monthly exodus — while foreign investors net bought aggressively, reflecting divergent views on valuation after KOSPI's 75% year-to-date gain.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Seoul Economic Daily / Tech Startups",
+          "publishedAtISO": "2026-05-07T07:00:00Z",
+          "publishedAt": "May 7, 2026, 14:00 Bangkok"
+        },
+        {
+          "headline": "BoJ March Minutes Flag Rate Hike Risk as Inflation Forecast Lifted to 2.8%",
+          "body": "Minutes from the Bank of Japan's March meeting, released on May 7, revealed many board members saw the need to raise rates if the Iran war-driven energy shock proved prolonged, with one member urging hikes \"without long intervals\" and another calling for tightening \"without hesitation.\" The BoJ had already raised its FY2026 core inflation forecast to 2.8% from 1.9% at its April meeting, while cutting the growth outlook to 0.5%, amid a 6-3 vote to hold at 0.75%. Markets are pricing a possible next hike as early as June–July 2026, introducing JGB yield pressure and yen sensitivity that constrains the equity rally in rate-sensitive sectors.",
+          "sector": "Finance",
+          "sentiment": "neutral",
+          "magnitude": "medium",
+          "source": "Trading Economics / CNBC",
+          "publishedAtISO": "2026-05-07T00:50:00Z",
+          "publishedAt": "May 7, 2026, 07:50 Bangkok"
+        }
+      ]
+    },
+    "commodities": {
+      "id": "commodities",
+      "label": "Commodities",
+      "ticker": "WTI · Brent · Gas · RBOB · Heating Oil · Coal · Gold · Silver · Copper · Aluminum · Iron Ore · Lithium · Platinum · Palladium · Grains · Softs · Oilseeds · Lumber · Rubber · BDI",
+      "lastUpdated": "2026-05-08T06:43:07.819Z",
+      "news": [
+        {
+          "headline": "Oil Rebounds to $96 WTI/$101 Brent as US-Iran Clashes Derail Peace Hopes",
+          "body": "WTI crude climbed back toward $96/bbl and Brent above $101 on May 8 after fresh US-Iran military exchanges in the Strait of Hormuz threatened to unravel a nascent diplomatic framework. US Central Command confirmed it intercepted Iranian attacks and conducted defensive strikes while guided missile destroyers transited the strait. The IEA separately warned the conflict is disrupting roughly 14 million barrels per day of global oil supply and cautioned that any post-conflict production recovery would proceed only gradually. Markets remain in a high-volatility binary state, swinging on each new signal from Tehran's expected response—delivered via Pakistan—to a US peace memorandum.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Trading Economics / IEA",
+          "publishedAtISO": "2026-05-08T04:00:00Z",
+          "publishedAt": "May 8, 2026, 11:00 Bangkok"
+        },
+        {
+          "headline": "Gold Holds Above $4,700 as Iran Deal Hopes Ease Inflation Fears, Fed Path",
+          "body": "Gold extended gains above $4,700/oz on May 7–8 as reports of a US one-page Memorandum of Understanding sent to Iran via Pakistani mediators drove oil prices sharply lower, easing the inflation concerns that had pinned gold down for weeks. The rally—gold rose ~3.5% on May 6 alone to near $4,700—reflects markets pricing out the Hormuz-driven inflation spiral that had kept the Fed on hold at 3.50–3.75%. Fed Chicago President Goolsbee nonetheless warned PCE inflation has accelerated since the war began, capping the upside. Institutional targets remain bullish: Goldman Sachs holds $5,400 and Morgan Stanley $5,200 year-end, contingent on Hormuz normalisation.",
+          "sector": "Gold",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CNBC / Trading Economics / GoldSilver.com",
+          "publishedAtISO": "2026-05-07T18:00:00Z",
+          "publishedAt": "May 8, 2026, 01:00 Bangkok"
+        },
+        {
+          "headline": "Silver Surges 6%+ on Iran Deal Optimism, Hits $80–$82; Dual-Engine Rally",
+          "body": "Silver surged more than 6% to trade at $80.32/oz on May 7, with intraday highs reaching $82, as US-Iran peace signals simultaneously fired both its monetary and industrial demand engines. The metal gained nearly double gold's percentage move on May 6–7 as a potential Hormuz reopening pointed to both Fed rate-cut optionality and a recovery in manufacturing activity that drives the bulk of silver demand. The Silver Institute projects a sixth consecutive annual supply deficit of 46.3 million ounces in 2026, keeping the structural backdrop tight. The gold-silver ratio compressed from ~62.5 to ~61 in a single session, confirming silver is leading the precious metals complex.",
+          "sector": "Precious Metals",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Trading Economics / GoldSilver.com / Investing.com",
+          "publishedAtISO": "2026-05-07T14:00:00Z",
+          "publishedAt": "May 7, 2026, 21:00 Bangkok"
+        },
+        {
+          "headline": "Copper Hits $6.12/lb, Highest Since January, on Hormuz Optimism and Acid Crunch",
+          "body": "Copper futures rose to $6.12/lb on May 6–7, the highest since January's record close of $6.20, as falling oil prices on Iran deal hopes eased inflation concerns and improved the manufacturing demand outlook. A compounding supply-side catalyst added further support: China's confirmed ban on sulphuric acid exports effective May 2026 threatens ~20% of Chilean copper output reliant on acid-dependent heap-leach processing, with Chile importing over 1 million tonnes of Chinese acid annually. Morgan Stanley estimates Chile's 1.1 million tonnes of leached copper production is directly at risk. The dual demand and supply shock has copper up 10.4% over four weeks and 33% year-on-year.",
+          "sector": "Base Metals",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Trading Economics / S&P Global / Mining.com",
+          "publishedAtISO": "2026-05-07T10:00:00Z",
+          "publishedAt": "May 7, 2026, 17:00 Bangkok"
+        },
+        {
+          "headline": "Global LNG Prices Stay Elevated; QatarEnergy Force Majeure Persists into May",
+          "body": "Global LNG markets remain structurally disrupted as QatarEnergy's force majeure on Ras Laffan—covering ~20% of global LNG supply—extends into May 2026, with no laden LNG vessels confirmed crossing the Strait of Hormuz since March 1 per Kpler data. Asian JKM spot prices have remained above $25/MMBtu, roughly 3x pre-crisis levels, while European TTF rose more than 45% between late February and early May. The EIA confirmed the closure has affected over 10 Bcf/d of global LNG supply, with US LNG export facilities running at near-peak capacity of ~18 Bcf/d but unable to replace lost Qatari volumes. A Hormuz deal remains the only near-term resolution, with Ras Laffan requiring ~2 weeks to return to full throughput after safe passage is restored.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "EIA / Kpler / IEA",
+          "publishedAtISO": "2026-05-07T06:00:00Z",
+          "publishedAt": "May 7, 2026, 13:00 Bangkok"
+        }
+      ]
+    }
+  }
+}
