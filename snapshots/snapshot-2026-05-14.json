@@ -1,0 +1,183 @@
+{
+  "publication": "The BiPolar Times",
+  "slogan": "The Newspaper That Connects The Markets Of Both Worlds",
+  "timezone": "Asia/Bangkok",
+  "exportedAt": "2026-05-14T04:18:39.277Z",
+  "generatedFrom": "private-dashboard",
+  "sections": {
+    "us": {
+      "id": "us",
+      "label": "US",
+      "ticker": "NYSE · NASDAQ · S&P 500",
+      "lastUpdated": "2026-05-14T04:05:42.603Z",
+      "news": [
+        {
+          "headline": "Cisco Q3 Beat-and-Raise: AI Orders Nearly Doubled to $9B, Shares Surge 17% AH",
+          "body": "Cisco reported Q3 FY2026 record revenue of $15.84B (up 12% YoY), beating the $15.56B consensus, with non-GAAP EPS of $1.06 vs. $1.04 expected. Management raised FY26 AI infrastructure order guidance from $5B to $9B and lifted Q4 revenue guidance to $16.7–$16.9B, roughly $1B above Street estimates. The company also announced fewer than 4,000 job cuts (~5% of workforce) effective May 14 to redirect investment toward AI. Shares surged ~17–19% in after-hours, on track for the sharpest post-earnings rally since 2002.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CNBC / Cisco IR",
+          "publishedAtISO": "2026-05-13T20:12:00Z",
+          "publishedAt": "May 14, 2026, 03:12 Bangkok"
+        },
+        {
+          "headline": "Senate Confirms Kevin Warsh as Fed Chair 54-45, Replacing Powell Friday",
+          "body": "The Senate confirmed Kevin Warsh as the 17th Federal Reserve chair in a 54-45 vote Wednesday—the narrowest confirmation margin in the modern central bank era—with only one Democrat crossing party lines. Warsh, a consistent critic of Fed monetary policy who has called for 'regime change' at the central bank, inherits the chair as April PPI printed at +6% YoY, effectively eliminating near-term rate-cut odds. His first FOMC meeting is scheduled for June 16–17; markets are pricing elevated odds of rates remaining on hold or rising, complicating Trump's demand for cuts.",
+          "sector": "Finance",
+          "sentiment": "neutral",
+          "magnitude": "high",
+          "source": "CNBC / CNN / Bloomberg",
+          "publishedAtISO": "2026-05-13T19:00:00Z",
+          "publishedAt": "May 14, 2026, 02:00 Bangkok"
+        },
+        {
+          "headline": "Nebius (NBIS) Surges ~17% on 684% Revenue Surge, $27B Meta Deal, $2B Nvidia Stake",
+          "body": "AI neocloud Nebius Group reported Q1 2026 revenue of $399M (up 684% YoY), far above the ~$375–389M consensus, while posting adjusted EPS of $2.11 vs. an expected loss of $0.78. The company announced a $27B five-year capacity contract with Meta Platforms and confirmed a $2B equity investment from Nvidia. Nebius raised its 2026 CapEx guidance to $20–25B and secured a new 1.2 GW AI factory site in Pennsylvania, cementing its status as a premier AI infrastructure play.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "247 Wall St. / Motley Fool / Seeking Alpha",
+          "publishedAtISO": "2026-05-13T13:00:00Z",
+          "publishedAt": "May 13, 2026, 20:00 Bangkok"
+        },
+        {
+          "headline": "Ford Surges 13% on Ford Energy Launch and Morgan Stanley Bullish Call",
+          "body": "Ford Motor stock closed up ~13% on May 13—its biggest single-day gain since March 2020—after the automaker launched its Ford Energy battery-storage subsidiary and Morgan Stanley published a bullish note arguing the unit could secure hyperscaler supply deals and generate $500–600M in run-rate EBIT at 20 GWh capacity. Ford secured a CATL license to produce lithium iron phosphate batteries domestically, targeting first deliveries in late 2027 with a $2B plant investment in Kentucky. Trading volume hit 207.8M shares, ~265% above its 3-month average, helping the stock turn positive for the year.",
+          "sector": "Other",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Bloomberg / Motley Fool / Reuters",
+          "publishedAtISO": "2026-05-13T12:30:00Z",
+          "publishedAt": "May 13, 2026, 19:30 Bangkok"
+        },
+        {
+          "headline": "Apple Touches $300 for First Time, Hits All-Time Closing Record Amid Mag Seven AI Rally",
+          "body": "Apple shares breached $300 intraday for the first time ever on May 13, touching $300.92 before closing at a record $298.87, up ~1.8%, as CEO Tim Cook joined President Trump's business delegation to Beijing for the U.S.-China summit. The move adds to a 20%+ rally since the March 30 market lows, driven by strong Q2 FY2026 earnings beats on iPhone and China sales. The milestone broadens the Magnificent Seven rally beyond Nvidia and Alphabet, with Apple's market cap surpassing $4.39 trillion, reinforcing the AI-driven megacap bull case.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CNBC / Yahoo Finance / MacDailyNews",
+          "publishedAtISO": "2026-05-13T12:00:00Z",
+          "publishedAt": "May 13, 2026, 19:00 Bangkok"
+        }
+      ]
+    },
+    "asia": {
+      "id": "asia",
+      "label": "East + SE Asia",
+      "ticker": "Nikkei · HSI · SSE · KOSPI · TWSE · SET · SGX · IDX · KLSE · PSEi · VN-Index",
+      "lastUpdated": "2026-05-14T04:18:25.159Z",
+      "news": [
+        {
+          "headline": "Trump-Xi Beijing Summit Begins; Asia Markets Mixed on Trade, Taiwan, AI Agenda",
+          "body": "President Trump met Xi Jinping at the Great Hall of the People on May 14, the first U.S. presidential visit to China since 2017, with tariffs, export controls, Taiwan arms sales, rare earths, and the Iran-Hormuz crisis all on the table. Asia-Pacific markets traded mixed as investors awaited summit outcomes; Goldman Sachs flagged tariff relief and export-control easing as key watch points. The yuan hit its strongest level since early 2023 ahead of the summit, with Goldman forecasting further appreciation. A constructive outcome is seen as a catalyst for Chinese tech, export, and broadly for Southeast Asian supply-chain equities.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CNBC / Reuters",
+          "publishedAtISO": "2026-05-14T03:00:00Z",
+          "publishedAt": "May 14, 2026, 10:00 Bangkok"
+        },
+        {
+          "headline": "Alibaba Posts First Operating Loss Since 2021 as AI Spend Surges; Shares Rally 8%",
+          "body": "Alibaba Group reported fiscal Q4 2026 revenue growth of just 3%, missing analyst estimates, and booked its first operating loss since the depths of the Covid pandemic in 2021, as AI capital expenditure overwhelmed near-term earnings. CEO Eddie Wu pledged to spend 'far, far' more than previously targeted, with AI model annual recurring revenue expected to hit 10 billion yuan in June and triple to 30 billion yuan by year-end. Despite the earnings miss, Hong Kong-listed shares surged roughly 8% as investors looked past the profit shortfall and bet on the AI monetization narrative. Tencent also reported alongside Alibaba on May 13, with both companies' results cementing an investor shift toward 'show-me-the-profits' scrutiny on China's mega-cap internet sector.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Bloomberg",
+          "publishedAtISO": "2026-05-14T02:07:00Z",
+          "publishedAt": "May 14, 2026, 09:07 Bangkok"
+        },
+        {
+          "headline": "Samsung Recovers $66B Intraday Wipeout; Shares Hit Record High Day After Strike Scare",
+          "body": "Samsung Electronics lost as much as ₩99.07 trillion ($66.18 billion) in market cap on May 13 — a 6.09% intraday drop — after last-ditch wage talks collapsed and its largest union threatened an 18-day strike from May 21 involving over 41,000 workers. South Korea's Prime Minister and government intervened, urging both sides to resume dialogue and warning of national economic consequences, helping the stock reverse losses. By May 14, Samsung shares surged as much as 5.46% to a fresh all-time high near ₩300,000, as strike-resolution optimism combined with AI-chip demand sentiment dominated. Samsung and SK Hynix together now exceed 50% of the KOSPI 200 weighting for the first time, amplifying market sensitivity to any resolution or escalation.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CNBC / Korea Herald",
+          "publishedAtISO": "2026-05-14T02:00:00Z",
+          "publishedAt": "May 14, 2026, 09:00 Bangkok"
+        },
+        {
+          "headline": "SK Hynix Forward PER Overtakes Samsung for First Time; KOSPI Charges Toward 8,000",
+          "body": "SK Hynix's 2026 forward price-to-earnings ratio reached 6.79x on May 13, surpassing Samsung Electronics' 6.77x for the first time ever, reflecting a valuation reversal driven by SK Hynix's dominance in HBM memory for AI accelerators. The KOSPI hit a fresh all-time high of 7,844 on May 13, and SK Hynix briefly crossed the ₩2 million mark in pre-market trading on May 14 — more than doubling since February. Morgan Stanley set a year-end KOSPI ceiling of 9,500, with a bull-case target of 10,000. The KOSPI has surged over 80% year-to-date, powered almost entirely by the AI semiconductor trade.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Seoul Economic Daily / Asia Business Daily",
+          "publishedAtISO": "2026-05-14T01:00:00Z",
+          "publishedAt": "May 14, 2026, 08:00 Bangkok"
+        },
+        {
+          "headline": "Indonesia's JCI Hits New 52-Week Low as MSCI Rebalancing Triggers IDR 29.5T Outflow Risk",
+          "body": "Indonesia's Jakarta Composite Index slid approximately 2% on May 13 to close at a new 52-week low near 6,723, with the decline diverging sharply from gains across the Nikkei, Hang Seng, and Shanghai Composite. The sell-off was driven by MSCI's decision to remove several Indonesian companies from its global standard index, with analysts warning the adjustment could reduce Indonesia's MSCI weight by 16 basis points and potentially trigger IDR 29.5 trillion in passive capital outflows. Large-cap names Chandra Asri Petrochemical (TPIA) and Bren led losses, falling 14.85% and 11.36% respectively in a single session. A weakening rupiah hovering near record lows around IDR 17,400 per dollar, combined with April's first manufacturing contraction in nine months, compounded selling pressure across nearly all sectors.",
+          "sector": "Finance",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Xinhua / Investing.com",
+          "publishedAtISO": "2026-05-13T14:06:00Z",
+          "publishedAt": "May 13, 2026, 21:06 Bangkok"
+        }
+      ]
+    },
+    "commodities": {
+      "id": "commodities",
+      "label": "Commodities",
+      "ticker": "WTI · Brent · Gas · RBOB · Heating Oil · Coal · Gold · Silver · Copper · Aluminum · Iron Ore · Lithium · Platinum · Palladium · Grains · Softs · Oilseeds · Lumber · Rubber · BDI",
+      "lastUpdated": "2026-05-14T04:16:19.024Z",
+      "news": [
+        {
+          "headline": "IEA May OMR: Oil Market Flips to 1.78 Mb/d Deficit; Inventories Drain at Record Pace",
+          "body": "The IEA's May 2026 Oil Market Report reversed a prior surplus forecast, projecting supply will fall short of demand by 1.78 million bpd for the full year, a dramatic swing from the nearly 4 mb/d surplus projected in December 2025. Global oil supply dropped a further 1.8 mb/d in April, taking total losses to 12.8 mb/d since the US-Israel-Iran war began February 28, with over 14 mb/d of Gulf output offline. Inventories are drawing at 8.5 mb/d in Q2—a record pace—and the IEA warned the market could stay severely undersupplied through Q3 even if the conflict ends by June. Brent held near $107/bbl on the report; WTI steadied around $102/bbl after a 7.6% three-session rally.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "IEA / CNBC / OilPrice.com",
+          "publishedAtISO": "2026-05-13T10:30:00Z",
+          "publishedAt": "May 13, 2026, 17:30 Bangkok"
+        },
+        {
+          "headline": "Gold Slides Below $4,700 as Dual CPI/PPI Shock Kills Fed Cut Bets, Raises Hike Risk",
+          "body": "Gold fell for a second consecutive session to around $4,680–$4,695/oz on May 13 after US CPI accelerated to 3.8% YoY in April—the highest since May 2023—followed by April PPI surging 1.4% month-on-month, its largest gain since early 2022, both driven by Iran-war energy costs. Markets fully priced out a Fed rate cut for 2026, with CME FedWatch now assigning a ~30% probability of a rate hike by December. Compounding pressure, India raised gold and silver import tariffs to 15% from 6%. While gold is an inflation hedge, the prospect of higher real rates weighed heavily on the non-yielding metal.",
+          "sector": "Gold",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNBC / TradingEconomics / TradingKey",
+          "publishedAtISO": "2026-05-13T08:00:00Z",
+          "publishedAt": "May 13, 2026, 15:00 Bangkok"
+        },
+        {
+          "headline": "Copper Hits All-Time High of $6.69/lb ($14,021/T) on China Demand and Supply Squeeze",
+          "body": "Copper futures surged to a record $6.69 per pound (LME ~$14,021/tonne) on May 12–13, gaining 17% YTD and over 40% year-on-year, driven by robust Chinese industrial demand, AI data center buildout, and a tightening supply picture. The US-Iran conflict has suspended exports of sulphur and sulphuric acid from the Gulf region since March, forcing Chilean refiners to cut heap-leach capacity; separately, the Grasberg mine in Indonesia remains underutilized following a 2025 mudslide force majeure. China's manufacturing PMI hit a five-year high, while Scotiabank revised its 2027 copper market outlook to a 350,000-tonne deficit. Analysts described conditions as \"the perfect storm for copper to the upside.\"",
+          "sector": "Base Metals",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Bloomberg / Yahoo Finance / TradingEconomics",
+          "publishedAtISO": "2026-05-13T05:00:00Z",
+          "publishedAt": "May 13, 2026, 12:00 Bangkok"
+        },
+        {
+          "headline": "Aluminum Hits 4-Year High at $3,650/T as Gulf Smelter Damage Cuts Non-Chinese Supply",
+          "body": "Aluminum futures rose to $3,650 per tonne on May 13—a four-year high—up 44.7% year-on-year, as prolonged Middle East supply disruptions and direct attacks on Gulf smelters eliminated roughly 9% of global primary supply and nearly 25% of non-Chinese supply. Emirates Global Aluminium (EGA), the region's largest producer, said full output restoration could take at least a year; Bahrain's ALBA operations were suspended after being struck by Iranian attacks. Surging natural gas costs linked to Hormuz closure have also lifted smelting costs globally. Strong Chinese manufacturing data and record municipal bond borrowing for infrastructure further supported the demand outlook.",
+          "sector": "Base Metals",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "TradingEconomics / Reuters",
+          "publishedAtISO": "2026-05-13T04:00:00Z",
+          "publishedAt": "May 13, 2026, 11:00 Bangkok"
+        },
+        {
+          "headline": "Iran IRGC Expands Hormuz Operational Zone 10x to 'Vast Crescent,' Deepening Supply Risk",
+          "body": "On May 12, Iran's IRGC Navy formally redefined the Strait of Hormuz from a narrow 20–30 mile corridor to a 200–300 mile \"vast operational area\" stretching from the port of Jask in the east to Siri Island in the west—its second expansion since the war began. The move places major tanker approach lanes, UAE coastal waters, and Qatar's LNG export routes within Iran's declared control zone. Analysts warn the declaration structurally complicates any Hormuz reopening scenario and could reignite the war premium in crude. The redefinition is seen as a deliberate escalation amid stalled US-Iran ceasefire negotiations.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Reuters / Argus Media",
+          "publishedAtISO": "2026-05-12T13:24:00Z",
+          "publishedAt": "May 12, 2026, 20:24 Bangkok"
+        }
+      ]
+    }
+  }
+}
