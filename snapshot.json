@@ -2,64 +2,64 @@
   "publication": "The BiPolar Times",
   "slogan": "The Newspaper That Connects The Markets Of Both Worlds",
   "timezone": "Asia/Bangkok",
-  "exportedAt": "2026-05-14T04:18:39.277Z",
+  "exportedAt": "2026-05-15T02:52:57.599Z",
   "generatedFrom": "private-dashboard",
   "sections": {
     "us": {
       "id": "us",
       "label": "US",
       "ticker": "NYSE · NASDAQ · S&P 500",
-      "lastUpdated": "2026-05-14T04:05:42.603Z",
+      "lastUpdated": "2026-05-15T02:48:04.278Z",
       "news": [
         {
-          "headline": "Cisco Q3 Beat-and-Raise: AI Orders Nearly Doubled to $9B, Shares Surge 17% AH",
-          "body": "Cisco reported Q3 FY2026 record revenue of $15.84B (up 12% YoY), beating the $15.56B consensus, with non-GAAP EPS of $1.06 vs. $1.04 expected. Management raised FY26 AI infrastructure order guidance from $5B to $9B and lifted Q4 revenue guidance to $16.7–$16.9B, roughly $1B above Street estimates. The company also announced fewer than 4,000 job cuts (~5% of workforce) effective May 14 to redirect investment toward AI. Shares surged ~17–19% in after-hours, on track for the sharpest post-earnings rally since 2002.",
+          "headline": "Cerebras Systems (CBRS) Surges 68% in Nasdaq Debut After $5.55B IPO",
+          "body": "AI chipmaker Cerebras priced its IPO at $185/share — well above the $150–$160 range — raising $5.55B in the largest U.S. tech IPO since Uber in 2019, then opened at $350 and closed up 68% at $311.07, pushing its market cap to ~$95B fully diluted. Demand exceeded available shares by more than 20x, reflecting intense institutional appetite for pure-play AI semiconductor exposure. The debut is seen as a bellwether ahead of expected blockbuster listings from SpaceX, OpenAI, and Anthropic later in 2026. After-hours action saw the stock extend gains, sustaining momentum into Friday.",
           "sector": "Technology",
           "sentiment": "positive",
           "magnitude": "high",
-          "source": "CNBC / Cisco IR",
-          "publishedAtISO": "2026-05-13T20:12:00Z",
-          "publishedAt": "May 14, 2026, 03:12 Bangkok"
+          "source": "CNBC / Reuters",
+          "publishedAtISO": "2026-05-14T21:00:00Z",
+          "publishedAt": "May 15, 2026, 04:00 Bangkok"
         },
         {
-          "headline": "Senate Confirms Kevin Warsh as Fed Chair 54-45, Replacing Powell Friday",
-          "body": "The Senate confirmed Kevin Warsh as the 17th Federal Reserve chair in a 54-45 vote Wednesday—the narrowest confirmation margin in the modern central bank era—with only one Democrat crossing party lines. Warsh, a consistent critic of Fed monetary policy who has called for 'regime change' at the central bank, inherits the chair as April PPI printed at +6% YoY, effectively eliminating near-term rate-cut odds. His first FOMC meeting is scheduled for June 16–17; markets are pricing elevated odds of rates remaining on hold or rising, complicating Trump's demand for cuts.",
-          "sector": "Finance",
-          "sentiment": "neutral",
-          "magnitude": "high",
-          "source": "CNBC / CNN / Bloomberg",
-          "publishedAtISO": "2026-05-13T19:00:00Z",
-          "publishedAt": "May 14, 2026, 02:00 Bangkok"
-        },
-        {
-          "headline": "Nebius (NBIS) Surges ~17% on 684% Revenue Surge, $27B Meta Deal, $2B Nvidia Stake",
-          "body": "AI neocloud Nebius Group reported Q1 2026 revenue of $399M (up 684% YoY), far above the ~$375–389M consensus, while posting adjusted EPS of $2.11 vs. an expected loss of $0.78. The company announced a $27B five-year capacity contract with Meta Platforms and confirmed a $2B equity investment from Nvidia. Nebius raised its 2026 CapEx guidance to $20–25B and secured a new 1.2 GW AI factory site in Pennsylvania, cementing its status as a premier AI infrastructure play.",
+          "headline": "Applied Materials (AMAT) Posts Record Q2 EPS of $3.51, Guides Chip Equip. +30% in 2026",
+          "body": "Applied Materials reported record Q2 fiscal 2026 revenue of $7.91B (+11% YoY) and GAAP EPS of $3.51, crushing consensus estimates of $2.66–$2.68 EPS and $7.65–7.82B revenue. CEO Gary Dickerson said semiconductor equipment revenue is now expected to grow more than 30% in calendar 2026, citing the rapid AI data center build-out. The company also raised its quarterly dividend 15% to $0.53/share and guided Q3 revenue to $8.95B, well above prior Street expectations. Shares climbed ~2% in after-hours trading, adding to the broader semiconductor rally.",
           "sector": "Technology",
           "sentiment": "positive",
           "magnitude": "high",
-          "source": "247 Wall St. / Motley Fool / Seeking Alpha",
-          "publishedAtISO": "2026-05-13T13:00:00Z",
-          "publishedAt": "May 13, 2026, 20:00 Bangkok"
+          "source": "GlobeNewswire / CNBC",
+          "publishedAtISO": "2026-05-14T20:30:00Z",
+          "publishedAt": "May 15, 2026, 03:30 Bangkok"
         },
         {
-          "headline": "Ford Surges 13% on Ford Energy Launch and Morgan Stanley Bullish Call",
-          "body": "Ford Motor stock closed up ~13% on May 13—its biggest single-day gain since March 2020—after the automaker launched its Ford Energy battery-storage subsidiary and Morgan Stanley published a bullish note arguing the unit could secure hyperscaler supply deals and generate $500–600M in run-rate EBIT at 20 GWh capacity. Ford secured a CATL license to produce lithium iron phosphate batteries domestically, targeting first deliveries in late 2027 with a $2B plant investment in Kentucky. Trading volume hit 207.8M shares, ~265% above its 3-month average, helping the stock turn positive for the year.",
-          "sector": "Other",
-          "sentiment": "positive",
-          "magnitude": "high",
-          "source": "Bloomberg / Motley Fool / Reuters",
-          "publishedAtISO": "2026-05-13T12:30:00Z",
-          "publishedAt": "May 13, 2026, 19:30 Bangkok"
-        },
-        {
-          "headline": "Apple Touches $300 for First Time, Hits All-Time Closing Record Amid Mag Seven AI Rally",
-          "body": "Apple shares breached $300 intraday for the first time ever on May 13, touching $300.92 before closing at a record $298.87, up ~1.8%, as CEO Tim Cook joined President Trump's business delegation to Beijing for the U.S.-China summit. The move adds to a 20%+ rally since the March 30 market lows, driven by strong Q2 FY2026 earnings beats on iPhone and China sales. The milestone broadens the Magnificent Seven rally beyond Nvidia and Alphabet, with Apple's market cap surpassing $4.39 trillion, reinforcing the AI-driven megacap bull case.",
+          "headline": "Cisco (CSCO) Jumps 13%+ on AI 'Networking Supercycle,' Raises FY Guidance to $9B",
+          "body": "Cisco surged more than 13% on May 14 — its best single-day gain in over two decades — after reporting Q3 results that blew past Wall Street estimates and raising its AI infrastructure and hyperscaler order guidance from $5B to $9B for the fiscal year. CEO Chuck Robbins told CNBC that surging AI demand is driving a \"networking supercycle,\" with orders from hyperscalers accelerating sharply. The company also announced a ~5% workforce reduction (~4,000 jobs) as it pivots resources toward AI-focused silicon and optics. The move helped push the S&P 500 above 7,500 and the Dow back above 50,000 for the first time since February.",
           "sector": "Technology",
           "sentiment": "positive",
           "magnitude": "high",
-          "source": "CNBC / Yahoo Finance / MacDailyNews",
-          "publishedAtISO": "2026-05-13T12:00:00Z",
-          "publishedAt": "May 13, 2026, 19:00 Bangkok"
+          "source": "CNBC",
+          "publishedAtISO": "2026-05-14T13:00:00Z",
+          "publishedAt": "May 14, 2026, 20:00 Bangkok"
+        },
+        {
+          "headline": "Nvidia (NVDA) +4.4% as U.S. Clears H200 Chip Sales to 10 Chinese Firms",
+          "body": "Reuters exclusively reported that the U.S. Commerce Department approved ~10 Chinese companies — including Alibaba, Tencent, ByteDance, JD.com, Lenovo, and Foxconn — to purchase Nvidia's H200 AI chips, each permitted to buy up to 75,000 units. No deliveries have been made yet, as Chinese firms pulled back after guidance from Beijing, leaving the deal in limbo even as CEO Jensen Huang accompanied President Trump to the U.S.-China summit in Beijing. Nvidia closed up 4.4% on May 14, extending its monthly gain to ~15%, as markets priced in potential re-entry to China's $50B AI chip market. The approval framework also covers AMD MI-series accelerators.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Reuters / CNBC",
+          "publishedAtISO": "2026-05-14T11:21:00Z",
+          "publishedAt": "May 14, 2026, 18:21 Bangkok"
+        },
+        {
+          "headline": "Boeing (BA) Falls ~5% as LOT Polish Airlines Sues Over 737 MAX Safety Concealment",
+          "body": "Boeing shares dropped roughly 4.7–5% on May 14 after LOT Polish Airlines filed a lawsuit alleging the company concealed safety defects and misrepresented pilot training requirements for the 737 MAX MCAS system — described as the first direct carrier suit tied to the prior crashes. The decline came despite positive newsflow: President Trump announced China would order 200 Boeing jets during the Beijing summit, and April net orders hit 135 planes. Investors focused instead on the legal overhang, delivery shortfalls (47 jets in April vs. 50+ expected), and persistent profitability concerns, underscoring how execution risks continue to overshadow demand tailwinds.",
+          "sector": "Industrials",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNBC / TradingKey",
+          "publishedAtISO": "2026-05-14T10:00:00Z",
+          "publishedAt": "May 14, 2026, 17:00 Bangkok"
         }
       ]
     },
@@ -67,57 +67,57 @@
       "id": "asia",
       "label": "East + SE Asia",
       "ticker": "Nikkei · HSI · SSE · KOSPI · TWSE · SET · SGX · IDX · KLSE · PSEi · VN-Index",
-      "lastUpdated": "2026-05-14T04:18:25.159Z",
+      "lastUpdated": "2026-05-15T02:51:02.564Z",
       "news": [
         {
-          "headline": "Trump-Xi Beijing Summit Begins; Asia Markets Mixed on Trade, Taiwan, AI Agenda",
-          "body": "President Trump met Xi Jinping at the Great Hall of the People on May 14, the first U.S. presidential visit to China since 2017, with tariffs, export controls, Taiwan arms sales, rare earths, and the Iran-Hormuz crisis all on the table. Asia-Pacific markets traded mixed as investors awaited summit outcomes; Goldman Sachs flagged tariff relief and export-control easing as key watch points. The yuan hit its strongest level since early 2023 ahead of the summit, with Goldman forecasting further appreciation. A constructive outcome is seen as a catalyst for Chinese tech, export, and broadly for Southeast Asian supply-chain equities.",
-          "sector": "Technology",
+          "headline": "Trump-Xi Beijing Summit Produces 'Strategic Stability' Framework, Tariff Truce Expected",
+          "body": "U.S. President Trump and China's Xi Jinping opened a two-day summit in Beijing on May 14, with both sides agreeing to develop a 'constructive China-U.S. relationship of strategic stability' as the guiding framework for the next three years. Agenda items include tariffs, rare earths, Taiwan, AI, and Iran; analysts at Goldman Sachs expect China to step up purchases of U.S. farm goods, energy, and aircraft in exchange for avoiding further tariff hikes. Asia-Pacific markets traded mixed on summit day — Nikkei fell ~1%, KOSPI gained 1.75%, and the CSI 300 declined 1.68% — as investors weighed a possible formal extension of the trade truce. The summit is the first U.S. presidential visit to Beijing in nearly a decade and is closely watched by Southeast Asian exporters whose supply chains hinge on U.S.-China trade stability.",
+          "sector": "Other",
           "sentiment": "positive",
           "magnitude": "high",
           "source": "CNBC / Reuters",
-          "publishedAtISO": "2026-05-14T03:00:00Z",
-          "publishedAt": "May 14, 2026, 10:00 Bangkok"
+          "publishedAtISO": "2026-05-14T15:07:00Z",
+          "publishedAt": "May 14, 2026, 22:07 Bangkok"
         },
         {
-          "headline": "Alibaba Posts First Operating Loss Since 2021 as AI Spend Surges; Shares Rally 8%",
-          "body": "Alibaba Group reported fiscal Q4 2026 revenue growth of just 3%, missing analyst estimates, and booked its first operating loss since the depths of the Covid pandemic in 2021, as AI capital expenditure overwhelmed near-term earnings. CEO Eddie Wu pledged to spend 'far, far' more than previously targeted, with AI model annual recurring revenue expected to hit 10 billion yuan in June and triple to 30 billion yuan by year-end. Despite the earnings miss, Hong Kong-listed shares surged roughly 8% as investors looked past the profit shortfall and bet on the AI monetization narrative. Tencent also reported alongside Alibaba on May 13, with both companies' results cementing an investor shift toward 'show-me-the-profits' scrutiny on China's mega-cap internet sector.",
+          "headline": "ENEOS Acquires Chevron's $2.2bn Singapore Refinery Stake and SE Asia Downstream Assets",
+          "body": "Japan's largest refiner, ENEOS Holdings (TSE:5020), signed share purchase agreements on May 14 to buy Chevron's 50% stake in Singapore Refining Company (290,000 bpd capacity) plus downstream fuels and lubricants businesses in Malaysia, the Philippines, Vietnam, Indonesia, and Australia for $2.17 billion cash — its first refinery ownership outside Japan. The deal, financed from existing reserves and expected to close in 2027, marks a significant expansion into Southeast Asia where petroleum demand is projected to grow, offsetting Japan's structurally declining domestic market. It also directly impacts SGX-linked Singapore Refining Company and downstream equities across the region as Western oil majors continue to divest Asian downstream assets to regional players. ENEOS posted FY2025 operating profit of JPY 466.6 billion, exceeding forecasts partly due to elevated Middle East-driven crude prices.",
+          "sector": "Energy",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Reuters / Bloomberg / Rigzone",
+          "publishedAtISO": "2026-05-14T08:49:00Z",
+          "publishedAt": "May 14, 2026, 15:49 Bangkok"
+        },
+        {
+          "headline": "Samsung Hits Record High Near ₩300,000 as KOSPI Scales All-Time Peak of 7,844",
+          "body": "Samsung Electronics (005930.KS) surged as much as 5% on May 14 to notch a fresh record high closing in on the ₩300,000 level, helping push the KOSPI to a new all-time intraday high of 7,844.01, up 2.63%. The rotation into Samsung came as SK hynix's forward PER flipped above Samsung's for the first time ever — 6.79x vs. 6.77x — signalling a valuation reset driven by SK hynix's dominant HBM market position versus Samsung's recovery narrative. South Korea's finance minister warned that a potential Samsung worker strike could cost ~₩1 trillion per day and pose a major threat to exports and financial markets. Morgan Stanley set a year-end KOSPI ceiling at 9,500, with a bullish scenario of 10,000, though overheating signals emerged as investor credit balances surpassed ₩36 trillion.",
           "sector": "Technology",
           "sentiment": "positive",
           "magnitude": "high",
-          "source": "Bloomberg",
-          "publishedAtISO": "2026-05-14T02:07:00Z",
-          "publishedAt": "May 14, 2026, 09:07 Bangkok"
+          "source": "Seoul Economic Daily / CNBC",
+          "publishedAtISO": "2026-05-14T07:43:00Z",
+          "publishedAt": "May 14, 2026, 14:43 Bangkok"
         },
         {
-          "headline": "Samsung Recovers $66B Intraday Wipeout; Shares Hit Record High Day After Strike Scare",
-          "body": "Samsung Electronics lost as much as ₩99.07 trillion ($66.18 billion) in market cap on May 13 — a 6.09% intraday drop — after last-ditch wage talks collapsed and its largest union threatened an 18-day strike from May 21 involving over 41,000 workers. South Korea's Prime Minister and government intervened, urging both sides to resume dialogue and warning of national economic consequences, helping the stock reverse losses. By May 14, Samsung shares surged as much as 5.46% to a fresh all-time high near ₩300,000, as strike-resolution optimism combined with AI-chip demand sentiment dominated. Samsung and SK Hynix together now exceed 50% of the KOSPI 200 weighting for the first time, amplifying market sensitivity to any resolution or escalation.",
+          "headline": "TSMC Lifts Global Chip Market Forecast 50% to $1.5 Trillion by 2030 on AI Surge",
+          "body": "Taiwan Semiconductor Manufacturing Co. raised its global semiconductor market forecast to exceed $1.5 trillion by 2030, up 50% from its prior $1 trillion projection, citing explosive AI and high-performance computing demand that it expects will account for 55% of the total market. At its annual technology symposium in Hsinchu on May 14, TSMC unveiled plans to build nine phases of wafer fabs and advanced packaging facilities in 2026 alone, with 2-nm and A16 chip capacity targeted at a 70% CAGR through 2028. The update sent TSMC's U.S.-listed ADR (TSM) to an all-time high near $422, lifting the Taiwan Taiex and broader Asian semiconductor equities. Markets seized on the guidance as confirmation that the AI capex supercycle remains intact, reinforcing bullish sentiment across the chip supply chain from Seoul to Taipei.",
           "sector": "Technology",
           "sentiment": "positive",
           "magnitude": "high",
-          "source": "CNBC / Korea Herald",
-          "publishedAtISO": "2026-05-14T02:00:00Z",
-          "publishedAt": "May 14, 2026, 09:00 Bangkok"
+          "source": "Reuters",
+          "publishedAtISO": "2026-05-14T07:30:00Z",
+          "publishedAt": "May 14, 2026, 14:30 Bangkok"
         },
         {
-          "headline": "SK Hynix Forward PER Overtakes Samsung for First Time; KOSPI Charges Toward 8,000",
-          "body": "SK Hynix's 2026 forward price-to-earnings ratio reached 6.79x on May 13, surpassing Samsung Electronics' 6.77x for the first time ever, reflecting a valuation reversal driven by SK Hynix's dominance in HBM memory for AI accelerators. The KOSPI hit a fresh all-time high of 7,844 on May 13, and SK Hynix briefly crossed the ₩2 million mark in pre-market trading on May 14 — more than doubling since February. Morgan Stanley set a year-end KOSPI ceiling of 9,500, with a bull-case target of 10,000. The KOSPI has surged over 80% year-to-date, powered almost entirely by the AI semiconductor trade.",
-          "sector": "Technology",
-          "sentiment": "positive",
-          "magnitude": "high",
-          "source": "Seoul Economic Daily / Asia Business Daily",
-          "publishedAtISO": "2026-05-14T01:00:00Z",
-          "publishedAt": "May 14, 2026, 08:00 Bangkok"
-        },
-        {
-          "headline": "Indonesia's JCI Hits New 52-Week Low as MSCI Rebalancing Triggers IDR 29.5T Outflow Risk",
-          "body": "Indonesia's Jakarta Composite Index slid approximately 2% on May 13 to close at a new 52-week low near 6,723, with the decline diverging sharply from gains across the Nikkei, Hang Seng, and Shanghai Composite. The sell-off was driven by MSCI's decision to remove several Indonesian companies from its global standard index, with analysts warning the adjustment could reduce Indonesia's MSCI weight by 16 basis points and potentially trigger IDR 29.5 trillion in passive capital outflows. Large-cap names Chandra Asri Petrochemical (TPIA) and Bren led losses, falling 14.85% and 11.36% respectively in a single session. A weakening rupiah hovering near record lows around IDR 17,400 per dollar, combined with April's first manufacturing contraction in nine months, compounded selling pressure across nearly all sectors.",
+          "headline": "Japan 10-Year JGB Yield Surges to 2.605%, Highest Since 1997, on BOJ Hike Bets",
+          "body": "Japan's 10-year government bond yield touched 2.605% on May 14, its highest level since May 1997, as BOJ April meeting minutes showed several policymakers signalling a rate hike could come as early as the next meeting, with elevated oil prices from the ongoing U.S.-Iran conflict intensifying inflation risks. Three of nine BOJ board members had already voted for a hike to 1% at the April meeting, and the OECD projects the policy rate could reach 2% by end-2027. The Nikkei 225 fell roughly 1% on May 14 as rising yields pressured equities, with rate-sensitive financials diverging from broader weakness. Ultra-long JGB yields are also at multi-decade highs — the 30-year at 3.82% — raising concerns about fiscal sustainability and carry-trade unwinds that could ripple across Asian markets.",
           "sector": "Finance",
           "sentiment": "negative",
           "magnitude": "high",
-          "source": "Xinhua / Investing.com",
-          "publishedAtISO": "2026-05-13T14:06:00Z",
-          "publishedAt": "May 13, 2026, 21:06 Bangkok"
+          "source": "Nikkei Asia / Trading Economics",
+          "publishedAtISO": "2026-05-14T02:00:00Z",
+          "publishedAt": "May 14, 2026, 09:00 Bangkok"
         }
       ]
     },
@@ -125,57 +125,57 @@
       "id": "commodities",
       "label": "Commodities",
       "ticker": "WTI · Brent · Gas · RBOB · Heating Oil · Coal · Gold · Silver · Copper · Aluminum · Iron Ore · Lithium · Platinum · Palladium · Grains · Softs · Oilseeds · Lumber · Rubber · BDI",
-      "lastUpdated": "2026-05-14T04:16:19.024Z",
+      "lastUpdated": "2026-05-15T02:52:42.547Z",
       "news": [
         {
-          "headline": "IEA May OMR: Oil Market Flips to 1.78 Mb/d Deficit; Inventories Drain at Record Pace",
-          "body": "The IEA's May 2026 Oil Market Report reversed a prior surplus forecast, projecting supply will fall short of demand by 1.78 million bpd for the full year, a dramatic swing from the nearly 4 mb/d surplus projected in December 2025. Global oil supply dropped a further 1.8 mb/d in April, taking total losses to 12.8 mb/d since the US-Israel-Iran war began February 28, with over 14 mb/d of Gulf output offline. Inventories are drawing at 8.5 mb/d in Q2—a record pace—and the IEA warned the market could stay severely undersupplied through Q3 even if the conflict ends by June. Brent held near $107/bbl on the report; WTI steadied around $102/bbl after a 7.6% three-session rally.",
-          "sector": "Energy",
-          "sentiment": "negative",
-          "magnitude": "high",
-          "source": "IEA / CNBC / OilPrice.com",
-          "publishedAtISO": "2026-05-13T10:30:00Z",
-          "publishedAt": "May 13, 2026, 17:30 Bangkok"
-        },
-        {
-          "headline": "Gold Slides Below $4,700 as Dual CPI/PPI Shock Kills Fed Cut Bets, Raises Hike Risk",
-          "body": "Gold fell for a second consecutive session to around $4,680–$4,695/oz on May 13 after US CPI accelerated to 3.8% YoY in April—the highest since May 2023—followed by April PPI surging 1.4% month-on-month, its largest gain since early 2022, both driven by Iran-war energy costs. Markets fully priced out a Fed rate cut for 2026, with CME FedWatch now assigning a ~30% probability of a rate hike by December. Compounding pressure, India raised gold and silver import tariffs to 15% from 6%. While gold is an inflation hedge, the prospect of higher real rates weighed heavily on the non-yielding metal.",
+          "headline": "Gold Posts Weekly Loss as Hot US PPI, Rate-Hike Odds Squeeze Bulls",
+          "body": "Gold fell below $4,700/oz for a second straight session on May 14, heading for a weekly decline after US producer prices in April surged at their fastest pace since early 2022, driven by energy and trade costs linked to the Iran war. Combined with the prior session's CPI print of 3.8% — a three-year high — markets fully priced out Fed rate cuts for 2026, with CME FedWatch now pricing a ~30% chance of a December hike. The opportunity cost pressure on non-yielding bullion is squeezing speculative longs, even as structural central-bank demand (244 tonnes in Q1 2026) remains firm.",
           "sector": "Gold",
           "sentiment": "negative",
           "magnitude": "high",
-          "source": "CNBC / TradingEconomics / TradingKey",
-          "publishedAtISO": "2026-05-13T08:00:00Z",
-          "publishedAt": "May 13, 2026, 15:00 Bangkok"
+          "source": "Bloomberg / Trading Economics",
+          "publishedAtISO": "2026-05-14T22:46:00Z",
+          "publishedAt": "May 15, 2026, 05:46 Bangkok"
         },
         {
-          "headline": "Copper Hits All-Time High of $6.69/lb ($14,021/T) on China Demand and Supply Squeeze",
-          "body": "Copper futures surged to a record $6.69 per pound (LME ~$14,021/tonne) on May 12–13, gaining 17% YTD and over 40% year-on-year, driven by robust Chinese industrial demand, AI data center buildout, and a tightening supply picture. The US-Iran conflict has suspended exports of sulphur and sulphuric acid from the Gulf region since March, forcing Chilean refiners to cut heap-leach capacity; separately, the Grasberg mine in Indonesia remains underutilized following a 2025 mudslide force majeure. China's manufacturing PMI hit a five-year high, while Scotiabank revised its 2027 copper market outlook to a 350,000-tonne deficit. Analysts described conditions as \"the perfect storm for copper to the upside.\"",
-          "sector": "Base Metals",
+          "headline": "NGSA Sees Record 40.3 Bcf/d Summer Gas Power Burn on Coal Switching, Data-Center Load",
+          "body": "The Natural Gas Supply Association's 2026 Summer Outlook, released May 14, projects U.S. natural gas power burn reaching a record 40.3 Bcf/d this summer, driven by low prices accelerating coal-to-gas switching and surging baseload demand from data centers. LNG exports are forecast to rise 4.3 Bcf/d year-on-year to 19.9 Bcf/d as new capacity from Plaquemines, Corpus Christi Stage 3, and Golden Pass Train 1 comes online. Despite robust supply of ~117 Bcf/d, total summer storage injections are forecast at only 1,772 Bcf versus 2,210 Bcf last summer, leaving end-of-season inventories ~106 Bcf below the five-year average and tightening the winter risk picture. Henry Hub futures near $2.88/MMBtu reflect a market pricing in below-average storage builds, with coal displacement adding structural demand that markets will monitor into Q3.",
+          "sector": "Energy",
           "sentiment": "positive",
-          "magnitude": "high",
-          "source": "Bloomberg / Yahoo Finance / TradingEconomics",
-          "publishedAtISO": "2026-05-13T05:00:00Z",
-          "publishedAt": "May 13, 2026, 12:00 Bangkok"
+          "magnitude": "medium",
+          "source": "Natural Gas Intelligence / Power Magazine",
+          "publishedAtISO": "2026-05-14T10:47:00Z",
+          "publishedAt": "May 14, 2026, 17:47 Bangkok"
         },
         {
-          "headline": "Aluminum Hits 4-Year High at $3,650/T as Gulf Smelter Damage Cuts Non-Chinese Supply",
-          "body": "Aluminum futures rose to $3,650 per tonne on May 13—a four-year high—up 44.7% year-on-year, as prolonged Middle East supply disruptions and direct attacks on Gulf smelters eliminated roughly 9% of global primary supply and nearly 25% of non-Chinese supply. Emirates Global Aluminium (EGA), the region's largest producer, said full output restoration could take at least a year; Bahrain's ALBA operations were suspended after being struck by Iranian attacks. Surging natural gas costs linked to Hormuz closure have also lifted smelting costs globally. Strong Chinese manufacturing data and record municipal bond borrowing for infrastructure further supported the demand outlook.",
-          "sector": "Base Metals",
-          "sentiment": "positive",
+          "headline": "India Doubles Gold & Silver Import Duty to 15%, Sparking Bullion Market Chaos",
+          "body": "India's government raised effective import duties on gold and silver from 6% to 15% on May 13, doubling basic customs duty on gold to 10% and hiking the agriculture cess fivefold, pushing total levies to 18.45% including IGST. MCX gold futures surged 5.74% in a single session while silver briefly crossed ₹3 lakh per kg—a gain of over ₹17,000/kg overnight. The move was triggered by a ballooning precious-metals import bill of $102.5 billion in FY2025-26 and pressure on India's current account amid the West Asia crisis and a rupee that hit a record low of ₹95.75 per dollar. Global silver on COMEX rose ~2.1% in sympathy while analysts warned the duty reversal could revive smuggling and distort trade flows through the India-UAE CEPA quota route.",
+          "sector": "Precious Metals",
+          "sentiment": "negative",
           "magnitude": "high",
-          "source": "TradingEconomics / Reuters",
-          "publishedAtISO": "2026-05-13T04:00:00Z",
-          "publishedAt": "May 13, 2026, 11:00 Bangkok"
+          "source": "BusinessToday / Sorafutures / Kashmir Vision",
+          "publishedAtISO": "2026-05-14T09:00:00Z",
+          "publishedAt": "May 14, 2026, 16:00 Bangkok"
         },
         {
-          "headline": "Iran IRGC Expands Hormuz Operational Zone 10x to 'Vast Crescent,' Deepening Supply Risk",
-          "body": "On May 12, Iran's IRGC Navy formally redefined the Strait of Hormuz from a narrow 20–30 mile corridor to a 200–300 mile \"vast operational area\" stretching from the port of Jask in the east to Siri Island in the west—its second expansion since the war began. The move places major tanker approach lanes, UAE coastal waters, and Qatar's LNG export routes within Iran's declared control zone. Analysts warn the declaration structurally complicates any Hormuz reopening scenario and could reignite the war premium in crude. The redefinition is seen as a deliberate escalation amid stalled US-Iran ceasefire negotiations.",
+          "headline": "IEA May OMR: Global Oil Deficit to Persist Through Q3 as Hormuz Losses Mount",
+          "body": "The IEA's May Oil Market Report warns the global oil market will remain severely undersupplied until Q4 2026, even if the US-Iran conflict ends by early June. Global oil supply fell a further 1.8 mb/d in April to 95.1 mb/d, taking total losses since February to 12.8 mb/d, with Gulf producers running 14.4 mb/d below pre-war levels. Inventories are drawing at a record pace — an estimated 8.5 mb/d deficit in Q2 — keeping Brent around $106/bbl. The report also cut its full-year demand forecast by 1.3 mb/d versus the pre-war outlook, citing demand destruction in petrochemicals and aviation.",
           "sector": "Energy",
           "sentiment": "negative",
           "magnitude": "high",
-          "source": "Reuters / Argus Media",
-          "publishedAtISO": "2026-05-12T13:24:00Z",
-          "publishedAt": "May 12, 2026, 20:24 Bangkok"
+          "source": "IEA / OilPrice.com",
+          "publishedAtISO": "2026-05-14T06:00:00Z",
+          "publishedAt": "May 14, 2026, 13:00 Bangkok"
+        },
+        {
+          "headline": "EIA Weekly: US Crude Stocks Fall 4.3 mb — Nearly Double Expectations",
+          "body": "EIA data for the week ending May 8, 2026 showed US crude inventories fell by 4.3 million barrels, nearly double market expectations, reinforcing the global supply-tightness narrative. Distillate inventories posted their first increase since March (+190,000 barrels), offering marginal relief on the product side. The draw extended a run of outsized crude stock declines attributed to surge in export demand as Atlantic Basin buyers scramble to replace disrupted Hormuz-route barrels. WTI held around $100–$102/bbl in the session following the report.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "EIA / Trading Economics",
+          "publishedAtISO": "2026-05-13T14:30:00Z",
+          "publishedAt": "May 13, 2026, 21:30 Bangkok"
         }
       ]
     }
