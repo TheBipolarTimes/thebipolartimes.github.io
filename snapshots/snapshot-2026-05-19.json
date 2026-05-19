@@ -1,0 +1,183 @@
+{
+  "publication": "The BiPolar Times",
+  "slogan": "The Newspaper That Connects The Markets Of Both Worlds",
+  "timezone": "Asia/Bangkok",
+  "exportedAt": "2026-05-19T14:51:55.056Z",
+  "generatedFrom": "private-dashboard",
+  "sections": {
+    "us": {
+      "id": "us",
+      "label": "US",
+      "ticker": "NYSE · NASDAQ · S&P 500",
+      "lastUpdated": "2026-05-19T14:46:13.358Z",
+      "news": [
+        {
+          "headline": "30-Year Treasury Yield Hits 19-Year High at 5.19%, Hammering Stocks",
+          "body": "The 30-year U.S. Treasury yield surged to 5.189% on Tuesday — its highest level since July 2007 — while the 10-year note climbed to 4.683%, as investors continued dumping bonds on reigniting inflation fears tied to the Iran conflict-driven oil shock. A Bank of America survey showed 62% of global fund managers expect the 30-year yield to reach 6%, and futures markets have shifted to price in the Fed's next move as a rate hike rather than a cut. The S&P 500 slid 0.9% and the Nasdaq fell 1.4% on Tuesday, marking their third consecutive losing session. The yield spike directly pressures high-growth tech valuations and raises consumer borrowing costs, threatening the equity bull market.",
+          "sector": "Finance",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNBC",
+          "publishedAtISO": "2026-05-19T10:00:00Z",
+          "publishedAt": "May 19, 2026, 17:00 Bangkok"
+        },
+        {
+          "headline": "Home Depot Q1 Beats EPS & EBITDA Estimates; Comps Flat, Guidance Held",
+          "body": "Home Depot reported Q1 FY2026 adjusted EPS of $3.43 versus the $3.41 consensus, with revenue of $41.77 billion up 4.8% year-on-year and EBITDA of $6.07 billion beating estimates by 2.8%. Comparable-store sales were flat year-on-year, missing expectations for a modest increase, while free cash flow margin improved meaningfully to 12.4% from 8.8%. CEO Ted Decker cited 'greater consumer uncertainty and housing affordability pressure' but maintained full-year sales growth guidance of 2.5%–4.5%. Shares were muted at the open, reflecting mixed sentiment on flat comps against a resilient earnings print.",
+          "sector": "Other",
+          "sentiment": "neutral",
+          "magnitude": "medium",
+          "source": "AP / StockStory",
+          "publishedAtISO": "2026-05-19T06:19:00Z",
+          "publishedAt": "May 19, 2026, 13:19 Bangkok"
+        },
+        {
+          "headline": "Jury Dismisses Musk's $150B OpenAI Lawsuit; Microsoft Claims Also Tossed",
+          "body": "A California federal jury unanimously dismissed all of Elon Musk's claims against OpenAI, CEO Sam Altman, and Microsoft on May 18, ruling Musk exceeded the statute of limitations when he filed his 2024 suit. Judge Yvonne Gonzalez Rogers accepted the verdict, ending a three-week trial in which Musk sought $150 billion in damages, Altman's removal, and a reversal of OpenAI's for-profit restructuring. The ruling removes a major legal overhang for Microsoft — a key OpenAI backer — and clears the path for OpenAI's anticipated IPO at its current ~$852 billion valuation. Musk announced he will appeal, calling the dismissal a 'calendar technicality.'",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CBS News / NPR",
+          "publishedAtISO": "2026-05-18T17:28:00Z",
+          "publishedAt": "May 19, 2026, 00:28 Bangkok"
+        },
+        {
+          "headline": "NextEra to Acquire Dominion Energy in $67B All-Stock Deal, Largest U.S. Utility M&A Ever",
+          "body": "NextEra Energy announced a $67 billion all-stock acquisition of Dominion Energy on May 18, creating the world's largest regulated electric utility by market value and combining service territories from Florida to Virginia's AI data center corridor. Dominion shares surged roughly 15% on the news while NextEra fell approximately 1.5%, a classic acquirer/target reaction. The deal, expected to close in mid-to-late 2027, is the largest utility acquisition in U.S. history and adds to a wave of sector consolidation driven by AI-related power demand lifting electricity consumption for the first time in two decades. Regulatory approval and shareholder votes are required.",
+          "sector": "Energy",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Bloomberg / Reuters",
+          "publishedAtISO": "2026-05-18T13:50:00Z",
+          "publishedAt": "May 18, 2026, 20:50 Bangkok"
+        },
+        {
+          "headline": "Seagate Drops ~7% After CEO Rules Out New Factories to Meet AI Storage Demand",
+          "body": "Seagate Technology (STX) fell approximately 7% on May 18 after CEO Dave Mosley told the JPMorgan TMC Conference that building new factories would 'take too long,' raising investor fears the company cannot rapidly scale capacity to meet surging AI-driven hard-drive demand. The selloff spread to peers, with Micron falling ~6%, and SanDisk and Western Digital also declining sharply. The move pushed STX down over 11% from its May 11 record high of $834, even as Evercore raised its price target to $1,000. The broader semiconductor correction — compounded by rising Treasury yields and Samsung labor-action fears — dragged the Nasdaq lower for a second straight session.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNBC / Invezz",
+          "publishedAtISO": "2026-05-18T13:00:00Z",
+          "publishedAt": "May 18, 2026, 20:00 Bangkok"
+        }
+      ]
+    },
+    "asia": {
+      "id": "asia",
+      "label": "East + SE Asia",
+      "ticker": "Nikkei · HSI · SSE · KOSPI · TWSE · SET · SGX · IDX · KLSE · PSEi · VN-Index",
+      "lastUpdated": "2026-05-19T14:50:36.039Z",
+      "news": [
+        {
+          "headline": "KOSPI Tumbles 3.3% as Korean Tech Stocks Sell Off; LG Electronics Drops 11.7%",
+          "body": "South Korea's KOSPI closed 3.3% lower at 7,271.66 on Tuesday May 19, with LG Electronics plunging 11.7%, Hyundai Motor sinking 8.9%, and SK Hynix falling 5.2%, tracking a Wall Street tech pullback overnight. The index had briefly touched the 8,000 mark the previous Friday before reversing sharply. Semiconductor and auto heavyweights led the decline amid a confluence of Iran war uncertainty, elevated oil prices above $110/bbl, and rising global bond yields compressing valuations. Defense names bucked the trend, with Hanwha Aerospace surging more than 6% on Middle East-driven military export optimism.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "AP / ABC News",
+          "publishedAtISO": "2026-05-19T06:30:00Z",
+          "publishedAt": "May 19, 2026, 13:30 Bangkok"
+        },
+        {
+          "headline": "Japan Q1 GDP Beats at +2.1% Annualized, But Nikkei Slips on BOJ Rate Hike Fears",
+          "body": "Japan's Cabinet Office reported Q1 2026 GDP grew at an annualized rate of 2.1%, above analyst forecasts of 1.7%, driven by consumer spending and a 29.3% YoY jump in semiconductor equipment exports. Despite the headline beat, the Nikkei 225 fell 0.4% to 60,550 as the stronger data reinforced expectations for an imminent BOJ rate hike, while the 10-year JGB yield held near 2.75%—close to 29-year highs. The BOJ had already cut its FY2026 growth forecast to 0.5% while raising its core inflation outlook to 2.8%, and a board member publicly urged rate hikes 'as soon as possible.' Oxford Economics cautioned that high energy costs from the Iran conflict will increasingly limit consumption and investment going forward.",
+          "sector": "Finance",
+          "sentiment": "neutral",
+          "magnitude": "high",
+          "source": "CNBC / AP",
+          "publishedAtISO": "2026-05-19T02:30:00Z",
+          "publishedAt": "May 19, 2026, 09:30 Bangkok"
+        },
+        {
+          "headline": "Asia Markets Mixed as Trump Delays Iran Strike; Hang Seng +0.5%, Nikkei -0.97% Mon.",
+          "body": "Asia-Pacific markets traded mixed on May 18–19 after President Trump announced via social media he was postponing a scheduled military strike on Iran following requests from Gulf state leaders, partially easing oil supply fears with Brent crude easing from above $110. Hong Kong's Hang Seng rose 0.48%–0.5% while mainland China's CSI 300 edged up 0.4%, but Japan's Nikkei fell 0.97% and South Korea's KOSPI extended declines amid global bond yield pressure. The Iran war-driven Strait of Hormuz closure has kept Brent crude more than 50% above pre-war levels near $70, acting as a persistent stagflation headwind for energy-importing Asian economies. Investors remained cautious ahead of Nvidia's Q1 FY2027 earnings due Wednesday, a key bellwether for Asian semiconductor stocks.",
+          "sector": "Other",
+          "sentiment": "neutral",
+          "magnitude": "medium",
+          "source": "CNBC / AP",
+          "publishedAtISO": "2026-05-18T08:00:00Z",
+          "publishedAt": "May 18, 2026, 15:00 Bangkok"
+        },
+        {
+          "headline": "Samsung Court Injunction Halts 18-Day Strike; Shares Swing from -9% to +4% in V-Reversal",
+          "body": "South Korea's Suwon District Court on May 18 partially granted Samsung Electronics' injunction request, blocking its 47,000-worker planned strike from disrupting chip production. Samsung shares tumbled over 9% in pre-market trading before recovering to close up 3.88%, while SK Hynix reversed a nearly 5% decline to gain over 4%; KOSPI 200 futures triggered a circuit breaker before rebounding 0.77%. JPMorgan had warned the strike could cost Samsung up to 31 trillion won ($20.8bn) in full-year operating profit, with semiconductors accounting for 37% of Korean exports. Chairman Jay Y. Lee returned early from Japan and issued a public apology; the union pledged to negotiate but did not abandon its strike schedule.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Korea Times / Manila Times / TradingKey",
+          "publishedAtISO": "2026-05-18T04:00:00Z",
+          "publishedAt": "May 18, 2026, 11:00 Bangkok"
+        },
+        {
+          "headline": "Japan 10-Year JGB Yield Hits Near 30-Year High of 2.8%, Weighing on Equities",
+          "body": "Japan's 10-year government bond yield surged to 2.8% on May 18, its highest level since 1997, as oil prices above $110/bbl linked to the Iran conflict intensified inflation concerns and BOJ rate-hike expectations. The 5-year yield hit a historic high of 2.0%, while 20- and 30-year yields reached 3.64% and 4.01% respectively. The Nikkei 225 fell nearly 1% at the open as semiconductor stocks led declines, with analysts at Mitsubishi UFJ Morgan Stanley flagging a rising 'fiscal risk premium' as a key driver. Markets now price in over two 25bp BOJ rate hikes for the remainder of 2026.",
+          "sector": "Finance",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "TradingKey / Trading Economics",
+          "publishedAtISO": "2026-05-18T02:00:00Z",
+          "publishedAt": "May 18, 2026, 09:00 Bangkok"
+        }
+      ]
+    },
+    "commodities": {
+      "id": "commodities",
+      "label": "Commodities",
+      "ticker": "WTI · Brent · Gas · RBOB · Heating Oil · Coal · Gold · Silver · Copper · Aluminum · Iron Ore · Lithium · Platinum · Palladium · Grains · Softs · Oilseeds · Lumber · Rubber · BDI",
+      "lastUpdated": "2026-05-19T14:51:37.537Z",
+      "news": [
+        {
+          "headline": "WTI Slips to ~$103/bbl as Trump Cancels Iran Strike; Hormuz Deadlock Persists",
+          "body": "WTI crude futures retreated toward $103/bbl on Tuesday after President Trump said he called off a planned military strike on Iran following appeals from Gulf allies Saudi Arabia, Qatar, and the UAE. Tehran has yet to confirm renewed talks, and Iran's Tasnim news agency signalled Washington's conditions remain \"overly demanding,\" keeping the Strait of Hormuz effectively closed. The IEA separately warned that global oil inventories are declining rapidly, with the EIA estimating a draw of 8.5 mb/d in Q2 2026. Markets remain highly volatile with oil prices still up sharply on the year as the dual blockade of the key waterway continues to disrupt ~20% of global oil supply.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Trading Economics / Reuters",
+          "publishedAtISO": "2026-05-19T06:00:00Z",
+          "publishedAt": "May 19, 2026, 13:00 Bangkok"
+        },
+        {
+          "headline": "Gold Drops ~4% in a Week to $4,531 as Rate-Hike Bets Displace Safe-Haven Bid",
+          "body": "Gold traded at $4,531/oz on Tuesday, down roughly 4% over the prior week, as energy-driven U.S. inflation data extinguished expectations for Fed rate cuts and fueled 30% market-implied odds of a hike by December per CME FedWatch. The stronger dollar and rising Treasury yields redirected capital from non-yielding bullion to fixed income. Gold had peaked at an intraday all-time high of $5,586/oz in late January before retreating nearly 19%, with FOMC minutes due May 20 representing the next key catalyst. The World Gold Council noted record Q1 2026 demand of 1,230.9 tonnes, highlighting that the demand-side backdrop remains intact even as the rate outlook pressures prices.",
+          "sector": "Gold",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Trading Economics / LiteFinance / Discovery Alert",
+          "publishedAtISO": "2026-05-19T05:00:00Z",
+          "publishedAt": "May 19, 2026, 12:00 Bangkok"
+        },
+        {
+          "headline": "Copper Falls to 2-Week Low on China April Data Miss Across All Key Metrics",
+          "body": "Copper futures fell to approximately $6.20/lb on Tuesday, touching their lowest in nearly two weeks, after China's April data showed retail sales rising only 0.2% year-on-year — a 40-month low versus a 2% forecast — while industrial production grew 4.1% against expectations of 5.9%, and fixed-asset investment contracted 1.6%. China accounts for roughly 50% of global copper demand, making the broad miss a direct headwind for base metals. Elevated oil prices feeding into broader inflation also strengthened central bank tightening expectations, compounding pressure on industrial metals. Analysts flagged that absent a fresh Beijing stimulus signal, the copper demand outlook faces further near-term deterioration.",
+          "sector": "Base Metals",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNBC / Trading Economics / Invezz",
+          "publishedAtISO": "2026-05-19T04:00:00Z",
+          "publishedAt": "May 19, 2026, 11:00 Bangkok"
+        },
+        {
+          "headline": "Tsingshan Curbs NPI Output at Weda Bay to Redirect Power to Aluminum Smelting",
+          "body": "China's Tsingshan Group asked nickel pig iron (NPI) producers at Indonesia's Weda Bay industrial park to cut output in June to redirect power to its aluminum plant, where surging prices have sharply improved margins, according to three sources cited by Reuters on May 18. The move will divert electricity from 22 NPI facilities — a key stainless-steel feedstock — to Tsingshan's co-owned aluminum plant, signaling a structural shift in how the world's largest commodity conglomerate allocates smelting capacity. Nickel prices bounced on the news, while the development reinforces the aluminum supply tightness narrative driven by the Middle East conflict-related energy crunch. Market watchers flagged this as a tangible demand-side driver for aluminum alongside Middle East supply disruptions.",
+          "sector": "Base Metals",
+          "sentiment": "positive",
+          "magnitude": "medium",
+          "source": "Reuters / Mining.com",
+          "publishedAtISO": "2026-05-18T08:05:00Z",
+          "publishedAt": "May 18, 2026, 15:05 Bangkok"
+        },
+        {
+          "headline": "USDA WASDE Flags Sharp U.S. Wheat & Corn Output Declines; Corn Stocks Hit 13-Year Low",
+          "body": "The USDA's May 2026 WASDE projected U.S. wheat production at 1,561 million bushels, down 424 million from last year, with the season-average farm price rising $1.50 to $6.50/bushel. U.S. corn output was cut 6% year-on-year to 16.0 billion bushels on lower planted area, with world corn ending stocks projected at 277.5 million metric tons — the lowest since 2013/14 — as global consumption exceeds production by 19.4 million tons. Corn futures rallied 14–18 cents at midday Monday on the report and additional US-China trade optimism after Beijing agreed to purchase at least $17 billion in U.S. agricultural products. Drought conditions in Nebraska and Oklahoma are adding further downside pressure on U.S. crop conditions, with winter wheat rated just 28% good-to-excellent, the weakest for this time of year since 2022.",
+          "sector": "Agriculture",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "USDA / iGrow News / Barchart",
+          "publishedAtISO": "2026-05-18T07:00:00Z",
+          "publishedAt": "May 18, 2026, 14:00 Bangkok"
+        }
+      ]
+    }
+  }
+}
