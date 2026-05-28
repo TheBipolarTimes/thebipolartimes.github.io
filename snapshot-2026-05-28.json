@@ -1,0 +1,183 @@
+{
+  "publication": "The BiPolar Times",
+  "slogan": "The Newspaper That Connects The Markets Of Both Worlds",
+  "timezone": "Asia/Bangkok",
+  "exportedAt": "2026-05-28T04:31:50.342Z",
+  "generatedFrom": "private-dashboard",
+  "sections": {
+    "us": {
+      "id": "us",
+      "label": "US",
+      "ticker": "NYSE · NASDAQ · S&P 500",
+      "lastUpdated": "2026-05-28T04:25:56.142Z",
+      "news": [
+        {
+          "headline": "Snowflake Surges ~37% After-Hours on Q1 Beat and $6B AWS AI Deal",
+          "body": "Snowflake reported Q1 FY2027 revenue of $1.39B (+33% YoY), beating the $1.32B consensus, with adjusted EPS of $0.39 vs. $0.32 expected — the company's strongest sequential dollar growth on record. Simultaneously, it announced a $6B multi-year infrastructure commitment to AWS, its largest ever, centered on Graviton chips and AI GPU workloads. Management raised full-year FY2027 product revenue guidance to $5.84B from $5.66B. Shares soared roughly 37% in after-hours trading, signaling a decisive validation of Snowflake's AI monetization pivot.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Investing.com / SiliconANGLE",
+          "publishedAtISO": "2026-05-28T01:00:00Z",
+          "publishedAt": "May 28, 2026, 08:00 Bangkok"
+        },
+        {
+          "headline": "Salesforce Beats Q1 Estimates but Soft Q2 Guidance Keeps Shares Under Pressure",
+          "body": "Salesforce reported Q1 FY2027 revenue of $11.13B (+13% YoY), topping the $11.05B consensus, with adjusted EPS of $3.88 — crushing the $3.12 estimate by 24%. However, Q2 revenue guidance of ~$11.3B fell short of analysts' $11.4B average, and remaining performance obligations of $67.9B missed the $68.9B forecast. Shares remained pressured after hours, as investors continued to weigh AI disruption fears against Agentforce ARR growth of over 200% YoY, with the stock already down ~33% in 2026.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Bloomberg / FX Leaders",
+          "publishedAtISO": "2026-05-27T20:48:00Z",
+          "publishedAt": "May 28, 2026, 03:48 Bangkok"
+        },
+        {
+          "headline": "JPMorgan Shares Drop ~3% After Dimon Flags Up to $20B Acquisition Budget",
+          "body": "JPMorgan CEO Jamie Dimon disclosed at the Bernstein Strategic Decisions Conference that the bank could deploy $10B–$20B on an acquisition within the next couple of years — which would be the largest deal of his 20-year tenure. Shares fell about 3% on the day, as investors weighed capital deployment risk and higher expense projections against the bank's $4.9 trillion asset base. Dimon did not name any target sectors or companies, and tempered his remarks by calling M&A a tool of last resort, preferring organic growth.",
+          "sector": "Finance",
+          "sentiment": "negative",
+          "magnitude": "medium",
+          "source": "CNBC / Stocktwits",
+          "publishedAtISO": "2026-05-27T16:12:00Z",
+          "publishedAt": "May 27, 2026, 23:12 Bangkok"
+        },
+        {
+          "headline": "Zscaler Plunges 31% Despite Q3 Beat as Free Cash Flow Guidance Slashed",
+          "body": "Zscaler beat Q3 FY2026 headline metrics — revenue of $850.5M vs. $835.7M expected and non-GAAP EPS of $1.08 vs. $1.01 — but the stock cratered 31% after management cut full-year free cash flow margin guidance from 26.5–27% to 22.8–23.3%, a ~370 bps reduction. CFO Kevin Rubin cited surging costs for memory, storage, and processors, with capex pulled forward into Q4 to lock in prices. The sharp margin guidance cut overshadowed the revenue beat and raised concerns about rising infrastructure costs across the cybersecurity sector.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Artvoice / SEC Filing",
+          "publishedAtISO": "2026-05-27T13:00:00Z",
+          "publishedAt": "May 27, 2026, 20:00 Bangkok"
+        },
+        {
+          "headline": "Micron Joins $1 Trillion Club After UBS Triples Price Target to $1,625",
+          "body": "Micron surged 19.29% to close at $895.88 on May 26, crossing a $1 trillion market cap for the first time, after UBS analyst Timothy Arcuri tripled his price target from $535 to a Street-high $1,625, citing structural shifts in AI-driven memory demand and long-term supply agreements that he argues justify an Nvidia-like valuation multiple. UBS projected EPS exceeding $100 through at least 2029, framing the upgrade as a multiple-rerating call rather than a cyclical numbers raise. The move lifted the broader Philadelphia Semiconductor Index by 5.53% and powered the S&P 500 and Nasdaq to fresh record highs.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CNBC / Bloomberg",
+          "publishedAtISO": "2026-05-26T21:00:00Z",
+          "publishedAt": "May 27, 2026, 04:00 Bangkok"
+        }
+      ]
+    },
+    "asia": {
+      "id": "asia",
+      "label": "East + SE Asia",
+      "ticker": "Nikkei · HSI · SSE · KOSPI · TWSE · SET · SGX · IDX · KLSE · PSEi · VN-Index",
+      "lastUpdated": "2026-05-28T04:26:56.669Z",
+      "news": [
+        {
+          "headline": "Xiaomi Q1 Profit Drops 43%, Revenue Misses on Memory Cost 'Super Cycle'",
+          "body": "Xiaomi Corp reported Q1 2026 adjusted net profit of 6.07 billion yuan, down 43.1% year-on-year and below the 6.4 billion yuan consensus estimate, as a memory-chip cost surge and weaker smartphone shipments weighed on results. Revenue fell 10.9% to 99.14 billion yuan, also missing the LSEG forecast of 103.4 billion yuan; smartphone revenue alone fell 12.5%. Short interest in Xiaomi on the Hong Kong exchange had already hit a record ahead of the print on cost and EV competition concerns, and the stock fell 4.6% on the HSI on May 27. The earnings miss reinforces bearish concerns about margin pressure across Chinese consumer-tech hardware names exposed to the AI memory super-cycle.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Caixin Global / Bloomberg",
+          "publishedAtISO": "2026-05-27T10:16:00Z",
+          "publishedAt": "May 27, 2026, 17:16 Bangkok"
+        },
+        {
+          "headline": "KOSPI Extreme Polarisation: Samsung+SK Hynix Top 50% of Index as KOSDAQ Drops 3.36%",
+          "body": "On May 27, the combined market cap of Samsung Electronics and SK Hynix surpassed half of the entire KOSPI for the first time, as SK Hynix surged 9.31% and Samsung rose 2.68%, while 826 of the roughly 900 KOSPI-listed stocks declined. The KOSDAQ fell 3.36% to 1,133 — its largest single-day decline in weeks — as leverage ETF inflows into the two chip giants effectively drained liquidity from broader small- and mid-cap shares. Korea's fear gauge, the VKOSPI, rose 4% to 70.83, a level last seen at the outbreak of the Iran war. Analysts warned that proliferating single-stock leverage ETFs tracking the two heavyweights risk amplifying future volatility across the entire market.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Seoul Economic Daily / Asia Business Daily",
+          "publishedAtISO": "2026-05-27T09:21:00Z",
+          "publishedAt": "May 27, 2026, 16:21 Bangkok"
+        },
+        {
+          "headline": "Samsung Union Ratifies Wage Deal, Stock Surges 8%; KOSPI Hits Record 8,228",
+          "body": "Samsung Electronics union members voted 73.7% in favour of a compensation deal on May 27, averting an 18-day strike that threatened global memory-chip supply. The agreement hands chip workers an average bonus of approximately $340,000, with performance bonuses tied to AI-driven profits over the next decade. Samsung shares rose as much as 8% in Seoul on the day, while the KOSPI closed at a record 8,228.7 — up 2.52% — driven by Samsung and SK Hynix. JP Morgan had warned the strike could have cut Samsung's annual operating profit by more than 40 trillion won.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Bloomberg / Japan Times",
+          "publishedAtISO": "2026-05-27T06:06:00Z",
+          "publishedAt": "May 27, 2026, 13:06 Bangkok"
+        },
+        {
+          "headline": "China April Industrial Profits Surge 24.7%, Fastest Gain in Over Two Years",
+          "body": "China's National Bureau of Statistics reported on May 27 that industrial profits jumped 24.7% year-on-year in April, accelerating from 15.8% in March and marking the strongest gain since November 2023. Computing and electronics equipment manufacturing — the largest sector by profit — more than doubled year-on-year, while oil and gas extraction profits reversed earlier declines. Despite the headline beat, analysts cautioned that gains remain concentrated in upstream and high-tech sectors, with broader industries still struggling; the CSI 300 dipped 0.79% on the day as investors weighed the uneven recovery. The data nonetheless provided a floor for China-exposed equities and reinforced selective rotation into tech and energy names.",
+          "sector": "Other",
+          "sentiment": "neutral",
+          "magnitude": "medium",
+          "source": "CNBC / Bloomberg",
+          "publishedAtISO": "2026-05-27T04:00:00Z",
+          "publishedAt": "May 27, 2026, 11:00 Bangkok"
+        },
+        {
+          "headline": "Nikkei Hits Fresh Record Above 65,800 on AI-Tech Rally; SoftBank Hits 52-Wk High",
+          "body": "Japan's Nikkei 225 jumped 1.3% to above 65,800 on May 27, scaling a fresh all-time high as a Wall Street tech-led rally overnight spilled into Tokyo; the broader Topix gained 0.3% to 3,950. Advantest surged 5.3%, Tokyo Electron rose 3.8%, and Fujikura climbed 2.4%, while SoftBank Group reached a new 52-week high of ¥8,038. Bank of Japan Deputy Governor Ryozo Himino reiterated commitment to further rate hikes but said timing depends on how the Middle East conflict affects Japan's inflation and growth outlook. Financial stocks lagged, with Mitsubishi UFJ, Sumitomo Mitsui, and Mizuho all falling more than 1%, reflecting yield-curve pressure.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Trading Economics / Reuters",
+          "publishedAtISO": "2026-05-27T03:30:00Z",
+          "publishedAt": "May 27, 2026, 10:30 Bangkok"
+        }
+      ]
+    },
+    "commodities": {
+      "id": "commodities",
+      "label": "Commodities",
+      "ticker": "WTI · Brent · Gas · RBOB · Heating Oil · Coal · Gold · Silver · Copper · Aluminum · Iron Ore · Lithium · Platinum · Palladium · Grains · Softs · Oilseeds · Lumber · Rubber · BDI",
+      "lastUpdated": "2026-05-28T04:27:50.611Z",
+      "news": [
+        {
+          "headline": "WTI, Brent Plunge >5% as Iran-US Peace Talks Revive Hormuz Reopening Hopes",
+          "body": "WTI crude futures tumbled more than 5% to close at $88.68/bbl on May 27, while Brent shed more than 5% to settle at $94.29/bbl — their lowest levels in roughly five weeks — after Secretary of State Rubio said the US would give diplomacy with Iran \"every chance to succeed.\" Iranian state television also reported Tehran had committed to restoring Hormuz commercial traffic to pre-war levels within one month, though the White House dismissed the draft memorandum as \"a complete fabrication.\" Oil is now down more than 16% in May after surging in March-April on Hormuz closure fears. Markets remain highly sensitive to any signal that the strait — which carried ~20% of global oil and LNG flows pre-conflict — could reopen, though Rubio warned a final deal may still take several days.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNBC / Trading Economics",
+          "publishedAtISO": "2026-05-27T20:00:00Z",
+          "publishedAt": "May 28, 2026, 03:00 Bangkok"
+        },
+        {
+          "headline": "TTF European Gas Futures Drop 5% on Iran Hormuz Deal Optimism; Storage at 38%",
+          "body": "European benchmark TTF natural gas futures fell approximately 5% to around €45/MWh on May 27, their lowest level in more than two weeks, after Iranian state television signaled Tehran's intent to restore Hormuz shipping within a month. The Strait of Hormuz normally handles ~20% of global LNG flows; its near-closure since early March has disrupted Qatari and UAE volumes, tightening European supply significantly. European gas storage stands at roughly 38% full — well below the five-year average of over 50% for this time of year — amplifying supply anxiety heading into winter. The price move underscores how tightly European gas markets are tracking US-Iran negotiation headlines, with Ras Laffan (world's largest LNG complex) still offline due to conflict damage.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "FX.co / Trading Economics",
+          "publishedAtISO": "2026-05-27T15:30:00Z",
+          "publishedAt": "May 27, 2026, 22:30 Bangkok"
+        },
+        {
+          "headline": "Gold Falls 2% to Near Two-Month Low as Oil Drop Eases Inflation-Rate-Hike Fears",
+          "body": "Gold dropped roughly 2% to approximately $4,400/oz on May 27 — its lowest in nearly two months — as declining oil prices reduced fears of an energy-driven inflation spike that had been forcing central banks toward tighter policy. Optimism that a US-Iran deal could reopen the Strait of Hormuz eased the commodity's safe-haven premium, while Iranian state media reported a draft agreement framework (subsequently denied by the White House). Gold is now down more than 15% since the conflict began, as the inflation-and-rates narrative has suppressed the metal's traditional geopolitical bid. On May 28, gold steadied near $4,450/oz as peace talks remained deadlocked on core issues including Iran's nuclear program and Hormuz control.",
+          "sector": "Gold",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Trading Economics",
+          "publishedAtISO": "2026-05-27T14:00:00Z",
+          "publishedAt": "May 27, 2026, 21:00 Bangkok"
+        },
+        {
+          "headline": "Silver Drops Below $75/oz, Down ~20% Since Conflict Began; Copper Eases from $6.40",
+          "body": "Silver fell below $75/oz on May 27, hitting a one-week low, as US-Iran negotiations generated conflicting signals and central bank rate-cut expectations were repeatedly deferred due to energy-driven inflation concerns. Silver is now approximately 20% below levels seen at the conflict's outset, with the metal's dual safe-haven and industrial character leaving it exposed on both the rates and demand-growth fronts. Copper, meanwhile, eased to around $6.34/lb after briefly touching $6.40 — a one-week high — supported by AI-linked electrification demand and Hormuz-related sulfuric acid supply concerns critical to copper smelting; China had suspended sulfuric acid exports due to tight Gulf supply. Both metals remain sensitive to Hormuz diplomacy, with copper supply chains additionally constrained by Codelco targeting ~$2 billion in cost cuts.",
+          "sector": "Precious Metals",
+          "sentiment": "negative",
+          "magnitude": "medium",
+          "source": "Trading Economics",
+          "publishedAtISO": "2026-05-27T12:00:00Z",
+          "publishedAt": "May 27, 2026, 19:00 Bangkok"
+        },
+        {
+          "headline": "Iran's Hormuz Fee Threat Rattles Oil Markets; Traffic at 10% of Pre-War Levels",
+          "body": "Iran's foreign ministry stated on May 26 that navigation through the Strait of Hormuz \"will have costs,\" stoking fears Tehran intends to impose a permanent transit fee on vessels as a condition of any peace deal with the US. Brent crude jumped 2.5% to $98.47/bbl on Tuesday as Iran's IRGC vowed retaliation against US \"defensive strikes,\" while analysts indicated tanker traffic through the strait remains at roughly 10% of normal pre-war levels. Market participants flagged that even an optimistic scenario for supply normalization would require two months for Qatar/Iraq/Saudi production to recover and shipping traffic is not expected to return to normal until Q4 2026. The fee speculation adds a structural risk premium to crude even in a peace scenario, complicating the supply recovery timeline.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNBC",
+          "publishedAtISO": "2026-05-26T18:00:00Z",
+          "publishedAt": "May 27, 2026, 01:00 Bangkok"
+        }
+      ]
+    }
+  }
+}
