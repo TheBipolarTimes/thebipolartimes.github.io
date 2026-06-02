@@ -2,64 +2,64 @@
   "publication": "The BiPolar Times",
   "slogan": "The Newspaper That Connects The Markets Of Both Worlds",
   "timezone": "Asia/Bangkok",
-  "exportedAt": "2026-05-30T08:50:43.409Z",
+  "exportedAt": "2026-06-02T04:04:38.659Z",
   "generatedFrom": "private-dashboard",
   "sections": {
     "us": {
       "id": "us",
       "label": "US",
       "ticker": "NYSE · NASDAQ · S&P 500",
-      "lastUpdated": "2026-05-30T08:40:40.638Z",
+      "lastUpdated": "2026-06-02T03:29:48.727Z",
       "news": [
         {
-          "headline": "Dow Tops 51,000 First Time Ever; S&P 500 Clinches 9th Straight Weekly Gain",
-          "body": "U.S. stocks closed Friday May 29 at all-time highs, with the Dow Jones Industrial Average surging 0.7% above the 51,000 milestone for the first time and the S&P 500 rising 0.2% to 7,580 to seal a ninth consecutive weekly advance — its longest winning streak since 2023. The Nasdaq added 0.3% and closed May up 8%, capping what analysts called one of the strongest two-month stretches since 2020. The nine-week rally was driven by AI earnings validation from Dell, Snowflake, and Micron, easing oil prices on U.S.-Iran ceasefire optimism, and a PCE inflation print that came in slightly below expectations. The Russell 2000 was the lone laggard, slipping 0.6%, while Treasuries posted their best week since the U.S.-Iran war began.",
-          "sector": "Other",
-          "sentiment": "positive",
+          "headline": "Commerce Dept Closes Nvidia Chip Export Loophole; NVDA Dips on China Risk",
+          "body": "The U.S. Bureau of Industry and Security issued guidance on May 31 mandating that advanced AI processors—including Nvidia's Blackwell and Rubin chips and AMD's MI350x—now require export licenses when sold to Chinese-headquartered entities regardless of where delivery occurs, closing a loophole that allowed Chinese firms to route purchases through Southeast Asian subsidiaries. The rule change erases a workaround Chinese companies had exploited for roughly a year via Malaysian and Singaporean subsidiaries. Nvidia shares, which had surged on the RTX Spark PC chip launch, reversed intraday to trade down ~1.5% as the export crackdown could block hundreds of thousands of chips from reaching Chinese end-users. The ruling adds a new regulatory overhang to Nvidia's data-center revenue outlook and raised fresh concerns about AMD's international sales pipeline.",
+          "sector": "Technology",
+          "sentiment": "negative",
           "magnitude": "high",
-          "source": "Yahoo Finance / TheStreet",
-          "publishedAtISO": "2026-05-29T21:51:00Z",
-          "publishedAt": "May 30, 2026, 04:51 Bangkok"
+          "source": "Reuters / U.S. Commerce Dept",
+          "publishedAtISO": "2026-06-01T23:00:00Z",
+          "publishedAt": "Jun 2, 2026, 06:00 Bangkok"
         },
         {
-          "headline": "ServiceNow Surges 14% as Dell AI Shock Triggers Enterprise Software Re-Rating",
-          "body": "ServiceNow stock posted its largest single-session gain in over a year, surging 14.4%, as Dell's blowout AI infrastructure print triggered a broad reassessment of enterprise software valuations. ServiceNow had separately beaten its own Q1 2026 estimates, delivering EPS of $0.97 vs. consensus of $0.80 and revising full-year 2026 subscription revenue guidance to $15.74B–$15.78B, implying ~22% YoY growth. Analysts characterized NOW's AI governance and workflow automation layer as directly in the path of accelerating enterprise AI spending. The move lifted the broader IGV software ETF and peers including CrowdStrike (+8.9%) and Palantir (+9.2%).",
+          "headline": "Nvidia Unveils RTX Spark PC Superchip at Computex; NVDA +6%, Dell +10%, HP +8%",
+          "body": "At Computex 2026 in Taipei, Nvidia CEO Jensen Huang unveiled the RTX Spark superchip—an Arm-based processor co-developed with Microsoft and MediaTek combining a Blackwell GPU with a custom Grace CPU and 128GB unified memory—marking Nvidia's entry into the PC market. The chip will debut in fall 2026 Windows laptops and desktops from Dell, HP, Microsoft, Lenovo, ASUS, and MSI, directly challenging Qualcomm's Snapdragon X franchise; Qualcomm fell ~7% on competitive fears while Intel dropped ~6%. Nvidia shares surged more than 6% intraday to near $222, and Dell Technologies and HP Inc gained 10% and 8% respectively as investors priced in new PC upgrade supercycle potential. Huang also confirmed Nvidia's Vera Rubin data-center CPUs are in full production, with early customers including Anthropic, OpenAI, and CoreWeave.",
           "sector": "Technology",
           "sentiment": "positive",
           "magnitude": "high",
-          "source": "StartupHub.ai / CNBC",
-          "publishedAtISO": "2026-05-29T21:00:00Z",
-          "publishedAt": "May 30, 2026, 04:00 Bangkok"
+          "source": "CNBC",
+          "publishedAtISO": "2026-06-01T13:00:00Z",
+          "publishedAt": "Jun 1, 2026, 20:00 Bangkok"
         },
         {
-          "headline": "Dell Q1 FY27 Shocks Wall Street: AI Server Revenue Surges 757%, Stock +33%",
-          "body": "Dell Technologies reported Q1 FY27 revenue of $43.8B vs. consensus of $35.77B and adjusted EPS of $4.86 vs. $2.96 expected, driven by $16.1B in AI server revenue and $24.4B in new AI orders. Management raised full-year revenue guidance by $27B to $165B–$169B and hiked FY27 adjusted EPS guidance to $17.90 from $12.90, including a $60B AI server sales forecast. Shares surged ~33% for their best single session on record, with the company carrying a record $51.3B AI-related backlog. Multiple analysts sharply raised price targets, with Barclays moving to $550 and Bernstein to $500.",
+          "headline": "IBM Surges 12%+ as Trump Praise Video Goes Viral and Barclays Initiates at Overweight",
+          "body": "IBM stock surged up to 15% in premarket and closed ~12% higher on June 1 after a December 2025 White House roundtable video resurfaced on social media showing President Trump calling CEO Arvind Krishna 'a legend' and predicting the stock would rise further, accumulating over 700,000 views. The social-media-driven rally was compounded by Barclays initiating coverage with an Overweight rating and a $350 price target, citing IBM's highly stable enterprise software customer base and nearly 50% software revenue mix. Wedbush also reaffirmed an Outperform rating at $320, calling IBM the center of a '$1 trillion value creation engine.' The move extends IBM's largest weekly percentage gain since April 2001, itself driven by a U.S.-backed quantum computing foundry announcement the prior week.",
           "sector": "Technology",
           "sentiment": "positive",
           "magnitude": "high",
-          "source": "CNBC / Bloomberg",
-          "publishedAtISO": "2026-05-29T13:00:00Z",
-          "publishedAt": "May 29, 2026, 20:00 Bangkok"
+          "source": "Investing.com / Barron's",
+          "publishedAtISO": "2026-06-01T12:00:00Z",
+          "publishedAt": "Jun 1, 2026, 19:00 Bangkok"
         },
         {
-          "headline": "Costco Q3 Sales Jump 11.6% to $69.15B on Record Gas Volumes; Stock Slips on Slim EPS Miss",
-          "body": "Costco (NASDAQ: COST) reported fiscal Q3 2026 net sales of $69.15 billion, up 11.6% year-over-year, and total revenue of $70.53 billion, topping the consensus estimate, driven by record-breaking gasoline volumes as Middle East-driven fuel prices pushed new shoppers to Costco pumps. Net income rose 15.2% to $2.19 billion, or $4.93 per diluted share, and comparable sales climbed 9.8%, including 21.5% growth in digitally-enabled channels. However, the adjusted EPS of $4.93 narrowly missed some analyst estimates of $4.97–$4.98, and gross margins were slightly compressed, enough to trigger valuation discipline in a stock trading near 52x earnings. Shares closed around $995, down about 0.85%, as the market signaled that merely strong results are insufficient to justify further multiple expansion at current levels.",
-          "sector": "Consumer",
-          "sentiment": "neutral",
-          "magnitude": "medium",
-          "source": "Yahoo Finance / EBC Financial Group",
-          "publishedAtISO": "2026-05-28T20:15:00Z",
-          "publishedAt": "May 29, 2026, 03:15 Bangkok"
+          "headline": "Berkshire Hathaway Acquires Taylor Morrison for $8.5B; TMHC Pops 22%",
+          "body": "Berkshire Hathaway agreed to acquire homebuilder Taylor Morrison Home Corporation for $72.50 per share in cash—a 24% premium to its May 29 close—valuing the equity at ~$6.8 billion and total enterprise value at ~$8.5 billion. The deal is the first major strategic acquisition under new CEO Greg Abel, who succeeded Warren Buffett at the start of 2026, and would create the fourth-largest homebuilder in the U.S. by combining Taylor Morrison with Berkshire's existing Clayton Homes and building products businesses. Taylor Morrison shares surged 22% on June 1 and shares of peer homebuilders broadly gained as investors interpreted the move as a long-term vote of confidence in the U.S. housing recovery. The all-cash deal is expected to close in the second half of 2026 pending regulatory and shareholder approval.",
+          "sector": "Finance",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Bloomberg / SEC Filing",
+          "publishedAtISO": "2026-06-01T09:00:00Z",
+          "publishedAt": "Jun 1, 2026, 16:00 Bangkok"
         },
         {
-          "headline": "Snowflake Surges 36% on Blowout Q1, $6B AWS Deal Counters 'SaaSpocalypse' Fears",
-          "body": "Snowflake reported Q1 fiscal revenue of $1.39B (+33.5% YoY), beating estimates of $1.32B, with adjusted EPS of $0.39 vs. $0.32 expected, while AI accounts on its platform grew from 9,100 to 13,600 in one quarter. The company simultaneously announced a $6B multi-year compute partnership with AWS leveraging Graviton and AI GPU technologies, and raised full-year product revenue guidance by $180M. Shares closed 36% higher in their best day ever, sparking a broad software rally with ServiceNow +14%, Palantir +9%, and Oracle +6%. The results directly challenged the prevailing 'SaaSpocalypse' narrative that AI would destroy legacy SaaS business models.",
+          "headline": "Software Stocks Stage Broad Rally as Huang Dismisses AI Disruption Fears",
+          "body": "Enterprise software stocks extended a two-day surge on June 1 after Nvidia CEO Jensen Huang declared at Computex that agentic AI would expand—not destroy—demand for software, arguing that AI agents will use 'more tools than ever.' ServiceNow surged ~10%, Atlassian gained ~15%, Salesforce rose ~8.5%, and Adobe and Workday each advanced ~5%, with the iShares Expanded Tech-Software Sector ETF (IGV) gaining ~4.7% on the day. The rally reversed months of sector underperformance driven by fears that AI agents would cannibalize traditional enterprise software, and IBM's parallel 12% gain added further momentum. Markets now price software platforms as essential AI infrastructure rather than disruption victims, a significant re-rating with broad implications for enterprise tech valuations.",
           "sector": "Technology",
           "sentiment": "positive",
           "magnitude": "high",
-          "source": "CNBC / FX Leaders",
-          "publishedAtISO": "2026-05-28T20:00:00Z",
-          "publishedAt": "May 29, 2026, 03:00 Bangkok"
+          "source": "Investing.com / Invezz",
+          "publishedAtISO": "2026-06-01T07:42:00Z",
+          "publishedAt": "Jun 1, 2026, 14:42 Bangkok"
         }
       ]
     },
@@ -67,57 +67,57 @@
       "id": "asia",
       "label": "East + SE Asia",
       "ticker": "Nikkei · HSI · SSE · KOSPI · TWSE · SET · SGX · IDX · KLSE · PSEi · VN-Index",
-      "lastUpdated": "2026-05-30T08:48:20.617Z",
+      "lastUpdated": "2026-06-02T03:34:58.827Z",
       "news": [
         {
-          "headline": "Samsung Hits ₩2,000T Market Cap as HBM4E Debut Drives KOSPI to Record 8,476",
-          "body": "Samsung Electronics surged over 5% on May 29 after announcing the world's first shipment of 12-layer HBM4E samples to global customers including Nvidia, AMD, and Google — pulled forward by six months from the originally planned H2 2026 timeline. The chip delivers a 20%+ speed improvement over HBM4 and positions Samsung ahead of SK Hynix and Micron, whose own HBM4E samples are slated for H2. Samsung's market cap crossed 2,000 trillion won for the first time, a milestone for the Korean market. The KOSPI closed up 3% at a fresh record of 8,476.15, with Korea Investment & Securities setting a 570,000-won target on Samsung, implying ~80% further upside.",
-          "sector": "Technology",
-          "sentiment": "positive",
-          "magnitude": "high",
-          "source": "Reuters / Korea Herald / Seoul Economic Daily",
-          "publishedAtISO": "2026-05-29T09:41:00Z",
-          "publishedAt": "May 29, 2026, 16:41 Bangkok"
-        },
-        {
-          "headline": "Lenovo Surges 22% on HSI to Record HK$24 After Blowout AI Earnings; Stock Doubles in May",
-          "body": "Lenovo Group (0992.HK) jumped ~22% on May 29 to HK$24.00, capping a 109% gain for the month of May after the company reported Q4 revenue of $21.6 billion (+27% YoY) with net profit up 479% YoY, driven by its Infrastructure Solutions division growing 37% on AI server demand. AI-related revenue surged 84% and now represents 38% of total sales. The stock hit an all-time high and is the top Hang Seng constituent YTD with a 159% gain, more than triple the second-best performer. The Hang Seng Index recovered 0.7% on the day, with Lenovo the single largest positive contributor.",
-          "sector": "Technology",
-          "sentiment": "positive",
-          "magnitude": "high",
-          "source": "Yahoo Finance / IndexBox / Morningstar",
-          "publishedAtISO": "2026-05-29T08:08:00Z",
-          "publishedAt": "May 29, 2026, 15:08 Bangkok"
-        },
-        {
-          "headline": "Japan's Topix Hits All-Time Record, Nikkei +2.5% as MLCC Stocks Surge 12–20%",
-          "body": "Japan's Topix rose 1.41% to an all-time high of 3,957.17 on May 29, while the Nikkei 225 gained 2.53% to 66,329.5, driven by a broad surge in semiconductor-related components. Silicon wafer maker SUMCO soared ~19.3%, Taiyo Yuden gained ~13.9%, Murata Manufacturing rose ~12.7%, and substrate maker Ibiden jumped ~16.5%, following brokerage upgrades that raised H2 2026 demand forecasts for MLCCs and silicon wafers used in AI servers. SoftBank Group added 5.1% on AI sentiment. Tailwinds also included softer-than-expected Tokyo CPI (1.3%) and an upside surprise in Japan's April retail sales and industrial production.",
-          "sector": "Technology",
-          "sentiment": "positive",
-          "magnitude": "high",
-          "source": "CNBC / TradingEconomics / Japan Stock Intel / TradingKey",
-          "publishedAtISO": "2026-05-29T07:00:00Z",
-          "publishedAt": "May 29, 2026, 14:00 Bangkok"
-        },
-        {
-          "headline": "DRAM May Contract Price Breaches $20 Mark for First Time; TrendForce Flags Q3 Uptrend",
-          "body": "TrendForce published its May 2026 DRAM contract price update on May 29, confirming prices broke the $20 threshold for the first time — recording the steepest monthly gain of the year — as AI server restocking and low supplier inventories sustain strong pricing power. PC DRAM contract prices rose significantly in Q2 and the upward trend is projected to extend through Q3 and Q4 2026. The data directly benefits Samsung Electronics and SK Hynix, the dominant DRAM suppliers whose combined KOSPI weighting exceeds 42%, amplifying index sensitivity to the memory supercycle. The print reinforces buy cases across the Korean and Japanese semiconductor supply chains.",
-          "sector": "Technology",
-          "sentiment": "positive",
-          "magnitude": "high",
-          "source": "TrendForce / Seoul Economic Daily",
-          "publishedAtISO": "2026-05-29T06:50:00Z",
-          "publishedAt": "May 29, 2026, 13:50 Bangkok"
-        },
-        {
-          "headline": "Asia Markets Rebound as US-Iran Agree 60-Day Ceasefire Extension; Hang Seng -1.3% on Prior Day",
-          "body": "Asian equity markets rallied on May 29 after overnight reports confirmed Washington and Tehran agreed to a 60-day extension of their ceasefire and began nuclear talks, with a White House official citing a deal that also pointed to possible unrestricted Strait of Hormuz shipping resumption. The KOSPI gained 3%+, the Nikkei 225 added 2.53%, and the Hang Seng recovered 0.7%, partially reversing its 1.3% drop the prior session when escalating U.S. strikes and Iranian missile activity near Kuwait had rattled regional sentiment. Oil prices edged lower on the deal, relieving pressure on energy-import-dependent Japan and South Korea. The ceasefire extension also spilled into Wall Street record closes overnight, reinforcing the Asia open.",
+          "headline": "Nikkei and KOSPI retreat as Trump signals indifference to Iran peace talks collapsing",
+          "body": "Asia-Pacific markets sold off on June 2 after U.S. President Trump told CNBC he was indifferent to Iran peace negotiations failing, saying 'I don't care if they're over, honestly.' Japan's Nikkei 225 fell 1.32% and the Topix declined 1.14%, unwinding part of the prior session's SoftBank-led gains. South Korea's KOSPI fell 1.92% and the small-cap Kosdaq dropped 3.13% as profit-taking set in after its record-setting run. Brent crude remained elevated near $96/barrel, with ongoing Strait of Hormuz disruptions sustaining an oil-price risk premium that compresses margins for energy-intensive Japanese and Korean manufacturers.",
           "sector": "Other",
+          "sentiment": "negative",
+          "magnitude": "medium",
+          "source": "CNBC",
+          "publishedAtISO": "2026-06-02T04:00:00Z",
+          "publishedAt": "Jun 2, 2026, 11:00 Bangkok"
+        },
+        {
+          "headline": "TSMC Hits $2.28T Market Cap as Computex AI Announcements Drive 5% Surge",
+          "body": "Taiwan Semiconductor Manufacturing Co surged more than 5% on June 1, pushing its market capitalisation above $2.28 trillion to a record high, as Nvidia's unveiling of its Vera Rubin AI computing platform at GTC Taipei — to be manufactured entirely on TSMC's 3nm process — cemented TSMC's role as the indispensable backbone of global AI infrastructure. A separate catalyst emerged from supply-chain sources indicating TSMC plans to raise 3nm wafer pricing by up to 15% in H2 2026, with fully utilised capacity already generating extended customer wait times. Taiwan's TAIEX benchmark crossed the 45,000 level for the first time, with TSMC, Foxconn, MediaTek, and Quanta all simultaneously hitting all-time highs. TSMC's US ADRs climbed ~5.4% to $441, sharply outperforming a flat S&P 500, as investors priced in a structurally higher revenue and margin outlook heading into the June 4 shareholder meeting.",
+          "sector": "Technology",
           "sentiment": "positive",
           "magnitude": "high",
-          "source": "CNBC / TradingEconomics / IANS",
-          "publishedAtISO": "2026-05-29T01:00:00Z",
-          "publishedAt": "May 29, 2026, 08:00 Bangkok"
+          "source": "Investing.com / GuruFocus / ts2.tech",
+          "publishedAtISO": "2026-06-01T21:00:00Z",
+          "publishedAt": "Jun 2, 2026, 04:00 Bangkok"
+        },
+        {
+          "headline": "Samsung Electronics hits all-time high, KOSPI record as HBM4E chips ship and strike averted",
+          "body": "Samsung Electronics surged over 10% on June 1 to close at a record high of 347,500 KRW, becoming the first Korean stock to breach 2,000 trillion won in market cap. Three simultaneous catalysts drove the move: the company began shipping HBM4E memory samples to customers globally ahead of rivals, a union strike threat involving ~48,000 workers was averted after 74% of members approved a new pay deal, and Nvidia CEO Jensen Huang was expected to visit Seoul this week for meetings with Samsung and other Korean tech leaders. Goldman Sachs raised its Samsung price target to 480,000 KRW on the day, reframing memory as predictable 'AI infrastructure' rather than a cyclical commodity. The KOSPI surged 3.68%–4.31% intraday to successive record highs above 8,800, triggering an 11th sidecar circuit-breaker on program buy orders.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Seoul Economic Daily / CoinCentral / TradingKey",
+          "publishedAtISO": "2026-06-01T17:44:00Z",
+          "publishedAt": "Jun 2, 2026, 00:44 Bangkok"
+        },
+        {
+          "headline": "Hang Seng Rises 0.7% to 25,182 as Lenovo's Record AI Earnings Lift Tech Sector",
+          "body": "The Hang Seng Index recovered on June 1 to close up 0.7% at 25,182, as improved risk sentiment followed a tentative 60-day US-Iran ceasefire extension, with Lenovo (HKSE: 992) among the standout movers after its record FY2026 earnings print drove a near-20% share price gain the prior Friday. Lenovo reported full-year revenue of $83.1 billion — the strongest in the company's history — with AI-related sales surging 105% year-on-year to account for 33% of group revenue, while Q4 net income grew nearly six-fold to $521 million. The broader Hong Kong tech complex benefited, with Tencent Holdings gaining 2.4%, Lenovo jumping ~22% on the week, and Xiaomi adding 2.1%, as regulatory normalisation in Beijing continued to provide sector clarity. CEO Yuanqing Yang set a $100 billion revenue target within two years, anchoring the AI growth thesis that has helped the Hang Seng deliver approximately 28.7% year-to-date returns as of late May.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CNBC / Yahoo Finance / TradingEconomics",
+          "publishedAtISO": "2026-06-01T12:00:00Z",
+          "publishedAt": "Jun 1, 2026, 19:00 Bangkok"
+        },
+        {
+          "headline": "SoftBank overtakes Toyota as Japan's most valuable firm after €75B France AI commitment",
+          "body": "SoftBank Group announced plans to invest up to €75 billion ($87 billion) to build 5 GW of AI data center capacity in France, with the first phase comprising €45 billion for 3.1 GW in northern France by 2031. The announcement, made at President Macron's Choose France summit, is SoftBank's largest AI infrastructure investment in Europe and includes a partnership with Schneider Electric in Dunkirk. Shares surged 14% on June 1, extending SoftBank's year-to-date gain to over 70%, lifting it past Toyota to become Japan's most valuable company. SoftBank's $30 billion-plus stake in OpenAI generated $45 billion in gains in the fiscal year ended March, reinforcing its positioning at the core of the global AI value chain.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CNBC / Japan Times / Fortune",
+          "publishedAtISO": "2026-06-01T08:00:00Z",
+          "publishedAt": "Jun 1, 2026, 15:00 Bangkok"
         }
       ]
     },
@@ -125,57 +125,57 @@
       "id": "commodities",
       "label": "Commodities",
       "ticker": "WTI · Brent · Gas · RBOB · Heating Oil · Coal · Gold · Silver · Copper · Aluminum · Iron Ore · Lithium · Platinum · Palladium · Grains · Softs · Oilseeds · Lumber · Rubber · BDI",
-      "lastUpdated": "2026-05-30T08:50:29.774Z",
+      "lastUpdated": "2026-06-02T04:03:48.953Z",
       "news": [
         {
-          "headline": "Wheat Hits 5-Week Low as USDA Flags Record-Small Winter Harvest; Grains Extend Slide",
-          "body": "Chicago wheat futures tumbled to a low since May 8, closing at $6.10½/bu on May 29 — a fifth consecutive daily decline — after USDA projected the 2026-27 US winter wheat harvest at just 1.048 billion bushels, the smallest since 1965, down 25% year-over-year due to persistent Southern Plains dryness. Corn also fell 9 cents to $4.46¾/bu and soybeans dropped 7¾ cents to $11.86¾/bu as the market unwound war-risk premiums tied to improving Iran ceasefire prospects that had briefly supported ag complex prices. Soybean export data remained bearish, with 2025-26 US cumulative shipments down 21% year-on-year and tracking a 13-year low. Forecast weekend rains for Kansas and Nebraska offered limited price support ahead of the June acreage report.",
-          "sector": "Agriculture",
+          "headline": "WTI Surges 6–8% as Iran Halts US Talks, Threatens Hormuz Closure",
+          "body": "WTI crude futures spiked more than 8% intraday on June 1 after Iranian media reported Tehran suspended communications with Washington in response to Israeli strikes in Lebanon and signaled preparations to fully close the Strait of Hormuz. Prices settled up ~6% above $92/barrel after Trump said Israel and Hezbollah had agreed to a halt in Lebanon and that Iran talks were continuing, pulling oil from session highs. Brent rose ~5% to above $95/barrel on the same session, with markets remaining on edge given unresolved clashes between US and Iranian forces near the strait. The move adds to a ~30% rally in crude since the Middle East conflict began in late February, with the Strait of Hormuz remaining effectively closed to normal traffic.",
+          "sector": "Energy",
           "sentiment": "negative",
-          "magnitude": "medium",
-          "source": "Brownfield Ag News / Farm Progress",
-          "publishedAtISO": "2026-05-29T20:15:00Z",
-          "publishedAt": "May 30, 2026, 03:15 Bangkok"
+          "magnitude": "high",
+          "source": "Trading Economics / Bloomberg",
+          "publishedAtISO": "2026-06-01T14:00:00Z",
+          "publishedAt": "Jun 1, 2026, 21:00 Bangkok"
         },
         {
-          "headline": "Gold Climbs to $4,580/oz on Iran Ceasefire Hopes, Logs Monthly Decline",
-          "body": "Gold rose for a second straight session to $4,580/oz on May 29 as reports of a tentative US-Iran 60-day ceasefire extension lifted risk appetite, though the metal remained on track for a ~0.8% monthly loss. Bullion has faced persistent headwinds since late February as the Iran-driven oil price surge fuelled inflation concerns, with April US CPI showing the fastest rise in three years and reinforcing Fed rate-on-hold expectations well into 2027. Demand signals from Asia were muted: Indian demand stayed weak on high prices and import duties while Chinese consumer premiums narrowed. Prices closed the month at $4,576 per CFTC settlement data, well below the January 2026 peak above $5,400.",
+          "headline": "Gold Holds Above $4,500 as Iran Ceasefire Talks Stall; Rate Hike Risk Caps Gains",
+          "body": "Gold steadied above $4,500/oz on June 1–2 following a volatile week, as US-Iran ceasefire negotiations showed little progress and Washington and Tehran continued exchanging draft proposals. The metal faces a dual headwind: Middle East-driven oil inflation is fueling rate hike speculation, with markets now pricing roughly a 50% probability of at least one Fed rate hike by year-end. Silver tracked gold, steadying above $75/oz after a monthly gain of ~4%, though UBS recently cut its silver supply-deficit forecast sharply to 60–70 million oz from 300 million oz. Market focus shifts to Friday's US nonfarm payrolls and the June 16–17 Fed meeting under new Chair Kevin Warsh for the next directional catalyst.",
           "sector": "Gold",
           "sentiment": "neutral",
           "magnitude": "medium",
-          "source": "Trading Economics / Brownfield Ag News",
-          "publishedAtISO": "2026-05-29T20:00:00Z",
-          "publishedAt": "May 30, 2026, 03:00 Bangkok"
+          "source": "Trading Economics / CBS News",
+          "publishedAtISO": "2026-06-01T10:00:00Z",
+          "publishedAt": "Jun 1, 2026, 17:00 Bangkok"
         },
         {
-          "headline": "US Nat Gas Hits 3-Month High on Below-Forecast EIA Storage Build",
-          "body": "US natural gas futures climbed above $3.30/MMBtu — the highest since early February and up over 20% in four weeks — after the EIA reported a 92 bcf storage injection for the week ended May 22, below the 95–96 bcf consensus and well under the 104 bcf year-ago build. The tighter-than-expected injection narrowed the seasonal surplus to 144 bcf above the five-year average, down from 149 bcf the prior week. Additional support came from updated weather forecasts showing above-average temperatures across the western US June 1–10, boosting air-conditioning power demand expectations. LNG export flows to major terminals also eased due to seasonal maintenance, tightening near-term supply further.",
-          "sector": "Energy",
-          "sentiment": "positive",
-          "magnitude": "high",
-          "source": "Trading Economics / Barchart",
-          "publishedAtISO": "2026-05-29T14:30:00Z",
-          "publishedAt": "May 29, 2026, 21:30 Bangkok"
-        },
-        {
-          "headline": "Brent Posts Worst Monthly Loss Since 2020 on US-Iran 60-Day Ceasefire MOU",
-          "body": "Brent crude fell ~19% in May to below $91/bbl — its steepest monthly decline since the Covid-19 pandemic — after US officials confirmed negotiators agreed a 60-day memorandum of understanding to extend the ceasefire and open the Strait of Hormuz, pending Trump's sign-off. The Strait has been effectively closed since March, choking roughly 20% of global seaborne oil and LNG supply, with WTI settling near $87/bbl. Markets are pricing in eventual supply restoration, though analysts at UBS noted crude loadings inside the Gulf remain \"extremely low\" and infrastructure damage means any recovery will be gradual. The deal still requires Trump's formal approval and Iranian acceptance of nuclear and mine-clearing conditions.",
-          "sector": "Energy",
-          "sentiment": "negative",
-          "magnitude": "high",
-          "source": "CNBC",
-          "publishedAtISO": "2026-05-29T11:30:00Z",
-          "publishedAt": "May 29, 2026, 18:30 Bangkok"
-        },
-        {
-          "headline": "Copper Slips Below $6.25/lb as Iran Peace Talks Cloud Sulfur Supply Outlook",
-          "body": "Copper futures fell from a one-week high of $6.40/lb to below $6.25/lb after Iran rejected a US claim of an unofficial Hormuz shipping agreement, introducing fresh uncertainty over the restoration of sulfur and sulfuric acid flows from GCC producers critical to copper smelting. China had already moved to suspend copper anode exports due to tight domestic supply of heap-leach inputs, underscoring how the Strait of Hormuz closure had cascaded into base metals production chains. Prices had been underpinned earlier in the week by AI-driven data center demand expectations but lost momentum as geopolitical uncertainty persisted. Analysts flagged that restored sulfur access from Gulf producers remains a necessary precondition for a durable copper supply recovery.",
+          "headline": "Copper Hits Two-Week High as Chile Posts Weakest April Output in 23 Years",
+          "body": "Copper futures climbed above $6.40/lb on June 1, their highest in over two weeks, after Chile reported its weakest April copper production in 23 years, reinforcing tight global supply concerns. Newly appointed Codelco chairman signaled a pivot to profitability over volume maximization, raising doubts about near-term Chilean output recovery. Separately, aluminum hit its highest level since March 2022, trading at $3,730/t on June 1, up ~51% year-on-year, driven by GCC supply chain improvements for refining inputs and structural demand from AI data centers and energy transition infrastructure. Both metals are receiving additional support from the Strait of Hormuz closure disrupting sulfur and sulfuric acid supply chains critical to copper refining.",
           "sector": "Base Metals",
-          "sentiment": "negative",
+          "sentiment": "positive",
           "magnitude": "medium",
           "source": "Trading Economics",
-          "publishedAtISO": "2026-05-29T08:00:00Z",
-          "publishedAt": "May 29, 2026, 15:00 Bangkok"
+          "publishedAtISO": "2026-06-01T08:00:00Z",
+          "publishedAt": "Jun 1, 2026, 15:00 Bangkok"
+        },
+        {
+          "headline": "Russia Bans Jet Fuel Exports Through November After Record Ukraine Drone Strikes",
+          "body": "Russia announced a ban on jet fuel exports effective June 1 through November 30, 2026, after Ukrainian drone strikes set a monthly record in May, pushing Russia's crude processing rate to a 16-year low. The Yaroslavl refinery — a 300,000 bpd Gazprom Neft facility — was hit for the fourth time in a single month, with key hubs at Ryazan, Kirishi, and NORSI also damaged, collectively knocking out an estimated 25% of Russian refining capacity. The jet fuel ban follows an existing gasoline export ban in place since April, as Moscow seeks to prevent domestic shortages heading into peak summer demand. International market impact is limited given Russia exports only ~28,000–30,000 bpd of jet fuel, but the development signals worsening structural damage to Russian energy infrastructure.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Bloomberg / OilPrice.com",
+          "publishedAtISO": "2026-06-01T06:45:00Z",
+          "publishedAt": "Jun 1, 2026, 13:45 Bangkok"
+        },
+        {
+          "headline": "BHP Port Hedland Strike Vote Threatens World's Largest Iron Ore Export Terminal",
+          "body": "The Electrical Trades Union formally applied to Australia's Fair Work Commission in late May 2026 to authorise a protected industrial action ballot at BHP's Port Hedland bulk export terminal — the world's largest iron ore export facility by throughput. The ~200 ETU electrical workers hold critical roles in port control systems; a successful ballot could trigger rolling stoppages, overtime bans, or full 24-hour shutdowns as early as June 30. Port Hedland is the primary gateway for BHP's Pilbara iron ore network supplying Chinese steel mills, making any disruption a systemic risk to global seaborne iron ore supply and freight markets. The threat compounds existing iron ore price pressure from elevated port stockpiles in China, weakest April Chinese steel output since 2018, and a 2.8% year-on-year decline in Chinese steel production.",
+          "sector": "Bulk Commodities",
+          "sentiment": "negative",
+          "magnitude": "medium",
+          "source": "MarketScreener / Discovery Alert",
+          "publishedAtISO": "2026-05-31T12:00:00Z",
+          "publishedAt": "May 31, 2026, 19:00 Bangkok"
         }
       ]
     }
