@@ -2,64 +2,64 @@
   "publication": "The BiPolar Times",
   "slogan": "The Newspaper That Connects The Markets Of Both Worlds",
   "timezone": "Asia/Bangkok",
-  "exportedAt": "2026-06-08T07:19:06.220Z",
+  "exportedAt": "2026-06-10T03:51:54.426Z",
   "generatedFrom": "private-dashboard",
   "sections": {
     "us": {
       "id": "us",
       "label": "US",
       "ticker": "NYSE · NASDAQ · S&P 500",
-      "lastUpdated": "2026-06-08T07:18:50.236Z",
+      "lastUpdated": "2026-06-10T03:28:28.158Z",
       "news": [
         {
-          "headline": "Apple WWDC Keynote Kicks Off Monday; AAPL Near Record as Siri AI Overhaul Eyed",
-          "body": "Apple's Worldwide Developers Conference opened June 8 with Wall Street watching closely for a revamped Siri powered by Gemini AI and broader Apple Intelligence updates—what Morgan Stanley called the year's key catalyst for the stock. AAPL climbed roughly 15% in May and entered the event near record highs after a string of analyst target upgrades, with Wedbush setting a Street-high $400 price target. Bank of America projects $15–$30 billion in AI-related revenue by fiscal 2030 from an Apple AI pivot. A disappointing keynote could trigger a sharp reversal in a stock already priced for strong AI credibility, making the event a binary risk for the broader Nasdaq.",
-          "sector": "Technology",
-          "sentiment": "positive",
-          "magnitude": "high",
-          "source": "Bloomberg / Motley Fool",
-          "publishedAtISO": "2026-06-08T03:00:00Z",
-          "publishedAt": "Jun 8, 2026, 10:00 Bangkok"
-        },
-        {
-          "headline": "SpaceX IPO Roadshow Active; $75B Raise at $135/Share Targets June 12 Nasdaq Debut",
-          "body": "SpaceX's roadshow, which kicked off June 4 after an accelerated SEC review, is targeting a $75 billion raise at $135 per share, implying a $1.77 trillion valuation and what would be the largest IPO in history. The offering would make SpaceX the seventh-largest U.S. company by market cap, surpassing Tesla. Musk retains over 82% voting control post-offering, and Goldman Sachs leads the underwriting syndicate. Market participants are watching for demand signals ahead of June 11 pricing and June 12 trading debut under ticker SPCX on Nasdaq.",
-          "sector": "Technology",
-          "sentiment": "positive",
-          "magnitude": "high",
-          "source": "CNBC / Reuters",
-          "publishedAtISO": "2026-06-08T02:14:00Z",
-          "publishedAt": "Jun 8, 2026, 09:14 Bangkok"
-        },
-        {
-          "headline": "Iran Missiles Hit Israel, Shattering Ceasefire; Dow Futures Drop 199 Pts",
-          "body": "Iran launched ballistic missiles at Israel on June 7-8, 2026, its first direct attack since April's ceasefire, prompting retaliatory Israeli airstrikes on western and central Iran. Dow futures fell as much as 199 points in overnight trading while WTI crude surged over 3% to $93.45 and Brent jumped 3.6% to $96.47, amplifying fears of sustained oil supply disruption. The geopolitical shock compounds last week's Nasdaq selloff, raising Fed-rate and energy-cost concerns simultaneously for U.S. equities. Asian markets dropped sharply, with South Korea's Kospi plunging over 8% before paring losses, setting a risk-off tone for Monday's Wall Street open.",
-          "sector": "Other",
+          "headline": "May CPI Due June 10 With Headline Seen at 4.2% YoY; Rate-Hike Odds Near 72%",
+          "body": "The Bureau of Labor Statistics is releasing its May Consumer Price Index report at 8:30 a.m. ET on June 10, with consensus forecasts calling for headline CPI to jump to 4.2% year-over-year from April's 3.8%, driven largely by surging energy costs tied to Strait of Hormuz disruptions. Core CPI is forecast at a cooler 0.3% month-over-month, but even that level—combined with last week's blowout May jobs report of 172,000—has pushed CME FedWatch odds of at least one 2026 rate hike to roughly 72%. A hotter-than-expected print could pressure growth and AI tech stocks further, extending the Nasdaq's multi-day slide from its recent highs, while a softer read could revive demand for rate-sensitive equities ahead of the June 16–17 FOMC meeting. The S&P 500 is trading at a CAPE ratio of 39.6, making it unusually sensitive to any shift in the rate-hike narrative.",
+          "sector": "Finance",
           "sentiment": "negative",
           "magnitude": "high",
-          "source": "CNBC / ABC News",
-          "publishedAtISO": "2026-06-08T02:14:00Z",
-          "publishedAt": "Jun 8, 2026, 09:14 Bangkok"
+          "source": "Kiplinger / Charles Schwab / TradingKey",
+          "publishedAtISO": "2026-06-09T19:00:00Z",
+          "publishedAt": "Jun 10, 2026, 02:00 Bangkok"
         },
         {
-          "headline": "Meta Shares Sink 7% on Report of Tens-of-Billions AI Stock Offering",
-          "body": "Meta Platforms fell as much as 7% on June 5 after the Financial Times reported the social media giant is weighing a multi-billion-dollar equity raise to fund AI infrastructure, following rival Alphabet's record $85 billion share sale. Meta has already raised its 2026 capex guidance to a range of $125–$145 billion, nearly double its prior-year spending, sparking dilution fears among shareholders. Reports then emerged that Microsoft and Amazon are exploring similar equity raises, turning the story into a sector-wide capital-market overhang for hyperscaler stocks. The AI arms-race fundraising wave is pressuring megacap valuations across the Nasdaq and S&P 500, with markets questioning whether public equity can absorb the wave of new issuance.",
+          "headline": "Apple AAPL Sells Off After WWDC 'Sell-the-News' Despite Record Intraday High",
+          "body": "Apple stock hit an all-time intraday high near $317.40 on June 8 during Tim Cook's final keynote as CEO at WWDC 2026, then reversed to close down 1.89% at $301.54 and continued sliding toward $290 on June 9. The keynote unveiled a rebuilt Siri AI powered by a custom Google Gemini model as a developer beta, but provided no firm consumer rollout timeline — the key disappointment flagged by analyst Gene Munster. The event also marked Cook's farewell appearance before handing the CEO role to hardware chief John Ternus in September. Wall Street split sharply, with Wedbush maintaining a $400 target while UBS held Neutral at $296, reflecting unresolved debate over whether Apple's AI premium is justified.",
           "sector": "Technology",
           "sentiment": "negative",
           "magnitude": "high",
-          "source": "CNBC / Bloomberg",
-          "publishedAtISO": "2026-06-07T11:00:00Z",
-          "publishedAt": "Jun 7, 2026, 18:00 Bangkok"
+          "source": "CNBC / TechTimes",
+          "publishedAtISO": "2026-06-09T10:00:00Z",
+          "publishedAt": "Jun 9, 2026, 17:00 Bangkok"
         },
         {
-          "headline": "Healthcare Stocks Lead S&P Rotation; UNH, Eli Lilly Surge as Investors Flee Tech",
-          "body": "The S&P 500 Healthcare sector surged 3% on June 5 as investors rotated out of battered chip and AI names into defensive and growth healthcare plays, with UnitedHealth Group and Eli Lilly leading the charge. Bank of America upgraded UnitedHealth to Buy, citing improving cost trends and a favorable earnings outlook, sending UNH shares up more than 5%; Eli Lilly added 4% and extended gains after CVS Health agreed to cover Lilly's new weight-loss pill Foundayo. The Health Care SPDR ETF (XLV) broke above a key short-term resistance level on elevated institutional volume, signaling a potential leadership rotation that markets are watching heading into the week. The divergence between healthcare's outperformance and technology's selloff highlights a broad sector re-rating as investors reassess stretched AI valuations.",
+          "headline": "Intel Surges 11% on Alphabet Order for 3 Million AI Chips, AMD Jumps 5%",
+          "body": "Intel shares surged 11.19% on June 8–9 after reports emerged that Alphabet's Google had selected Intel as a manufacturing partner for more than 3 million Tensor Processing Units (TPUs) scheduled for 2028 delivery, per a report from The Information. Separately, Nvidia was reported to be evaluating Intel's 18A process node for a future GPU design, though no order has been placed. The dual reports directly challenged the bear thesis that Intel had permanently ceded the AI chip market to TSMC, pulling AMD up 5.1% and lifting the XLK technology ETF 2.15%. The Alphabet order signals hyperscaler willingness to diversify AI silicon supply chains away from TSMC amid capacity constraints.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Reuters / Yahoo Finance / The Information",
+          "publishedAtISO": "2026-06-09T08:22:00Z",
+          "publishedAt": "Jun 9, 2026, 15:22 Bangkok"
+        },
+        {
+          "headline": "SpaceX Sets $135 IPO Price for June 12 Nasdaq Debut at $1.77 Trillion Valuation",
+          "body": "SpaceX priced its IPO at a fixed $135 per share ahead of its planned June 12 Nasdaq debut under ticker SPCX, targeting a $1.77 trillion valuation and a $75 billion raise — which would be the largest IPO in stock market history, more than doubling Saudi Aramco's 2019 record. Musk will retain approximately 82.4% voting control post-offering, and Nasdaq is reported to have loosened index-eligibility rules to allow faster inclusion. The offering has acted as both a market catalyst and an overhang, with some analysts warning the size of the deal is absorbing liquidity ahead of further AI IPOs from Anthropic and OpenAI. Morningstar called the company 'significantly overvalued' at the offer price while Wedbush's Dan Ives called it the start of a new AI-driven bull market phase.",
+          "sector": "Technology",
+          "sentiment": "neutral",
+          "magnitude": "high",
+          "source": "CNBC / Reuters / PBS",
+          "publishedAtISO": "2026-06-09T07:31:00Z",
+          "publishedAt": "Jun 9, 2026, 14:31 Bangkok"
+        },
+        {
+          "headline": "Nuvalent Surges 39% as GSK Confirms $10.6B All-Cash Acquisition of Cancer Biotech",
+          "body": "GSK agreed on June 9 to acquire Nasdaq-listed Nuvalent (NUVL) for $124 per share in cash, representing a 40% premium to its last closing price and valuing the deal at $10.6 billion. Nuvalent shares surged roughly 39% on the news, marking GSK's largest acquisition in more than a decade and its second-largest deal on record. The biotech's lead asset, neladalkib, targeting specific lung cancer mutations, is under FDA Priority Review with a decision date of November 27, 2026. The deal fueled a broader rally in mid-cap oncology biotech names and underscored accelerating M&A activity in a sector tracking toward its strongest dealmaking year since before the pandemic.",
           "sector": "Healthcare",
           "sentiment": "positive",
           "magnitude": "high",
-          "source": "Schwab Market Update / GuruFocus",
-          "publishedAtISO": "2026-06-07T09:05:00Z",
-          "publishedAt": "Jun 7, 2026, 16:05 Bangkok"
+          "source": "CNBC / Benzinga",
+          "publishedAtISO": "2026-06-09T06:52:00Z",
+          "publishedAt": "Jun 9, 2026, 13:52 Bangkok"
         }
       ]
     },
@@ -67,57 +67,57 @@
       "id": "asia",
       "label": "East + SE Asia",
       "ticker": "Nikkei · HSI · SSE · KOSPI · TWSE · SET · SGX · IDX · KLSE · PSEi · VN-Index",
-      "lastUpdated": "2026-06-08T07:12:51.509Z",
+      "lastUpdated": "2026-06-10T03:31:43.924Z",
       "news": [
         {
-          "headline": "KOSPI Triggers Circuit Breaker, Plunges 8%+ as Samsung & SK Hynix Crash on AI Fears",
-          "body": "South Korea's KOSPI cratered more than 8.37% at the open on June 8, triggering a 20-minute emergency circuit breaker — the third such halt of 2026. Samsung Electronics fell as much as 11% below the 300,000 won mark and SK Hynix slid roughly 10%, with the two stocks together accounting for ~50% of the index's market cap. The selloff was driven by compounding pressures: Broadcom's below-consensus AI chip guidance (Q3 target of $16B vs. $17.2B expected), Iran missile strikes on Israel reigniting geopolitical risk, a stronger-than-expected US payrolls print fuelling Fed rate-hike fears, and margin-call cascades from record retail leverage of 37.74 trillion won. South Korean financial authorities issued an emergency statement pledging intervention; the won fell to near 1,560 per dollar.",
+          "headline": "China May PPI Hits Near 4-Year High at 3.9%; CPI Misses Estimates",
+          "body": "China's producer price index surged 3.9% YoY in May 2026, the fastest pace since July 2022, topping the 3.8% consensus forecast and accelerating sharply from April's 2.8% rise, driven by soaring raw material costs tied to the Iran war and AI investment demand. Consumer prices rose just 1.2% YoY, missing the 1.3% Reuters poll estimate, with core CPI edging down to 1.1%. The divergence — hot PPI against soft CPI — signals mounting upstream cost pressure that Chinese manufacturers are absorbing rather than passing on, compressing industrial margins. The CSI 300 edged up 0.6% on the data as markets interpreted weak consumer inflation as preserving PBOC policy flexibility.",
+          "sector": "Other",
+          "sentiment": "neutral",
+          "magnitude": "medium",
+          "source": "CNBC / NBS China",
+          "publishedAtISO": "2026-06-10T02:00:00Z",
+          "publishedAt": "Jun 10, 2026, 09:00 Bangkok"
+        },
+        {
+          "headline": "Pentagon Adds Alibaba, Baidu, BYD, NIO to China Military Firms List",
+          "body": "The U.S. Department of Defense expanded its 1260H list to 188 Chinese entities, adding Alibaba, Baidu, BYD, NIO, WuXi AppTec, and memory chipmakers CXMT and YMTC, imposing direct DoD contracting bans effective later in June and broader procurement restrictions from June 2027. The designation does not constitute sanctions but is widely seen as a red flag that can precede export controls and capital-market restrictions; with this update, all three of China's marquee AI firms — Alibaba, Baidu, and Tencent — now sit on the roster. All named companies rejected the designations, and China's foreign ministry called the move discriminatory. The news complicates the fragile U.S.-China trade truce struck less than a month after the Trump-Xi summit.",
           "sector": "Technology",
           "sentiment": "negative",
           "magnitude": "high",
-          "source": "TradingKey / Korea Exchange / CNBC",
-          "publishedAtISO": "2026-06-08T02:00:00Z",
-          "publishedAt": "Jun 8, 2026, 09:00 Bangkok"
+          "source": "CNBC / Fortune / NPR",
+          "publishedAtISO": "2026-06-09T23:00:00Z",
+          "publishedAt": "Jun 10, 2026, 06:00 Bangkok"
         },
         {
-          "headline": "Nikkei 225 Drops ~4% Intraday as SoftBank, Tokyo Electron Lead Japan Tech Rout",
-          "body": "Japan's Nikkei 225 fell nearly 4% intraday on June 8, sliding to a low of 63,987 before partially recovering, extending losses from Friday's 1.31% decline. SoftBank Group plunged 7.5% and Tokyo Electron dropped 6.7%, with Advantest off 5%, as the Broadcom AI guidance miss and renewed Iran-Israel hostilities hit high-multiple AI proxy names hardest. The dollar-yen approached the 160 intervention warning level at 159.953, adding pressure on rate-sensitive equities. Bloomberg reported the Bank of Japan is likely to discuss raising its policy rate from 0.75% to 1.0% at its June 16 meeting, adding a dual headwind of tighter monetary policy to the tech-sector selloff.",
+          "headline": "KOSPI Surges 8.2%, Samsung +9%, SK Hynix +16% in AI Selloff Rebound",
+          "body": "South Korea's KOSPI jumped as much as 8.2% on June 9 — its biggest single-day gain in months — reversing part of a three-day, 15% rout triggered by Broadcom's disappointing AI chip guidance and a global tech unwind. Samsung Electronics rebounded 9.3% and SK Hynix surged over 15%, with Japan's Nikkei 225 adding 2.2% and Taiwan's Taiex climbing 2.8% in sympathy. The recovery was aided by easing Middle East tensions following reports of a halt to Israel-Iran military strikes. A leveraged SK Hynix single-stock ETF (KIM ACE) plunged 27% even as the underlying stock surged 16%, raising regulatory scrutiny over liquidity management in leveraged products.",
           "sector": "Technology",
-          "sentiment": "negative",
+          "sentiment": "positive",
           "magnitude": "high",
-          "source": "CNBC / TradingKey / Bloomberg",
-          "publishedAtISO": "2026-06-08T01:30:00Z",
-          "publishedAt": "Jun 8, 2026, 08:30 Bangkok"
+          "source": "Bloomberg / Peter Lewis Briefing",
+          "publishedAtISO": "2026-06-09T10:00:00Z",
+          "publishedAt": "Jun 9, 2026, 17:00 Bangkok"
         },
         {
-          "headline": "Hang Seng Slides to Lowest Since March as Iran-Israel Strikes Amplify Tech Retreat",
-          "body": "Hong Kong's Hang Seng Index fell 437 points, or 1.5%, to 24,585 on June 8, hitting its lowest level since March 2026 and extending a four-session losing streak. The decline was driven by a broad retreat in AI and technology stocks following the global semiconductor selloff, compounded by reports that Iran fired missiles at Israel on June 7, testing a fragile ceasefire and lifting oil prices. SMIC dropped 7.2% and Lenovo fell 5.1% among the biggest drags; AIA Group also slid 1.0% amid concerns over mainland China capital-control risks. The CSI 300 was simultaneously under pressure, down 1.6% on June 7, reflecting the same risk-off confluence.",
-          "sector": "Technology",
-          "sentiment": "negative",
-          "magnitude": "high",
-          "source": "Trading Economics / CNBC",
-          "publishedAtISO": "2026-06-08T01:00:00Z",
-          "publishedAt": "Jun 8, 2026, 08:00 Bangkok"
-        },
-        {
-          "headline": "BOJ Said to Mull June 16 Rate Hike to 1%, Adding Policy Pressure on Japanese Equities",
-          "body": "Bloomberg reported on June 4–5 that Bank of Japan officials are actively considering raising the policy rate by 25 basis points to 1.0% at the June 16 Monetary Policy Meeting, with scope for further hikes later in 2026. Officials cited persistently low real interest rates and upside inflation risks tied to oil prices from the Iran conflict as key drivers. Japan's real wages rose for a fourth consecutive month, strengthening the tightening case. The prospect of a BoJ hike amid a weak yen (approaching 160) and a tech-sector selloff has compounded headwinds for the Nikkei 225, which had rallied ~32% year-to-date to record highs.",
+          "headline": "Indonesia's Bank Indonesia Delivers Off-Cycle 25bp Rate Hike; IDX Soars 7.6%",
+          "body": "Bank Indonesia raised its benchmark BI-Rate by 25 basis points to 5.5% on June 9 — more than a week before its scheduled June 17–18 meeting — in a surprise off-cycle move to halt a spiraling rupiah that had hit a record 18,190 per dollar and arrest a stock market down over 35% year-to-date. The Jakarta Composite Index surged 7.57%, reportedly its steepest single-day gain in the post-Suharto era, led by banking stocks, and the rupiah strengthened 0.7-0.8% against the dollar. The hike follows a larger-than-expected 50bp move in May, bringing cumulative tightening to 75bp over three weeks; Barclays, BNY and Mega Capital now expect a further 50bp increase at the June 18 meeting. Government bond yields continued to sell off with the 10-year note climbing 23bps, reflecting lingering concerns over fiscal policy under President Prabowo.",
           "sector": "Finance",
-          "sentiment": "negative",
+          "sentiment": "positive",
           "magnitude": "high",
-          "source": "Bloomberg / Trading Economics",
-          "publishedAtISO": "2026-06-07T22:00:00Z",
-          "publishedAt": "Jun 8, 2026, 05:00 Bangkok"
+          "source": "Bloomberg / CNBC / The Edge Malaysia",
+          "publishedAtISO": "2026-06-09T08:00:00Z",
+          "publishedAt": "Jun 9, 2026, 15:00 Bangkok"
         },
         {
-          "headline": "KOSPI Sidecar Triggered on June 5 as Broadcom Guidance Miss Sparks Asian Chip Rout",
-          "body": "On June 5, the KOSPI slumped 5.54% to 8,160.59, with a sidecar circuit breaker activated after KOSPI 200 futures fell 5%, following Broadcom's Q3 AI chip revenue guidance of $16B — approximately 7% below the $17.2B consensus. SK Hynix plunged 9.92%, wiping nearly $100B in market value in a single session, while Samsung Electronics fell 6.4%; Tokyo Electron and Advantest dropped 6.7% and 5% in Japan. Foreign investors net-sold approximately $22B in Korean stocks since May, with the Korean won hitting its lowest since 2009. Goldman Sachs analysts noted the selling was driven by crowded-position liquidation rather than deteriorating fundamentals.",
+          "headline": "China May Exports Jump 19.4% to Record High, US Shipments Hit 5-Year High",
+          "body": "China's exports surged 19.4% YoY to a record USD 376.78 billion in May 2026, far exceeding the 15% Bloomberg consensus and accelerating from April's 14.1% rise, fuelled by booming AI hardware demand and inventory pre-loading ahead of potential energy-cost escalation. U.S.-bound shipments soared 35.4% YoY, the fastest growth since March 2021, while imports rose 27.4% — concentrated in semiconductor chips and gold — lifting the trade surplus to a 4-month high of USD 105.4 billion. The data reinforces China's 'K-speed' economy narrative: export and manufacturing sectors outperforming while domestic consumption remains weak. The CSI 300 rose 0.6% on the release; the read-through for Korean and Taiwanese semiconductor exporters was seen as broadly supportive.",
           "sector": "Technology",
-          "sentiment": "negative",
+          "sentiment": "positive",
           "magnitude": "high",
-          "source": "CNBC / TradingKey / Global Banking & Finance",
-          "publishedAtISO": "2026-06-06T08:00:00Z",
-          "publishedAt": "Jun 6, 2026, 15:00 Bangkok"
+          "source": "CNBC / Bloomberg / Trading Economics",
+          "publishedAtISO": "2026-06-09T03:22:00Z",
+          "publishedAt": "Jun 9, 2026, 10:22 Bangkok"
         }
       ]
     },
@@ -125,57 +125,57 @@
       "id": "commodities",
       "label": "Commodities",
       "ticker": "WTI · Brent · Gas · RBOB · Heating Oil · Coal · Gold · Silver · Copper · Aluminum · Iron Ore · Lithium · Platinum · Palladium · Grains · Softs · Oilseeds · Lumber · Rubber · BDI",
-      "lastUpdated": "2026-06-08T07:16:33.320Z",
+      "lastUpdated": "2026-06-10T03:50:44.112Z",
       "news": [
         {
-          "headline": "Brent Surges 4%+ as Iran-Israel Missile Exchange Threatens Ceasefire Collapse",
-          "body": "Brent crude futures jumped more than 4% to above $97/bbl on Monday June 8, rebounding sharply after Iran launched multiple ballistic missiles at Israel—the first direct attack since the April ceasefire—and Israel subsequently struck targets in western and central Iran. The continued near-closure of the Strait of Hormuz, which has disrupted roughly 20% of global oil supply, kept the underlying bid firm despite OPEC+ approving an additional 188,000 b/d increase in July production quotas. Markets are now reassessing whether the U.S.-brokered 60-day truce framework can survive, with any full ceasefire breakdown seen as a major upside price catalyst. Brent had shed ~3% on Friday on weak China demand data before this sharp reversal.",
-          "sector": "Energy",
-          "sentiment": "negative",
-          "magnitude": "high",
-          "source": "OilPrice.com / Trading Economics",
-          "publishedAtISO": "2026-06-08T04:00:00Z",
-          "publishedAt": "Jun 8, 2026, 11:00 Bangkok"
-        },
-        {
-          "headline": "Gold Hits 2026 Low Near $4,370 as NFP Shock Sends Fed Rate-Hike Odds to 98%",
-          "body": "Spot gold fell below $4,370/oz on Friday June 6—its lowest level since March 2026 and down nearly 4% on the week—after May nonfarm payrolls printed at 172,000, more than double the 85,000 consensus, with April revised up to 179,000. The data triggered an immediate repricing in Fed policy, with market-implied rate-hike probability surging to 98% by year-end; the 10-year Treasury yield jumped 8 bps to 4.53% and the DXY hit its strongest level since early April. Gold has now erased all its 2026 gains and sits roughly 18% below pre-war highs, as the combination of elevated oil-driven inflation and a resilient labor market leaves the Fed no room to ease. Cleveland Fed President Hammack signaled rates should remain steady for now but flagged possible hikes if trends continue.",
+          "headline": "Gold Slides to Dec-2025 Lows as May CPI Due; Fed Hike Odds Hit 70%",
+          "body": "Gold fell to $4,300/oz on June 9, its weakest close since December 2025, as investors positioned ahead of the May CPI print due June 10 — with consensus expecting inflation to accelerate to ~4.2%, its highest in nearly three years. The stronger-than-expected May payroll report (172,000 jobs) reinforced hawkish Fed repricing, lifting the probability of a December rate hike to 70% from 45% a week prior on the CME FedWatch tool. A firmer US dollar and rising Treasury yields suppressed bullion demand despite ongoing Middle East uncertainty. Markets remain highly sensitive to the CPI outcome for near-term gold direction.",
           "sector": "Gold",
           "sentiment": "negative",
           "magnitude": "high",
-          "source": "FXEmpire / BullionVault / FXStreet",
-          "publishedAtISO": "2026-06-07T12:00:00Z",
-          "publishedAt": "Jun 7, 2026, 19:00 Bangkok"
+          "source": "Trading Economics / BLS",
+          "publishedAtISO": "2026-06-09T18:00:00Z",
+          "publishedAt": "Jun 10, 2026, 01:00 Bangkok"
         },
         {
-          "headline": "Thermal Coal Hits 19-Month High Above $148/T on China Mine Explosion, Safety Crackdown",
-          "body": "Thermal coal futures surged above $145/T—their highest since October 2024, up ~10% over four weeks—after a deadly gas explosion at an illegal-labor mine in China's Shanxi province triggered province-wide safety inspections and production suspensions across the country's largest coal-producing region. The Shanxi incident, described as China's worst coal mine disaster in 17 years with 82 fatalities, is expected to materially constrain near-term Chinese thermal and coking coal output, threatening power security ahead of summer demand. Australian coking coal simultaneously approached February's 20-month high at ~$241/T as buyers sought alternatives to disrupted Chinese supply. Elevated LNG prices from the Strait of Hormuz closure further increased coal's relative cost advantage, adding demand-side support.",
-          "sector": "Bulk Commodities",
-          "sentiment": "negative",
-          "magnitude": "high",
-          "source": "Trading Economics / FocusEconomics",
-          "publishedAtISO": "2026-06-07T06:00:00Z",
-          "publishedAt": "Jun 7, 2026, 13:00 Bangkok"
-        },
-        {
-          "headline": "Copper Retreats to ~$6.30/lb as Chile Posts Weakest April Output in 23 Years",
-          "body": "Copper futures pulled back toward $6.30/lb on Friday, retreating from record highs, as Chile's April 2026 copper production fell 13.8% year-on-year to just 399,954 metric tons—its weakest April reading in 23 years—driven by declining ore grades and high comparison bases at major producers including BHP's Escondida and Codelco. The supply-side weakness was offset by deteriorating demand expectations: rising Fed rate-hike bets, slowing Chinese growth, and the Strait of Hormuz disruption dampening industrial activity. Pending U.S. tariff decisions on copper imports have encouraged front-loaded shipments into U.S. ports, distorting near-term physical balances. Cochilco raised its 2026 price forecast to $4.95/lb citing structural supply tightness, while Q1 Chilean output declined 5.8% overall.",
-          "sector": "Base Metals",
-          "sentiment": "negative",
-          "magnitude": "high",
-          "source": "Trading Economics / Industrial Info Resources",
-          "publishedAtISO": "2026-06-06T10:00:00Z",
-          "publishedAt": "Jun 6, 2026, 17:00 Bangkok"
-        },
-        {
-          "headline": "UK Natural Gas Rebounds Above 117p/Therm as Europe Storage Sits at Just 38% Full",
-          "body": "UK NBP natural gas futures recovered above 117 pence per therm on June 6-7, bouncing from a three-week low, as the Strait of Hormuz remained at near-standstill traffic levels disrupting roughly one-fifth of global LNG supplies and complicating European efforts to rebuild inventories ahead of winter. European storage currently stands at only 38% capacity—critically low for this time of year—while the UK nuclear fleet remains heavily constrained with four reactors offline, sustaining elevated gas-for-power demand. Iran and Israel trading fresh missile strikes over the weekend raised fresh doubts about the diplomatic path to a Hormuz reopening, keeping winter-contract premiums elevated. UK household energy bills are set to rise 13% under the July 2026 price cap as wholesale price pressures feed through.",
+          "headline": "Crude Falls >3% to $88/bbl as Iran-Israel Halt Attacks; Strait Blockade Persists",
+          "body": "WTI crude fell more than 3% to around $88 per barrel on June 9 after Israel and Iran agreed to halt attacks on each other following renewed weekend escalation, boosting ceasefire hopes. US President Trump stated negotiations were in their 'final stage' and that a clearer outcome could emerge within days. However, the Strait of Hormuz remains effectively closed under a dual US-Iran blockade, severely disrupting global crude and LNG flows, and China's crude imports dropped to ~7.8 million b/d last month — the lowest in over eight years — as Asia's largest consumer draws down inventories instead. Oil remains above pre-war levels but well below recent highs.",
           "sector": "Energy",
           "sentiment": "negative",
           "magnitude": "high",
-          "source": "Trading Economics / Prestige Business Solutions / UK Parliament Library",
-          "publishedAtISO": "2026-06-06T08:00:00Z",
-          "publishedAt": "Jun 6, 2026, 15:00 Bangkok"
+          "source": "Trading Economics / Reuters",
+          "publishedAtISO": "2026-06-09T16:00:00Z",
+          "publishedAt": "Jun 9, 2026, 23:00 Bangkok"
+        },
+        {
+          "headline": "Natural Gas Decouples Higher on Heat-Wave Demand; LNG Supply Squeeze Adds Support",
+          "body": "Natural gas futures rose ~0.66% on June 9, standing out as a gainer amid a broad commodity selloff, driven by above-normal temperature forecasts that are boosting power generation demand in key markets. LNG export dynamics and ongoing Strait of Hormuz disruptions to regional gas flows continue to provide structural support, allowing natural gas to diverge from the weakness in crude and precious metals. The World Bank's June commodity update noted a 6.1% rise in US natural gas prices in May even as the broader energy index fell 5.4%. Traders are monitoring whether extended heat and LNG supply constraints could push prices toward seasonal highs.",
+          "sector": "Energy",
+          "sentiment": "positive",
+          "magnitude": "medium",
+          "source": "Business Upturn / World Bank",
+          "publishedAtISO": "2026-06-09T08:00:00Z",
+          "publishedAt": "Jun 9, 2026, 15:00 Bangkok"
+        },
+        {
+          "headline": "OPEC+ Approves Another 188,000 b/d July Output Hike Despite War-Risk Supply Fears",
+          "body": "OPEC+ approved a further increase in July production quotas of 188,000 barrels per day, pressing ahead with its unwinding schedule despite persistent supply risks from Middle East hostilities. The decision compounded bearish pressure on crude prices, alongside data showing a sharp pullback in Chinese crude imports and record US export volumes acting as buffers to the conflict-driven supply shock. The EIA previously assessed Middle East production shut-ins peaked near 10.8 million b/d in May, with full recovery not expected until late 2026 or early 2027. Markets now face a paradox of structural undersupply at the Strait while OPEC+ adds barrels elsewhere.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Trading Economics / EIA",
+          "publishedAtISO": "2026-06-08T14:00:00Z",
+          "publishedAt": "Jun 8, 2026, 21:00 Bangkok"
+        },
+        {
+          "headline": "Aluminum Pulls Back from 4-Year High as Dollar Firms; Still Up ~50% YoY on Gulf Smelter Outages",
+          "body": "Aluminum futures retreated to around $3,600/tonne from a four-year peak of $3,790 hit June 2, as US dollar strength following the strong May jobs report pressured dollar-denominated commodities. The metal remains approximately 50% higher year-over-year, underpinned by the ongoing loss of Gulf-region output: EGA's flagship UAE smelter is not expected to return to full capacity for up to a year, and Bahrain's ALBA operations remain partially suspended following direct attacks. Guinea's stricter bauxite export controls have further tightened raw material supply. The cash-to-three-month LME aluminum premium surged to 19-year highs, signaling acute near-term physical tightness.",
+          "sector": "Base Metals",
+          "sentiment": "negative",
+          "magnitude": "medium",
+          "source": "Trading Economics / Border States",
+          "publishedAtISO": "2026-06-08T10:00:00Z",
+          "publishedAt": "Jun 8, 2026, 17:00 Bangkok"
         }
       ]
     }
