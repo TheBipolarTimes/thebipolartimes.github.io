@@ -1,0 +1,183 @@
+{
+  "publication": "The BiPolar Times",
+  "slogan": "The Newspaper That Connects The Markets Of Both Worlds",
+  "timezone": "Asia/Bangkok",
+  "exportedAt": "2026-06-12T10:12:23.656Z",
+  "generatedFrom": "private-dashboard",
+  "sections": {
+    "us": {
+      "id": "us",
+      "label": "US",
+      "ticker": "NYSE · NASDAQ · S&P 500",
+      "lastUpdated": "2026-06-12T07:43:36.742Z",
+      "news": [
+        {
+          "headline": "SpaceX (SPCX) Debuts on Nasdaq in Largest IPO in History, Raising $75B",
+          "body": "SpaceX began trading on Nasdaq under ticker SPCX on June 12, 2026, priced at $135/share, raising approximately $75 billion and implying a valuation of ~$1.75 trillion — surpassing Saudi Aramco's 2019 record. Investor demand was extraordinary, with total orders exceeding $250 billion and retail orders alone surpassing $100 billion, leaving the offering roughly 3.5–4x oversubscribed. SpaceX reserved ~30% of shares for retail investors, an unusual structural choice that broadened access via Robinhood, Fidelity, and Schwab. Markets are closely watching opening-day trading and potential near-term index inclusion, which would force passive fund buying across major benchmarks.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Reuters / IndexBox",
+          "publishedAtISO": "2026-06-12T09:00:00Z",
+          "publishedAt": "Jun 12, 2026, 16:00 Bangkok"
+        },
+        {
+          "headline": "Adobe (ADBE) Drops 5.5% After-Hours Despite Q2 Beat; AI Disruption Fears Persist",
+          "body": "Adobe reported fiscal Q2 2026 adjusted EPS of $5.96 on revenue of $6.62 billion, up 13% year-over-year and above analyst consensus, but shares fell approximately 5.5% in after-hours trading on June 11. The stock had already hit a 52-week low of $220.17 during the regular session — down roughly 37% year-to-date — as investors remain deeply skeptical about the company's ability to monetize generative AI tools amid competitive pressure from rivals including Anthropic's Claude Design. The sell-off despite a headline beat underscores broader market anxiety about the \"AI eats software\" thesis, making Adobe's reaction a closely watched signal for the entire enterprise software sector. Leadership uncertainty, including a CEO succession process and CFO Dan Durn's departure to Marvell, added to investor unease.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "GuruFocus / TechTimes",
+          "publishedAtISO": "2026-06-11T22:30:00Z",
+          "publishedAt": "Jun 12, 2026, 05:30 Bangkok"
+        },
+        {
+          "headline": "Lennar (LEN) Slides After-Hours on Q2 Revenue Miss; Net Income Falls 36% YoY",
+          "body": "Homebuilder Lennar reported fiscal Q2 2026 revenue of $7.94 billion, a 5.2% decline year-over-year and roughly $160 million below the $8.10 billion analyst consensus, sending shares down approximately 2% in after-hours trading on June 11. Diluted EPS came in at $1.24, also missing the $1.26 consensus, while net income fell sharply to $304.8 million from $477 million in Q2 2025 — a 36% drop. The results signal persistent headwinds in the U.S. housing market, including reduced pricing power during the spring selling season and a pullback from institutional buyers, and may prompt analyst estimate revisions ahead of the FOMC meeting next week. Lennar provided no explicit Q3 or full-year guidance in the earnings release, adding to investor uncertainty about the housing sector's near-term trajectory.",
+          "sector": "Consumer",
+          "sentiment": "negative",
+          "magnitude": "medium",
+          "source": "ChartMill / Quiver Quantitative",
+          "publishedAtISO": "2026-06-11T21:30:00Z",
+          "publishedAt": "Jun 12, 2026, 04:30 Bangkok"
+        },
+        {
+          "headline": "Semiconductor Index Surges ~8% as Intel, Micron, AMD, Lam Research Soar",
+          "body": "The PHLX Semiconductor Index jumped nearly 7.9% on June 11, its biggest single-day gain in over a year, as investors rotated back into chip stocks ahead of the SpaceX IPO and on easing geopolitical sentiment. Intel surged over 10% after Bank of America double-upgraded the stock from Underperform to Buy, raising its price target to $135 from $96, citing soaring CPU orders and foundry potential with a 2030 EPS estimate lifted to $6+. Micron jumped ~11% and AMD ~8%, while Lam Research added ~12.7%, all benefiting from AI-driven memory demand optimism. The broad rally lifted the Nasdaq 2.54% and the S&P 500 1.75% on the session.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Yahoo Finance / Trading Economics",
+          "publishedAtISO": "2026-06-11T21:00:00Z",
+          "publishedAt": "Jun 12, 2026, 04:00 Bangkok"
+        },
+        {
+          "headline": "Dow Surges 930 Pts as Iran Deal Optimism Crushes Volatility, Russell 2000 Jumps 3%",
+          "body": "U.S. equities staged a broad rally on Thursday, June 11, with the Dow Jones Industrial Average surging 929.97 points (1.86%) to close above the 50,000 mark at 50,848.75, while the S&P 500 advanced 1.75% and the Nasdaq gained 2.54%. The Russell 2000 led all major indexes with a 3.02% surge as risk appetite soared after President Trump cancelled planned Iran strikes and said all points of a deal are essentially agreed upon. Oil prices dropped sharply, with WTI crude settling at $87.71 a barrel, relieving inflation fears that had pressured equities all week. The Cboe Volatility Index fell nearly 12% on the day, with tech, industrials, and materials sectors posting the biggest gains inside the S&P 500.",
+          "sector": "Other",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "TheStreet / CNBC",
+          "publishedAtISO": "2026-06-11T21:00:00Z",
+          "publishedAt": "Jun 12, 2026, 04:00 Bangkok"
+        }
+      ]
+    },
+    "asia": {
+      "id": "asia",
+      "label": "East + SE Asia",
+      "ticker": "Nikkei · HSI · SSE · KOSPI · TWSE · SET · SGX · IDX · KLSE · PSEi · VN-Index",
+      "lastUpdated": "2026-06-12T09:35:21.260Z",
+      "news": [
+        {
+          "headline": "Global Banks Curb Hedge Fund Leverage on SK Hynix, Samsung After Wild Swings",
+          "body": "Major prime brokers including Citigroup, JPMorgan and Goldman Sachs have raised financing costs for hedge funds taking leveraged long positions in SK Hynix and Samsung Electronics via swaps, citing concern over excessive concentration after a year in which both stocks powered the KOSPI to record highs. The move follows a bruising 48-hour sequence in which the KOSPI plunged 8.8% on June 8 — briefly triggering a 20-minute circuit-breaker — before rebounding 8.2% on June 9 as Nvidia CEO Jensen Huang called the dip a buying opportunity. Samsung and SK Hynix together represent over 40% of the KOSPI benchmark, meaning leverage constraints could dampen the velocity of future index swings in either direction. Market participants see the prime-broker action as a structural dampener on momentum trading that has amplified Korea's AI-driven equity volatility throughout 2026.",
+          "sector": "Finance",
+          "sentiment": "negative",
+          "magnitude": "medium",
+          "source": "Bloomberg",
+          "publishedAtISO": "2026-06-12T06:34:00Z",
+          "publishedAt": "Jun 12, 2026, 13:34 Bangkok"
+        },
+        {
+          "headline": "KOSPI Surges 4.6%, Buy-Side Sidecar Triggered as Iran Peace Deal Hopes Lift Asia",
+          "body": "South Korea's KOSPI jumped 4.6% on June 12, with program trading suspended for five minutes after KOSPI 200 futures surged 5%, triggering a buy-side sidecar — the 11th such activation in 2026. The sharp rebound followed Trump's claim of a peace settlement with Iran and Iranian state media reporting a draft MOU including Hormuz reopening. Samsung Electronics and SK Hynix led the recovery after suffering heavy losses in prior sessions. The reversal is critical given the KOSPI's extreme volatility, with circuit breakers and sidecars having fired repeatedly since June 5.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CNBC / Korea Economic Daily",
+          "publishedAtISO": "2026-06-12T04:30:00Z",
+          "publishedAt": "Jun 12, 2026, 11:30 Bangkok"
+        },
+        {
+          "headline": "Nikkei Surges 2.8%, Hang Seng +1.4% on Iran–US Peace Deal Optimism",
+          "body": "Japan's Nikkei 225 rose 2.8% to approximately 66,020 and Hong Kong's Hang Seng gained 1.4% on June 12 as Asian markets broadly rallied on news that the US and Iran were nearing a formal agreement to end hostilities. The draft MOU, reported by Iranian state media, includes US oil sanction relief and a commitment to reopen the Strait of Hormuz. Shanghai's SSE Composite also rose over 1%, while TWSE gained 2.4%. The across-the-board relief rally is driven by expectations that oil prices will ease and supply-chain disruptions linked to the closed strait will end.",
+          "sector": "Other",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CNBC / Reuters",
+          "publishedAtISO": "2026-06-12T03:00:00Z",
+          "publishedAt": "Jun 12, 2026, 10:00 Bangkok"
+        },
+        {
+          "headline": "China Regulators Slam Alibaba, JD.com Over 618 Festival False-Ad Claims",
+          "body": "Chinese regulators summoned Alibaba, JD.com, PDD Holdings and ByteDance on Thursday after Beijing's State Administration for Market Regulation accused the platforms of misleading promotional claims during the annual '618' mid-year online shopping festival. Alibaba shares tumbled as much as 6.5% in Hong Kong — the steepest intraday drop in nearly three months — while JD.com fell almost 6%, its worst session since November. The crackdown reinforces Beijing's ongoing campaign to curb what officials describe as a 'race-to-the-bottom' price war eroding profits across China's internet sector. Investors watch the action closely as it adds a fresh layer of regulatory risk heading into the second half, compounding Alibaba's already-pressured margins from heavy AI and cloud capex spending.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Bloomberg",
+          "publishedAtISO": "2026-06-11T08:03:00Z",
+          "publishedAt": "Jun 11, 2026, 15:03 Bangkok"
+        },
+        {
+          "headline": "Indonesia IDX Surges 2.6% After Bank Indonesia's Surprise 25bp Rate Hike",
+          "body": "Indonesia's IDX Composite jumped ~2.6% on June 11, extending a rebound from a six-year low, after Bank Indonesia delivered a surprise 25bp rate hike to 5.5% aimed at stabilising the battered rupiah. Sovereign wealth fund Danantara also pledged to honour existing commodity export contracts under its new centralisation framework, easing market concerns. The IDX had fallen over 4.5% on June 8 amid a broader EM rout, making the central bank move and the subsequent recovery highly market-moving. Financials, infrastructure, and basic materials led the session gains.",
+          "sector": "Finance",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Reuters / Trading Economics",
+          "publishedAtISO": "2026-06-11T06:00:00Z",
+          "publishedAt": "Jun 11, 2026, 13:00 Bangkok"
+        }
+      ]
+    },
+    "commodities": {
+      "id": "commodities",
+      "label": "Commodities",
+      "ticker": "WTI · Brent · Gas · RBOB · Heating Oil · Coal · Gold · Silver · Copper · Aluminum · Iron Ore · Lithium · Platinum · Palladium · Grains · Softs · Oilseeds · Lumber · Rubber · BDI",
+      "lastUpdated": "2026-06-12T10:12:17.965Z",
+      "news": [
+        {
+          "headline": "Brent Crude Hits 2-Month Low as US-Iran Peace Deal Seen Imminent",
+          "body": "Brent crude fell to around $89/bbl Friday — its lowest in nearly two months — after President Trump delayed planned military strikes and said a peace deal with Iran could be signed as early as this weekend, with Iran's semi-official Fars agency reporting Tehran was likely to accept. Trump stated the agreement would reopen the Strait of Hormuz and include Iranian nuclear commitments, though traders remained cautious given the physical obstacles to normalizing oil flows, including mine clearance and restoring damaged infrastructure. WTI also dropped below $86/bbl. The move signals a potential unwinding of the Middle East war premium that has kept Brent elevated amid an 11+ mb/d production disruption since the Hormuz closure began.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Trading Economics / CNBC",
+          "publishedAtISO": "2026-06-12T06:00:00Z",
+          "publishedAt": "Jun 12, 2026, 13:00 Bangkok"
+        },
+        {
+          "headline": "Gold Rebounds to $4,226 on Iran Peace Optimism After 7-Month Low",
+          "body": "Gold recovered to $4,226/oz Friday after collapsing to a seven-month low near $4,067 on Thursday, when it slumped 4.4% on the triple shock of hot US CPI, the ECB's surprise rate hike, and renewed US-Iran strikes. The partial recovery was driven by easing peace deal optimism reducing rate-hike fears, though gold remains down ~25% from its January all-time high of $5,589 and has erased all year-to-date gains. COMEX registered gold inventories stand at 15.15 Moz, down 37.5% from the April record peak, while central banks continue to accumulate — China added ~9.95 tonnes in May for an 19th consecutive month of purchases.",
+          "sector": "Gold",
+          "sentiment": "neutral",
+          "magnitude": "high",
+          "source": "Trading Economics / Business Standard",
+          "publishedAtISO": "2026-06-12T05:00:00Z",
+          "publishedAt": "Jun 12, 2026, 12:00 Bangkok"
+        },
+        {
+          "headline": "ECB Hikes 25bps to 2.25% — First Increase Since 2023 — on Iran Energy Shock",
+          "body": "The European Central Bank raised its key deposit rate by 25 basis points to 2.25% on June 11 — its first hike since 2023 — citing the Iran war's persistent inflation pressure, with eurozone CPI hitting 3.2% in May versus the 2% target. The ECB simultaneously cut its 2026 eurozone growth forecast to 0.8% and lifted its inflation projections for 2026 and 2027. ECB President Lagarde declined to pre-commit to a rate path, but Deutsche Bank called it 'a significant moment' as the first major central bank hike explicitly in response to the energy shock. The move reinforces hawkish monetary policy expectations globally, weighing on gold, industrial metals, and oil demand outlooks.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNBC",
+          "publishedAtISO": "2026-06-11T13:15:00Z",
+          "publishedAt": "Jun 11, 2026, 20:15 Bangkok"
+        },
+        {
+          "headline": "US May PPI Surges 6.5% YoY — Highest Since Nov 2022 — Led by 23% Gasoline Spike",
+          "body": "The US Producer Price Index rose 1.1% month-on-month in May 2026, beating the consensus forecast of 0.7%, driving the annual rate to 6.5% — the highest since November 2022 — with wholesale gasoline prices surging 23.4% and accounting for over half of the goods-category advance. Diesel fuel, jet fuel, and industrial chemicals also rose sharply, while stage-1 intermediate demand prices surged 12.3% YoY, the largest 12-month gain since June 2022. Core PPI ex-food, energy, and trade rose 0.8% MoM — its biggest single-month gain since March 2022 — signaling inflation spreading beyond energy. The print, combined with CPI at a 3-year high, further cements expectations for a Federal Reserve rate hike by year-end, pressuring non-yielding commodities and clouding industrial metals demand.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "BLS / CNBC / Babypips",
+          "publishedAtISO": "2026-06-11T12:30:00Z",
+          "publishedAt": "Jun 11, 2026, 19:30 Bangkok"
+        },
+        {
+          "headline": "Silver Surges 5.6% on Iran Peace Hopes; Iron Ore Hits 2-Month Low on China Import Miss",
+          "body": "Silver futures rallied over 5.6% to $67.60/oz on Thursday-Friday as US-Iran peace optimism lifted precious metals broadly alongside gold's rebound, with silver trading up over 7% at one point as markets absorbed easing Strait of Hormuz risk and near-term inflation concerns. Silver remains in its fifth consecutive year of structural supply deficit. Separately, iron ore futures fell to a near two-month low after China's May iron ore imports dropped ~6% MoM to 97.71 million tonnes — well below forecasts of 104–110 million tonnes — as steelmakers limited purchases ahead of a seasonally weaker period, with persistent rainfall and early summer heat slowing Chinese construction activity.",
+          "sector": "Precious Metals",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Investing.com / Trading Economics",
+          "publishedAtISO": "2026-06-11T10:00:00Z",
+          "publishedAt": "Jun 11, 2026, 17:00 Bangkok"
+        }
+      ]
+    }
+  }
+}
