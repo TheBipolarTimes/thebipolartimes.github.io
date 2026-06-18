@@ -1,0 +1,183 @@
+{
+  "publication": "The BiPolar Times",
+  "slogan": "The Newspaper That Connects The Markets Of Both Worlds",
+  "timezone": "Asia/Bangkok",
+  "exportedAt": "2026-06-18T03:48:50.590Z",
+  "generatedFrom": "private-dashboard",
+  "sections": {
+    "us": {
+      "id": "us",
+      "label": "US",
+      "ticker": "NYSE · NASDAQ · S&P 500",
+      "lastUpdated": "2026-06-18T03:43:02.631Z",
+      "news": [
+        {
+          "headline": "Accenture Reports Q3 FY2026 Earnings Before Open; AI Consulting Conversion in Focus",
+          "body": "Accenture (ACN) reported fiscal Q3 2026 results before the open on June 18, with consensus expecting ~$3.71 EPS on $18.78 billion in revenue—a ~6% year-over-year revenue increase. The report is the sector's most closely watched AI-consulting litmus test: ACN has shed ~37–46% year-to-date amid investor skepticism that record $22 billion in Q2 bookings will convert to recognized revenue, and options markets priced in a ~7.6% post-earnings move. CEO Julie Sweet's AI-revenue attribution and utilization-rate disclosures are the key swing factors for whether IT services stocks broadly recover.",
+          "sector": "Technology",
+          "sentiment": "neutral",
+          "magnitude": "high",
+          "source": "TipRanks / Seeking Alpha",
+          "publishedAtISO": "2026-06-18T08:00:00Z",
+          "publishedAt": "Jun 18, 2026, 15:00 Bangkok"
+        },
+        {
+          "headline": "Fed's Hawkish Dot Plot Sparks Broad Selloff; S&P 500 Falls 1.2%, Nasdaq 1.3%",
+          "body": "The FOMC held rates steady at 3.50–3.75% at Chair Kevin Warsh's inaugural meeting, but a sharply hawkish dot plot—nine of 18 officials backing at least one hike in 2026—rattled markets. The S&P 500 dropped 1.21% to 7,420.10 and the Dow fell 507 points, snapping a streak of all-time intraday highs, while Treasury yields surged. Major tech bellwethers including Microsoft, Meta, Alphabet, and Amazon all closed in the red as investors repriced rate expectations significantly higher than anticipated.",
+          "sector": "Finance",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNBC",
+          "publishedAtISO": "2026-06-17T21:30:00Z",
+          "publishedAt": "Jun 18, 2026, 04:30 Bangkok"
+        },
+        {
+          "headline": "Robinhood Surges ~9% on Record June Trading Volumes and 10% Workforce Cut",
+          "body": "Robinhood Markets (HOOD) jumped 8.78% to $105.20 after announcing a 10% reduction in full-time staff (~290 roles) alongside record June month-to-date average daily trading volumes across equities, options, and prediction markets. CEO Vlad Tenev framed the cuts as coming from 'a position of business strength,' with May equity notional trading volumes surging 75% year-over-year to $315 billion. Argus raised its price target from $90 to $110, and Bernstein projected prediction-market revenue to surge 286% in 2026 to $586 million, boosting the re-rating.",
+          "sector": "Finance",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Reuters / TheStreet",
+          "publishedAtISO": "2026-06-17T19:25:00Z",
+          "publishedAt": "Jun 18, 2026, 02:25 Bangkok"
+        },
+        {
+          "headline": "Intel Rebounds as 18A-P Chip Node Enters Risk Production; INTC Gains ~3.5%",
+          "body": "Intel (INTC) announced at the 2026 VLSI Symposium that its advanced 18A-P manufacturing process entered risk production on schedule, delivering a 9% performance gain or 18% power reduction versus the base 18A node, with full design-rule compatibility to ease customer migration. Shares recovered approximately 3.5% to $121.10 on Wednesday after an 8.5% premarket plunge Tuesday amid broader chip-sector profit-taking, finishing at $120–121. The milestone strengthens Intel Foundry's pitch to attract external customers—including a rumored Apple deal—though yields currently sit near 50%, well below TSMC's 80–90%, leaving the turnaround narrative still unproven at scale.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Yahoo Finance / MarketWatch",
+          "publishedAtISO": "2026-06-17T14:15:00Z",
+          "publishedAt": "Jun 17, 2026, 21:15 Bangkok"
+        },
+        {
+          "headline": "SpaceX Formalizes $60B All-Stock Acquisition of AI Coding Startup Cursor",
+          "body": "SpaceX formally filed an SEC 8-K on June 16 cementing a binding $60 billion all-stock merger to acquire Anysphere (Cursor), just two trading days after its record IPO. The deal, expected to close in Q3 2026 pending regulatory approval, values Cursor at a 3.4% dilution to SpaceX's $1.75 trillion IPO valuation and is intended to bolster xAI's coding capabilities against rivals like Anthropic and OpenAI. Cursor's annualized revenue hit $4 billion in early June; SPCX shares surged ~16% on the news before pulling back amid the broader Fed-driven selloff.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CNBC / Bloomberg",
+          "publishedAtISO": "2026-06-16T20:00:00Z",
+          "publishedAt": "Jun 17, 2026, 03:00 Bangkok"
+        }
+      ]
+    },
+    "asia": {
+      "id": "asia",
+      "label": "East + SE Asia",
+      "ticker": "Nikkei · HSI · SSE · KOSPI · TWSE · SET · SGX · IDX · KLSE · PSEi · VN-Index",
+      "lastUpdated": "2026-06-18T03:44:21.158Z",
+      "news": [
+        {
+          "headline": "Jakarta IDX Falls as Investors Brace for MSCI Review, BI Rate Call, FTSE Rebalance",
+          "body": "Indonesia's JCI fell 29 points (0.46%) in early Thursday trade to 6,191 as investors stayed sidelined ahead of three concurrent risk events: Bank Indonesia's policy decision (consensus expects a 25bp hike to 5.75%), the MSCI Global Market Accessibility Review published on June 18, and a FTSE index rebalancing. Rupiah weakness — at Rp17,762 per USD — adds pressure. The MSCI outcome is pivotal: a freeze lift would be bullish, while any downgrade signal toward frontier-market watchlist status could trigger forced index-related selling across Indonesian equities.",
+          "sector": "Finance",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Jakarta Globe / Trading Economics",
+          "publishedAtISO": "2026-06-18T02:30:00Z",
+          "publishedAt": "Jun 18, 2026, 09:30 Bangkok"
+        },
+        {
+          "headline": "Asia-Pacific Markets Rise as US and Iran Sign 14-Point Hormuz MOU; Fed Holds Rates",
+          "body": "Most Asia-Pacific indices opened higher on Thursday after the US Federal Reserve held rates at 3.5–3.75% on Wednesday — its first decision under Chair Kevin Warsh — and the US and Iran formalized a memorandum of understanding to reopen the Strait of Hormuz. Brent futures slid $1.25 (1.57%) to $78.30 and WTI fell $1.34 (1.75%) to $75.45 in early Thursday trade, boosting Asian importers. The Fed's hawkish dot plot — nine of 18 officials favour at least one hike in 2026 — tempered enthusiasm, driving VIX 12% higher overnight and leaving Wall Street lower (S&P 500 -1.21%).",
+          "sector": "Other",
+          "sentiment": "neutral",
+          "magnitude": "high",
+          "source": "Kaohoon International / Reuters",
+          "publishedAtISO": "2026-06-18T02:20:00Z",
+          "publishedAt": "Jun 18, 2026, 09:20 Bangkok"
+        },
+        {
+          "headline": "Asia-Pacific Stocks Rise as US-Iran Sign Hormuz MOU; Fed Holds Rates at 3.5–3.75%",
+          "body": "Most Asia-Pacific indices opened higher Thursday after the Fed held rates at 3.5–3.75% in Chair Kevin Warsh's first decision, and the US and Iran signed a 14-point MOU to reopen the Strait of Hormuz. Brent fell $1.25 (1.57%) to $78.30 early Thursday, relieving inflation pressure on Asian energy importers. However, the Fed's hawkish dot plot — nine of 18 officials favour at least one 2026 hike — drove VIX up 12% and left Wall Street lower (S&P 500 -1.21%), capping Asian upside. Thailand's SET faces resistance at 1,600 with support at 1,585.",
+          "sector": "Other",
+          "sentiment": "neutral",
+          "magnitude": "high",
+          "source": "Kaohoon International / Reuters",
+          "publishedAtISO": "2026-06-18T02:20:00Z",
+          "publishedAt": "Jun 18, 2026, 09:20 Bangkok"
+        },
+        {
+          "headline": "Japan May Exports Rise 17%, Fastest Pace Since Nov 2022; Semiconductor Shipments +61%",
+          "body": "Japan's Ministry of Finance reported May exports rose 17% year-on-year — beating the 16.2% Reuters consensus — marking nine consecutive months of growth. Semiconductor exports surged 61.2% in value, driven by AI-infrastructure demand, while auto shipments rose 16.4%; exports to China jumped 17.9%. The Nikkei 225 gained 0.72% to a fresh record close of 69,902 on Wednesday following the data. The trade deficit narrowed sharply to ¥378.7bn vs a ¥564.6bn forecast, strengthening the BoJ's case for continued tightening after its 25bp hike to 1% the prior day.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CNBC / InvestingLive",
+          "publishedAtISO": "2026-06-17T23:50:00Z",
+          "publishedAt": "Jun 18, 2026, 06:50 Bangkok"
+        },
+        {
+          "headline": "Japan May Exports Rise 17% at Fastest Pace Since Nov 2022; Semiconductor Shipments +61%",
+          "body": "Japan's May exports rose 17% year-on-year — beating the 16.2% Reuters consensus — marking nine consecutive months of growth; semiconductor exports surged 61.2% in value on AI-infrastructure demand while auto shipments rose 16.4%. The Nikkei 225 gained 0.72% to a fresh record close of 69,902 on June 17 following the data. The trade deficit narrowed sharply to ¥378.7bn vs a ¥564.6bn forecast, reinforcing the BoJ's tightening case. Export volumes rose only 0.5%, signalling most value gains reflect yen weakness and elevated chip prices rather than volume growth.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CNBC / InvestingLive",
+          "publishedAtISO": "2026-06-17T23:50:00Z",
+          "publishedAt": "Jun 18, 2026, 06:50 Bangkok"
+        }
+      ]
+    },
+    "commodities": {
+      "id": "commodities",
+      "label": "Commodities",
+      "ticker": "WTI · Brent · Gas · RBOB · Heating Oil · Coal · Gold · Silver · Copper · Aluminum · Iron Ore · Lithium · Platinum · Palladium · Grains · Softs · Oilseeds · Lumber · Rubber · BDI",
+      "lastUpdated": "2026-06-18T03:48:46.049Z",
+      "news": [
+        {
+          "headline": "US-Iran Interim Peace Deal Signed; Crude Falls Below $76 on Supply Surge Fears",
+          "body": "The US and Iran digitally signed their interim memorandum of understanding on June 17, with a US official confirming the agreement has taken effect; the deal includes the swift reopening of the Strait of Hormuz and removal of sanctions on Iranian oil exports. Crude fell below $76/bbl, extending its decline to the lowest levels since early March, as the release of more than 100 oil-laden ships stuck in the Gulf threatened a near-term supply surge. Brent slid for a fifth consecutive session toward $78/bbl, having now fallen nearly 40% from its conflict-era peak. Markets remain on edge over the pace of Iranian production recovery, with industry officials warning a full rebound could take weeks to years.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Trading Economics / IEA",
+          "publishedAtISO": "2026-06-17T20:00:00Z",
+          "publishedAt": "Jun 18, 2026, 03:00 Bangkok"
+        },
+        {
+          "headline": "FOMC Holds Rates; Hawkish Dot Plot Shows 9 Officials Back 2026 Hike, PCE Revised to 3.6%",
+          "body": "The Federal Reserve kept the federal funds rate unchanged at 3.50%–3.75% for a fourth consecutive meeting in Chair Kevin Warsh's debut, but the updated dot plot showed 9 of 18 participating officials projecting at least one rate hike in 2026, with 6 seeing at least two hikes. PCE inflation forecasts were revised sharply higher to 3.6% from 2.7% for 2026, while GDP growth was trimmed to 2.2%. Futures markets priced a steeper tightening path post-meeting, pointing to levels near 4% by late 2026. The hawkish surprise weighed on rate-sensitive commodities including gold and base metals, clouding the near-term demand outlook.",
+          "sector": "Precious Metals",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Trading Economics / StreetStats",
+          "publishedAtISO": "2026-06-17T19:00:00Z",
+          "publishedAt": "Jun 18, 2026, 02:00 Bangkok"
+        },
+        {
+          "headline": "IEA June OMR: 2026 Oil Demand Cut 700 kb/d; 2027 Supply Glut of 6+ mb/d Flagged",
+          "body": "The IEA's June Oil Market Report, extended to 2027 for the first time due to the Middle East conflict, cut its 2026 global oil demand forecast by 700 kb/d versus May, now projecting a 1.1 mb/d year-on-year decline as Q2 deliveries plunged 5 mb/d amid high fuel prices and product shortages. For 2027, the agency projected supply growth of 8 mb/d against demand growth of just 2 mb/d, signaling a 'significant overhang.' Global observed inventories fell by 143 mb (-4.6 mb/d) in May alone, with OECD government stocks dropping to their lowest since December 1990. The bearish 2027 outlook compounded selling pressure on crude despite near-term inventory tightness.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "IEA",
+          "publishedAtISO": "2026-06-17T08:00:00Z",
+          "publishedAt": "Jun 17, 2026, 15:00 Bangkok"
+        },
+        {
+          "headline": "Gold Holds Above $4,300 as Oil Decline Eases Inflation Fears; Rate-Hike Risk Caps Upside",
+          "body": "Gold traded at approximately $4,330–$4,352/oz on June 17, supported by falling crude oil prices that reduced near-term inflation concerns and potentially reopened the door for Fed rate cuts later in 2026 if disinflation resumes. The metal found additional support from a weaker US dollar and softer Treasury yields ahead of the FOMC meeting, and has gained over 2% week-on-week. However, the post-FOMC hawkish dot plot — showing 9 officials backing hikes and PCE revised to 3.6% — capped bullion's upside, with the metal consolidating following the prior week's capitulation-style sell-off from recent highs above $4,500. Gold remains ~29% higher year-on-year.",
+          "sector": "Gold",
+          "sentiment": "neutral",
+          "magnitude": "medium",
+          "source": "Saxo Bank / Trading Economics",
+          "publishedAtISO": "2026-06-17T07:00:00Z",
+          "publishedAt": "Jun 17, 2026, 14:00 Bangkok"
+        },
+        {
+          "headline": "Copper Near Record $6.5/lb on US-Iran Deal; Jefferies Flags 491k-Ton Annual Deficit to 2030",
+          "body": "Copper futures held near $6.5/lb on June 17, hovering close to record highs as risk appetite improved following US-Iran peace agreement reports, with falling oil prices easing inflation and monetary tightening concerns that had weighed on industrial metals demand. Jefferies issued a note citing an average annual supply deficit of 491,000 tons through 2030, compounded by a slower-than-expected production recovery at the Grasberg mine in Indonesia. Longer-term demand support from AI data center buildout and energy transition electrification continued to underpin prices. The hawkish FOMC dot plot introduced a headwind, however, as tighter monetary policy is seen eventually slowing industrial consumption.",
+          "sector": "Base Metals",
+          "sentiment": "positive",
+          "magnitude": "medium",
+          "source": "Trading Economics / Jefferies",
+          "publishedAtISO": "2026-06-17T06:00:00Z",
+          "publishedAt": "Jun 17, 2026, 13:00 Bangkok"
+        }
+      ]
+    }
+  }
+}
