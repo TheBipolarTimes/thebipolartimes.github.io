@@ -2,64 +2,64 @@
   "publication": "The BiPolar Times",
   "slogan": "The Newspaper That Connects The Markets Of Both Worlds",
   "timezone": "Asia/Bangkok",
-  "exportedAt": "2026-06-29T08:08:11.015Z",
+  "exportedAt": "2026-07-01T06:43:09.425Z",
   "generatedFrom": "private-dashboard",
   "sections": {
     "us": {
       "id": "us",
       "label": "US",
       "ticker": "NYSE · NASDAQ · S&P 500",
-      "lastUpdated": "2026-06-29T08:07:47.145Z",
+      "lastUpdated": "2026-07-01T06:35:55.085Z",
       "news": [
         {
-          "headline": "Alphabet Joins Dow Jones on June 29, Replacing Verizon After 22 Years",
-          "body": "Alphabet (GOOGL) officially replaced Verizon (VZ) in the 30-stock Dow Jones Industrial Average at the open on June 29, 2026, the first Dow change since November 2024. With Verizon's share price (~$45) accounting for only ~0.5% of the price-weighted index, S&P Dow Jones Indices cited Alphabet's higher share price (~$350) and diversified portfolio spanning AI, cloud, advertising, and healthcare tech as rationale. All five of the largest U.S. tech firms — Nvidia, Amazon, Apple, Microsoft, and Alphabet — now hold Dow seats, deepening the benchmark's AI-trade exposure. The swap forced Dow-tracking funds such as SPDR DIA to sell VZ and buy GOOGL ahead of the open, with Alphabet having gained ~1% and Verizon falling ~2% on the initial announcement.",
-          "sector": "Technology",
-          "sentiment": "neutral",
-          "magnitude": "high",
-          "source": "CNBC / S&P Dow Jones Indices",
-          "publishedAtISO": "2026-06-29T13:30:00Z",
-          "publishedAt": "Jun 29, 2026, 20:30 Bangkok"
-        },
-        {
-          "headline": "Russell Indexes Go Live With First-Ever Semi-Annual Reconstitution on June 29",
-          "body": "The newly reconstituted Russell US Indexes took effect at the open of U.S. markets on Monday, June 29, marking the first semi-annual rebalancing after FTSE Russell shifted from an annual to a twice-yearly schedule in 2026. The Nasdaq Closing Cross set a record on June 26, executing $334 billion in Nasdaq-listed securities in 1.63 seconds to complete the reshuffle. The total market cap of the Russell 3000 surged 29% year-over-year to $75.6 trillion, with the large/small-cap breakpoint rising 24% to $5.7 billion. Markets are watching for post-recon flow reversals and fresh passive-fund positioning as the reconstituted indexes debut on Monday.",
-          "sector": "Finance",
-          "sentiment": "neutral",
-          "magnitude": "high",
-          "source": "Nasdaq / LSEG FTSE Russell",
-          "publishedAtISO": "2026-06-29T09:00:00Z",
-          "publishedAt": "Jun 29, 2026, 16:00 Bangkok"
-        },
-        {
-          "headline": "Seagate (STX) Slides 18% From Peak as AI Capex Fears Trigger Storage Selloff",
-          "body": "Seagate Technology shares have retreated roughly 18% from their $1,055 all-time high, closing at $899.90 on June 26 after a 12.24% single-session drop, with continued weakness into June 28-29. The initial trigger was a report that South Korea's SK Hynix is slowing its HBM4 high-bandwidth memory expansion, which rattled the broader AI infrastructure complex and dragged storage names including Western Digital and SanDisk lower alongside STX. Additional headwinds included a Fox Advisors downgrade to Equal-Weight on June 22 and rising Fed rate-hike odds under Chair Kevin Warsh, which pressure debt-funded AI capex. Markets are watching the move closely given STX is still up over 230% year-to-date, with next real fundamental test at fiscal Q4 2026 earnings expected in late July.",
-          "sector": "Technology",
+          "headline": "Nike (NKE) Falls ~3% After-Hours as Q4 Revenue Declines Despite Tariff-Boosted EPS Beat",
+          "body": "Nike reported Q4 FY2026 revenue of $10.97 billion (-1.1% YoY), beating the $10.86 billion consensus, but GAAP EPS of $0.72 included a $0.52 per-share benefit from expected IEEPA tariff refunds of ~$986 million after the Supreme Court overturned several Trump tariff policies; ex-items, EPS was ~$0.20. Greater China sales dropped ~12%, Nike Direct fell 7%, and Converse saw a 30%+ sales decline in the quarter. Shares fell ~3.6% in after-hours to ~$39.58, as investors remained skeptical about top-line recovery heading into FY2027 with no clear revenue growth catalyst ahead of a fall Investor Day.",
+          "sector": "Other",
           "sentiment": "negative",
-          "magnitude": "high",
-          "source": "TIKR / ts2.tech",
-          "publishedAtISO": "2026-06-29T03:54:00Z",
-          "publishedAt": "Jun 29, 2026, 10:54 Bangkok"
+          "magnitude": "medium",
+          "source": "TheStreet / TradingKey / FX Leaders",
+          "publishedAtISO": "2026-06-30T22:00:00Z",
+          "publishedAt": "Jul 1, 2026, 05:00 Bangkok"
         },
         {
-          "headline": "S&P 500 Futures Jump as US-Iran Halt Attacks Ahead of Doha Peace Talks",
-          "body": "U.S. equity futures climbed Monday after Washington and Tehran agreed to halt attacks against each other before peace negotiations resume in Doha. S&P 500 futures rose roughly 0.58% and Nasdaq futures gained 0.85% in pre-market trading on June 29. The geopolitical relief follows a turbulent week in which Iran targeted a container ship and military bases in Kuwait and Bahrain, triggering retaliatory U.S. strikes. Markets are treating the renewed ceasefire as a buying catalyst heading into the second half of 2026, with the S&P 500 down roughly 3% in June after strong April-May gains.",
+          "headline": "AMD, Intel Surge ~7% to Record Highs; Chip Rally Adds $2T in Q2 Market Cap",
+          "body": "AMD hit an intraday all-time high of $579.73 on June 30, rising over 7%, while Intel advanced 6–7% to $140.56, its own 52-week high. Wells Fargo raised AMD's price target from $505 to $615, Cantor Fitzgerald lifted Intel's target to $150, and UBS raised estimates on both, citing AI infrastructure buildout and EPYC/Xeon data-center momentum. The Q2 rally for Micron, Intel, and AMD combined added approximately $2 trillion in market cap, with the trio now ranked the 10th, 11th, and 12th most valuable U.S. tech companies. Markets care because the semiconductor rotation signals a broadening of the AI trade beyond hyperscalers into AI-enabler infrastructure names.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CNBC / 247 Wall St. / TradingKey",
+          "publishedAtISO": "2026-06-30T20:00:00Z",
+          "publishedAt": "Jul 1, 2026, 03:00 Bangkok"
+        },
+        {
+          "headline": "SpaceX (SPCX) Surges 7% on Charter Mobile Talks and $4.3B Nasdaq-100 Inflow Estimate",
+          "body": "SpaceX shares rose 7.15% to $164.19 on June 30, breaking out of a post-IPO consolidation channel, driven by Bloomberg reports of partnership talks with Charter Communications on satellite-connected mobile services and a J.P. Morgan estimate that $4.3 billion in passive inflows will flow into SPCX when it joins the Nasdaq-100 effective July 7. Nasdaq confirmed the timing on June 27, with index funds required to purchase shares after the July 6 close. SpaceX is the first company to benefit from Nasdaq's fast-track rule, entering the index just 15 trading days after its record June 12 IPO that raised approximately $75–85 billion. The low public float of ~4–5% means even modest index weighting could generate outsized price impact.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "TradingKey / CNBC / Bloomberg",
+          "publishedAtISO": "2026-06-30T18:00:00Z",
+          "publishedAt": "Jul 1, 2026, 01:00 Bangkok"
+        },
+        {
+          "headline": "Russell 2000 Posts Best First Half Since 1991, Surging 21%+ on AI Broadening Trade",
+          "body": "The Russell 2000 closed H1 2026 up more than 21%, its strongest first-half performance in 35 years, as AI infrastructure spending rippled beyond mega-caps into small-cap suppliers—particularly semiconductors. Chip-related companies account for 16 of the index's top 50 performers, with names like Aehr Test Systems, Ichor Holdings, and MaxLinear each rallying over 400%. Consensus 2026 EPS growth forecasts for Russell 2000 companies have risen to 38% from 23% at the start of the year. The key risk is the Federal Reserve's July 28–29 meeting, with markets pricing ~30% odds of a rate hike that could compress valuations for the heavily floating-rate-indebted small-cap cohort.",
           "sector": "Other",
           "sentiment": "positive",
           "magnitude": "high",
-          "source": "Trading Economics",
-          "publishedAtISO": "2026-06-29T00:30:00Z",
-          "publishedAt": "Jun 29, 2026, 07:30 Bangkok"
+          "source": "CNBC / Yahoo Finance / Traders Union",
+          "publishedAtISO": "2026-06-30T16:00:00Z",
+          "publishedAt": "Jun 30, 2026, 23:00 Bangkok"
         },
         {
-          "headline": "SpaceX (SPCX) to Join Nasdaq-100 on July 7, Triggering Billions in Forced Buying",
-          "body": "Nasdaq confirmed on June 26–27 that SpaceX (SPCX) will enter the Nasdaq-100 Index before market open on July 7, 2026 — the fastest-ever index inclusion, just 15 trading days post-IPO, enabled by a new Nasdaq fast-track rule. Analysts estimate passive funds tracking the benchmark must purchase up to $7.3 billion in SPCX shares as part of mandatory rebalancing. The stock, which had retreated ~32% from its post-IPO peak of $225.64 to around $153, recovered modestly on the news. The inclusion underscores institutional demand but raises valuation questions given SPCX's negative earnings and P/S ratio near 79x.",
+          "headline": "AeroVironment (AVAV) Jumps ~19–23% After Q4 Revenue More Than Doubles, Crushes Estimates",
+          "body": "Drone maker AeroVironment reported Q4 FY2026 revenue of $641.6 million—up 133% year-over-year and well above the ~$559 million consensus—while adjusted EPS of $1.84 beat the $1.46–1.47 estimate by roughly 25%. The funded backlog grew 65% year-over-year to $1.2 billion, and FY2027 revenue guidance of $2.125–$2.225 billion reflects continued defense-autonomy momentum. Shares spiked as high as $178.50 in premarket before closing up ~18.76% at $165.07. Multiple Wall Street firms (Clear Street, KeyBanc, BTIG) cut price targets on contract-timing delays but maintained Buy/Overweight ratings, emphasizing that demand is delayed, not broken.",
           "sector": "Technology",
           "sentiment": "positive",
           "magnitude": "high",
-          "source": "Nasdaq / Reuters",
-          "publishedAtISO": "2026-06-27T09:55:00Z",
-          "publishedAt": "Jun 27, 2026, 16:55 Bangkok"
+          "source": "CNBC / Seeking Alpha / StocksToTrade",
+          "publishedAtISO": "2026-06-30T14:00:00Z",
+          "publishedAt": "Jun 30, 2026, 21:00 Bangkok"
         }
       ]
     },
@@ -67,47 +67,57 @@
       "id": "asia",
       "label": "East + SE Asia",
       "ticker": "Nikkei · HSI · SSE · KOSPI · TWSE · SET · SGX · IDX · KLSE · PSEi · VN-Index",
-      "lastUpdated": "2026-06-29T07:57:33.558Z",
+      "lastUpdated": "2026-07-01T06:37:01.189Z",
       "news": [
         {
-          "headline": "SoftBank Breaks Below ¥6,000 as OpenAI IPO Delay Pressure Persists Into Monday",
-          "body": "SoftBank Group (TSE: 9984) fell below the ¥6,000 level during Asian trading on June 29, extending the prior session's 12.5% collapse triggered by NYT reports that OpenAI is leaning toward delaying its IPO to 2027 rather than accept a valuation below $1 trillion. SoftBank holds approximately a 13% stake in OpenAI worth a cumulative ~$65 billion, and a $40 billion bridge loan taken to fund the investment is due for repayment in March 2027 with no public exit now in sight. Technical analysts flagged the ¥4,800–5,000 zone as next key support. The two-day rout has wiped roughly ¥5.6 trillion in market cap and weighed heavily on the broader Nikkei 225.",
-          "sector": "Technology",
-          "sentiment": "negative",
-          "magnitude": "high",
-          "source": "TradingKey / Reuters",
-          "publishedAtISO": "2026-06-29T04:00:00Z",
-          "publishedAt": "Jun 29, 2026, 11:00 Bangkok"
-        },
-        {
-          "headline": "KOSPI Falls 3%, Samsung Down 5.3% as Korea Exchange Scraps Weekly Options Launch",
-          "body": "South Korea's KOSPI slid ~3% to around 8,154 on June 29 as Samsung Electronics dropped 5.3% and SK Hynix fell 3.4%, with stocks failing to react positively to a combined ₩2,000 trillion ($1.3 trillion) chip investment pledge by Samsung Group and SK Group presented to President Lee Jae-myung. The Korea Exchange's Financial Supervisory Service indefinitely postponed the planned June 29 launch of weekly single-stock options on Samsung, SK Hynix, Hyundai Motor, and LG Energy Solution, citing record-high volatility fuelled by retail investors piling into daily 2x leveraged ETFs. The regulatory pullback removed a key hedging tool and compounded bearish sentiment following a circuit-breaker week. KOSPI is now down roughly 10% over the past week, erasing ~₩550 trillion in market cap.",
-          "sector": "Technology",
-          "sentiment": "negative",
-          "magnitude": "high",
-          "source": "BeInCrypto / Bloomberg",
-          "publishedAtISO": "2026-06-29T02:00:00Z",
-          "publishedAt": "Jun 29, 2026, 09:00 Bangkok"
-        },
-        {
-          "headline": "Nikkei Posts Biggest Single-Day Point Drop of 2026, Closing Down 4.15% on June 27",
-          "body": "Japan's Nikkei 225 plunged 3,005 points (−4.15%) to close at 69,361 on June 27, its largest single-session decline this year and third-largest on record by points, as SoftBank's 12.9% collapse on OpenAI IPO delay reports dragged AI-adjacent heavyweights across the board. Kioxia Holdings slid 11.2%, while Advantest, Tokyo Electron, and Fujikura also saw heavy selling; TSE Prime Market turnover surged to ¥12.17 trillion (~$75.2 billion). The close broke below the psychologically key 70,000 level that the index had consolidated above for much of June. Notably, advancing issues still outnumbered decliners 915 to 613, indicating the rout was concentrated in index heavyweights rather than a broad market panic.",
-          "sector": "Technology",
-          "sentiment": "negative",
-          "magnitude": "high",
-          "source": "BigGo Finance / BBN Times",
-          "publishedAtISO": "2026-06-27T10:00:00Z",
-          "publishedAt": "Jun 27, 2026, 17:00 Bangkok"
-        },
-        {
-          "headline": "Kioxia Plans US Depositary Share Offering Spring 2027 and Domestic Stock Split",
-          "body": "Japan's Kioxia Holdings (TSE: 285A) announced on June 25 plans to offer US depositary shares in spring 2027 and execute a domestic stock split, capitalising on AI-driven demand for NAND flash exposure to broaden its global investor base alongside rival SK Hynix. Kioxia has grown into Japan's most valuable listed company in 2026 on the back of AI data-centre storage demand, and guided operating profit of ~¥1.3 trillion for Q1 FY2026. The announcement came just ahead of the broader AI tech selloff; Kioxia shares subsequently slid 12% on June 26 and broke below ¥90,000 by June 29 as the sector correction deepened. The US listing plan nonetheless underscores the continued global capital-raising ambitions of Asian memory chipmakers.",
-          "sector": "Technology",
+          "headline": "BoJ Tankan Beats Forecasts at 22 vs 16 Expected, Bolstering July Rate Hike Odds",
+          "body": "Japan's Q2 Tankan large manufacturers' index surged to 22, well above the consensus forecast of 16, reaching its highest level in nearly eight years as AI-related demand and higher commodity prices boosted corporate profits for a fifth consecutive quarter. The blowout reading significantly raises the probability of a Bank of Japan rate hike at its July policy meeting, lifting the yen and creating dual headwinds for export-heavy Nikkei components. Despite the bullish economic signal, equity markets face pressure from potential yen appreciation compressing exporter margins. The Nikkei 225 had already pulled back sharply from recent highs before the release, trading around 69,000–70,000 levels.",
+          "sector": "Finance",
           "sentiment": "neutral",
+          "magnitude": "high",
+          "source": "Nikkei Asia / VT Markets",
+          "publishedAtISO": "2026-07-01T02:41:00Z",
+          "publishedAt": "Jul 1, 2026, 09:41 Bangkok"
+        },
+        {
+          "headline": "Taiwan TAIEX Closes H1 Up ~60% at 46,126; Goldman Raises Target to 51,000",
+          "body": "The Taiwan Stock Exchange benchmark closed June 30 up 2.5% at 46,125.91, sealing a near-60% year-to-date gain for H1 2026 — one of the strongest half-year performances for any major global index — driven by AI semiconductor exports and record export orders totaling $319 billion in Jan–Apr. Taiwan's total stock market capitalisation surpassed $5.1 trillion, overtaking France, the UK, Canada, and India to rank fifth globally. Goldman Sachs raised its TAIEX target to 51,000 and upgraded to Overweight, citing AI investment tailwinds. Markets are now focused on TSMC's July 16 earnings conference as the next critical momentum catalyst.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "TradingKey / Focus Taiwan",
+          "publishedAtISO": "2026-06-30T09:00:00Z",
+          "publishedAt": "Jun 30, 2026, 16:00 Bangkok"
+        },
+        {
+          "headline": "Indonesia IDX on Track for 7th Straight Monthly Loss, Down ~20% Over Two Quarters",
+          "body": "Indonesia's IDX Composite tumbled 2.8% to 5,659 in early Tuesday trading — its third session of losses and lowest in three weeks — as the market headed for a seventh consecutive monthly decline, down 7.5% in June and extending a near-20% two-quarter loss. Selling pressure was broad-based across basic materials, energy, and infrastructure; notable decliners included Hartadinata Abadi (-8.5%), Astra International (-4.7%), and Bank Central Asia (-4.2%). Key pressures include widening current account and budget deficits, a shrinking trade surplus, foreign reserves at a two-year low, a record-weak rupiah, and market concerns over new legislation granting blanket legal immunity for Danantara bond purchases. Cuts to industrial LNG prices offered only limited cushioning.",
+          "sector": "Finance",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Trading Economics",
+          "publishedAtISO": "2026-06-30T02:00:00Z",
+          "publishedAt": "Jun 30, 2026, 09:00 Bangkok"
+        },
+        {
+          "headline": "China NBS Manufacturing PMI Beats at 50.3 in June, High-Tech Sector Hits 53.5",
+          "body": "China's official NBS Manufacturing PMI rose to 50.3 in June from 50.0 in May, topping the Reuters poll consensus of 50.1 and marking the third consecutive month of expansion, with new orders returning to expansion at 51.2 after contracting in May. High-tech equipment manufacturing PMI surged to 53.5 — its fourth consecutive month of gains — on AI-driven global demand, while export orders also swung back into expansion at 50.1. Bank of America upgraded its China export growth forecast to 15% for 2026, citing strong AI-related investment and EV demand. The upside surprise lifted the Shanghai Composite and provided modest support to regional risk sentiment heading into Q3.",
+          "sector": "Other",
+          "sentiment": "positive",
           "magnitude": "medium",
-          "source": "Bloomberg / TradingKey",
-          "publishedAtISO": "2026-06-27T08:30:00Z",
-          "publishedAt": "Jun 27, 2026, 15:30 Bangkok"
+          "source": "Reuters / CNBC / Global Times",
+          "publishedAtISO": "2026-06-30T01:31:00Z",
+          "publishedAt": "Jun 30, 2026, 08:31 Bangkok"
+        },
+        {
+          "headline": "SK Hynix Files SEC Registration for $29B Nasdaq ADR Debut Targeting July 10",
+          "body": "SK Hynix filed its ADR registration statement with the SEC on June 30, confirming plans to raise approximately $29 billion on the Nasdaq under the ticker 'SKHY' — targeting a July 10 start date — in what would be one of the largest U.S. listings by a non-American company. The world's second-largest memory chipmaker, which commands 58% of the global HBM market and posted a 72% operating margin in Q1 2026, aims to re-rate its valuation alongside U.S. peers such as Micron; its stock has surged over 280% in 2026 and briefly overtook Samsung Electronics as South Korea's most valuable listed company. The offering is managed by BofA, Citi, Goldman Sachs, and JP Morgan. The filing reinforces KOSPI's extraordinary AI-driven bull run and raises near-term risk of index rebalancing flows.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CNBC / TradingKey",
+          "publishedAtISO": "2026-06-30T00:00:00Z",
+          "publishedAt": "Jun 30, 2026, 07:00 Bangkok"
         }
       ]
     },
@@ -115,57 +125,57 @@
       "id": "commodities",
       "label": "Commodities",
       "ticker": "WTI · Brent · Gas · RBOB · Heating Oil · Coal · Gold · Silver · Copper · Aluminum · Iron Ore · Lithium · Platinum · Palladium · Grains · Softs · Oilseeds · Lumber · Rubber · BDI",
-      "lastUpdated": "2026-06-29T07:59:34.002Z",
+      "lastUpdated": "2026-07-01T06:40:25.567Z",
       "news": [
         {
-          "headline": "WTI Rebounds to ~$70 as US-Iran Agree Ceasefire; Hormuz Shipping at 75% of Pre-War Levels",
-          "body": "Crude oil recovered to around $70/bbl on June 29 after sinking to four-month lows near $69 on Friday following a surge in Strait of Hormuz shipping transits. Persian Gulf exports have recovered to roughly 75% of pre-war levels, with Saudi Arabia resuming tanker loadings at Ras Tanura and the UAE, Kuwait, and Qatar all ramping output. A US-Iran halt to mutual attacks was agreed ahead of Doha peace talks scheduled for Tuesday, though shipowners remain cautious with hundreds of vessels still stranded in the Persian Gulf. WTI has lost over 22% in the past four weeks as the geopolitical risk premium rapidly unwinds.",
-          "sector": "Energy",
-          "sentiment": "negative",
-          "magnitude": "high",
-          "source": "Trading Economics / Reuters",
-          "publishedAtISO": "2026-06-29T04:00:00Z",
-          "publishedAt": "Jun 29, 2026, 11:00 Bangkok"
-        },
-        {
-          "headline": "Gold Slips to ~$4,050 as US-Iran De-escalation Revives Inflation and Rate-Hike Fears",
-          "body": "Gold fell to around $4,050/oz on Monday, snapping a two-day rebound, as renewed tit-for-tat US-Iran strikes over the Strait of Hormuz lifted oil prices and re-ignited inflation concerns. Iran targeted a container ship and a vessel carrying Qatari oil, prompting multiple US retaliatory strikes before both sides agreed to suspend attacks ahead of Doha peace talks. In-line May PCE data allowed investors to modestly pare Fed rate-hike bets, offering brief support; gold remains down roughly 3% for its fourth consecutive weekly decline as markets now price three Fed hikes this year with a ~62% probability of the first in September. Silver futures fell 1.7% in tandem, hovering near $58.",
+          "headline": "Gold Holds Near 8-Month Low Below $4,000 as Fed Hike Bets Hit 70%; Banks Slash Targets",
+          "body": "Gold steadied around $4,000/oz on July 1 — near its lowest since November 2025 — as CME FedWatch priced a ~70% probability of a September Fed rate hike, up sharply from 29% a week prior. Strong JOLTS data showing job openings at a two-year high and persistent above-target core inflation reinforced the hawkish backdrop, pushing the US Dollar Index to a 13-month high. Deutsche Bank revised its gold target to $4,300/oz in Q3 under a hold scenario, warning that three-to-four Fed hikes could take gold to $3,800/oz; ING cut its year-end target to $4,600 from $5,000. Silver fell harder, breaking below $60 for the first time since December 2025 on an intra-session drop exceeding 5%.",
           "sector": "Gold",
           "sentiment": "negative",
           "magnitude": "high",
-          "source": "Trading Economics / Reuters",
-          "publishedAtISO": "2026-06-29T03:00:00Z",
-          "publishedAt": "Jun 29, 2026, 10:00 Bangkok"
+          "source": "CNBC / goldsilver.com / Trading Economics",
+          "publishedAtISO": "2026-07-01T06:00:00Z",
+          "publishedAt": "Jul 1, 2026, 13:00 Bangkok"
         },
         {
-          "headline": "US Navy Widens Hormuz Transit Corridor, Challenging Iran's Chokehold on Waterway",
-          "body": "On June 27, the US Navy's Joint Maritime Information Center announced a widened navigational route through the Strait of Hormuz near Oman, permitting increased naval and commercial traffic in both directions — a direct challenge to Iran's control over the waterway. The move follows weeks in which ships were trickling out via an Iranian-run vetting lane or slipping through a southern Oman passage with transponders off under US military guidance. Market participants are watching closely as the transit corridor development is the most significant operational shift yet, potentially accelerating the return of the roughly 20 million barrels of oil per day that historically flowed through the strait. Shipping insurers remain cautious pending mine clearance confirmation.",
-          "sector": "Energy",
-          "sentiment": "positive",
-          "magnitude": "high",
-          "source": "Wikipedia / JMIC",
-          "publishedAtISO": "2026-06-27T18:00:00Z",
-          "publishedAt": "Jun 28, 2026, 01:00 Bangkok"
-        },
-        {
-          "headline": "Gold Posts Fourth Straight Weekly Loss; PCE In-Line but Fed Hike Bets Remain Elevated",
-          "body": "Gold traded around $4,040/oz on Friday June 27, edging up for a second session after May PCE inflation came in broadly in line with expectations, nudging investors to modestly scale back rate-hike bets. Despite the bounce, gold closed the week down roughly 3%, its fourth consecutive weekly decline, as Fed Chair Warsh reaffirmed the commitment to price stability and the Fed raised its 2026 PCE inflation projections — headline PCE accelerated to 4.1% in May. Markets remain priced for three Fed hikes this year with markets and major banks including Deutsche Bank warning that three to four hikes could drag gold toward $3,800/oz. The PCE print provides only limited relief ahead of the June jobs report and ISM PMI due this week.",
-          "sector": "Gold",
-          "sentiment": "negative",
-          "magnitude": "high",
-          "source": "Trading Economics / CNBC",
-          "publishedAtISO": "2026-06-27T15:00:00Z",
-          "publishedAt": "Jun 27, 2026, 22:00 Bangkok"
-        },
-        {
-          "headline": "US Natural Gas Rises 2%+ on Heat Forecasts; Record Golden Pass LNG Feedgas Lifts Export Flows",
-          "body": "US Henry Hub natural gas futures rose more than 2% to around $3.29–$3.35/MMBtu during the June 27–28 period, hitting their highest level since early February, as forecasters flagged above-average temperatures across the Midwest and Northeast through July 5 that are set to boost gas-for-power demand. Record feedgas activity at the Golden Pass LNG terminal in Texas lifted average daily flows to major export plants to 17.3 bcfd in June from 17.1 bcfd in May. An EIA storage injection of 76 bcf for the week ended June 19 — near the seasonal norm — kept inventories 5.7% above seasonal norms, tempering further upside. LNG export demand combined with hotter summer weather is the primary price driver as US domestic production holds steady near 109–112 bcfd.",
+          "headline": "Natural Gas Futures Surge ~3% on US Heat Dome, LNG Feedgas Hits 2-Month High of 19.7 Bcf/day",
+          "body": "August NYMEX natural gas settled up 9.4 cents (+2.96%) on June 30 as a heat dome anchored over the central and eastern US drove elevated power-sector gas burn, with above-normal temperatures forecast through at least July 4. LNG feedgas flows to US export terminals surged to 19.7 Bcf/day on June 30, the highest reading in more than two months, tightening domestic supply despite robust dry gas production of 112.2 Bcf/day (+2.9% y/y). The Commodity Weather Group flagged extreme heat conditions across eastern population centers through the Independence Day holiday weekend. The dual demand pull — domestic cooling and record LNG exports — kept buyers supporting the 50-day moving average for a ninth consecutive session.",
           "sector": "Energy",
           "sentiment": "positive",
           "magnitude": "medium",
-          "source": "Trading Economics / Barchart / EIA",
-          "publishedAtISO": "2026-06-27T12:00:00Z",
-          "publishedAt": "Jun 27, 2026, 19:00 Bangkok"
+          "source": "Barchart / FXEmpire / Natural Gas Intelligence",
+          "publishedAtISO": "2026-06-30T20:00:00Z",
+          "publishedAt": "Jul 1, 2026, 03:00 Bangkok"
+        },
+        {
+          "headline": "WTI Posts Worst Quarter Since 2020, Falls ~$70 on Doha Talks, Hormuz Supply Return",
+          "body": "Crude oil fell toward $70/bbl on June 30, completing a ~30% quarterly drop — the steepest since 2020 — as the US-Iran ceasefire framework allowed shipping traffic to resume through the Strait of Hormuz and sanction waivers introduced additional Iranian barrels into a supply-starved market. US-Iran delegations met in Doha for further negotiations, though Tehran denied direct talks and maintained its intent to oversee Hormuz transit independently. A Reuters poll of 31 analysts lowered the full-year 2026 Brent forecast to $84.50/bbl from $90.44/bbl in May. ING warned markets may be too complacent given still-unresolved logistics, mine-clearance needs, and infrastructure damage, flagging significant re-escalation risk.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Reuters / Trading Economics / CNBC",
+          "publishedAtISO": "2026-06-30T17:00:00Z",
+          "publishedAt": "Jul 1, 2026, 00:00 Bangkok"
+        },
+        {
+          "headline": "USDA June Acreage: Corn Stocks Miss by 113 Mbu, Record Q3 Demand Triggers Futures Rally",
+          "body": "USDA's June 30 Grain Stocks and Acreage reports delivered a bullish surprise for corn: June 1 stocks totaled 5.295 billion bushels, approximately 113 million bushels below trade estimates and below the lowest pre-report guess. March-May implied corn disappearance reached 3.74 billion bushels, a record for the marketing year's third quarter. Corn acreage came in at 95.343 million acres — above the 94.992 million average estimate but sharply below 98.788 million planted in 2025 — confirming a meaningful year-on-year supply reduction. Wheat acreage also missed at 42.74 million acres versus estimates of 43.858 million; December corn futures rallied 3–6 cents from pre-report lows to close higher on the day.",
+          "sector": "Agriculture",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "AgWeb / Pro Farmer / Barchart / USDA",
+          "publishedAtISO": "2026-06-30T16:00:00Z",
+          "publishedAt": "Jun 30, 2026, 23:00 Bangkok"
+        },
+        {
+          "headline": "Silver Heads for ~20% Monthly Loss as Hawkish Fed Drives Gold-Silver Ratio to 67:1",
+          "body": "Silver closed June on track for a roughly 20% monthly loss — its worst in years — as rising Fed rate-hike expectations devastated the non-yielding metal's investment case more severely than gold. The gold-silver ratio widened to approximately 67:1, reflecting that silver lacks the central bank reserve-buying floor that has cushioned gold's decline. Macquarie trimmed its year-end silver forecast, noting that \"price action is back to being macro driven\" and warning that higher inflation and bond yields will limit upside, with silver particularly vulnerable given its high speculative positioning. The US Dollar Index hitting a 13-month high compounded pressure on all precious metals heading into the second half of 2026.",
+          "sector": "Precious Metals",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Trading Economics / CNBC / discoveryalert.com.au",
+          "publishedAtISO": "2026-06-30T12:00:00Z",
+          "publishedAt": "Jun 30, 2026, 19:00 Bangkok"
         }
       ]
     }
