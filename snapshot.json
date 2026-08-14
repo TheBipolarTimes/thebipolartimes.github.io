@@ -2,64 +2,64 @@
   "publication": "The BiPolar Times",
   "slogan": "The Newspaper That Connects The Markets Of Both Worlds",
   "timezone": "Asia/Bangkok",
-  "exportedAt": "2026-08-11T03:16:05.504Z",
+  "exportedAt": "2026-08-14T05:08:54.892Z",
   "generatedFrom": "private-dashboard",
   "sections": {
     "us": {
       "id": "us",
       "label": "US",
       "ticker": "NYSE · NASDAQ · S&P 500",
-      "lastUpdated": "2026-08-11T03:12:48.703Z",
+      "lastUpdated": "2026-08-14T04:58:01.661Z",
       "news": [
         {
-          "headline": "Super Micro Computer Reports Q4 After Close; Revenue Misses, EPS Ahead of Estimates",
-          "body": "Super Micro Computer (SMCI) reported fiscal Q4 2026 results after the close on August 11, with EPS coming in ahead of consensus estimates but revenue falling short of the ~$11.56 billion analyst forecast — consistent with the company's July 21 preliminary update flagging revenue near the low end of the $11.0–$12.5 billion guidance range. The preliminary update had already flagged a gross margin beat of 15–17% versus prior guidance of 8.2–8.4%, driven by favorable customer and product mix, and a record backlog exceeding $60 billion. Options markets had priced in a 16–19% post-earnings price swing given the stock's binary reaction history. The results are closely watched as a bellwether for AI server infrastructure demand, with 101% year-over-year revenue growth expected for the quarter.",
-          "sector": "Technology",
-          "sentiment": "neutral",
-          "magnitude": "high",
-          "source": "Seeking Alpha / GuruFocus",
-          "publishedAtISO": "2026-08-11T21:00:00Z",
-          "publishedAt": "Aug 12, 2026, 04:00 Bangkok"
-        },
-        {
-          "headline": "Intel Launches Historic $15B Stock Offering to Fund AI & Foundry Expansion",
-          "body": "Intel (INTC) announced a $15 billion underwritten public offering of common stock on August 10 — its first public share sale since its 1971 IPO listing — to fund capital expenditures and working capital amid an AI-driven demand surge. The company cited unprecedented customer demand for AI compute and flagged physical AI, advanced packaging, and external wafers as growth opportunities; 2026 capex guidance was recently raised above $20 billion. Shares initially slipped on dilution concerns before recovering toward $100, as INTC has nearly tripled year-to-date. The massive raise underscores the capital intensity of Intel's foundry turnaround strategy and its ambition to compete with TSMC in advanced chip manufacturing.",
-          "sector": "Technology",
-          "sentiment": "neutral",
-          "magnitude": "high",
-          "source": "Intel / Bloomberg",
-          "publishedAtISO": "2026-08-10T13:00:00Z",
-          "publishedAt": "Aug 10, 2026, 20:00 Bangkok"
-        },
-        {
-          "headline": "Monday.com Drops ~10% as Weak Q3 Guidance Overshadows Q2 Earnings Beat",
-          "body": "Monday.com (MNDY) reported Q2 2026 EPS of $1.48, beating the $1.11 consensus by 33%, with revenue up 22% year-over-year to $364.6 million versus expectations of $355.5 million; AI ARR doubled quarter-over-quarter and now represents 17% of net new ARR. However, shares fell roughly 9–10% after the company guided Q3 revenue to $368–$370 million, below the $372.8 million analyst consensus, and announced a 20% workforce reduction as part of a restructuring to reinvest in AI. The guidance shortfall and layoff announcement overshadowed the strong beat and record adjusted operating income of $61.1 million. Markets are focused on whether the organizational transition will sustain the company's AI growth momentum.",
+          "headline": "Applied Materials (AMAT) Falls ~5% Despite Record Q3 Beat and Blowout Q4 Guidance",
+          "body": "Applied Materials reported record fiscal Q3 revenue of $9.12 billion, up 25% year-over-year and above the ~$8.99 billion consensus, while adjusted EPS of $3.50 topped the $3.40 estimate; the company also guided Q4 revenue to $10.25 billion — a midpoint 7.4% above the LSEG consensus of $9.54 billion. Despite the beat-and-raise, AMAT shares fell roughly 5% in after-hours trading as investors questioned whether the AI equipment cycle can sustain momentum after the stock had already surged ~108% year-to-date. Analysts note that China revenue has declined as a share of mix and that the stock's elevated valuation left little room for anything short of perfection. The reaction matters broadly because AMAT is the world's largest supplier of wafer fabrication equipment, making its guidance a bellwether for the entire semiconductor capital-equipment sector.",
           "sector": "Technology",
           "sentiment": "negative",
           "magnitude": "high",
-          "source": "Investing.com / Yahoo Finance",
-          "publishedAtISO": "2026-08-10T12:33:00Z",
-          "publishedAt": "Aug 10, 2026, 19:33 Bangkok"
+          "source": "Benzinga",
+          "publishedAtISO": "2026-08-13T20:30:00Z",
+          "publishedAt": "Aug 14, 2026, 03:30 Bangkok"
         },
         {
-          "headline": "MarineMax Surges 45%+ on $1.5B Blackstone All-Cash Buyout at 96% Premium",
-          "body": "MarineMax (NYSE: HZO) jumped over 45% to a 52-week high after announcing a definitive agreement to be acquired by Safe Harbor Marinas, a Blackstone Infrastructure portfolio company, for $53.00 per share in cash — an enterprise value of approximately $1.5 billion. The offer represents a 96% premium to HZO's January 30 undisturbed closing price of $27.03 and a 110% premium to the 90-day volume-weighted average price. The all-cash deal, unanimously approved by MarineMax's board, is expected to close by year-end 2026 pending shareholder and regulatory approval. The takeout price drives the stock's revaluation to deal-arbitrage dynamics rather than underlying boat retail fundamentals.",
-          "sector": "Other",
+          "headline": "Cisco Tumbles 8.4% Despite Record Q4 Beat as AI Margin Pressure Spooks Investors",
+          "body": "Cisco (CSCO) reported fiscal Q4 revenue of $17.25B (+18% YoY) and non-GAAP EPS of $1.22, topping consensus estimates, but shares fell 8.4% on August 13 as investors fixated on gross margin compression to 66.3% from 68.4% a year earlier, driven by AI hardware component costs. Hyperscaler AI orders surged to $9.3B for FY2026 — 4.5x the prior year — and Q1 revenue guidance of $18–18.2B far exceeded the $16.8B Street estimate. The margin miss overrode the guidance beat for a stock already up ~60% year-to-date, with trading volume hitting 137% above its 3-month average. Arista Networks fell a sympathetic 3.3% on the same session.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNBC / Motley Fool",
+          "publishedAtISO": "2026-08-13T20:18:00Z",
+          "publishedAt": "Aug 14, 2026, 03:18 Bangkok"
+        },
+        {
+          "headline": "SanDisk (SNDK) Surges ~15% as Investor Day Targets 80% Gross Margins, AI Storage Boom",
+          "body": "SanDisk stock surged roughly 15% on Thursday after its 2026 Investor Day unveiled a long-term financial model projecting mid-to-high-teens annual revenue growth from fiscal 2028 through 2030, with non-GAAP gross margins of approximately 80% and operating margins near 75%. Management also disclosed long-term customer supply agreements covering the majority of FY2027 and FY2028 bit shipments, directly addressing investor fears about cycle durability. The company introduced BiCS10 10th-generation 3D NAND technology with a 59% improvement in bit density and showcased a High Bandwidth Flash commercialization timeline aimed at AI inference workloads. Markets care because the bold targets reframe SanDisk from a cyclical memory maker into a durable AI storage infrastructure play, lifting peer memory stocks on the positive NAND demand narrative.",
+          "sector": "Technology",
           "sentiment": "positive",
           "magnitude": "high",
-          "source": "Business Wire / Reuters",
-          "publishedAtISO": "2026-08-10T08:00:00Z",
-          "publishedAt": "Aug 10, 2026, 15:00 Bangkok"
+          "source": "Investing.com",
+          "publishedAtISO": "2026-08-13T16:00:00Z",
+          "publishedAt": "Aug 13, 2026, 23:00 Bangkok"
         },
         {
-          "headline": "GameStop Weighs Pulling $56B eBay Bid, Pivots Toward Partnership or JV",
-          "body": "Bloomberg reported on August 10 that GameStop CEO Ryan Cohen is considering withdrawing the company's $56 billion unsolicited takeover bid for eBay and may instead propose a partnership or joint venture leveraging GameStop's roughly 1,600 U.S. retail locations in high-margin categories such as trading cards and collectibles. eBay (EBAY) fell ~4% on the news while GME was also under pressure, as the shift signals Cohen may be backing away from a deal eBay's board had already rejected as 'neither credible nor attractive.' GameStop, holding a 9.75% stake in eBay, would seek board representation as part of any partnership arrangement. The development adds uncertainty to both stocks following GME's 28% decline since the original offer was floated in May.",
-          "sector": "Other",
+          "headline": "Cerebras Systems (CBRS) Drops ~14% on Q2 Revenue Miss Despite Guidance Raise",
+          "body": "Cerebras Systems (CBRS) fell approximately 14% on August 13 after Q2 revenue came in at $180M, missing the $194M consensus by 7%, even as the company raised full-year guidance to $880–890M and reported core revenue up 103% YoY. Hardware revenue collapsed 23% YoY to $54.1M on data-center capacity constraints, while cloud revenue tripled to $126M. The miss marks the second consecutive post-earnings double-digit decline for the AI chipmaker since its record $6.4B semiconductor IPO in May. Wedbush flagged next week's Supernova product event — expected to include the WSE-4 chip reveal — as a more meaningful catalyst than the quarterly print.",
+          "sector": "Technology",
           "sentiment": "negative",
           "magnitude": "high",
-          "source": "Bloomberg / Reuters",
-          "publishedAtISO": "2026-08-10T07:47:00Z",
-          "publishedAt": "Aug 10, 2026, 14:47 Bangkok"
+          "source": "Schaeffer's Investment Research / Bloomberg",
+          "publishedAtISO": "2026-08-13T14:21:00Z",
+          "publishedAt": "Aug 13, 2026, 21:21 Bangkok"
+        },
+        {
+          "headline": "CoreWeave (CRWV) Surges ~19% on Q2 Beat, $104B Backlog, and Raised Full-Year Guidance",
+          "body": "CoreWeave shares jumped roughly 19% on August 12 after the AI cloud provider reported Q2 2026 revenue of $2.58 billion — up 112% year-over-year and ahead of the $2.56 billion consensus — while its adjusted loss per share of $1.03 significantly beat the feared $1.20 loss. The company raised its full-year 2026 revenue outlook to $12.4–$13.2 billion and disclosed a revenue backlog of $104 billion at quarter-end that has since grown to $129.2 billion, adding ~$25 billion in contracted demand in under six weeks. CoreWeave also announced a $21 billion AI cloud supply deal with Meta and a multi-year compute agreement with Anthropic, signaling deep enterprise adoption. Markets care because the results directly countered bear cases about AI infrastructure overbuild, lifting peers including IREN (+10%) and reinforcing confidence in the broader AI capex cycle.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CNBC",
+          "publishedAtISO": "2026-08-12T21:00:00Z",
+          "publishedAt": "Aug 13, 2026, 04:00 Bangkok"
         }
       ]
     },
@@ -67,57 +67,57 @@
       "id": "asia",
       "label": "East + SE Asia",
       "ticker": "Nikkei · HSI · SSE · KOSPI · TWSE · SET · SGX · IDX · KLSE · PSEi · VN-Index",
-      "lastUpdated": "2026-08-11T03:14:51.980Z",
+      "lastUpdated": "2026-08-14T05:06:12.078Z",
       "news": [
         {
-          "headline": "Tencent Music Reports Q2 2026 Earnings; Consensus Eyes $1.30B Revenue Beat Ahead of Tencent Parent Results",
-          "body": "Tencent Music Entertainment Group (NYSE: TME; HKEX: 1698) released its unaudited Q2 2026 results on August 11 before the US market open, with analysts forecasting earnings of $0.24 per share on revenue of approximately $1.30 billion, up sharply from $1.15 billion in Q1. The report arrives one day ahead of parent Tencent Holdings' own Q2 2026 results — due after Hong Kong market close on August 12 — where gaming revenue deceleration and AI capital expenditure are the key focal points for investors. TME's prior quarter showed a net margin of 26.45% and return on equity of 11.2%, and recent earnings announcements have been followed by consistently positive next-day price moves on the Hong Kong bourse. The dual reporting window is being treated by the market as a two-day sentiment test for China's broader internet sector.",
+          "headline": "Tencent Q2 Revenue +11% YoY to RMB 204.8B but Capex Surge Sends Stock -4.5%",
+          "body": "Tencent Holdings posted Q2 2026 revenue of RMB 204.8 billion, up 11% year-on-year, with domestic game revenue jumping 17% and gross margin improving to 58%. However, capital expenditure surged 176% year-on-year to RMB 52.8 billion as the company aggressively builds out AI infrastructure, pushing free cash flow into negative territory at -RMB 13.8 billion. Shares fell 4.5% on the Hong Kong exchange on August 13, dragging the Hang Seng Index to a modest 0.17% loss even as broader Asian markets held firm. Investors are weighing solid top-line growth against the risk of sustained heavy AI spending compressing near-term profitability.",
           "sector": "Technology",
-          "sentiment": "positive",
-          "magnitude": "medium",
-          "source": "StockTitan / IG International / SEC EDGAR",
-          "publishedAtISO": "2026-08-11T07:00:00Z",
-          "publishedAt": "Aug 11, 2026, 14:00 Bangkok"
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Reuters / Yahoo Finance",
+          "publishedAtISO": "2026-08-13T12:00:00Z",
+          "publishedAt": "Aug 13, 2026, 19:00 Bangkok"
         },
         {
-          "headline": "CXMT Joins MSCI China All Shares Index via Fast-Track, Cementing Top-Market-Cap Status",
-          "body": "ChangXin Memory Technologies (688825.SS), China's leading DRAM chipmaker, was officially added to the MSCI China All Shares Index on August 10 under MSCI's mega-IPO fast-track rule — just two weeks after its record-breaking STAR Market debut. MSCI waived its standard 15% free-float requirement, adding the stock at a free float of just 6.7%, making CXMT the second-largest constituent behind Tencent. The company swung from accumulated losses of 36.65 billion yuan through end-2025 to an expected first-half net profit of 50–57 billion yuan, with analysts forecasting full-year profit exceeding 120 billion yuan. The inclusion triggers mandatory passive buying from global index-tracking funds, strengthening foreign institutional inflows into China's AI-driven memory chip supply chain.",
+          "headline": "Topix Hits All-Time Record High as Japan Inc. Q1 Profits Surge ~70%",
+          "body": "Japan's Topix index closed at a record high of 4,176.04 on August 13, rising 0.86% and extending its winning streak to a seventh consecutive session, as chip-related stocks tracked Wall Street peers higher. Listed Japanese companies reported approximately a 70% jump in April-June quarterly profits, fuelled by a weak yen and AI-related capital spending, with around 18% of Topix constituents raising their full-year profit forecasts versus just 2% that cut guidance. Technology names led gains including Kioxia (+6.2%), Taiyo Yuden (+8.6%), Advantest (+5.3%), and Ibiden (+7.3%), while bank stocks Mitsubishi UFJ and Mizuho Financial also advanced. The broad earnings beat reinforces the bull case for Japanese equities, with the Nikkei 225 concurrently rising to 68,308 and on course for its best weekly gain in roughly two months.",
           "sector": "Technology",
           "sentiment": "positive",
           "magnitude": "high",
-          "source": "Xinhua / Caixin Global / SCMP",
-          "publishedAtISO": "2026-08-10T12:00:00Z",
-          "publishedAt": "Aug 10, 2026, 19:00 Bangkok"
+          "source": "Reuters / Nikkei Asia",
+          "publishedAtISO": "2026-08-13T09:00:00Z",
+          "publishedAt": "Aug 13, 2026, 16:00 Bangkok"
         },
         {
-          "headline": "Seoul Launches $3.5B Semiconductor Fund; KOSPI Sidecar Triggered on Volatile Session",
-          "body": "South Korea's government announced a 5 trillion won ($3.52 billion) semiconductor fund on August 10 targeting chip materials, components, and fabless companies, plus an additional 5 trillion won in trade finance for suppliers—part of President Lee Jae-myung's broader $576 billion mega-project initiative involving Samsung and SK Hynix. KOSPI surged over 2% in morning trade, prompting a KOSDAQ Sidecar suspension of program buy orders, before paring gains to close up just 0.65% as semiconductor heavyweights SK Hynix (-0.14%) and Samsung Electronics (-0.43%) ended lower. On August 11, the KOSPI opened down 0.83% with SK Hynix falling over 2% as weak U.S. tech sentiment offset the policy boost. The fund and Mega Special Zone Act, if passed, would directly benefit domestic chip materials and equipment names.",
+          "headline": "KOSPI Enters Bull Market as KOSPI +3.56%; Samsung +4.9%, SK Hynix +5.9% on AI Trade Revival",
+          "body": "South Korea's KOSPI closed up 3.56% at 6,813.34 on August 13, extending a four-session winning streak and crossing the 20%-rebound threshold from its July 30 low to enter technical bull-market territory. Samsung Electronics gained ~4.9% and SK Hynix surged ~5.9%, leading heavy foreign institutional buying of 2.09 trillion won net. The rally was catalyzed by renewed AI infrastructure spending optimism after strong U.S. tech earnings and in-line CPI data reduced Fed rate-hike fears. The speed of the reversal — from bear market to bull market in under two weeks — underscores extreme volatility in Korea's semiconductor-heavy index.",
           "sector": "Technology",
           "sentiment": "positive",
           "magnitude": "high",
-          "source": "Reuters / TradingKey",
-          "publishedAtISO": "2026-08-10T09:19:00Z",
-          "publishedAt": "Aug 10, 2026, 16:19 Bangkok"
+          "source": "Korea JoongAng Daily / Bloomberg",
+          "publishedAtISO": "2026-08-13T08:53:00Z",
+          "publishedAt": "Aug 13, 2026, 15:53 Bangkok"
         },
         {
-          "headline": "Unitree Robotics Shanghai IPO Draws 8,288x Oversubscription in Record Debut",
-          "body": "Chinese humanoid robot maker Unitree Robotics (Yushu Technology) reported on August 10 that its STAR Market IPO was oversubscribed 8,288 times by retail investors, with 9.78 million accounts submitting valid applications for 53.6 billion shares against 40.45 million on offer. The final lot-winning rate fell to just 0.018%, raising 6.1 billion yuan ($904 million) at 150.8 yuan per share and valuing the company at ~61 billion yuan. Unitree becomes China's first mainland-listed pure-play humanoid robot maker, setting a benchmark valuation of 219x 2025 earnings and 36x sales. The listing is expected to re-price the broader robotics sector on Shanghai and Shenzhen exchanges ahead of its debut later this month.",
+          "headline": "SMIC Q2 Revenue Tops $3B for First Time; Gross Margin Jumps to 25.3%",
+          "body": "China's largest chip foundry SMIC reported Q2 2026 revenue of $3.01 billion, up 20% sequentially and 36% year-on-year, with gross margin expanding to 25.3% from 20.1% in Q1 — the strongest quarterly margin in years. For Q3, SMIC guided revenue growth of 2%–4% QoQ with gross margin of 26%–28%, signaling continued upward momentum. The results mark the first time SMIC has exceeded $3 billion in a single quarter, driven by AI-related domestic chip demand and China's semiconductor localization push. Hong Kong-listed SMIC (00981.HK) surged ~6.3% intraday on the earnings release.",
           "sector": "Technology",
           "sentiment": "positive",
           "magnitude": "high",
-          "source": "Reuters / Investing.com",
-          "publishedAtISO": "2026-08-10T08:42:00Z",
-          "publishedAt": "Aug 10, 2026, 15:42 Bangkok"
+          "source": "Global Times / HKEX Filing",
+          "publishedAtISO": "2026-08-13T08:00:00Z",
+          "publishedAt": "Aug 13, 2026, 15:00 Bangkok"
         },
         {
-          "headline": "Nikkei 225 Climbs 2.08% to 66,970 on US Jobs Miss; AI Chip Stocks Lead Gains",
-          "body": "Japan's Nikkei 225 closed up 2.08% at 66,970 on August 10, reaching multi-week highs after July U.S. nonfarm payrolls fell 23,000—badly missing the +80,000 consensus—reducing expectations for a near-term Fed rate hike. Chipmakers and AI-linked stocks led gains: Fujikura +7.6%, Advantest +6.4%, Tokyo Electron +4.1%, and Ibiden +4.0%. Japan's markets are closed on August 11 for Mountain Day, a public holiday. The Nikkei and KOSPI have moved in the same direction on 85% of trading days in 2026, reflecting overseas investors treating both markets as a unified AI/semiconductor trade.",
+          "headline": "Toppan Holdings Hits Daily Limit-Up +10.8% After Q1 Net Profit More Than Doubles",
+          "body": "Tokyo-listed Toppan Holdings (7911.T) surged 10.78% to ¥5,448 on August 13 — the biggest percentage gain on the Nikkei — after the printing and electronics materials firm reported Q1 net profit more than doubled year-on-year, materially beating consensus estimates. The result was driven by strong growth in Toppan's electronics segment, which supplies advanced semiconductor packaging materials including FC-BGA substrates used in AI and data-center applications. The earnings surprise reinforced investor conviction that Japan's earnings season is delivering broad-based upgrades, with approximately 18% of Topix companies raising annual profit forecasts in Q1 versus only 2% cutting.",
           "sector": "Technology",
           "sentiment": "positive",
           "magnitude": "high",
-          "source": "Trading Economics / TradingKey",
-          "publishedAtISO": "2026-08-10T06:30:00Z",
-          "publishedAt": "Aug 10, 2026, 13:30 Bangkok"
+          "source": "Business Recorder / News On Japan",
+          "publishedAtISO": "2026-08-13T06:30:00Z",
+          "publishedAt": "Aug 13, 2026, 13:30 Bangkok"
         }
       ]
     },
@@ -125,57 +125,57 @@
       "id": "commodities",
       "label": "Commodities",
       "ticker": "WTI · Brent · Gas · RBOB · Heating Oil · Coal · Gold · Silver · Copper · Aluminum · Iron Ore · Lithium · Platinum · Palladium · Grains · Softs · Oilseeds · Lumber · Rubber · BDI",
-      "lastUpdated": "2026-08-11T03:15:57.937Z",
+      "lastUpdated": "2026-08-14T05:08:14.024Z",
       "news": [
         {
-          "headline": "EIA August STEO Due Today; Hormuz Reopening Timeline Key Variable for Oil Outlook",
-          "body": "The EIA's August 11 Short-Term Energy Outlook—the first since the July 7 edition that assumed the June US-Iran MOU would reopen the Strait of Hormuz—is released against a dramatically changed backdrop: renewed tanker attacks, stalled Oman-Iran negotiations, and Iran's hardened reopening conditions have pushed Brent back above $87/bbl versus the July STEO's $74/bbl Q3 forecast. The prior STEO expected most Gulf oil production to return to pre-conflict averages by year-end, but ongoing supply disruptions are deepening inventory draws estimated at 2.2 million b/d in Q3. Markets will scrutinize any revision to production recovery timelines and price forecasts.",
-          "sector": "Energy",
-          "sentiment": "neutral",
-          "magnitude": "high",
-          "source": "EIA / Trading Economics",
-          "publishedAtISO": "2026-08-11T04:00:00Z",
-          "publishedAt": "Aug 11, 2026, 11:00 Bangkok"
-        },
-        {
-          "headline": "USDA August 12 WASDE Looms as First Survey-Based Corn/Soy Yield; Wheat Crop Near 56-Year Low",
-          "body": "Grain markets are positioned ahead of tomorrow's August 12 WASDE—the first to incorporate field-survey-based yield estimates for corn and soybeans, replacing trend-line projections and historically the single largest price-moving USDA report of the crop year. US wheat production for 2026/27 is already tracking at 1.536 billion bushels, the lowest since 1970/71, with winter wheat down 29% year-on-year to 990 million bushels and Hard Red Winter set for its smallest crop since 1957/58. Ending stocks are projected 22% below last year. Corn yield uncertainty is elevated after above-normal July heat across the Northern Plains and western Corn Belt, with any downward yield revision potentially compounding already-tight global grain balances.",
-          "sector": "Agriculture",
-          "sentiment": "negative",
-          "magnitude": "high",
-          "source": "USDA / Farm Progress / RFD-TV",
-          "publishedAtISO": "2026-08-11T03:00:00Z",
-          "publishedAt": "Aug 11, 2026, 10:00 Bangkok"
-        },
-        {
-          "headline": "Iran Strikes ADNOC Tanker in Hormuz; Houthis Hit Saudi Aramco Jazan Refinery",
-          "body": "Iran's IRGC struck an ADNOC-operated tanker with a missile in the Strait of Hormuz on Aug. 8, while Houthi rebels launched a drone attack on Saudi Aramco's 400,000 bpd Jazan refinery on Aug. 9, triggering a fire that Saudi authorities said was extinguished without casualties. The dual strikes compound the Hormuz impasse: Iran's Supreme National Security Council declared the strait will not reopen until Washington 'corrects its behavior,' rejecting direct talks. Brent surged past $87/bbl on Aug. 10, extending a 5%-plus gain over the prior three sessions as the market priced in sustained supply disruption risk. The US Strategic Petroleum Reserve has fallen below 300 million barrels—its lowest since 1983—leaving diminishing buffer against further escalation.",
+          "headline": "Brent Drops 2% as Hormuz Tanker Attacks Persist, Iran-Oman Deal Eludes",
+          "body": "Brent crude fell ~2.2% to settle around $87/bbl on Aug 13 as fresh tanker attacks in the Gulf of Oman and the Red Sea dashed hopes for a near-term Strait of Hormuz reopening deal between Iran and Oman. Shipping traffic through the strait dropped to just six vessels on Aug 10, versus a pre-war daily average of 130–140 ships. Houthi forces also claimed a drone strike on a Saudi refinery in Jizan, adding a new escalation vector. Markets remain caught between persistent supply disruption fears and US Energy Secretary Wright's claim that Hormuz flows have recovered toward ~9 million bpd.",
           "sector": "Energy",
           "sentiment": "negative",
           "magnitude": "high",
-          "source": "Al Jazeera / NBC News / Bloomberg",
-          "publishedAtISO": "2026-08-10T07:30:00Z",
-          "publishedAt": "Aug 10, 2026, 14:30 Bangkok"
+          "source": "Bloomberg / CNBC",
+          "publishedAtISO": "2026-08-14T00:01:00Z",
+          "publishedAt": "Aug 14, 2026, 07:01 Bangkok"
         },
         {
-          "headline": "Gold Tops $4,378 on Monday After 7% Weekly Surge Driven by NFP Shock",
-          "body": "Gold held above $4,378/oz on Aug. 10, consolidating a weekly gain of more than 7%—its best week since January—after the BLS reported the US economy shed 23,000 nonfarm payroll jobs in July, a severe miss versus the 80,000 consensus, marking the second labor market contraction of 2026. Prior-month revisions erased an additional 103,000 jobs combined for May and June. The weak data collapsed Fed rate-hike odds for September to ~55% from 63% the prior week and dragged Treasury yields lower, reducing the opportunity cost of holding bullion. Chinese institutional investors continued adding to gold-backed long positions, and central bank buying remained a structural tailwind.",
+          "headline": "Gold Rallies 8% in August to ~$4,400/oz on Fed Hike Doubt, Central Bank Buying",
+          "body": "Spot gold traded near $4,400/oz on Aug 13–14, a gain of roughly 8% in less than two weeks, driven by a softening US CPI print (3.4% YoY in July) that reduced Fed rate-hike odds for September to ~40%. China added ~20 tonnes to its gold reserves in July, marking its 21st consecutive month of accumulation, while global central banks purchased an estimated 289 tonnes in Q2. COMEX December gold closed at $4,406/oz before easing. UBS this week forecast gold returning to $5,000/oz in H1 2027, reinforcing the bullish institutional narrative.",
           "sector": "Gold",
           "sentiment": "positive",
           "magnitude": "high",
-          "source": "CNBC / FXStreet / Trading Economics",
-          "publishedAtISO": "2026-08-10T06:00:00Z",
-          "publishedAt": "Aug 10, 2026, 13:00 Bangkok"
+          "source": "Motley Fool / Trading Economics",
+          "publishedAtISO": "2026-08-13T17:05:00Z",
+          "publishedAt": "Aug 14, 2026, 00:05 Bangkok"
         },
         {
-          "headline": "China July Copper Imports Jump 9.1% YoY to 480kt, Reversing H1 Tariff Drag",
-          "body": "China's preliminary customs data released Aug. 8 showed unwrought copper imports rose 9.1% year-on-year and 4.3% month-on-month to 480,000 tonnes in July, the strongest monthly reading in 2026, as domestic demand recovered after Trump dropped plans for a 50% tariff on refined copper. Copper concentrate imports surged 18% YoY to 2.6 million tonnes, reflecting robust domestic refining output. Cumulative imports remain down 2.7% YoY through July as H1 supply was diverted to US warehouses ahead of tariff risk. The data supported copper futures, which have climbed for a fourth consecutive week, with COMEX speculative longs rising to their highest in months.",
+          "headline": "IEA & OPEC Both Cut 2026 Oil Demand Forecasts; EIA Reports 17.4 Mb Inventory Build",
+          "body": "The IEA's August Oil Market Report (released Aug 12) slashed the 2026 global oil demand outlook to a decline of 1.6 million bpd—510,000 bpd worse than July's projection—citing prolonged Hormuz closure and high fuel prices destroying consumption. OPEC simultaneously trimmed its demand growth forecast to 580,000 bpd from 780,000 bpd, its fourth consecutive downward revision. The bearish double-cut was compounded by EIA data showing US commercial crude stocks surged 17.4 million barrels in the week ending Aug 7 to 424.4 million barrels, the largest weekly build since early 2023. WTI fell 2.4% to $81.25/bbl on the combined signal.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNBC / OilPrice.com / IEA",
+          "publishedAtISO": "2026-08-13T12:19:00Z",
+          "publishedAt": "Aug 13, 2026, 19:19 Bangkok"
+        },
+        {
+          "headline": "WASDE Shock: USDA Corn Yield Cut 2.5 Bu/Ac Sends Grain Futures Surging",
+          "body": "The USDA's August 12 WASDE report delivered a bullish surprise for grain markets, slashing the US corn yield estimate to 180.5 bu/acre—a 2.5 bu/acre reduction from July—while FSA data added 1.2 million harvested acres, leaving net production little changed but tightening the balance sheet via strong demand. December corn surged ~20 cents to $4.80¾, a two-week high, while Chicago wheat futures spiked 21½ cents to $6.69¾ and Kansas City wheat climbed to $7.37¾ on compounding Black Sea supply concerns. The USDA also raised the average cash wheat price by 20 cents/bu to $6.20, citing global production headwinds including EU heat stress and reduced Ukrainian export forecasts.",
+          "sector": "Agriculture",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Hoosier Ag Today / Pro Farmer / AgWeb",
+          "publishedAtISO": "2026-08-12T22:00:00Z",
+          "publishedAt": "Aug 13, 2026, 05:00 Bangkok"
+        },
+        {
+          "headline": "COMEX Copper Hits Record $14,802/t as LME Stocks Drop 14%, China Imports Slump",
+          "body": "COMEX copper set an intraday record of $14,802/t (~$6.72/lb) on Aug 12 before easing to ~$14,019/t on Aug 13, with COMEX continuing to trade ~$400/t above the LME as US tariff-driven metal flows persisted. LME copper warehouse stocks fell 14% since end-July to 214,550 tonnes, tightening the ex-US physical market. China's July unwrought copper imports tumbled 11.5% YoY to 425,000 tonnes, with YTD imports down 6.2%, flagging weak domestic demand that capped upside. Goldman Sachs separately assessed the DRC copper concentrate export ban as having no significant impact on global balances.",
           "sector": "Base Metals",
           "sentiment": "positive",
-          "magnitude": "medium",
-          "source": "FXStreet / ING",
-          "publishedAtISO": "2026-08-10T04:00:00Z",
-          "publishedAt": "Aug 10, 2026, 11:00 Bangkok"
+          "magnitude": "high",
+          "source": "SP Angel / Share Talk / Trading Economics",
+          "publishedAtISO": "2026-08-12T18:00:00Z",
+          "publishedAt": "Aug 13, 2026, 01:00 Bangkok"
         }
       ]
     }
