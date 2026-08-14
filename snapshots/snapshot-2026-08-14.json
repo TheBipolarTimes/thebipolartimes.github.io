@@ -1,0 +1,183 @@
+{
+  "publication": "The BiPolar Times",
+  "slogan": "The Newspaper That Connects The Markets Of Both Worlds",
+  "timezone": "Asia/Bangkok",
+  "exportedAt": "2026-08-14T05:08:54.892Z",
+  "generatedFrom": "private-dashboard",
+  "sections": {
+    "us": {
+      "id": "us",
+      "label": "US",
+      "ticker": "NYSE · NASDAQ · S&P 500",
+      "lastUpdated": "2026-08-14T04:58:01.661Z",
+      "news": [
+        {
+          "headline": "Applied Materials (AMAT) Falls ~5% Despite Record Q3 Beat and Blowout Q4 Guidance",
+          "body": "Applied Materials reported record fiscal Q3 revenue of $9.12 billion, up 25% year-over-year and above the ~$8.99 billion consensus, while adjusted EPS of $3.50 topped the $3.40 estimate; the company also guided Q4 revenue to $10.25 billion — a midpoint 7.4% above the LSEG consensus of $9.54 billion. Despite the beat-and-raise, AMAT shares fell roughly 5% in after-hours trading as investors questioned whether the AI equipment cycle can sustain momentum after the stock had already surged ~108% year-to-date. Analysts note that China revenue has declined as a share of mix and that the stock's elevated valuation left little room for anything short of perfection. The reaction matters broadly because AMAT is the world's largest supplier of wafer fabrication equipment, making its guidance a bellwether for the entire semiconductor capital-equipment sector.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Benzinga",
+          "publishedAtISO": "2026-08-13T20:30:00Z",
+          "publishedAt": "Aug 14, 2026, 03:30 Bangkok"
+        },
+        {
+          "headline": "Cisco Tumbles 8.4% Despite Record Q4 Beat as AI Margin Pressure Spooks Investors",
+          "body": "Cisco (CSCO) reported fiscal Q4 revenue of $17.25B (+18% YoY) and non-GAAP EPS of $1.22, topping consensus estimates, but shares fell 8.4% on August 13 as investors fixated on gross margin compression to 66.3% from 68.4% a year earlier, driven by AI hardware component costs. Hyperscaler AI orders surged to $9.3B for FY2026 — 4.5x the prior year — and Q1 revenue guidance of $18–18.2B far exceeded the $16.8B Street estimate. The margin miss overrode the guidance beat for a stock already up ~60% year-to-date, with trading volume hitting 137% above its 3-month average. Arista Networks fell a sympathetic 3.3% on the same session.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNBC / Motley Fool",
+          "publishedAtISO": "2026-08-13T20:18:00Z",
+          "publishedAt": "Aug 14, 2026, 03:18 Bangkok"
+        },
+        {
+          "headline": "SanDisk (SNDK) Surges ~15% as Investor Day Targets 80% Gross Margins, AI Storage Boom",
+          "body": "SanDisk stock surged roughly 15% on Thursday after its 2026 Investor Day unveiled a long-term financial model projecting mid-to-high-teens annual revenue growth from fiscal 2028 through 2030, with non-GAAP gross margins of approximately 80% and operating margins near 75%. Management also disclosed long-term customer supply agreements covering the majority of FY2027 and FY2028 bit shipments, directly addressing investor fears about cycle durability. The company introduced BiCS10 10th-generation 3D NAND technology with a 59% improvement in bit density and showcased a High Bandwidth Flash commercialization timeline aimed at AI inference workloads. Markets care because the bold targets reframe SanDisk from a cyclical memory maker into a durable AI storage infrastructure play, lifting peer memory stocks on the positive NAND demand narrative.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Investing.com",
+          "publishedAtISO": "2026-08-13T16:00:00Z",
+          "publishedAt": "Aug 13, 2026, 23:00 Bangkok"
+        },
+        {
+          "headline": "Cerebras Systems (CBRS) Drops ~14% on Q2 Revenue Miss Despite Guidance Raise",
+          "body": "Cerebras Systems (CBRS) fell approximately 14% on August 13 after Q2 revenue came in at $180M, missing the $194M consensus by 7%, even as the company raised full-year guidance to $880–890M and reported core revenue up 103% YoY. Hardware revenue collapsed 23% YoY to $54.1M on data-center capacity constraints, while cloud revenue tripled to $126M. The miss marks the second consecutive post-earnings double-digit decline for the AI chipmaker since its record $6.4B semiconductor IPO in May. Wedbush flagged next week's Supernova product event — expected to include the WSE-4 chip reveal — as a more meaningful catalyst than the quarterly print.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Schaeffer's Investment Research / Bloomberg",
+          "publishedAtISO": "2026-08-13T14:21:00Z",
+          "publishedAt": "Aug 13, 2026, 21:21 Bangkok"
+        },
+        {
+          "headline": "CoreWeave (CRWV) Surges ~19% on Q2 Beat, $104B Backlog, and Raised Full-Year Guidance",
+          "body": "CoreWeave shares jumped roughly 19% on August 12 after the AI cloud provider reported Q2 2026 revenue of $2.58 billion — up 112% year-over-year and ahead of the $2.56 billion consensus — while its adjusted loss per share of $1.03 significantly beat the feared $1.20 loss. The company raised its full-year 2026 revenue outlook to $12.4–$13.2 billion and disclosed a revenue backlog of $104 billion at quarter-end that has since grown to $129.2 billion, adding ~$25 billion in contracted demand in under six weeks. CoreWeave also announced a $21 billion AI cloud supply deal with Meta and a multi-year compute agreement with Anthropic, signaling deep enterprise adoption. Markets care because the results directly countered bear cases about AI infrastructure overbuild, lifting peers including IREN (+10%) and reinforcing confidence in the broader AI capex cycle.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CNBC",
+          "publishedAtISO": "2026-08-12T21:00:00Z",
+          "publishedAt": "Aug 13, 2026, 04:00 Bangkok"
+        }
+      ]
+    },
+    "asia": {
+      "id": "asia",
+      "label": "East + SE Asia",
+      "ticker": "Nikkei · HSI · SSE · KOSPI · TWSE · SET · SGX · IDX · KLSE · PSEi · VN-Index",
+      "lastUpdated": "2026-08-14T05:06:12.078Z",
+      "news": [
+        {
+          "headline": "Tencent Q2 Revenue +11% YoY to RMB 204.8B but Capex Surge Sends Stock -4.5%",
+          "body": "Tencent Holdings posted Q2 2026 revenue of RMB 204.8 billion, up 11% year-on-year, with domestic game revenue jumping 17% and gross margin improving to 58%. However, capital expenditure surged 176% year-on-year to RMB 52.8 billion as the company aggressively builds out AI infrastructure, pushing free cash flow into negative territory at -RMB 13.8 billion. Shares fell 4.5% on the Hong Kong exchange on August 13, dragging the Hang Seng Index to a modest 0.17% loss even as broader Asian markets held firm. Investors are weighing solid top-line growth against the risk of sustained heavy AI spending compressing near-term profitability.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Reuters / Yahoo Finance",
+          "publishedAtISO": "2026-08-13T12:00:00Z",
+          "publishedAt": "Aug 13, 2026, 19:00 Bangkok"
+        },
+        {
+          "headline": "Topix Hits All-Time Record High as Japan Inc. Q1 Profits Surge ~70%",
+          "body": "Japan's Topix index closed at a record high of 4,176.04 on August 13, rising 0.86% and extending its winning streak to a seventh consecutive session, as chip-related stocks tracked Wall Street peers higher. Listed Japanese companies reported approximately a 70% jump in April-June quarterly profits, fuelled by a weak yen and AI-related capital spending, with around 18% of Topix constituents raising their full-year profit forecasts versus just 2% that cut guidance. Technology names led gains including Kioxia (+6.2%), Taiyo Yuden (+8.6%), Advantest (+5.3%), and Ibiden (+7.3%), while bank stocks Mitsubishi UFJ and Mizuho Financial also advanced. The broad earnings beat reinforces the bull case for Japanese equities, with the Nikkei 225 concurrently rising to 68,308 and on course for its best weekly gain in roughly two months.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Reuters / Nikkei Asia",
+          "publishedAtISO": "2026-08-13T09:00:00Z",
+          "publishedAt": "Aug 13, 2026, 16:00 Bangkok"
+        },
+        {
+          "headline": "KOSPI Enters Bull Market as KOSPI +3.56%; Samsung +4.9%, SK Hynix +5.9% on AI Trade Revival",
+          "body": "South Korea's KOSPI closed up 3.56% at 6,813.34 on August 13, extending a four-session winning streak and crossing the 20%-rebound threshold from its July 30 low to enter technical bull-market territory. Samsung Electronics gained ~4.9% and SK Hynix surged ~5.9%, leading heavy foreign institutional buying of 2.09 trillion won net. The rally was catalyzed by renewed AI infrastructure spending optimism after strong U.S. tech earnings and in-line CPI data reduced Fed rate-hike fears. The speed of the reversal — from bear market to bull market in under two weeks — underscores extreme volatility in Korea's semiconductor-heavy index.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Korea JoongAng Daily / Bloomberg",
+          "publishedAtISO": "2026-08-13T08:53:00Z",
+          "publishedAt": "Aug 13, 2026, 15:53 Bangkok"
+        },
+        {
+          "headline": "SMIC Q2 Revenue Tops $3B for First Time; Gross Margin Jumps to 25.3%",
+          "body": "China's largest chip foundry SMIC reported Q2 2026 revenue of $3.01 billion, up 20% sequentially and 36% year-on-year, with gross margin expanding to 25.3% from 20.1% in Q1 — the strongest quarterly margin in years. For Q3, SMIC guided revenue growth of 2%–4% QoQ with gross margin of 26%–28%, signaling continued upward momentum. The results mark the first time SMIC has exceeded $3 billion in a single quarter, driven by AI-related domestic chip demand and China's semiconductor localization push. Hong Kong-listed SMIC (00981.HK) surged ~6.3% intraday on the earnings release.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Global Times / HKEX Filing",
+          "publishedAtISO": "2026-08-13T08:00:00Z",
+          "publishedAt": "Aug 13, 2026, 15:00 Bangkok"
+        },
+        {
+          "headline": "Toppan Holdings Hits Daily Limit-Up +10.8% After Q1 Net Profit More Than Doubles",
+          "body": "Tokyo-listed Toppan Holdings (7911.T) surged 10.78% to ¥5,448 on August 13 — the biggest percentage gain on the Nikkei — after the printing and electronics materials firm reported Q1 net profit more than doubled year-on-year, materially beating consensus estimates. The result was driven by strong growth in Toppan's electronics segment, which supplies advanced semiconductor packaging materials including FC-BGA substrates used in AI and data-center applications. The earnings surprise reinforced investor conviction that Japan's earnings season is delivering broad-based upgrades, with approximately 18% of Topix companies raising annual profit forecasts in Q1 versus only 2% cutting.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Business Recorder / News On Japan",
+          "publishedAtISO": "2026-08-13T06:30:00Z",
+          "publishedAt": "Aug 13, 2026, 13:30 Bangkok"
+        }
+      ]
+    },
+    "commodities": {
+      "id": "commodities",
+      "label": "Commodities",
+      "ticker": "WTI · Brent · Gas · RBOB · Heating Oil · Coal · Gold · Silver · Copper · Aluminum · Iron Ore · Lithium · Platinum · Palladium · Grains · Softs · Oilseeds · Lumber · Rubber · BDI",
+      "lastUpdated": "2026-08-14T05:08:14.024Z",
+      "news": [
+        {
+          "headline": "Brent Drops 2% as Hormuz Tanker Attacks Persist, Iran-Oman Deal Eludes",
+          "body": "Brent crude fell ~2.2% to settle around $87/bbl on Aug 13 as fresh tanker attacks in the Gulf of Oman and the Red Sea dashed hopes for a near-term Strait of Hormuz reopening deal between Iran and Oman. Shipping traffic through the strait dropped to just six vessels on Aug 10, versus a pre-war daily average of 130–140 ships. Houthi forces also claimed a drone strike on a Saudi refinery in Jizan, adding a new escalation vector. Markets remain caught between persistent supply disruption fears and US Energy Secretary Wright's claim that Hormuz flows have recovered toward ~9 million bpd.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Bloomberg / CNBC",
+          "publishedAtISO": "2026-08-14T00:01:00Z",
+          "publishedAt": "Aug 14, 2026, 07:01 Bangkok"
+        },
+        {
+          "headline": "Gold Rallies 8% in August to ~$4,400/oz on Fed Hike Doubt, Central Bank Buying",
+          "body": "Spot gold traded near $4,400/oz on Aug 13–14, a gain of roughly 8% in less than two weeks, driven by a softening US CPI print (3.4% YoY in July) that reduced Fed rate-hike odds for September to ~40%. China added ~20 tonnes to its gold reserves in July, marking its 21st consecutive month of accumulation, while global central banks purchased an estimated 289 tonnes in Q2. COMEX December gold closed at $4,406/oz before easing. UBS this week forecast gold returning to $5,000/oz in H1 2027, reinforcing the bullish institutional narrative.",
+          "sector": "Gold",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Motley Fool / Trading Economics",
+          "publishedAtISO": "2026-08-13T17:05:00Z",
+          "publishedAt": "Aug 14, 2026, 00:05 Bangkok"
+        },
+        {
+          "headline": "IEA & OPEC Both Cut 2026 Oil Demand Forecasts; EIA Reports 17.4 Mb Inventory Build",
+          "body": "The IEA's August Oil Market Report (released Aug 12) slashed the 2026 global oil demand outlook to a decline of 1.6 million bpd—510,000 bpd worse than July's projection—citing prolonged Hormuz closure and high fuel prices destroying consumption. OPEC simultaneously trimmed its demand growth forecast to 580,000 bpd from 780,000 bpd, its fourth consecutive downward revision. The bearish double-cut was compounded by EIA data showing US commercial crude stocks surged 17.4 million barrels in the week ending Aug 7 to 424.4 million barrels, the largest weekly build since early 2023. WTI fell 2.4% to $81.25/bbl on the combined signal.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNBC / OilPrice.com / IEA",
+          "publishedAtISO": "2026-08-13T12:19:00Z",
+          "publishedAt": "Aug 13, 2026, 19:19 Bangkok"
+        },
+        {
+          "headline": "WASDE Shock: USDA Corn Yield Cut 2.5 Bu/Ac Sends Grain Futures Surging",
+          "body": "The USDA's August 12 WASDE report delivered a bullish surprise for grain markets, slashing the US corn yield estimate to 180.5 bu/acre—a 2.5 bu/acre reduction from July—while FSA data added 1.2 million harvested acres, leaving net production little changed but tightening the balance sheet via strong demand. December corn surged ~20 cents to $4.80¾, a two-week high, while Chicago wheat futures spiked 21½ cents to $6.69¾ and Kansas City wheat climbed to $7.37¾ on compounding Black Sea supply concerns. The USDA also raised the average cash wheat price by 20 cents/bu to $6.20, citing global production headwinds including EU heat stress and reduced Ukrainian export forecasts.",
+          "sector": "Agriculture",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Hoosier Ag Today / Pro Farmer / AgWeb",
+          "publishedAtISO": "2026-08-12T22:00:00Z",
+          "publishedAt": "Aug 13, 2026, 05:00 Bangkok"
+        },
+        {
+          "headline": "COMEX Copper Hits Record $14,802/t as LME Stocks Drop 14%, China Imports Slump",
+          "body": "COMEX copper set an intraday record of $14,802/t (~$6.72/lb) on Aug 12 before easing to ~$14,019/t on Aug 13, with COMEX continuing to trade ~$400/t above the LME as US tariff-driven metal flows persisted. LME copper warehouse stocks fell 14% since end-July to 214,550 tonnes, tightening the ex-US physical market. China's July unwrought copper imports tumbled 11.5% YoY to 425,000 tonnes, with YTD imports down 6.2%, flagging weak domestic demand that capped upside. Goldman Sachs separately assessed the DRC copper concentrate export ban as having no significant impact on global balances.",
+          "sector": "Base Metals",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "SP Angel / Share Talk / Trading Economics",
+          "publishedAtISO": "2026-08-12T18:00:00Z",
+          "publishedAt": "Aug 13, 2026, 01:00 Bangkok"
+        }
+      ]
+    }
+  }
+}
