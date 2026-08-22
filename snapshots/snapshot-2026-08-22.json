@@ -1,0 +1,183 @@
+{
+  "publication": "The BiPolar Times",
+  "slogan": "The Newspaper That Connects The Markets Of Both Worlds",
+  "timezone": "Asia/Bangkok",
+  "exportedAt": "2026-08-22T09:06:57.948Z",
+  "generatedFrom": "private-dashboard",
+  "sections": {
+    "us": {
+      "id": "us",
+      "label": "US",
+      "ticker": "NYSE · NASDAQ · S&P 500",
+      "lastUpdated": "2026-08-22T08:53:48.296Z",
+      "news": [
+        {
+          "headline": "Tesla Surges 5% After Nevada Clears 5,000-Vehicle Las Vegas Robotaxi Fleet",
+          "body": "Clark County, Nevada approved Tesla, Waymo, and Uber to begin paid driverless robotaxi services in Las Vegas, with Tesla securing the largest allocation—up to 5,000 vehicles versus 1,000 each for rivals. Tesla closed Friday up 5.14% at $362.86 on volume 39% above its three-month average, capping its best week since May. The approvals mark the most significant regulatory milestone yet for Tesla's autonomous ride-hailing ambitions, with public Cybercab test rides in Austin also confirmed for month-end. Markets are pricing accelerating optionality in Tesla's services revenue story beyond core EV sales.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Motley Fool / Yahoo Finance",
+          "publishedAtISO": "2026-08-21T21:22:00Z",
+          "publishedAt": "Aug 22, 2026, 04:22 Bangkok"
+        },
+        {
+          "headline": "S&P 500 Posts First Weekly Loss in Four Weeks as 30-Year Treasury Yield Nears 5.25%",
+          "body": "All three major U.S. indexes logged weekly losses for the week ending August 21, with the S&P 500 falling nearly 2%, the Nasdaq shedding 2.5%, and the Dow notching its second straight weekly decline and steepest drop since mid-March. Rising long-dated Treasury yields—with the 30-year note trading near 5.25%, a level not seen in roughly two decades—drained risk appetite across equities, hitting technology names hardest. The Treasury Department's surprise bond buyback expansion provided only temporary relief as the 10-year and 30-year yields quickly snapped back to prior highs. Markets now await Treasury Secretary Bessent's Monday press conference on the U.S. plan to economically isolate Iran, adding geopolitical uncertainty to the rate-pressure narrative.",
+          "sector": "Finance",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Reuters / Yahoo Finance / Quartz",
+          "publishedAtISO": "2026-08-21T20:15:00Z",
+          "publishedAt": "Aug 22, 2026, 03:15 Bangkok"
+        },
+        {
+          "headline": "Bitcoin Surges 22% Weekly; Crypto Stocks Post Best Week in Months on Clarity Act Push",
+          "body": "Bitcoin closed Friday at $76,944, up 22% for the week, after the White House hosted crypto CEOs and President Trump publicly called on Congress to pass the Clarity Act crypto-market-structure bill. Strategy (MSTR) surged 29% for the week, Coinbase (COIN) gained 25%, Circle Internet 22%, and Mara Holdings 21%—all multi-month bests. A $2.7 billion short liquidation amplified the move alongside Treasury yield relief. Senate Majority Leader Thune filed a cloture motion, with a critical procedural vote expected September 15 serving as the next binary catalyst for the sector.",
+          "sector": "Finance",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CNBC",
+          "publishedAtISO": "2026-08-21T17:00:00Z",
+          "publishedAt": "Aug 22, 2026, 00:00 Bangkok"
+        },
+        {
+          "headline": "Ross Stores Smashes Q2 Estimates by 37%; Shares Jump ~8% on Traffic Surge",
+          "body": "Ross Stores reported Q2 EPS of $2.66, crushing the $1.94 consensus by 37%, on revenue of $6.27 billion versus $6.18 billion expected, as comparable store sales soared 10% driven by traffic growth. Net income surged 68% year-over-year to $851 million, while operating margin expanded 610 basis points. Full-year EPS guidance was raised sharply to $8.61–$8.77 from $7.50–$7.74, though approximately $0.60 of the beat reflects a $253 million IEEPA tariff refund. Shares gained ~8% on the session, lifting the off-price retail sector even as rival TJX was down over 7% for the week on its own miss.",
+          "sector": "Other",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Benzinga / Investing.com",
+          "publishedAtISO": "2026-08-21T13:04:00Z",
+          "publishedAt": "Aug 21, 2026, 20:04 Bangkok"
+        },
+        {
+          "headline": "Walmart Plunges ~10% on Rare U.S. Comparable Sales Miss; First in Five Years",
+          "body": "Walmart reported Q2 U.S. comparable sales growth of just 2.6%, badly trailing the ~3.7–3.8% analyst consensus and marking the retailer's first miss on the metric in over five years. Shares plunged roughly 9.6–10% to near $103, erasing gains for the year. Though adjusted EPS of $0.81 beat the $0.74 estimate and revenue of $187.94 billion topped forecasts, third-quarter adjusted EPS guidance of $0.62–$0.64 fell short of the $0.68 consensus. The miss rattled broader consumer sentiment reads and raised concerns about softening U.S. discretionary spending heading into the back half of 2026.",
+          "sector": "Other",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Yahoo Finance / CNBC",
+          "publishedAtISO": "2026-08-20T17:56:00Z",
+          "publishedAt": "Aug 21, 2026, 00:56 Bangkok"
+        }
+      ]
+    },
+    "asia": {
+      "id": "asia",
+      "label": "East + SE Asia",
+      "ticker": "Nikkei · HSI · SSE · KOSPI · TWSE · SET · SGX · IDX · KLSE · PSEi · VN-Index",
+      "lastUpdated": "2026-08-22T08:56:42.061Z",
+      "news": [
+        {
+          "headline": "Samsung Plans Up to $80B Shareholder Return After SK Hynix's $29B Buyback",
+          "body": "Samsung Electronics announced on Aug. 21 that it expects shareholder returns of 90–110 trillion won ($65–80B) in 2026, calling it 'the largest ever by a Korean company,' including ~30 trillion won in Q3 cash dividends. The announcement followed SK Hynix's Aug. 19 disclosure of a 40 trillion won share buyback and full cancellation — the largest treasury-share cancellation in Korean history — which sent SK Hynix up 12.73% and Samsung up 9.49% on Aug. 20, propelling the KOSPI to a 5.89% single-day surge. The back-to-back mega-returns from Korea's two chip giants triggered a buy-side sidecar halt on the KRX and drew 1.7 trillion won in net foreign purchases in a single session. Markets now price in a structural re-rating of Korean memory names, with JPMorgan estimating SK Hynix's total return capacity at 181.5 trillion won through 2027.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CNBC / Korea JoongAng Daily / Seoul Economic Daily",
+          "publishedAtISO": "2026-08-21T09:00:00Z",
+          "publishedAt": "Aug 21, 2026, 16:00 Bangkok"
+        },
+        {
+          "headline": "Bank of Korea August 27 Rate Decision Looms; Board Split, Core CPI at 31-Month High",
+          "body": "Markets are pricing a significant probability of a second Bank of Korea rate hike at its August 27 meeting, after minutes from July's meeting showed four of six Monetary Policy Board members explicitly cited the need for further tightening. Core inflation hit a 31-month high of 2.6%, and the BOK's outgoing senior deputy governor said strong growth continues to feed into underlying price pressures, though won stabilisation gives policymakers some flexibility. The KOSPI surged 3.1% on August 20 on Samsung and SK Hynix buyback news, but analysts warn another 25 bp hike — which would bring the benchmark rate to 3.00% — could trigger renewed equity volatility. The rate outlook is also weighing on emerging-market capital flows across the broader Asian region ahead of the decision.",
+          "sector": "Finance",
+          "sentiment": "negative",
+          "magnitude": "medium",
+          "source": "Bloomberg / Seoul Economic Daily",
+          "publishedAtISO": "2026-08-21T06:00:00Z",
+          "publishedAt": "Aug 21, 2026, 13:00 Bangkok"
+        },
+        {
+          "headline": "Japan July CPI Hits Year High at 1.9%; BOJ September Rate Hike Near Certain",
+          "body": "Japan's headline CPI accelerated to 1.9% YoY in July — the highest since December 2025 — while core CPI (ex-fresh food) rose 1.8% and core-core (ex-food and energy) hit 1.9%, all broadly matching or exceeding forecasts. Rising import costs driven by yen weakness and Iran-war-linked energy prices were key drivers, with wholesale inflation running at 7.2%. Market consensus now prices a 25bp BOJ hike to 1.25% at the Sept. 17–18 meeting at roughly 80% probability, pulling forward prior October calls. The Nikkei fell 0.30% on Friday as the data reinforced faster tightening expectations, weighing on exporters even as the yen ticked slightly lower.",
+          "sector": "Finance",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Bloomberg / CNBC / Japan Times",
+          "publishedAtISO": "2026-08-21T01:00:00Z",
+          "publishedAt": "Aug 21, 2026, 08:00 Bangkok"
+        },
+        {
+          "headline": "Japan July Exports Surge 23.2% on AI Chip Demand; Semiconductor Equipment Up 49%",
+          "body": "Japan's Ministry of Finance reported July export value rose 23.2% YoY — the strongest print since 2022 and a fifth consecutive month of acceleration — driven by a 49.1% surge in semiconductor equipment shipments amid the global AI infrastructure boom. Shipments to China rose 25.8% and to the US 22%, reinforcing Japan's role as a key supplier of chip-making tools even as South Korea and Taiwan overtook Japan in total export value for the first time in H1 2026. The Nikkei gained 0.64% immediately after the data release, though gains were partially capped by hawkish CPI implications for the BOJ. Import growth of 27.8% — led by an 87.8% surge in petroleum costs tied to the Iran conflict — remains a headwind for the trade balance.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CNBC / dpa",
+          "publishedAtISO": "2026-08-20T23:50:00Z",
+          "publishedAt": "Aug 21, 2026, 06:50 Bangkok"
+        },
+        {
+          "headline": "Alibaba Q1 Net Income Plunges 75% as AI Capex Hits $10B; HK Shares Fall ~3%",
+          "body": "Alibaba reported Q1 FY2027 net income of 10.54B yuan ($1.55B), down 76% YoY, after capital expenditure jumped 75% to 67.7B yuan (~$10B) as the company accelerates AI infrastructure buildout. Revenue rose 9% to 268.95B yuan, narrowly beating estimates, while cloud revenue surged 45% with AI-related products posting triple-digit growth for the twelfth straight quarter. Hong Kong-listed shares (9988.HK) fell ~3% on Friday, underperforming the broader Hang Seng, as investors focused on the widening gap between rapidly growing AI revenue and near-term profit and cash flow pressure. BofA flagged core commerce revenue 4% below consensus as an additional concern alongside the accelerating capex trajectory.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Bloomberg / CNBC / Investing.com",
+          "publishedAtISO": "2026-08-20T21:12:00Z",
+          "publishedAt": "Aug 21, 2026, 04:12 Bangkok"
+        }
+      ]
+    },
+    "commodities": {
+      "id": "commodities",
+      "label": "Commodities",
+      "ticker": "WTI · Brent · Gas · RBOB · Heating Oil · Coal · Gold · Silver · Copper · Aluminum · Iron Ore · Lithium · Platinum · Palladium · Grains · Softs · Oilseeds · Lumber · Rubber · BDI",
+      "lastUpdated": "2026-08-22T08:59:25.068Z",
+      "news": [
+        {
+          "headline": "Copper Surges to $6.58/lb as Chile Output Cuts and China Stimulus Lift Miners",
+          "body": "COMEX copper rose 1.79% to $6.58 per pound on August 21, up 47.85% year-on-year, as dollar weakness triggered by US bond-buyback uncertainty and fresh Chinese stimulus hopes drove a broad industrial metals rally. Top producer Chile flagged a 2.6% production decline for the year amid persistent mine disruptions, while China's refined copper output is expected to fall for a second consecutive month on feedstock shortages. Major miners surged in tandem: Southern Copper jumped 8.69% to $216.00 and Freeport-McMoRan rose 7.64% to $76.66, with equity investors pricing in strong earnings leverage to elevated copper prices. LME inventories, though up 17% week-on-week to 239,925 tons, remain historically tight, keeping the cash-to-three-month spread firm.",
+          "sector": "Base Metals",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Rio Times / Investing.com",
+          "publishedAtISO": "2026-08-22T01:00:00Z",
+          "publishedAt": "Aug 22, 2026, 08:00 Bangkok"
+        },
+        {
+          "headline": "Iron Ore Steady Near $95/t as China Imports Surge 6% YTD Despite Steel Output Drop",
+          "body": "The iron ore global benchmark settled at $95.21 per tonne on August 21, holding within the $93–$100 band in place since June, even as China's crude steel output fell roughly 3% in H1 2026 to 499.95 million tons. China's iron ore imports in the first seven months of 2026 reached 736.84 million tons, up 6% year-on-year, with August arrivals estimated near 111.16 million tons, above July's 108.08 million tons. Brazilian miner Vale surged 2.53% to $14.59 on the New York Stock Exchange, a move far outpacing the modest commodity gain, as equity investors bet on restocking-driven earnings support. New supply from Guinea's Simandou project remains minimal at 2.1 million tons in July, keeping global balances relatively tight despite the headline demand-supply disconnect.",
+          "sector": "Bulk Commodities",
+          "sentiment": "neutral",
+          "magnitude": "medium",
+          "source": "Rio Times",
+          "publishedAtISO": "2026-08-22T00:30:00Z",
+          "publishedAt": "Aug 22, 2026, 07:30 Bangkok"
+        },
+        {
+          "headline": "Pro Farmer Crop Tour Flags Below-Average US Corn Yields; Dec Futures Hit 3-Month High",
+          "body": "The 2026 Pro Farmer Crop Tour, completed August 17–20, found Illinois corn yield potential at 184.2 bu/acre, down 7.7% from last year's 199.6 bu/acre, with soybean pod counts also trailing prior-year tallies across multiple key Corn Belt states. Scouts cited heat stress, drought expansion in the southern Plains, and record July temperatures as key culprits, with NOAA confirming July as the hottest month on record and overnight lows denying crops post-heat recovery. December corn futures rallied to a three-month high near $4.98/bu, and November soybeans climbed to $12.37/bu, a for-the-move high. Black Sea shipping disruptions—with Russia's August wheat exports tracking at a 16-year low—added a further geopolitical premium across the entire grain complex.",
+          "sector": "Agriculture",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Pro Farmer / Grain Central",
+          "publishedAtISO": "2026-08-21T20:00:00Z",
+          "publishedAt": "Aug 22, 2026, 03:00 Bangkok"
+        },
+        {
+          "headline": "Gold Surges ~5% Weekly to $4,600+ on US Treasury Long-Bond Buyback Shock",
+          "body": "Gold climbed to its highest level since mid-May, topping $4,600/oz on Aug 21, extending weekly gains to roughly 5% after the US Treasury unexpectedly announced it would at least double long-term debt buyback operations from $2bn to at least $4bn per operation effective Sep 9. The announcement drove Treasury yields and the dollar sharply lower, with Commerzbank noting the move triggered the sharpest single-day gold rally in six and a half months. US national debt simultaneously crossing $40 trillion reinforced the fiscal debasement narrative, lifting ETF inflows. UBS commodity analyst Giovanni Staunovo projected gold could reach $5,400/oz over the next 12 months, citing persistent dollar weakness and rising sovereign debt.",
+          "sector": "Gold",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Bloomberg / Commerzbank via FXStreet / USAGOLD",
+          "publishedAtISO": "2026-08-21T16:13:00Z",
+          "publishedAt": "Aug 21, 2026, 23:13 Bangkok"
+        },
+        {
+          "headline": "Silver Surges 20% in August, Hits $70/oz as Precious Metals Bid Extends",
+          "body": "Spot silver reached $70/oz on August 21, up approximately 20% from its end-of-July level of ~$57.59, outpacing gold's weekly advance and compressing the gold/silver ratio toward 65.9. The move was driven by the same US Treasury bond-buyback catalyst that lifted gold, combined with safe-haven flows tied to Middle East geopolitical risk and a softer US dollar. The rapid advance has pushed silver beyond several banks' full-year average forecasts; Scotiabank's $65 full-year average and RBC's recovery band around $75 into 2027 now frame the debate. Mining equities in Mexico and Peru, the world's top silver-producing nations, rallied sharply on widening margins.",
+          "sector": "Precious Metals",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Mining.com / USAGOLD",
+          "publishedAtISO": "2026-08-21T10:02:00Z",
+          "publishedAt": "Aug 21, 2026, 17:02 Bangkok"
+        }
+      ]
+    }
+  }
+}
