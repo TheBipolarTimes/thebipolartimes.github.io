@@ -2,64 +2,64 @@
   "publication": "The BiPolar Times",
   "slogan": "The Newspaper That Connects The Markets Of Both Worlds",
   "timezone": "Asia/Bangkok",
-  "exportedAt": "2026-08-27T03:45:30.649Z",
+  "exportedAt": "2026-08-28T07:16:49.322Z",
   "generatedFrom": "private-dashboard",
   "sections": {
     "us": {
       "id": "us",
       "label": "US",
       "ticker": "NYSE · NASDAQ · S&P 500",
-      "lastUpdated": "2026-08-27T03:34:31.214Z",
+      "lastUpdated": "2026-08-28T06:54:50.194Z",
       "news": [
         {
-          "headline": "Marvell Technology Reports Q2 FY2027 Results After Close; AI Custom Silicon Demand in Focus",
-          "body": "Marvell Technology (NASDAQ: MRVL) released its fiscal Q2 2027 earnings after the market close on August 27, with Wall Street consensus calling for revenue of approximately $2.71 billion — up ~35% year-over-year — and non-GAAP EPS of $0.93. Markets closely watched Q3 guidance, with consensus already pricing in ~$3.03 billion in quarterly revenue, as CEO Matt Murphy had previously flagged \"exceptional AI-related bookings\" and a significant upward revision to FY2027 and FY2028 revenue outlooks. MRVL shares surged over 190% year-to-date entering the print, driven by its custom silicon and optical interconnect positioning across U.S. hyperscalers, making guidance the pivotal variable. The report serves as a key read-through for AI infrastructure spending momentum following Nvidia's blockbuster results the prior evening.",
+          "headline": "Fed Chair Warsh Delivers First Jackson Hole Keynote Amid Rate-Hike Uncertainty",
+          "body": "Fed Chair Kevin Warsh delivered his inaugural Jackson Hole address Friday morning (8:00–10:00 AM ET), with markets globally on edge over whether he would signal a hawkish pivot. Inflation remains at 3.4%, well above the 2% target, and the Fed's policy rate has been held at 3.50%–3.75% since December; Kansas City Fed President Schmid said hours before the speech he doesn't know 'what we're restricting' at current rates. Markets had priced roughly one-in-three odds of a September rate hike heading into the speech, making Warsh's framework comments the key near-term catalyst for equities and Treasuries. The speech is the first time Warsh — who succeeded Jerome Powell in May — has laid out his personal monetary policy framework at a major forum.",
+          "sector": "Finance",
+          "sentiment": "neutral",
+          "magnitude": "high",
+          "source": "Reuters / Axios",
+          "publishedAtISO": "2026-08-28T13:00:00Z",
+          "publishedAt": "Aug 28, 2026, 20:00 Bangkok"
+        },
+        {
+          "headline": "Nvidia Surges ~9% on Record $96.2B Revenue and Shock 70% FY28 Growth Forecast",
+          "body": "Nvidia reported Q2 FY2027 revenue of $96.2 billion, up 106% year-over-year, blowing past the $92 billion consensus and driving an ~8.7% single-session stock gain — its largest since April 2025 — that added roughly $442 billion in market cap. The real catalyst was CFO Colette Kress guiding fiscal 2028 revenue growth at approximately 70%, nearly twice analyst expectations, with the company's backlog now exceeding $2 trillion and hyperscaler capex projected to rise to $1.3 trillion next year from $800 billion. AWS separately announced a deal to purchase 2 million Nvidia GPUs and integrate Vera CPUs with the forthcoming Rubin AI chip platform. The results broadly lifted AI-infrastructure peers, with Broadcom +4.5%, Intel +4.4%, Palantir +4.7%, and Nasdaq advancing 1.4% on the session.",
           "sector": "Technology",
           "sentiment": "positive",
           "magnitude": "high",
-          "source": "TradingKey / Yahoo Finance",
+          "source": "CNBC / Bloomberg",
           "publishedAtISO": "2026-08-27T21:00:00Z",
           "publishedAt": "Aug 28, 2026, 04:00 Bangkok"
         },
         {
-          "headline": "Nvidia Q2 FY27 Revenue Surges 106% YoY to $96.2B, Guides Q3 to $108B",
-          "body": "Nvidia reported fiscal Q2 2027 earnings of $2.22 per share on revenue of $96.2B, topping consensus estimates of $2.09 EPS and $92.2B revenue for a +5.65% EPS surprise and +3.04% revenue beat. Q3 guidance of ~$108B (+89% YoY) exceeded the $104.2B Street consensus. CEO Jensen Huang declared AI has 'reached its inflection point' with demand broadening well beyond a single hyperscaler. The stock saw a muted positive reaction after hours, consistent with a pattern of post-earnings selling despite repeated beats over the prior four quarters.",
-          "sector": "Technology",
-          "sentiment": "positive",
-          "magnitude": "high",
-          "source": "CNBC / Kiplinger",
-          "publishedAtISO": "2026-08-26T21:30:00Z",
-          "publishedAt": "Aug 27, 2026, 04:30 Bangkok"
-        },
-        {
-          "headline": "Salesforce Surges 14% After Hours on Agentforce Boom, Raises Full-Year Outlook",
-          "body": "Salesforce reported Q2 FY27 revenue of $11.35B (+11% YoY) and adjusted EPS of $5.90, vastly exceeding the $3.27 consensus estimate, boosted partly by a $2.6B gain on its Anthropic stake. Agentforce AI annualized revenue topped $1.5B, up 240% YoY, and the company raised full-year revenue guidance to $46.1B–$46.4B implying ~11% growth. Free cash flow spiked 81% to $1.10B, well above the $643M consensus. Shares soared ~14% in extended trading, marking a sharp reversal for a stock down 21% year-to-date ahead of the print.",
+          "headline": "Salesforce Rockets 21% as Agentforce ARR Hits $1.5B, EPS Crushes Estimates by 80%",
+          "body": "Salesforce reported Q2 FY2027 adjusted EPS of $5.90, an 80% beat versus the $3.27 consensus, on revenue of $11.35 billion — up 11% year-over-year — and raised full-year revenue guidance by $300 million to $46.1–$46.4 billion. Agentforce annualized recurring revenue reached $1.5 billion, up 240% year-over-year, with agentic workflow units up 97% sequentially, decisively proving AI monetization is moving from pilot to top-line driver. Current remaining performance obligation of $33.5 billion grew 14% in constant currency, accelerating quarter-over-quarter, and free cash flow surged 81% to $1.1 billion. The stock logged its best day in years, closing up roughly 21.6%, reversing a year-to-date deficit and silencing fears that AI would cannibalize traditional enterprise software seats.",
           "sector": "Technology",
           "sentiment": "positive",
           "magnitude": "high",
           "source": "CNBC / Salesforce IR",
-          "publishedAtISO": "2026-08-26T20:30:00Z",
-          "publishedAt": "Aug 27, 2026, 03:30 Bangkok"
+          "publishedAtISO": "2026-08-27T20:30:00Z",
+          "publishedAt": "Aug 28, 2026, 03:30 Bangkok"
         },
         {
-          "headline": "CrowdStrike Reports Best Quarter in Company History; Stock Up ~10% After Hours",
-          "body": "CrowdStrike posted Q2 FY27 revenue of $1.47B (vs. $1.44B expected) and adjusted EPS of $0.31 (vs. $0.29 expected), marking its ninth consecutive EPS beat. The company raised full-year FY27 revenue guidance to $5.99B–$6.01B, above the $5.94B consensus, citing AI-driven structural demand for cybersecurity. GAAP net income was positive for the second consecutive quarter and non-GAAP operating margin expanded. Shares jumped ~10% in extended trading as the stock, already up ~68% year-to-date, cleared a key technical resistance level.",
+          "headline": "CrowdStrike Jumps 17%+ on Record Quarter; Full-Year Revenue Guidance Raised Above Consensus",
+          "body": "CrowdStrike reported Q2 FY2027 adjusted EPS of $0.31 (vs. $0.29 expected) on record revenue of $1.47 billion (+26% YoY), beating the $1.44 billion estimate as CEO George Kurtz called it 'the best quarter in CrowdStrike's history.' The company raised full-year revenue guidance to $5.99–$6.01 billion, above the $5.93–5.94 billion analyst consensus, citing surging AI-driven cybersecurity demand and Falcon Flex adoption that more than doubled year-over-year. Falcon Flex accounts added 935 new customers in the quarter and comprised the top 10 deals by value, providing longer-term, higher-ASP platform contracts. Shares closed up more than 17% on the session, extending a 61% year-to-date gain and lifting peers including Palo Alto Networks (+12.8%).",
           "sector": "Technology",
           "sentiment": "positive",
           "magnitude": "high",
-          "source": "Bloomberg / TheStreet / 247WallSt",
-          "publishedAtISO": "2026-08-26T20:12:00Z",
-          "publishedAt": "Aug 27, 2026, 03:12 Bangkok"
+          "source": "CNBC / Bloomberg",
+          "publishedAtISO": "2026-08-27T20:00:00Z",
+          "publishedAt": "Aug 28, 2026, 03:00 Bangkok"
         },
         {
-          "headline": "Abercrombie & Fitch Surges 37% on $100M Tariff Refund, Record Q2 Sales, Raised Outlook",
-          "body": "Abercrombie & Fitch (NYSE: ANF) posted record second-quarter net sales of $1.27 billion, up 5% year-over-year, with adjusted EPS of $4.17 — more than doubling the $1.98 analyst consensus — boosted by roughly $100 million in tariff refunds. The stock surged approximately 37% on Wednesday, marking its biggest single-day jump since November 2025, as the company also raised its full-year net sales growth outlook to around 5% and guided for net income per diluted share of $13.10–$13.60. Management announced at least $500 million in share repurchases for fiscal 2026, and the quarter marked the retailer's 15th consecutive period of sales growth. The outsized move lifted the SPDR S&P Retail ETF (XRT) by ~1% and reinforced investor optimism around tariff-refund tailwinds for U.S. apparel retailers.",
-          "sector": "Consumer",
+          "headline": "Gap Shares Jump 15% on Old Navy CEO Change, EPS Beat, and Raised FY26 Profit Outlook",
+          "body": "Gap Inc. shares soared as much as 15% in extended trading after the company named retail veteran Michael Francis as Old Navy's new President and CEO — replacing Haio Barbeito effective November 2 — while reporting Q2 adjusted EPS of $0.52, beating the $0.48 consensus. Gross margin expanded sharply (Q2 GAAP gross margin 52.8%, up 1,160 basis points year-over-year), enabling Gap to raise its full-year adjusted EPS guidance to $2.35–$2.45 from $2.30–$2.40. The headline Gap brand posted +10% comparable sales growth for another consecutive double-digit quarter, partially offsetting a -4% comp at Old Navy — its first negative comp since Q2 2023 — which the company attributed to an ineffective summer marketing campaign. The leadership change at Old Navy, which contributes ~60% of total revenue, was read by investors as a credible turnaround catalyst.",
+          "sector": "Consumer Discretionary",
           "sentiment": "positive",
           "magnitude": "high",
-          "source": "Bloomberg / Investing.com",
-          "publishedAtISO": "2026-08-26T13:11:00Z",
-          "publishedAt": "Aug 26, 2026, 20:11 Bangkok"
+          "source": "Reuters / CNBC",
+          "publishedAtISO": "2026-08-27T20:00:00Z",
+          "publishedAt": "Aug 28, 2026, 03:00 Bangkok"
         }
       ]
     },
@@ -67,57 +67,57 @@
       "id": "asia",
       "label": "East + SE Asia",
       "ticker": "Nikkei · HSI · SSE · KOSPI · TWSE · SET · SGX · IDX · KLSE · PSEi · VN-Index",
-      "lastUpdated": "2026-08-27T03:42:55.569Z",
+      "lastUpdated": "2026-08-28T06:56:07.946Z",
       "news": [
         {
-          "headline": "Bank of Korea Delivers Back-to-Back 25bp Hike to 3%, Lifts 2026 Growth Forecast",
-          "body": "The Bank of Korea raised its benchmark seven-day repo rate by 25 basis points to 3.00% on August 27 — its second consecutive hike and the first back-to-back tightening since January 2023 — driven by sticky core inflation at a three-year high of 2.6% and a renewed surge in Seoul housing prices. The 6-1 decision was broadly in line with market expectations but at the hawkish end of a closely divided consensus. The BOK simultaneously upgraded its 2026 GDP growth forecast to 3.3% from 2.6%, crediting the semiconductor-led boom. The KOSPI trimmed early Nvidia-driven gains to +1.5% after the decision, while KTB futures extended losses; markets now price one further 25bp hike in Q1 2027.",
-          "sector": "Finance",
-          "sentiment": "negative",
-          "magnitude": "high",
-          "source": "Bloomberg / Reuters / Korea Herald",
-          "publishedAtISO": "2026-08-27T06:54:00Z",
-          "publishedAt": "Aug 27, 2026, 13:54 Bangkok"
-        },
-        {
-          "headline": "Nvidia Q2 Revenue More Than Doubles; Asian Chip Stocks Rise on Beat and Guide-Up",
-          "body": "Nvidia reported fiscal Q2 revenue of approximately $92 billion after the August 26 close, beating consensus of $91.9 billion, with Q3 guidance above Wall Street estimates — lifting Nvidia ADRs roughly 4.7% in after-hours trade. Asian supply-chain stocks rose in Thursday's session: SK Hynix and Samsung Electronics gained 2–3%, Kioxia advanced more than 4%, and Taiwan's TSMC also moved higher. Broader Asian markets showed a mixed picture as US PCE inflation data — running at a three-year high of 3.7% — tempered the AI euphoria, with losses recorded in Tokyo, Hong Kong, Sydney, Singapore, and Manila. The print is the most consequential earnings event of the quarter for the region given SK Hynix's role as Nvidia's sole HBM3E supplier and TSMC's foundry dependence.",
+          "headline": "TSMC, Asian Chip Suppliers Rally as Nvidia Posts $96.2B Quarter, Issues $108B Guidance",
+          "body": "Nvidia reported fiscal Q2 2027 revenue of $96.2 billion, up 106% year-on-year, beating consensus of $91.9 billion, and issued Q3 guidance of ~$108 billion — nearly twice analyst growth expectations for 2027. TSMC rose 2.1–2.3% on Aug 27 as the exclusive advanced-node manufacturer for Nvidia's GPU lineup, while TSMC also confirmed new 3nm chip designs for Xiaomi. The blowout print validated AI infrastructure capex across the Asia supply chain, lifting KOSPI chipmakers, mainland China STAR50 (+3.5%), and Taiwan's TWSE. Markets now watch whether guidance durability sustains the rally into Jackson Hole.",
           "sector": "Technology",
           "sentiment": "positive",
           "magnitude": "high",
-          "source": "Reuters / Yahoo Finance / Investing.com",
-          "publishedAtISO": "2026-08-27T01:59:00Z",
-          "publishedAt": "Aug 27, 2026, 08:59 Bangkok"
+          "source": "Investing.com / Motley Fool",
+          "publishedAtISO": "2026-08-27T15:54:00Z",
+          "publishedAt": "Aug 27, 2026, 22:54 Bangkok"
         },
         {
-          "headline": "China July Industrial Profit Growth Slows to 11.2%, Weakest Pace of 2026",
-          "body": "Growth in profits at China's major industrial firms decelerated for a third consecutive month in July, rising 11.2% year-on-year versus June's 15.1% gain, the National Bureau of Statistics reported on Thursday. For the January-to-July period, profits are up 17.6%, modestly below the 18.1% pace forecast by Bloomberg Economics, reflecting a cooling economy and softening price gains. The slowdown is a mild headwind for mainland A-share cyclicals and resource names — sectors that had led earlier 2026 gains on China's recovery trade. The CSI 300 had already been trading around 4,580–4,630 heading into the data, with markets also tracking the Nvidia-led tech rally for near-term direction.",
+          "headline": "Bank of Korea Delivers Rare Back-to-Back 25bp Hike to 3%, Lifts 2026 GDP Forecast to 3.3%",
+          "body": "The Bank of Korea raised its seven-day repo rate by 25bp to 3.00% on Aug 27 in a 6-1 vote, its second consecutive increase — the first back-to-back hiking cycle since April 2022–January 2023. Governor Shin Hyun-song called it a 'preemptive' move against chip-boom-driven inflation, with core CPI at 2.6% in July and Q2 GDP growth of 0.6% quarter-on-quarter, three times the BOK's own forecast. The dot plot showed 16 of 21 members see rates above 3% within six months, though the hawkish language on further hikes was dropped, and bond futures extended losses by 0.28 points post-decision. KOSPI closed +1.53% on Aug 27 as markets balanced the tightening signal against a surging growth upgrade.",
           "sector": "Finance",
+          "sentiment": "neutral",
+          "magnitude": "high",
+          "source": "Bloomberg / Korea Herald / Reuters",
+          "publishedAtISO": "2026-08-27T09:56:00Z",
+          "publishedAt": "Aug 27, 2026, 16:56 Bangkok"
+        },
+        {
+          "headline": "China Aug 27 Industrial Profit Data: +17.6% YTD; AI Hardware Lifts Shanghai, HK Lags",
+          "body": "China's National Bureau of Statistics reported industrial profits for Jan–July 2026 rose 17.6% year-on-year to 4.58 trillion yuan, driven by AI-linked electronics and chip sectors, though July momentum slowed from the 18.7% first-half pace. Shanghai's CSI 300 rose 0.86% and the STAR50 tech index surged 3.5% on the data combined with Nvidia's earnings tailwind, while AI developer Minimax jumped 3.6% after posting a near four-fold H1 revenue surge. Hong Kong's Hang Seng edged down 0.38% as internet-platform heavyweights — which lack direct hardware exposure — lagged the mainland's AI hardware rally. China's vice finance minister separately pledged additional fiscal support measures, adding a policy backstop bid.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "medium",
+          "source": "Reuters / Business Recorder / People's Daily",
+          "publishedAtISO": "2026-08-27T06:00:00Z",
+          "publishedAt": "Aug 27, 2026, 13:00 Bangkok"
+        },
+        {
+          "headline": "BOJ Rate-Hike Bets Hit 80% for September as Yen Holds Near ¥159, Nikkei Stays Mixed",
+          "body": "Market pricing for a 25bp Bank of Japan rate hike to 1.25% in September surged to ~80%, up sharply from 23% pre-July, after former BOJ board member Seiji Adachi warned that holding rates could reignite yen weakness and import-driven inflation. USD/JPY eased to ~159 per dollar on Aug 27, helped by softer oil prices and pre-Jackson Hole dollar caution, but the yen remains well below post-intervention levels after the historic U.S.-Japan coordinated intervention in early August. BOJ Governor Ueda's absence from the Jackson Hole symposium added to uncertainty, with the Nikkei finishing mixed (KOSPI and mainland China outperformed) as the policy divide between Tokyo and Seoul sharpened. Exporters face a headwind if yen strength resumes on a September hike confirmation.",
+          "sector": "Finance",
+          "sentiment": "neutral",
+          "magnitude": "medium",
+          "source": "Trading Economics / CNBC",
+          "publishedAtISO": "2026-08-27T03:00:00Z",
+          "publishedAt": "Aug 27, 2026, 10:00 Bangkok"
+        },
+        {
+          "headline": "Shein Prices Hong Kong IPO at HK$47.60–49.50, Valuing Fast-Fashion Giant at ~$27 Billion",
+          "body": "Shein launched its long-awaited Hong Kong IPO on Aug 24, pricing 280 million Class B shares at HK$47.60–49.50 to raise up to ~$1.77 billion, with the final price due Aug 31 and trading under code 00625 set for Sep 1. The implied market cap of ~$26–27 billion marks a dramatic collapse from a $98.2 billion private valuation in 2022, reflecting a $99 million H1 2026 loss, 8% revenue growth deceleration, and tariff-driven margin pressure after the U.S. eliminated the de minimis import exemption. Cornerstone investors include Tencent, Boyu Capital, Tiger Global and General Atlantic, but broader institutional appetite is seen as tepid, with analysts noting the IPO pipeline is dominated by AI and chip firms. Shein's first-day performance on Sep 1 will serve as a key bellwether for Chinese consumer-sector re-listings on HKEX.",
+          "sector": "Technology",
           "sentiment": "negative",
           "magnitude": "medium",
-          "source": "Xinhua / Bloomberg",
-          "publishedAtISO": "2026-08-27T01:48:00Z",
-          "publishedAt": "Aug 27, 2026, 08:48 Bangkok"
-        },
-        {
-          "headline": "SK Hynix Breaks Ground on $3.87B Indiana HBM Packaging Plant; Chey-Huang Meeting Eyed",
-          "body": "SK Hynix held a formal groundbreaking ceremony on August 27 (local time) for its advanced semiconductor packaging facility in West Lafayette, Indiana — the company's first US production base for high-bandwidth memory targeting AI applications. SK Group Chairman Chey Tae-won and CEO Kwak Noh-jung attended, with market attention focused on a potential meeting between Chey and Nvidia CEO Jensen Huang that could signal further US investment commitments. The $3.87 billion facility, backed by up to $450 million in CHIPS Act direct funding and $500 million in loans, targets HBM mass production from H2 2028. The event amplifies the Seoul-to-Indiana AI supply-chain narrative coinciding with Nvidia's earnings beat.",
-          "sector": "Technology",
-          "sentiment": "positive",
-          "magnitude": "high",
-          "source": "Korea Herald / Korea JoongAng Daily / The Elec",
-          "publishedAtISO": "2026-08-27T00:00:00Z",
-          "publishedAt": "Aug 27, 2026, 07:00 Bangkok"
-        },
-        {
-          "headline": "Kioxia Plans $6.3B Iwate Fab3 to Capture AI-Driven NAND Demand",
-          "body": "Memory chipmaker Kioxia Holdings plans to build a third production facility at its Kitakami plant in Iwate Prefecture, northern Japan, with investment expected to exceed 1 trillion yen ($6.27 billion), Nikkei reported on Thursday. The new fab will manufacture high-density 3D NAND flash chips designed for the massive storage workflows generated by AI data-centre services. The announcement follows Kioxia's blockbuster Q1 FY2026 results in which operating profit hit roughly 1.27 trillion yen — about 28 times the year-earlier figure — lifting its market cap briefly above Toyota's. Shares of Kioxia (TSE: 285A) rose more than 5% on the session, and Citi said it would view the news as 'somewhat positive' given what it signals about demand visibility through 2029.",
-          "sector": "Technology",
-          "sentiment": "positive",
-          "magnitude": "high",
-          "source": "Nikkei Asia / Bloomberg",
-          "publishedAtISO": "2026-08-27T00:00:00Z",
-          "publishedAt": "Aug 27, 2026, 07:00 Bangkok"
+          "source": "CNBC / MEXC / BigGo Finance",
+          "publishedAtISO": "2026-08-26T08:00:00Z",
+          "publishedAt": "Aug 26, 2026, 15:00 Bangkok"
         }
       ]
     },
@@ -125,57 +125,57 @@
       "id": "commodities",
       "label": "Commodities",
       "ticker": "WTI · Brent · Gas · RBOB · Heating Oil · Coal · Gold · Silver · Copper · Aluminum · Iron Ore · Lithium · Platinum · Palladium · Grains · Softs · Oilseeds · Lumber · Rubber · BDI",
-      "lastUpdated": "2026-08-27T03:44:54.801Z",
+      "lastUpdated": "2026-08-28T07:00:50.097Z",
       "news": [
         {
-          "headline": "Trump Renews Threat to Fire Fed's Cook; Gold Spikes on Fed Independence Fears",
-          "body": "Gold spiked to two-week highs near $3,385/oz after the Trump White House renewed its threat to fire Federal Reserve Governor Lisa Cook, citing alleged mortgage fraud — a charge Cook denies and courts have not upheld. The move reignited fears over Fed independence, weakened the US dollar, and lifted market pricing for September rate cuts above 87%. Cook fired back in a letter on August 26, stating there is 'no legal basis' for removal; her lawyers noted the Supreme Court had blocked an earlier attempt. Gold pulled back to the $3,370–80 range as the dollar partially recovered, though the precious metal remains nearly 2% higher on the week with Friday's PCE print now in sharp focus.",
+          "headline": "Gold Retreats Below $4,600 as Markets Brace for Warsh's Jackson Hole Debut",
+          "body": "Bullion dropped as much as 0.5% to below $4,600/oz on Aug 28 as investors held positions ahead of Fed Chair Kevin Warsh's inaugural keynote at the Jackson Hole symposium, with the speech scheduled for 10:00 AM ET Friday. Despite the pullback, gold has advanced more than 13% in August — its strongest monthly gain since January and one of the biggest this century — underpinned by dollar debasement fears and a hotter-than-expected July PCE print of 3.7% YoY. Markets pricing a ~60% chance of a September Fed hold, with a vocal three-member FOMC dissent in favor of immediate hikes raising the stakes for Warsh's tone. A hawkish surprise could trigger a sharp unwind in gold's record speculative long position.",
           "sector": "Gold",
-          "sentiment": "positive",
+          "sentiment": "negative",
           "magnitude": "high",
-          "source": "AP / CNBC / FXStreet / BullionVault",
-          "publishedAtISO": "2026-08-26T23:22:00Z",
-          "publishedAt": "Aug 27, 2026, 06:22 Bangkok"
+          "source": "Bloomberg",
+          "publishedAtISO": "2026-08-28T02:28:00Z",
+          "publishedAt": "Aug 28, 2026, 09:28 Bangkok"
         },
         {
-          "headline": "Grains Surge to Multi-Year Highs: Corn Hits 3-Year High, Soybeans at Contract Record",
-          "body": "December corn futures climbed to $5.36½/bu — a new contract high and the highest nearby-futures price in roughly three years — while November soybeans surged to a contract-high $12.66 and December soybean meal hit a nine-month high of $339.30/ton. The rally was driven by a confluence of US yield concerns, tightening Black Sea export availability amid the ongoing Ukraine war, and fears that cheap grain will no longer be reliably accessible. Wheat joined the move, with the August WASDE having already pegged 2026 US all-wheat production at the lowest since 1970. Markets are now flagging next month's September 11 USDA Supply & Demand report as pivotal for setting price direction through year-end.",
-          "sector": "Agriculture",
-          "sentiment": "positive",
-          "magnitude": "high",
-          "source": "Ag Bull Trading / Farm Progress / ADMISI",
-          "publishedAtISO": "2026-08-26T21:00:00Z",
-          "publishedAt": "Aug 27, 2026, 04:00 Bangkok"
-        },
-        {
-          "headline": "Oil Slumps ~3% to Near One-Month Low as Iran-Oman Outline Hormuz Corridor Deal",
-          "body": "Brent crude fell roughly 3% to ~$85–86/bbl and WTI slid to ~$80/bbl — the lowest since August 10 — after Iran and Oman jointly announced a 'phased framework' for a temporary joint maritime corridor through the Strait of Hormuz, including a mine-clearing mission. The strait had been effectively closed since the US-Israel war with Iran began in late February 2026, disrupting approximately one-fifth of global seaborne oil and LNG flows. The move came as the US simultaneously pivoted to economic pressure, with Treasury Secretary Bessent pledging a 'zero-leakage' sanctions approach on Iranian oil — measures markets judged as milder than feared. Analysts noted prices are still up over 40% year-to-date, with traders remaining cautious as Iran insisted the strait will only fully reopen when the war ends on all fronts.",
+          "headline": "Brent Posts >7% Weekly Drop as Iran-Oman Hormuz Deal Offsets Russia Escalation Risk",
+          "body": "Brent crude held above $88/bbl Friday after a volatile week in which it shed more than 7% — its largest weekly drop since June — as Iran's military announced a revenue-sharing agreement with Oman over the Strait of Hormuz, raising hopes that shipping disruptions could ease. However, Tehran stressed the deal does not guarantee an immediate reopening of the strait, while Putin publicly declared Ukraine peace talks had yielded no results and Russia was preparing to intensify the war, with ongoing Ukrainian strikes disrupting Russian refineries and ports. Brent fell below $87 mid-week before partially recovering; WTI settled near $82-$83. The dueling supply catalysts have left the market directionless heading into the weekend.",
           "sector": "Energy",
           "sentiment": "negative",
           "magnitude": "high",
-          "source": "Reuters / CNN / CNBC / OilPrice.com",
-          "publishedAtISO": "2026-08-26T11:22:00Z",
-          "publishedAt": "Aug 26, 2026, 18:22 Bangkok"
+          "source": "Bloomberg / NBC News",
+          "publishedAtISO": "2026-08-28T01:00:00Z",
+          "publishedAt": "Aug 28, 2026, 08:00 Bangkok"
         },
         {
-          "headline": "Copper Hits Record Above $14,400/t; LME Inventories Halved Since May",
-          "body": "Copper futures pushed above $14,400/t — a fresh all-time high — as multiple supply disruptions kept the market acutely tight despite a brief mid-month inventory build. LME-monitored warehouse stocks have fallen by nearly half since mid-May following a 42-day streak of outflows, while SHFE stocks remain depressed. Zijin Mining's half-year report (published August 21) warned that renewed flooding at the Kamoa-Kakula complex in the DRC could cut Zijin's attributable output by up to 57,000 tons this year, threatening its 1.2 million-ton annual target; partner Ivanhoe had already slashed 2026 mine guidance from 380,000–420,000 tons to 290,000–330,000 tons in April. Demand tailwinds from AI data-center buildouts and electrification kept speculative longs extended heading into the week.",
-          "sector": "Base Metals",
-          "sentiment": "positive",
-          "magnitude": "high",
-          "source": "Bloomberg / Mining Weekly / SP Angel / TradingEconomics",
-          "publishedAtISO": "2026-08-26T07:00:00Z",
-          "publishedAt": "Aug 26, 2026, 14:00 Bangkok"
-        },
-        {
-          "headline": "Coffee Falls >5% as Colombia Earthquake Impact on Buenaventura Port Assessed",
-          "body": "Arabica coffee futures dropped more than 5% — crossing the key market-moving threshold — as traders re-evaluated supply dynamics following a 7.4-magnitude earthquake in Colombia in early August that interrupted operations at Buenaventura, the country's largest coffee export port. Brazil's harvest was running behind schedule at 90% complete versus 97% a year earlier as of mid-August, while ICE-certified arabica inventories fell to a 2.75-year low of 226,242 bags. The selloff appeared partially driven by profit-taking after a prior rally on tight supply; however, ongoing port disruption in Colombia and historically low exchange stocks kept the fundamental backdrop fragile. The next major supply update from Brazil and Colombia is expected to be closely watched for September price direction.",
+          "headline": "CBOT Wheat Hits Limit-Up 45c; Corn at 3-Year High on Black Sea War Escalation",
+          "body": "CBOT December wheat surged to the daily limit of 45 cents on August 26, settling at 748.25 ¢/bu, while December corn hit a new contract high at 536.50 ¢/bu — wheat's move equivalent to a one-day gain of over 6% — as Russia signaled intent to intensify attacks on Ukraine with peace talks stalled. Ukrainian drone strikes reportedly prompted MSC to suspend service into Novorossiysk, and SovEcon cut its August Russian wheat export estimate by 300,000 mt to just 1.9 mmt. Egypt, the world's largest wheat importer that typically sources 80% of supply from Russia/Ukraine, pivoted to buy French wheat, while Argus forecast French corn production at just 6.9 mmt, down 48% YoY and the lowest in 50 years. Speculative long positions in corn approached 400,000 contracts — near multi-year records — underscoring the scale of risk-premium being built into grain markets.",
           "sector": "Agriculture",
           "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Grain Central / ADM Investor Services",
+          "publishedAtISO": "2026-08-27T16:52:00Z",
+          "publishedAt": "Aug 27, 2026, 23:52 Bangkok"
+        },
+        {
+          "headline": "Zijin Warns Kamoa-Kakula Flooding to Slash Copper Output by Up to 57,000 Tonnes",
+          "body": "Zijin Mining disclosed in its H1 2026 results (published Aug 21) that flooding at the Kamoa-Kakula complex in the DRC — the world's largest copper mine — will reduce its attributable output by as much as 57,000 tonnes this year, threatening its full-year target of 1.2 million tonnes. Partner Ivanhoe Mines had already cut the mine's 2026 guidance to 290,000–330,000 tonnes from an original 380,000–420,000 tonnes following seismic disruptions. The disclosure, continuing to reverberate through the week, has reinforced copper's supply-deficit narrative: the metal trades near $14,000/tonne, close to a record, with LME inventories having fallen by almost half since mid-May. Demand support from electrification and AI infrastructure buildout amplifies sensitivity to mine-level setbacks.",
+          "sector": "Base Metals",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Bloomberg / Mining Weekly",
+          "publishedAtISO": "2026-08-27T10:00:00Z",
+          "publishedAt": "Aug 27, 2026, 17:00 Bangkok"
+        },
+        {
+          "headline": "Central Bank Gold Buying Hits Q2 Record at 288.9t, Up 62% YoY — WGC Data",
+          "body": "World Gold Council data confirmed central banks purchased 288.9 tonnes of gold in Q2 2026 — up 62% year-over-year and the strongest second quarter on record — notably buying into a quarter when spot prices were falling. The data, circulating actively ahead of the Jackson Hole symposium, reinforces structural sovereign demand as a floor for bullion amid concerns over US fiscal trajectory and dollar debasement. The July PCE reading of 3.7% YoY — above the 3.6% consensus — and a split FOMC (3 dissents for immediate hike at the July meeting) have kept rate-path uncertainty elevated. Gold's 13%+ August gain positions it for one of its strongest single months this century regardless of Warsh's Friday speech.",
+          "sector": "Gold",
+          "sentiment": "positive",
           "magnitude": "medium",
-          "source": "ADMISI / Barchart / Barchart.com",
-          "publishedAtISO": "2026-08-25T16:00:00Z",
-          "publishedAt": "Aug 25, 2026, 23:00 Bangkok"
+          "source": "World Gold Council / GoldSilver.com",
+          "publishedAtISO": "2026-08-27T00:00:00Z",
+          "publishedAt": "Aug 27, 2026, 07:00 Bangkok"
         }
       ]
     }
