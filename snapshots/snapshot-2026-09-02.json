@@ -1,0 +1,183 @@
+{
+  "publication": "The BiPolar Times",
+  "slogan": "The Newspaper That Connects The Markets Of Both Worlds",
+  "timezone": "Asia/Bangkok",
+  "exportedAt": "2026-09-02T04:40:26.882Z",
+  "generatedFrom": "private-dashboard",
+  "sections": {
+    "us": {
+      "id": "us",
+      "label": "US",
+      "ticker": "NYSE · NASDAQ · S&P 500",
+      "lastUpdated": "2026-09-02T04:33:59.567Z",
+      "news": [
+        {
+          "headline": "Dell DELL Smashes Q2 FY27 Estimates, Raises Full-Year Guidance by $25B on AI Surge",
+          "body": "Dell Technologies reported fiscal Q2 2027 adjusted EPS of $7.04, beating the $4.90 consensus by 44%, with record revenue of $47.0 billion rising 58% year-over-year and exceeding estimates by $2.16 billion. AI-Optimized Server revenue doubled to $16.4 billion, and record orders of $60.9 billion pushed the AI server backlog to a record $95 billion. Dell raised its full-year FY27 revenue guidance by $25 billion to $192 billion and boosted adjusted EPS guidance to $25.50 from $17.90. Shares surged roughly 8–10% in after-hours trading after closing the regular session down 6.8%, underscoring the magnitude of the upside surprise.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CNBC / Investing.com",
+          "publishedAtISO": "2026-09-01T22:34:00Z",
+          "publishedAt": "Sep 2, 2026, 05:34 Bangkok"
+        },
+        {
+          "headline": "Palo Alto Networks PANW Tops Fiscal Q4 Estimates; Shares Slip After Hours",
+          "body": "Palo Alto Networks reported fiscal Q4 revenue of $3.41 billion, up 34.5% year-over-year and above the $3.35 billion consensus, while adjusted EPS of $1.02 beat the $0.98 estimate. The company issued positive FY27 guidance citing accelerating AI-driven cybersecurity demand. Despite the beat, shares fell nearly 2% in extended trading after an initial post-earnings gain evaporated, consistent with the stock's pattern of selling off on strong results. PANW has more than doubled year to date heading into the print.",
+          "sector": "Technology",
+          "sentiment": "neutral",
+          "magnitude": "high",
+          "source": "Yahoo Finance / congress.net",
+          "publishedAtISO": "2026-09-01T21:15:00Z",
+          "publishedAt": "Sep 2, 2026, 04:15 Bangkok"
+        },
+        {
+          "headline": "MongoDB MDB Falls 13% After Hours Despite 30% Revenue Beat and Guidance Raise",
+          "body": "MongoDB reported fiscal Q2 2027 revenue of $771.8 million, up 30% year-over-year and above the $735 million estimate, while adjusted EPS of $1.90 crushed the $1.61 consensus. Management raised full-year revenue guidance to a $2.99–$3.03 billion range, with the midpoint above analyst consensus of $2.96 billion, citing Atlas cloud database strength. Despite the strong results, shares fell 13% in after-hours trading as investors took profits following a 28% rally over the prior month. The reaction mirrors the company's Q4 FY26 pattern where a 12% EPS beat still triggered a 22% post-earnings decline.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Investing.com / Cryptonomist",
+          "publishedAtISO": "2026-09-01T20:45:00Z",
+          "publishedAt": "Sep 2, 2026, 03:45 Bangkok"
+        },
+        {
+          "headline": "Exxon, Chevron Jump 3% as WTI Crude Spikes to $90 on Fresh U.S.-Iran Strikes",
+          "body": "U.S. Central Command launched new strikes against Iranian Revolutionary Guard Corps targets near the Strait of Hormuz on Tuesday after attacks on two oil tankers overnight, sending West Texas Intermediate crude up roughly 5% to $90.46 a barrel and Brent to $95.05. The Energy Select Sector SPDR Fund (XLE) gained 1.1% and was the sole S&P 500 sector in positive territory as ExxonMobil rose 2.9% and Chevron rose 3%, while the broader S&P 500 fell 0.7%. The escalation dashed near-term hopes for Hormuz traffic normalization and reinforced inflation fears, pushing the 10-year Treasury yield to 4.80%, its highest since January 2025. Energy has now led all S&P 500 sectors in Q3 2026 with a gain of 21%, cementing its role as the standout hedge amid the ongoing Iran conflict.",
+          "sector": "Energy",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Benzinga / 24/7 Wall St.",
+          "publishedAtISO": "2026-09-01T14:00:00Z",
+          "publishedAt": "Sep 1, 2026, 21:00 Bangkok"
+        },
+        {
+          "headline": "Medtronic MDT Surges 5% After Q1 FY27 Revenue Beats by $250M, Guidance Hiked",
+          "body": "Medtronic reported Q1 fiscal 2027 revenue of $9.8 billion, up 13.7% organically and roughly 200 basis points above its own guidance midpoint, while adjusted EPS of $1.45 beat consensus by $0.06. The company called it its strongest quarterly performance in nearly eight years, with Cardiac Ablation Solutions posting 88% worldwide growth and Cardiovascular up 18.9% organically. Management raised full-year organic revenue growth guidance to 7.25%–7.75% from 6.75%–7.25% and lifted adjusted EPS guidance to $5.94–$6.00. Shares rose approximately 5% on the print, bucking a broad market selloff and reinforcing healthcare as a defensive outperformer during the September risk-off move.",
+          "sector": "Healthcare",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Investing.com / PR Newswire",
+          "publishedAtISO": "2026-09-01T11:30:00Z",
+          "publishedAt": "Sep 1, 2026, 18:30 Bangkok"
+        }
+      ]
+    },
+    "asia": {
+      "id": "asia",
+      "label": "East + SE Asia",
+      "ticker": "Nikkei · HSI · SSE · KOSPI · TWSE · SET · SGX · IDX · KLSE · PSEi · VN-Index",
+      "lastUpdated": "2026-09-02T04:38:49.997Z",
+      "news": [
+        {
+          "headline": "BOJ's Ueda Signals September Rate Hike; Markets Price Near-Certainty of Move",
+          "body": "BOJ Governor Kazuo Ueda, speaking after the G20 finance leaders' meeting in Asheville, said the board will decide policy 'with upside price risks in mind' ahead of the Sept. 17-18 meeting — his last public comments before the pre-meeting blackout period. Ueda declined to push back on market pricing that now implies near-certainty of a hike from the current 1% rate, which hawkish board member Hajime Takata reinforced by calling for 'nimble' rate increases. The 2-year JGB yield hit a 31-year high of 1.83% on the remarks, while the Nikkei fell as export-heavy tech names sold off on yen-strengthening fears. Markets are treating Ueda's silence as tacit confirmation, a consequential signal given the Sept. 17-18 meeting is his last chance to act before year-end.",
+          "sector": "Finance",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Reuters / Japan Times / Bloomberg",
+          "publishedAtISO": "2026-09-02T02:44:00Z",
+          "publishedAt": "Sep 2, 2026, 09:44 Bangkok"
+        },
+        {
+          "headline": "Japan 10-Year JGB Yield Hits 3% for First Time Since 1996 in Global Bond Selloff",
+          "body": "Japan's benchmark 10-year government bond yield briefly touched 3% on September 1, its highest level since September 1996, as a global sovereign debt selloff intensified on inflation and fiscal concerns. The 10-year JGB has more than tripled in two years, while the 2-year yield simultaneously hit a 31-year peak of 1.81%. The spike is particularly significant because the government used 3% as the baseline for calculating debt-servicing costs in the fiscal 2026 budget — breaching it adds direct fiscal strain to a country where debt exceeds 200% of GDP. The Nikkei fell 0.91% on the session, led by tech names including Tokyo Electron (-4.6%) and Advantest (-2.9%), as higher borrowing costs compounded rate-hike anxiety.",
+          "sector": "Finance",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Reuters / Nikkei Asia / Japan Times",
+          "publishedAtISO": "2026-09-01T06:15:00Z",
+          "publishedAt": "Sep 1, 2026, 13:15 Bangkok"
+        },
+        {
+          "headline": "Shein Plunges Up to 10% in Dismal Hong Kong Debut, Valued at $26B vs $100B Peak",
+          "body": "Fast-fashion giant Shein Global Holdings opened trading on the Hong Kong Stock Exchange (code: 00625) on September 1, falling as much as 10% intraday before paring losses to close roughly flat at HK$48.50 versus its IPO price of HK$48.56. The offering raised HK$13.6 billion ($1.74B), valuing the company at ~$26.5B — a more-than-70% collapse from its 2022 private-market peak of $100B. Tepid demand (international tranche subscribed only 2.59x) reflected investor concern over slowing growth: Q1 2026 net loss of $99M reversed a $395M profit a year earlier, with U.S. revenue down 14% as tariffs bite. The listing is the largest new share issuance on HKEX so far in 2026 but signals fragile investor appetite for consumer IPOs amid geopolitical and trade headwinds.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Bloomberg / CNBC / Japan Times",
+          "publishedAtISO": "2026-09-01T04:00:00Z",
+          "publishedAt": "Sep 1, 2026, 11:00 Bangkok"
+        },
+        {
+          "headline": "Nvidia's $3.5B MediaTek Investment Sends TAIEX to 2-Month High, Stock Hits +10% Limit",
+          "body": "MediaTek shares surged the maximum 10% daily limit on September 1, adding approximately $20 billion in market value, after Nvidia announced a $3.5 billion investment in the Taiwanese chipmaker's record $3.9 billion convertible bond offering — Nvidia's largest direct overseas investment ever. The TAIEX jumped 820 points (+1.78%) to 46,948, a two-month closing high, with TSMC adding 1.46% and contributing ~280 index points. The deal cements MediaTek as a key ASIC partner for AI data-center chip development and comes as SEMICON Taiwan 2026 opens in Taipei with a record 1,300+ exhibitors. The investment is widely viewed as strategic validation of Taiwan's expanding role in the AI infrastructure supply chain beyond TSMC.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Focus Taiwan / Taipei Times / Bloomberg",
+          "publishedAtISO": "2026-09-01T03:30:00Z",
+          "publishedAt": "Sep 1, 2026, 10:30 Bangkok"
+        },
+        {
+          "headline": "S. Korea August Chip Exports Surge 209% to Record $46.7B, KOSPI Lifts on AI Demand",
+          "body": "South Korea's Ministry of Trade released August export data on September 1 showing total shipments surged 68.7% year-on-year to $98.25B, with semiconductor exports jumping 209% to a record $46.65B — the third consecutive month above $40B, driven by hyperscaler AI infrastructure spending from Google and Amazon. Chips now represent 47.5% of total exports, and the trade surplus hit $34.75B, the second-highest on record. The KOSPI recovered from early Middle-East-driven losses to close +0.23% at 6,836, with Samsung Electronics and SK Hynix rebounding. The Bank of Korea, which raised rates by 25bp for a second consecutive meeting last week and upgraded its 2026 growth forecast to 3.3%, cited the data as consistent with its hawkish recalibration.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Korea Times / Xinhua / Trading Economics",
+          "publishedAtISO": "2026-09-01T02:00:00Z",
+          "publishedAt": "Sep 1, 2026, 09:00 Bangkok"
+        }
+      ]
+    },
+    "commodities": {
+      "id": "commodities",
+      "label": "Commodities",
+      "ticker": "WTI · Brent · Gas · RBOB · Heating Oil · Coal · Gold · Silver · Copper · Aluminum · Iron Ore · Lithium · Platinum · Palladium · Grains · Softs · Oilseeds · Lumber · Rubber · BDI",
+      "lastUpdated": "2026-09-02T04:39:47.226Z",
+      "news": [
+        {
+          "headline": "WTI Surges 5.9% to $90.82 as US Strikes Iran, Tankers Hit in Hormuz",
+          "body": "US forces targeted Iranian rocket launchers on Larak Island in the Strait of Hormuz, while Iran responded with attacks on the UAE and Jordan, reigniting the most acute supply-disruption fears since the conflict began. Two supertankers were struck by unidentified projectiles while transiting the chokepoint, though Gulf producers including Saudi Arabia, the UAE, Kuwait, and Iraq continue to export some volumes. WTI jumped 5.9% to $90.82/bbl on September 1—its highest in over a month—while Brent climbed above $91/bbl, up 8.96% over the past month. President Trump additionally extended military threats to Kharg Island, Iran's principal crude export hub, keeping geopolitical risk premium elevated.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Reuters / Trading Economics",
+          "publishedAtISO": "2026-09-01T18:00:00Z",
+          "publishedAt": "Sep 2, 2026, 01:00 Bangkok"
+        },
+        {
+          "headline": "Venezuela Grants NABEP 100-Year Concessions on 17 Oilfields; Assembly Backs Deal",
+          "body": "Venezuela's National Assembly ratified a deal granting US-backed North American Blue Energy Partners (NABEP) 100-year concessions over 17 oilfields with approximately 65 billion barrels of proven reserves—surpassing total US domestic reserves of ~46 billion barrels. The US receives a 35% equity stake in NABEP's corporate parent at no cost, the right to purchase 20% of output at production cost to partially refill the SPR (currently at its lowest level since 1982), and right of first refusal on remaining output. NABEP has committed to investing up to $100 billion in infrastructure; Trump said ExxonMobil is among companies 'going in,' and US Energy Secretary Chris Wright was set to travel to Caracas on Wednesday. The deal's near-term oil price impact is limited—the White House acknowledged price relief could take 'some time'—but it represents a major structural shift in Western Hemisphere supply.",
+          "sector": "Energy",
+          "sentiment": "neutral",
+          "magnitude": "high",
+          "source": "Reuters / Euronews / CNBC",
+          "publishedAtISO": "2026-09-01T15:00:00Z",
+          "publishedAt": "Sep 1, 2026, 22:00 Bangkok"
+        },
+        {
+          "headline": "Ukraine Drone Strike Sets Russia's Ust-Luga Oil Terminal Ablaze for Second Time in Weeks",
+          "body": "A mass Ukrainian drone assault—52 intercepted over the Leningrad region in a four-hour assault—ignited a fire at Ust-Luga, Russia's largest Baltic Sea oil export terminal, handling approximately 700,000 barrels per day of crude and refined products. The attack follows a prior strike on August 14 and reflects a systematic Ukrainian strategy to degrade Russian oil export revenue. Terminal operations had already been cut to roughly half-capacity (~350,000 bpd) following earlier strikes on the Unech pumping station. The fire was extinguished with no casualties reported, but ongoing disruptions reinforce the global supply tightness narrative already elevated by the Hormuz crisis.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "The Moscow Times / OilPrice.com / Maritime Executive",
+          "publishedAtISO": "2026-09-01T06:00:00Z",
+          "publishedAt": "Sep 1, 2026, 13:00 Bangkok"
+        },
+        {
+          "headline": "Gold Slides Below $4,360 as Fed's Warsh Jackson Hole Hawkishness Sends Rate-Hike Odds to 65%+",
+          "body": "Gold fell to $4,358.74/oz on September 1, its lowest in two weeks, extending a 3.2% single-day plunge on August 28 after Fed Chair Kevin Warsh's unexpectedly hawkish Jackson Hole address—its biggest daily drop since June. Warsh stated the Fed has 'work to do' if inflation does not convincingly return to its 2% target, pushing September rate-hike probability from ~36% before the speech to over 65% by September 1 per CME FedWatch. A stronger dollar and rising oil-driven inflation concerns further pressured bullion, which generates no yield. The sell-off erases a portion of August's ~10% gain—itself driven by the US Treasury's announcement of plans to double liquidity-support buybacks of longer-dated bonds.",
+          "sector": "Gold",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Reuters / CNBC / FXStreet",
+          "publishedAtISO": "2026-09-01T04:00:00Z",
+          "publishedAt": "Sep 1, 2026, 11:00 Bangkok"
+        },
+        {
+          "headline": "Copper Holds Near Multi-Year Highs at $6.62/lb; Kamoa-Kakula Flood Risk Flags 57,000-Ton Loss",
+          "body": "Copper rose 0.47% to $6.62/lb on September 1, up 44.6% year-on-year, supported by persistent supply risks and redirected trade flows. Zijin Mining warned that flooding at the Kamoa-Kakula copper complex in the DRC could cut its share of 2026 production by up to 57,000 tons, compounding existing disruptions in Chile and Indonesia. Traders continued routing copper shipments toward the US ahead of potential new import tariffs, while the LME reported improving inventories as earlier spot backwardation eased. Chinese smelters face ongoing feedstock shortages, sustaining import demand even as the broader base metals complex softened on Middle East inflation fears.",
+          "sector": "Base Metals",
+          "sentiment": "negative",
+          "magnitude": "medium",
+          "source": "Trading Economics / Rio Times",
+          "publishedAtISO": "2026-09-01T03:00:00Z",
+          "publishedAt": "Sep 1, 2026, 10:00 Bangkok"
+        }
+      ]
+    }
+  }
+}
