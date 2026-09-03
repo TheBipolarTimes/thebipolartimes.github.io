@@ -1,0 +1,183 @@
+{
+  "publication": "The BiPolar Times",
+  "slogan": "The Newspaper That Connects The Markets Of Both Worlds",
+  "timezone": "Asia/Bangkok",
+  "exportedAt": "2026-09-03T08:54:12.856Z",
+  "generatedFrom": "private-dashboard",
+  "sections": {
+    "us": {
+      "id": "us",
+      "label": "US",
+      "ticker": "NYSE · NASDAQ · S&P 500",
+      "lastUpdated": "2026-09-03T08:44:06.348Z",
+      "news": [
+        {
+          "headline": "Broadcom Drops 5% After-Hours as Q4 Guidance Misses Despite Beat",
+          "body": "Broadcom reported fiscal Q3 2026 adjusted EPS of $3.32 versus $3.24 expected and revenue of $29.59B versus $29.36B expected, with revenue up 86% year-over-year and net income more than tripling to $13.09B. However, Q4 revenue guidance of $34.8B fell short of the $35.03B analyst consensus, triggering a 5% drop in extended trading on Sept. 2. Infrastructure software revenue of $8.75B also missed the $8.82B Street estimate, offsetting strength in semiconductor revenue of $16.7B. With AVGO shares already underperforming the S&P 500 by roughly 6 percentage points in 2026, the guidance shortfall reinforced investor concerns about decelerating growth relative to elevated expectations.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNBC / WTOP / AP",
+          "publishedAtISO": "2026-09-02T20:29:00Z",
+          "publishedAt": "Sep 3, 2026, 03:29 Bangkok"
+        },
+        {
+          "headline": "ADP August Payrolls Miss at 38K, Weakest Since January; NFP Looms",
+          "body": "ADP reported that U.S. private-sector employment rose by only 38,000 in August 2026, well below the Dow Jones consensus of 47,000 and the slowest monthly gain since January, with manufacturing shedding 17,000 jobs and professional services losing 16,000. The print arrives with Fed funds futures pricing a 68% probability of a 25bp rate hike at the Sept. 15–16 FOMC meeting following Chair Warsh's hawkish Jackson Hole remarks, creating a complex backdrop where soft jobs data could dampen hike odds but also signal economic weakness. The official BLS nonfarm payrolls report is due Friday, with analysts expecting 53,000 jobs and unemployment steady at 4.1%. Equity markets partially absorbed the news as the tech earnings cycle dominated sentiment, but the data amplifies macro uncertainty heading into the Fed decision.",
+          "sector": "Finance",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Quartz / ADP / CNBC",
+          "publishedAtISO": "2026-09-02T12:15:00Z",
+          "publishedAt": "Sep 2, 2026, 19:15 Bangkok"
+        },
+        {
+          "headline": "Nvidia Nears $14B Hugging Face Acquisition, Shares Surge ~5%",
+          "body": "Bloomberg reported Sept. 2 that Nvidia is in advanced talks to acquire open-source AI platform Hugging Face for approximately $14 billion, up from an earlier $12.9B figure reported by The Information; a deal could be signed as soon as this week and includes a reported $1B retention package for Hugging Face staff. Nvidia stock jumped nearly 5% on the session, boosting the Dow. The deal would hand Nvidia ownership of the leading open-source AI model hub, deepening its control over the full AI software and hardware stack. Antitrust scrutiny is the key risk given Nvidia's dominant position in AI infrastructure.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Bloomberg",
+          "publishedAtISO": "2026-09-02T04:15:00Z",
+          "publishedAt": "Sep 2, 2026, 11:15 Bangkok"
+        },
+        {
+          "headline": "Dell Surges 10% After Massive Earnings Beat and $25B Guidance Raise",
+          "body": "Dell Technologies reported fiscal Q2 2026 adjusted EPS of $7.04 versus the $4.92 consensus—a 43% beat—on revenue of $47.0B versus $44.84B expected, driven by AI server revenue of $16.4B, up ~100% year-over-year. Management raised FY2027 revenue guidance to $192B from $167B, roughly $19B above Wall Street's prior consensus, and lifted adjusted EPS guidance to $25.50 from $17.90. Shares surged as much as 10% in after-hours trade on Sept. 1 and held gains into Sept. 2 regular trading. The result is broadly read as a bullish signal for AI infrastructure spending across the sector.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Investing.com / Bloomberg",
+          "publishedAtISO": "2026-09-01T20:27:00Z",
+          "publishedAt": "Sep 2, 2026, 03:27 Bangkok"
+        },
+        {
+          "headline": "Palo Alto Networks Drops 7–9% Despite Earnings Beat on Margin Miss",
+          "body": "Palo Alto Networks reported fiscal Q4 2026 revenue of $3.41B (+34% YoY) and adjusted EPS of $1.02, both beating consensus, and guided FY2027 revenue to ~$14.15B, roughly $300M above estimates. However, gross margin contracted 100 basis points to 74.8%, and the company posted a GAAP net loss of $282M; management warned cloud hosting costs will grow faster than revenue in FY2027. Shares fell 7–9% on Sept. 2, the worst two-day drop in 30 months, dragging the broader cybersecurity ETF (HACK) down ~2%. Investors interpreted the margin trajectory as a structural concern despite strong top-line execution.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNBC / Benzinga",
+          "publishedAtISO": "2026-09-01T20:00:00Z",
+          "publishedAt": "Sep 2, 2026, 03:00 Bangkok"
+        }
+      ]
+    },
+    "asia": {
+      "id": "asia",
+      "label": "East + SE Asia",
+      "ticker": "Nikkei · HSI · SSE · KOSPI · TWSE · SET · SGX · IDX · KLSE · PSEi · VN-Index",
+      "lastUpdated": "2026-09-03T08:46:24.780Z",
+      "news": [
+        {
+          "headline": "KOSPI Sinks 4% as Samsung, SK Hynix Plunge on Iran Oil Spike and Fed Rate Fears",
+          "body": "South Korea's KOSPI fell 3.99% to close at 6,562.72 on September 3, as escalating US-Iran hostilities pushed Brent crude above $95 per barrel and the US 10-year Treasury yield climbed above 4.80%, hammering risk sentiment. Samsung Electronics and SK Hynix dropped 4.02% and 4.67% respectively, while broader index heavyweights including Hyundai Motor (-5.74%), SK Square (-7.69%), and LG Energy Solution (-5.45%) also tumbled sharply. Foreign and institutional investors net sold a combined 13.9 trillion won since late August, intensifying a 'Sell Korea' trend even as SK Hynix had been conducting share buybacks. South Korea's annual inflation also rose to 3.1% in August, reinforcing fears of further monetary tightening and adding to pressure on the market.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Seoul Economic Daily / Trading Economics",
+          "publishedAtISO": "2026-09-03T02:00:00Z",
+          "publishedAt": "Sep 3, 2026, 09:00 Bangkok"
+        },
+        {
+          "headline": "Japan 10-Year Bond Yield Hits 3% for First Time Since 1996, BOJ Hike Odds Near 90%",
+          "body": "Japan's benchmark 10-year government bond yield struck 3% on September 1 for the first time since September 1996, driven by oil-shock inflation fears, fiscal concerns, and mounting pressure on the Bank of Japan to accelerate rate hikes. The yen strengthened 0.6% to 157.81 per dollar on September 3 as markets priced roughly 90% odds of a 25-basis-point BOJ hike this month, with some probability assigned to a larger move. Japanese exporter stocks—autos, electronics, and machinery—face a dual headwind from rising funding costs and yen appreciation eroding overseas earnings, while bank and insurer shares stand to benefit. The government's own fiscal 2026 budget assumed a 3% long-term rate cap, meaning debt-servicing costs now risk surging beyond the 31 trillion yen set aside.",
+          "sector": "Finance",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Reuters / Investing.com",
+          "publishedAtISO": "2026-09-03T00:41:00Z",
+          "publishedAt": "Sep 3, 2026, 07:41 Bangkok"
+        },
+        {
+          "headline": "Hang Seng Falls 0.9% as Oil-Driven Inflation Fears Offset China Factory Data Improvement",
+          "body": "Hong Kong's Hang Seng Index dropped 0.93%, or 237 points, to close at 25,330 on September 2, as renewed US-Iran tensions pushed Brent crude higher and intensified concerns about inflation and further monetary tightening globally. The decline came despite signs of improving Chinese manufacturing activity in the latest official PMI data, suggesting macro crosscurrents are overwhelming any domestic tailwinds for the market. Mainland Chinese bank stocks bucked the trend and hit new record highs during the session, while video platform Kuaishou-W (01024) rose over 3% against the broader market selloff. The HK50 index has now lost 3.23% over the past four weeks, sliding to its lowest level since July 2026 as Middle East risk and rising global yields continue to weigh on Hong Kong equities.",
+          "sector": "Finance",
+          "sentiment": "negative",
+          "magnitude": "medium",
+          "source": "Trading Economics / Google Finance",
+          "publishedAtISO": "2026-09-02T10:00:00Z",
+          "publishedAt": "Sep 2, 2026, 17:00 Bangkok"
+        },
+        {
+          "headline": "Thailand SET Falls 0.86% as Post-Earnings Vacuum and Middle East Risk Hit Big-Caps",
+          "body": "Thailand's SET Index closed at 1,575.07 points on September 2, declining 13.61 points or 0.86%, with THB 64.33 billion in trading value as selling pressure mounted across large-cap stocks after the earnings season ended without fresh positive catalysts. Analysts noted that foreign and institutional investors have been repositioning portfolios to reduce exposure to Middle East conflict risk and the impact of elevated US interest rates. The prior session on September 1 also saw the SET slip 0.41% to 1,588.68 as surging crude prices and a hawkish Federal Reserve signal on rates weighed on sentiment in Asia's energy-importing economies. Analysts expect the benchmark to consolidate near-term, with investors closely monitoring US labor data and fund-flow direction heading into the Fed's September policy meeting.",
+          "sector": "Other",
+          "sentiment": "negative",
+          "magnitude": "medium",
+          "source": "Kaohoon International",
+          "publishedAtISO": "2026-09-02T09:30:00Z",
+          "publishedAt": "Sep 2, 2026, 16:30 Bangkok"
+        },
+        {
+          "headline": "Asia Stocks Plunge Up to 4% as US-Iran Strikes Send Crude Above $95",
+          "body": "Asian markets sold off sharply on Wednesday, September 2, with South Korea's KOSPI dropping close to 4% and Japan's Nikkei 225 falling nearly 3%, as renewed US airstrikes on Iran drove Brent crude to ~$95.45/bbl. The MSCI Asia-Pacific ex-Japan index fell around 2%, while Hong Kong's HSI contracted ~0.86% to 25,111. Rising oil prices compounded a global bond rout, stoking fears of a fresh inflation shock and renewed central bank tightening across the region.",
+          "sector": "Other",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Reuters / Modern Diplomacy / Kaohoon International",
+          "publishedAtISO": "2026-09-02T02:15:00Z",
+          "publishedAt": "Sep 2, 2026, 09:15 Bangkok"
+        }
+      ]
+    },
+    "commodities": {
+      "id": "commodities",
+      "label": "Commodities",
+      "ticker": "WTI · Brent · Gas · RBOB · Heating Oil · Coal · Gold · Silver · Copper · Aluminum · Iron Ore · Lithium · Platinum · Palladium · Grains · Softs · Oilseeds · Lumber · Rubber · BDI",
+      "lastUpdated": "2026-09-03T08:53:12.691Z",
+      "news": [
+        {
+          "headline": "Gold Recovers to $4,360 as Weak ADP Data Cools Fed Hike Urgency",
+          "body": "Spot gold rebounded to above $4,360/oz on September 2 after the August ADP report showed U.S. private payrolls rose only 38,000—the weakest print since January and well below the 47,000 consensus—easing near-term pressure for an imminent Fed hike. Gold had earlier touched a near-one-month low as the USD and Treasury yields surged on post-Jackson Hole hawkish repricing; markets still price a 66% probability of a September FOMC hike per CME FedWatch, keeping upside capped. The Dutch central bank separately disclosed it transferred 86 metric tons of gold from New York and Ottawa to London over the past six months to improve tradability and crisis preparedness. Nonfarm payrolls on September 4 are the next key catalyst.",
+          "sector": "Gold",
+          "sentiment": "neutral",
+          "magnitude": "high",
+          "source": "Trading Economics / Kitco",
+          "publishedAtISO": "2026-09-02T18:00:00Z",
+          "publishedAt": "Sep 3, 2026, 01:00 Bangkok"
+        },
+        {
+          "headline": "U.S. Natural Gas Tops 8-Week High as Freeport, Cheniere Return; Heat Persists",
+          "body": "Henry Hub natural gas futures rose to $2.94/MMBtu on September 2, an eight-week high, as Freeport LNG and Cheniere's Corpus Christi facility returned to full operations after maintenance, lifting average LNG export feedgas flows to 18.3 bcfd—up from 17.2 bcfd in August. Sustained above-normal temperatures across the central U.S. are forecast through mid-September, supporting elevated gas-fired power demand. Energy Transfer's Hugh Brinson Pipeline commenced service on September 1, adding ~2.2 bcfd of Permian-to-East Texas capacity and capping further upside; record Lower 48 output of 111.5 bcfd in August reinforces the supply ceiling near $3.00/MMBtu.",
+          "sector": "Energy",
+          "sentiment": "positive",
+          "magnitude": "medium",
+          "source": "Trading Economics / Natural Gas Intelligence",
+          "publishedAtISO": "2026-09-02T15:23:00Z",
+          "publishedAt": "Sep 2, 2026, 22:23 Bangkok"
+        },
+        {
+          "headline": "Iran Fires on Gulf Allies After U.S. Airstrikes; Brent Crude Surges Above $95",
+          "body": "Iran launched retaliatory missile strikes on U.S. Gulf allies on September 2 after overnight American bombardment, ending a monthlong lull in the six-month-old conflict. Brent crude climbed above $95/bbl as the escalation renewed fears over Strait of Hormuz supply disruptions; fighting intensified after the U.S. struck Iranian rocket launchers on a Hormuz island over the weekend. The Brent-WTI spread widened as Middle East-priced barrels faced disproportionate risk. Markets are watching whether the escalation disrupts the ~17 million bbl/day that the U.S. Energy Secretary confirmed was still transiting the Strait on September 1.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNBC / NPR / Fortune",
+          "publishedAtISO": "2026-09-02T13:00:00Z",
+          "publishedAt": "Sep 2, 2026, 20:00 Bangkok"
+        },
+        {
+          "headline": "Wheat Rallies 17% in August on Black Sea Disruption; Corn Hits 3-Year High",
+          "body": "CBOT wheat futures settled at 784 cents/bu on August 28—the highest since February 2023—with a 12.1% weekly surge and over 54% gain year-to-date as the Russia-Ukraine conflict severely disrupted Black Sea grain corridors, which historically handle ~70% of Russian grain exports. Corn independently surged 5.5% for the week to a three-year high after the USDA's August WASDE cut yield estimates by 2.3 bu/acre to 180.7 bu/acre—more than traders expected—and disappointing Pro Farmer Crop Tour field data confirmed tighter domestic supply than consensus. Grains analysts note both crops rallied into the week of September 1-2 on continued geopolitical and weather-driven supply concerns. The dual rally amplifies global food inflation risks, particularly for import-dependent emerging markets.",
+          "sector": "Agriculture",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNBC / Price Group Grains Report",
+          "publishedAtISO": "2026-09-02T10:11:00Z",
+          "publishedAt": "Sep 2, 2026, 17:11 Bangkok"
+        },
+        {
+          "headline": "Copper Slumps to July Low on Fed Hike Bets; Sulfuric Acid Shortage Adds Supply Risk",
+          "body": "Copper fell to $6.42/lb on September 2, its lowest since July 2026, as a stronger dollar and rising Fed rate-hike expectations drove a macro-led selloff across base metals; the CPER copper-proxy ETF dropped 2.32% on September 1. Separately, the prolonged Middle East conflict has disrupted global sulfuric acid supply—a key input for copper refining—creating a structural supply-side constraint that partially offsets the demand-side headwinds. The metal remains up 41.3% year-on-year, but the near-term outlook hinges on whether Chinese EV and grid orders re-accelerate ahead of the September 16 FOMC decision. Traders are watching the Fed meeting as the key swing factor between further macro pressure and a potential dollar reversal.",
+          "sector": "Base Metals",
+          "sentiment": "negative",
+          "magnitude": "medium",
+          "source": "Rio Times Online / Trading Economics",
+          "publishedAtISO": "2026-09-02T09:00:00Z",
+          "publishedAt": "Sep 2, 2026, 16:00 Bangkok"
+        }
+      ]
+    }
+  }
+}
