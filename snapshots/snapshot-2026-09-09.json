@@ -1,0 +1,183 @@
+{
+  "publication": "The BiPolar Times",
+  "slogan": "The Newspaper That Connects The Markets Of Both Worlds",
+  "timezone": "Asia/Bangkok",
+  "exportedAt": "2026-09-09T10:40:42.707Z",
+  "generatedFrom": "private-dashboard",
+  "sections": {
+    "us": {
+      "id": "us",
+      "label": "US",
+      "ticker": "NYSE · NASDAQ · S&P 500",
+      "lastUpdated": "2026-09-09T10:26:40.160Z",
+      "news": [
+        {
+          "headline": "Corning Jumps 7–9% on Multi-Billion Verizon Fiber Deal Through 2032",
+          "body": "Corning (NYSE: GLW) surged 7–9% on September 8 after the company and Verizon jointly announced a multi-year, multi-billion-dollar supply agreement covering more than 80 million miles of high-density optical fiber and connectivity solutions to be delivered between 2027 and 2032. The deal supports Verizon's target of 40–50 million broadband passings and simultaneously provides the long-haul backbone for AI hyperscaler data-centre interconnections. Markets viewed the contract as cementing Corning's position at the intersection of two major secular growth themes — fibre-to-the-home broadband and generative AI infrastructure. The agreement extends a 30-year Verizon–Corning partnership and is designed to enable Corning to scale its U.S. manufacturing footprint.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Reuters / Verizon Press Release",
+          "publishedAtISO": "2026-09-08T13:28:00Z",
+          "publishedAt": "Sep 8, 2026, 20:28 Bangkok"
+        },
+        {
+          "headline": "Intel Surges ~10% on PC CPU Price-Hike Report and Northland Upgrade to Outperform",
+          "body": "Intel (NASDAQ: INTC) shares jumped as much as 9.5%–10.3% on September 8, closing near $104–$105, after DigiTimes reported the chipmaker plans a roughly 10% increase in PC processor prices effective early October — its third consecutive CPU price hike since late 2025. Investors read the move as a deliberate pivot toward margin defence over market-share growth, reinforcing CEO Lip-Bu Tan's strategy of cutting low-margin product lines. Northland Securities simultaneously upgraded Intel to Outperform with a $120 price target, citing server CPU shortages and Intel's role in Elon Musk's Terafab chip project. The rally was notable against a broadly weaker tape and lifted the U.S. government's 9.9% stake in Intel to an unrealised gain of roughly $36 billion.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Yahoo Finance / Startup Fortune",
+          "publishedAtISO": "2026-09-08T12:30:00Z",
+          "publishedAt": "Sep 8, 2026, 19:30 Bangkok"
+        },
+        {
+          "headline": "Amgen Plunges ~10% as Novartis Lp(a) Trial Failure Clouds Entire Drug Class",
+          "body": "Amgen (NASDAQ: AMGN) cratered roughly 10% on September 8 — its steepest single-day decline since October 2000 — after Novartis reported that its Phase III pelacarsen trial failed to reduce cardiovascular death, heart attacks, or strokes versus placebo, casting doubt on the commercial viability of the entire Lp(a)-lowering drug class. Amgen's own pipeline candidate olpasiran, now in the Phase III OCEAN(a)-Outcomes trial, is seen as the asset most directly exposed to the class-wide re-rating. BMO Capital also downgraded Amgen on the same day, compounding the selloff; Gilead fell 3.1% and Vertex dropped 3.2% in sympathy. The 10% loss was the single largest drag on the price-weighted Dow Jones Industrial Average, which shed 628 points on the session, making it a broad index-moving event.",
+          "sector": "Healthcare",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Yahoo Finance / 24/7 Wall St.",
+          "publishedAtISO": "2026-09-08T10:52:00Z",
+          "publishedAt": "Sep 8, 2026, 17:52 Bangkok"
+        },
+        {
+          "headline": "Qualcomm Surges ~10% on $60B AWS AI Chip Partnership With Share Warrant",
+          "body": "Qualcomm announced a multi-generational collaboration with Amazon Web Services on September 8 to develop custom AI inference chips and high-speed optical connectivity for data centers, sending shares up as much as 10% intraday. As part of the deal, Qualcomm issued Amazon a warrant to purchase up to 25 million QCOM shares at $161.26, tied to up to $60 billion in commercial arrangements through 2036. The deal marks a major pivot for Qualcomm into the data center market, where Nvidia has dominated, and gives it a second major hyperscaler partner alongside Meta. Markets viewed it as structural validation of Qualcomm's AI infrastructure ambitions, which had previously lagged the semiconductor sector by wide margins in 2026.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CNBC / Yahoo Finance / SEC Filing",
+          "publishedAtISO": "2026-09-08T10:32:00Z",
+          "publishedAt": "Sep 8, 2026, 17:32 Bangkok"
+        },
+        {
+          "headline": "Bloom Energy Jumps 7-8% on S&P 500 Inclusion; Trade Desk Demoted to SmallCap 600",
+          "body": "S&P Dow Jones Indices announced on September 4 that Bloom Energy (BE) will replace Molson Coors in the S&P 500 effective before the September 21 open, sending BE shares up approximately 8% on September 8 as passive-fund buying mechanics kicked in. Bloom's inclusion was underpinned by record Q2 FY2026 revenue of $1.07 billion, up 166% year-over-year, driven by AI data center onsite power demand, with full-year 2026 guidance raised to $3.9–$4.2 billion. The Trade Desk (TTD) was simultaneously demoted to the S&P SmallCap 600, triggering mechanical large-cap selling pressure and a ~2% decline as index trackers exit the position. The dual rebalance highlighted AI-infrastructure as the defining theme reshaping major-index composition.",
+          "sector": "Energy",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "24/7 Wall St. / Yahoo Finance / Seeking Alpha",
+          "publishedAtISO": "2026-09-08T09:53:00Z",
+          "publishedAt": "Sep 8, 2026, 16:53 Bangkok"
+        }
+      ]
+    },
+    "asia": {
+      "id": "asia",
+      "label": "East + SE Asia",
+      "ticker": "Nikkei · HSI · SSE · KOSPI · TWSE · SET · SGX · IDX · KLSE · PSEi · VN-Index",
+      "lastUpdated": "2026-09-09T10:29:15.738Z",
+      "news": [
+        {
+          "headline": "Bank of America Upgrades SK Hynix to Buy, $250 Target; ADR and Korea ETF Rise as KOSPI Eyes 7,000 Again",
+          "body": "Bank of America upgraded SK Hynix (KRX: 000660) to Buy with a $250 price target on September 9, citing tight memory supply conditions and strong AI chip demand as structural tailwinds. SK Hynix ADRs and a South Korean equity ETF both closed higher in U.S. trading overnight despite broad Wall Street declines, signalling continued foreign conviction in Korean memory names even as macro headwinds — Middle East tensions, rising bond yields — suppressed the wider KOSPI. The KOSPI had closed at 6,954.52 on September 8 (down 0.58%) but pre-market data on September 9 showed all ten of the largest KOSPI constituents trading higher, with SK Hynix up 1.12% and Samsung up 0.37%, as the index retests the 7,000 level.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "medium",
+          "source": "Yahoo Finance / Seoul Economic Daily",
+          "publishedAtISO": "2026-09-09T07:00:00Z",
+          "publishedAt": "Sep 9, 2026, 14:00 Bangkok"
+        },
+        {
+          "headline": "Brent Crude Breaches $100/bbl on Escalating U.S.-Iran Strikes, Weighing on Asia ex-Semis",
+          "body": "Brent crude futures hit $100.02/bbl on September 8 — their highest since late June — after the U.S. and Iran exchanged further strikes around the Strait of Hormuz and Iranian-backed Houthis launched attacks on Saudi cities. Brent subsequently pulled back to ~$97–99 on September 9 while remaining near multi-month highs, up ~47% year-on-year. The oil spike pressured energy-importing Asian markets — the Nikkei fell 1.7%, Hong Kong's Hang Seng dipped, and broad Asian risk sentiment soured — while amplifying BOJ rate-hike bets through inflation pass-through. Energy equities and oil-linked names in Singapore, Tokyo, and Seoul saw divergent moves versus the broader sell-off.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNBC / Reuters / 93.3 The Drive",
+          "publishedAtISO": "2026-09-08T10:00:00Z",
+          "publishedAt": "Sep 8, 2026, 17:00 Bangkok"
+        },
+        {
+          "headline": "SoftBank Stock Gains ~38% Over Six Sessions as ¥1T Retail Bond Opens Subscription; Jumbo Dollar Deal Eyed",
+          "body": "SoftBank Group (TYO: 9984) surged cumulatively ~38% from ¥5,001 on September 3 to ¥6,884 by September 9, extending gains of 11.8%, 11.2%, and 5.5% across the September 4, 7, and 8 sessions. The immediate catalyst was SoftBank pricing Japan's largest-ever retail corporate bond — ¥1 trillion at a 4.75% coupon (top of the 4.30%–4.90% range), with subscriptions open September 7–16 to fund OpenAI commitments now slated to reach ~$65 billion by October. The company simultaneously filed for a U.S. IPO of its SB Energy subsidiary at a target valuation above $50 billion. Analysts flag overbought technicals (RSI ~70) against a widening net loss, raising questions about balance-sheet leverage underpinning the AI-driven rally.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Japan Times / Invezz / ts2.tech",
+          "publishedAtISO": "2026-09-08T09:00:00Z",
+          "publishedAt": "Sep 8, 2026, 16:00 Bangkok"
+        },
+        {
+          "headline": "Japan Q2 GDP Revised to +1.4% Annualised; BOJ Sept. Hike Now 98% Priced, Nikkei Slides 1.7%",
+          "body": "Japan's Cabinet Office revised Q2 2026 GDP to +1.4% annualised on September 8, up from the initial +1.1% but missing the +1.6% consensus, with private consumption flat and capex still contracting 0.9%. Separately released data showed real wages rose 2.4% in July year-on-year, the seventh consecutive monthly gain. Swap markets moved to price a 98% probability of a BOJ 25bp rate hike to 1.25% at the September 17–18 meeting; 10-year JGB yields touched near 30-year highs at ~2.90%. The Nikkei 225 fell 1.7% to 65,269.33 on September 8 as rate-sensitive sectors sold off, with the yen simultaneously strengthening — compressing the yen-equivalent value of overseas earnings.",
+          "sector": "Finance",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Reuters / Investing.com",
+          "publishedAtISO": "2026-09-08T02:16:00Z",
+          "publishedAt": "Sep 8, 2026, 09:16 Bangkok"
+        },
+        {
+          "headline": "KOSPI Surges 4.6% to 6,995 as Samsung, SK Hynix Soar on AI Memory Demand; Goldman Holds 12,000 Target",
+          "body": "South Korea's KOSPI jumped 4.61% to 6,995.39 on September 7 — its highest close since July 23 — driven by Samsung Electronics (+5.68%) and SK Hynix (+8.26%) on surging expectations for high-bandwidth memory demand tied to next-generation AI models. Foreign and institutional investors combined for a net buy of over 5.1 trillion won, the second-largest institutional net purchase on record. Goldman Sachs simultaneously reaffirmed its KOSPI target of 12,000, implying ~80% upside, projecting 300–360% full-year earnings growth for index constituents. The dual catalyst — benchmark buying and a landmark sell-side endorsement — drove broad gains into materials, parts, and equipment names across the Korean market.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Seoul Economic Daily / CNBC",
+          "publishedAtISO": "2026-09-07T17:46:00Z",
+          "publishedAt": "Sep 8, 2026, 00:46 Bangkok"
+        }
+      ]
+    },
+    "commodities": {
+      "id": "commodities",
+      "label": "Commodities",
+      "ticker": "WTI · Brent · Gas · RBOB · Heating Oil · Coal · Gold · Silver · Copper · Aluminum · Iron Ore · Lithium · Platinum · Palladium · Grains · Softs · Oilseeds · Lumber · Rubber · BDI",
+      "lastUpdated": "2026-09-09T10:30:18.882Z",
+      "news": [
+        {
+          "headline": "US Strikes Iranian Tankers Near Kharg Island Again; Iran Warns Gulf Vessels",
+          "body": "US forces targeted multiple Iranian oil tankers near Kharg Island on September 8, with Iran responding by threatening vessels near Kuwaiti and Bahraini ports. The strikes — part of a sustained 'tanker-for-tanker' policy — come days after a September 5 CENTCOM action that permanently disabled two IRGC crude carriers. Brent crude surged to $98/bbl, its highest since late July, on fears of deeper Strait of Hormuz disruptions; WTI rose 1.4% to $94.33 intraday. The EIA separately flagged ~0.6 mb/d of ongoing Hormuz disruptions persisting through end-2026, reinforcing the bullish supply shock narrative.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNN / Bloomberg / EIA",
+          "publishedAtISO": "2026-09-08T22:03:00Z",
+          "publishedAt": "Sep 9, 2026, 05:03 Bangkok"
+        },
+        {
+          "headline": "PBOC Posts Record 22nd Straight Month of Gold Buying; Spot Gold Slides on Fed Hike Odds",
+          "body": "China's central bank added 650,000 troy ounces (~20 tonnes) of gold in August — its largest single-month purchase since October 2023 — extending its buying streak to a record 22 consecutive months and lifting official holdings to 76.73 million fine troy ounces. Despite the bullish structural signal, spot gold slid to $4,367–$4,420/oz as August non-farm payrolls surged to +162,000 (vs. +56,000 expected), pushing CME FedWatch odds of a September rate hike to ~60%. Elevated real yields and a stronger dollar are offsetting physical demand, leaving gold caught between central bank accumulation and imminent Fed tightening risk ahead of Thursday PPI and Friday CPI prints.",
+          "sector": "Gold",
+          "sentiment": "neutral",
+          "magnitude": "high",
+          "source": "OilPrice.com / USAGOLD / Business Standard",
+          "publishedAtISO": "2026-09-08T13:00:00Z",
+          "publishedAt": "Sep 8, 2026, 20:00 Bangkok"
+        },
+        {
+          "headline": "Houthi Drone-and-Missile Barrage Halts Saudi Arabia's 400 kb/d Jazan Refinery",
+          "body": "Iran-backed Houthi forces launched dozens of ballistic missiles and drones at Saudi energy facilities on September 8, wounding more than 70 people and igniting fires at the 400,000-barrel-per-day Jazan refinery and several other southern Saudi oil and utility sites. Saudi Arabia's Energy Ministry confirmed operations at the affected facilities were temporarily suspended. The strikes mark a major escalation as the Houthis — emboldened by the broader US-Iran conflict — extend their campaign to Saudi infrastructure, threatening Red Sea export routes and adding a second simultaneous supply-shock vector alongside the Hormuz crisis. Brent and WTI extended gains on the news.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "NPR / NBC News / The War Zone",
+          "publishedAtISO": "2026-09-08T09:29:00Z",
+          "publishedAt": "Sep 8, 2026, 16:29 Bangkok"
+        },
+        {
+          "headline": "Copper Hits LME Record on Supply Squeeze; US Tariff Arbitrage Drains Global Stocks",
+          "body": "Copper reached a record high on the London Metal Exchange on September 8, with COMEX futures climbing to ~$6.69/lb (+1.39%), up nearly 49% year-on-year. The rally is driven by a collision of mine-supply weakness — global copper mine output fell 1.1% in H1 2026 and Chile recorded its weakest Q2 production in 19 years — and aggressive US tariff-driven warehouse arbitrage that is draining inventories outside America. An LME backwardation squeeze last month has partly eased on new deliveries, but persistent Comex premiums continue to redirect metal flows. Demand from AI data centres, power grid buildout, and EVs underpins long-term structural tightness.",
+          "sector": "Base Metals",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "NetNewsLedger / Trading Economics / Rio Times",
+          "publishedAtISO": "2026-09-08T08:00:00Z",
+          "publishedAt": "Sep 8, 2026, 15:00 Bangkok"
+        },
+        {
+          "headline": "US LNG Exports Hit 18.3 bcfd Record as Europe Storage Falls to 15-Year Seasonal Low",
+          "body": "Average US feedgas flows to LNG export terminals climbed to 18.3 bcfd in early September — up from 17.2 bcfd in August — after Cheniere's Corpus Christi facility and Freeport LNG returned to full operations following maintenance. European gas storage sits at just 65% full, its lowest level for this period in 15 years, while Japan and South Korea compete for the same LNG cargoes as Persian Gulf supply disruptions persist. Henry Hub held near $2.91/MMBtu, just off two-month highs, with the competing forces of surging export demand and ample domestic US production creating a tight range. Pre-winter restocking urgency in Europe and Asia is the primary bullish catalyst.",
+          "sector": "Energy",
+          "sentiment": "positive",
+          "magnitude": "medium",
+          "source": "Trading Economics / Odessa American",
+          "publishedAtISO": "2026-09-08T06:00:00Z",
+          "publishedAt": "Sep 8, 2026, 13:00 Bangkok"
+        }
+      ]
+    }
+  }
+}
