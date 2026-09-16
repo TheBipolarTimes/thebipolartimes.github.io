@@ -1,0 +1,183 @@
+{
+  "publication": "The BiPolar Times",
+  "slogan": "The Newspaper That Connects The Markets Of Both Worlds",
+  "timezone": "Asia/Bangkok",
+  "exportedAt": "2026-09-16T09:44:32.719Z",
+  "generatedFrom": "private-dashboard",
+  "sections": {
+    "us": {
+      "id": "us",
+      "label": "US",
+      "ticker": "NYSE · NASDAQ · S&P 500",
+      "lastUpdated": "2026-09-16T08:33:06.301Z",
+      "news": [
+        {
+          "headline": "Senate Kills Clarity Act 49-50, Crushing Crypto Stocks; Bitcoin Slides to $76K",
+          "body": "The U.S. Senate voted 49-50 on Tuesday to block the Digital Asset Market Clarity Act from advancing, falling far short of the 60 votes needed for cloture. The bill, which would have created a comprehensive federal regulatory framework for the $2.3 trillion crypto industry, failed despite over 120 Democratic requests being incorporated into the final text. Bitcoin slipped to $76,000 immediately after the vote, and crypto-linked equities including Coinbase and Circle fell 3%-5%. Sen. Cynthia Lummis declared the bill effectively dead for 2026, with midterm recesses beginning imminently, leaving the industry reliant on agency-level guidance that future administrations could reverse.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNBC / CoinDesk / NPR",
+          "publishedAtISO": "2026-09-15T21:05:00Z",
+          "publishedAt": "Sep 16, 2026, 04:05 Bangkok"
+        },
+        {
+          "headline": "10-Year Treasury Yield Hits 5.04%, 19-Year High, as Fed Hike Odds Near 92%",
+          "body": "The U.S. 10-year Treasury yield surged to an intraday peak of 5.045% on Tuesday — its highest level since July 2007 — intensifying pressure on equities ahead of Wednesday's FOMC decision. The S&P 500 closed 0.4% lower and the Nasdaq 100 dropped 0.6% on the session. Market-implied odds of a 25-basis-point Fed rate hike reached approximately 92%, which would mark the first increase since July 2023 and bring the federal funds rate to 3.75%-4.00%. Analysts warn that sustained 5%-plus yields expose vulnerabilities across housing, commercial real estate, and highly leveraged companies.",
+          "sector": "Finance",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Bloomberg / TheStreet / Trading Economics",
+          "publishedAtISO": "2026-09-15T20:09:00Z",
+          "publishedAt": "Sep 16, 2026, 03:09 Bangkok"
+        },
+        {
+          "headline": "Chip Stocks Extend Slide Tuesday as AI Sector Rout Deepens on Safety Concerns",
+          "body": "U.S. semiconductor stocks extended Monday's steep losses on Tuesday, with the PHLX Semiconductor Index falling more than 3% as investors continued unwinding AI-driven positions following a coordinated weekend call by Anthropic CEO Dario Amodei, OpenAI CEO Sam Altman, and Elon Musk to slow the pace of frontier AI development. The sector had already shed 5.9% on Monday — its worst session since early July — on fears that a potential industry-wide AI capex slowdown could erode chip demand. Altman also ruled out an OpenAI IPO in 2026, removing a major anticipated equity catalyst, while Micron, AMD, and Nvidia all posted further losses Tuesday.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Yahoo Finance / Investing.com / TechTimes",
+          "publishedAtISO": "2026-09-15T14:30:00Z",
+          "publishedAt": "Sep 15, 2026, 21:30 Bangkok"
+        },
+        {
+          "headline": "Enova International Crashes ~24% After Abandoning Grasshopper Bancorp Acquisition",
+          "body": "Enova International (ENVA) shares fell as much as 24% on Tuesday after the company announced it had withdrawn its regulatory applications with the OCC and the Federal Reserve to acquire digital bank Grasshopper Bancorp, a deal valued at approximately $369 million. CEO Steve Cunningham cited unclear regulatory standards for nonbanks seeking to convert to full bank charters, saying the process had become susceptible to political pressure. Enova reaffirmed strong full-year guidance of 20%-25% revenue growth and 30%-35% adjusted EPS growth, and said it would accelerate share buybacks, but investors reacted harshly to the abrupt strategic reversal.",
+          "sector": "Finance",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Seeking Alpha / Investing.com / American Banker",
+          "publishedAtISO": "2026-09-15T09:04:00Z",
+          "publishedAt": "Sep 15, 2026, 16:04 Bangkok"
+        },
+        {
+          "headline": "AI Lab CEOs Trigger 5.9% PHLX Semiconductor Rout on AI Slowdown Warning",
+          "body": "The PHLX Semiconductor Index plunged 5.9% on Monday — one of its steepest single-session drops of 2026 — after Anthropic CEO Dario Amodei published a weekend essay calling for a slowdown in frontier AI capability development, with Sam Altman and Elon Musk publicly endorsing the view. Nvidia fell 3.4%, AMD dropped further, and SoftBank tumbled as much as 13% in Japan. Investors interpreted the coordinated statements as a signal that the companies most responsible for AI infrastructure spending could themselves pull back on capex, threatening the core demand driver for chips and data center hardware. OpenAI's simultaneous withdrawal of its 2026 IPO plans on safety grounds compounded the negative sentiment.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNN Business / Reuters / IBTimes UK",
+          "publishedAtISO": "2026-09-14T20:00:00Z",
+          "publishedAt": "Sep 15, 2026, 03:00 Bangkok"
+        }
+      ]
+    },
+    "asia": {
+      "id": "asia",
+      "label": "East + SE Asia",
+      "ticker": "Nikkei · HSI · SSE · KOSPI · TWSE · SET · SGX · IDX · KLSE · PSEi · VN-Index",
+      "lastUpdated": "2026-09-16T09:28:22.637Z",
+      "news": [
+        {
+          "headline": "SoftBank Plunges ~13% in Tokyo as OpenAI Delays IPO, AI Caution Spreads",
+          "body": "SoftBank Group shares tumbled roughly 13% in Tokyo on September 15–16 after OpenAI CEO Sam Altman confirmed the company would not pursue a public listing in 2026, pushing its debut into 2027 while focusing on AI safety and alignment. The selloff hit SoftBank directly because it has committed approximately $64.6 billion to OpenAI, targeting a ~13% ownership stake, with a final $30 billion tranche due October 1. The broader AI tech supply chain felt the pain too: Kioxia fell 7.2% and SK Hynix dropped 6% in early Monday trade before a partial Tuesday recovery, as investors reassessed AI infrastructure spending timelines. Markets are watching SoftBank's next portfolio disclosure for any recalibration of its AI deployment pace given the conglomerate's trading multiple relies heavily on private-asset valuations.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Nikkei Asia / TECHi / Retail News Asia",
+          "publishedAtISO": "2026-09-16T05:38:00Z",
+          "publishedAt": "Sep 16, 2026, 12:38 Bangkok"
+        },
+        {
+          "headline": "China's MIIT & NDRC Unveil 2026–2030 Electronics Plan; Chip Stocks Rally",
+          "body": "Beijing's Ministry of Industry and Information Technology and the National Development and Reform Commission jointly released a 15th Five-Year Plan for Electronic Information Manufacturing on September 15, setting 17 strategic tasks and targeting combined revenue of more than 30 trillion yuan ($4.4 trillion) by 2030, with R&D intensity at 3.5%. The plan explicitly prioritises integrated-circuit breakthroughs and elevates High-Bandwidth Memory and High-Bandwidth Flash as national infrastructure priorities, a direct counter to tightening US export controls on advanced chips. Domestic chip names rallied on the announcement — Cambricon gained 4.2% — providing a policy-driven floor even as global AI-sector sentiment remained fragile following the OpenAI slowdown narrative. The move signals Beijing's resolve to accelerate supply-chain self-sufficiency, keeping China-listed semiconductor and electronics equipment stocks in focus for the remainder of 2026.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Investing.com / Saxo Hong Kong",
+          "publishedAtISO": "2026-09-16T04:00:00Z",
+          "publishedAt": "Sep 16, 2026, 11:00 Bangkok"
+        },
+        {
+          "headline": "Vietnam VN-Index Rises 1.28% on Sept 15 as FTSE Emerging Market Entry Nears Sept. 21",
+          "body": "Vietnam's VN-Index rose 1.28% to 1,811 points on September 15, 2026, with foreign investors registering net buying of VND 814.7 billion, as markets positioned ahead of the formal FTSE Russell reclassification from Frontier to Secondary Emerging Market status effective September 21, 2026. The upgrade, confirmed in April 2026 after a March interim review, is expected to channel an estimated USD 5–6 billion in passive and active inflows into approximately 28 eligible stocks including HPG, VCB, VIC, VHM, and FPT across a four-tranche inclusion schedule running through September 2027. SSB surged 6.83% on September 14 after being added to the Market Vector Vietnam Local Index, the benchmark for the ~$500 million VanEck VNM ETF. The VN-Index has gained approximately 47% over the past 12 months in anticipation of the historic upgrade.",
+          "sector": "Finance",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Trading Economics / Japan Securities Co. / The Investor VN",
+          "publishedAtISO": "2026-09-15T09:00:00Z",
+          "publishedAt": "Sep 15, 2026, 16:00 Bangkok"
+        },
+        {
+          "headline": "Hang Seng Drops 1% on Sept 15 as US 10Y Yield Nears 5%, Fed Hike and China Data Loom",
+          "body": "The Hang Seng Index fell approximately 1% to close at 24,667 on September 15, 2026, with the US 10-year Treasury yield briefly touching 5% — its highest since October 2023 — adding to equity pressure ahead of the Fed's September 15–16 policy meeting, widely expected to deliver a 25 basis-point hike to 3.75–4.00%. Investors also awaited August China activity data including industrial production, retail sales, and new-home prices. Notable laggards on the session included Z.AI Co., MiniMax, and Lenovo, while elevated oil prices above $100/bbl on the Saudi pipeline disruption reinforced inflation concerns across Hong Kong-listed securities. The mainland CSI 300 fell 0.67% in parallel, confirming broad regional caution.",
+          "sector": "Finance",
+          "sentiment": "negative",
+          "magnitude": "medium",
+          "source": "CNBC / Sunday Guardian Live / Trading Economics",
+          "publishedAtISO": "2026-09-15T08:00:00Z",
+          "publishedAt": "Sep 15, 2026, 15:00 Bangkok"
+        },
+        {
+          "headline": "BOJ Rate Hike to 1.25% — 31-Year High — Fully Priced Ahead of Sept. 17–18 Meeting",
+          "body": "Markets on September 15–16 continued to price in a near-certain 25 basis-point Bank of Japan rate hike to 1.25% at the September 17–18 policy meeting, which would be the highest rate since April 1995, with overnight index swap markets implying an 88% probability. BOJ Governor Ueda had signalled at the G20 in Asheville that the board would debate upside inflation risks, and a Reuters analyst poll projects the rate rising further to 1.5% by end-March 2027. The imminent hike is pressuring Japanese exporter stocks as a stronger yen compresses dollar-denominated earnings, while financial sector stocks — banks and insurers — stand to benefit from wider net interest margins. The Nikkei 225 opened lower September 16 as Tokyo markets repositioned ahead of the decision.",
+          "sector": "Finance",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Reuters / FXEmpire / Nikkei Asia",
+          "publishedAtISO": "2026-09-15T06:00:00Z",
+          "publishedAt": "Sep 15, 2026, 13:00 Bangkok"
+        }
+      ]
+    },
+    "commodities": {
+      "id": "commodities",
+      "label": "Commodities",
+      "ticker": "WTI · Brent · Gas · RBOB · Heating Oil · Coal · Gold · Silver · Copper · Aluminum · Iron Ore · Lithium · Platinum · Palladium · Grains · Softs · Oilseeds · Lumber · Rubber · BDI",
+      "lastUpdated": "2026-09-16T09:35:27.785Z",
+      "news": [
+        {
+          "headline": "Gold Rebounds 1.1% to $4,340 Ahead of Fed Rate Decision; 94% Hike Probability Priced",
+          "body": "Spot gold rose as much as 1.1% to above $4,340 on Sept 16, recovering from a two-day drop, as a slight easing in oil prices reduced near-term inflationary pressure ahead of the Federal Reserve's rate decision later Wednesday. Markets are pricing a 94% probability of a 25-basis-point hike to 4.00%, following hotter-than-expected August CPI and PPI data. Gold had slid to five-week lows near $4,300 on Tuesday as the US 10-year Treasury yield climbed toward 5%, but the key market focus now shifts to the Fed's dot-plot and Chair Warsh's forward guidance on the rate path.",
+          "sector": "Gold",
+          "sentiment": "neutral",
+          "magnitude": "high",
+          "source": "Bloomberg / FXStreet",
+          "publishedAtISO": "2026-09-16T08:43:00Z",
+          "publishedAt": "Sep 16, 2026, 15:43 Bangkok"
+        },
+        {
+          "headline": "WTI Tops $106, Brent $109 as Saudi Yanbu Loadings Suspended, Libya Shuts 3 Fields",
+          "body": "Oil prices surged over $3–$5 on Sept 15 after shipping sources confirmed Saudi Arabia suspended crude loadings at its Red Sea port of Yanbu and Libya's National Oil Corporation halted operations at three oil fields following protest-driven pipeline valve closure. WTI rose 5.01% to $106.46 and Brent hit $109.20, the highest in four months. Goldman Sachs warned the attacks \"increase the probability of Brent exceeding $120,\" while Capital Economics flagged a path to $130 if the East-West Pipeline stays offline for weeks. Vessel traffic through the Strait of Hormuz fell to just four ships Monday from ten a day prior, per Kpler data.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Reuters / CNBC",
+          "publishedAtISO": "2026-09-15T17:20:00Z",
+          "publishedAt": "Sep 16, 2026, 00:20 Bangkok"
+        },
+        {
+          "headline": "USDA WASDE Cuts 2026/27 US Corn Yield and Ending Stocks; Corn Near 3-Year Highs",
+          "body": "The September USDA WASDE report cut the 2026/27 US corn yield forecast to 178.5 bu/acre from 180.7, reducing production to 15.8 billion bushels and trimming ending stocks to 1.567 billion from 1.653 billion bushels, tightening the supply outlook. Corn futures are trading around $5.28–$5.30 per bushel, remaining near their highest levels since mid-2023, supported by ongoing supply risks in the Black Sea region amid the Russia-Ukraine war. Russia's diesel refinery output was also severely curtailed by drone strikes, with half of the top six refiners forced to cut or halt output, compounding energy-linked grain logistics costs.",
+          "sector": "Agriculture",
+          "sentiment": "negative",
+          "magnitude": "medium",
+          "source": "USDA / Farm Progress / Reuters",
+          "publishedAtISO": "2026-09-15T16:00:00Z",
+          "publishedAt": "Sep 15, 2026, 23:00 Bangkok"
+        },
+        {
+          "headline": "Saudi East-West Pipeline Offline for Weeks After Drone Strike; 4% of Global Supply at Risk",
+          "body": "Saudi Arabia's 1,200-km East-West Pipeline, which had been routing ~5 million barrels per day to Yanbu to bypass the Iran-blockaded Strait of Hormuz, will remain mostly out of service for weeks after Sept 11 drone attacks, two regional officials confirmed. Satellite imagery showed heavy damage to a pumping station; Saudi officials blamed Iranian-backed Iraqi militias and provided no repair timeline. Saudi Arabia has informed European customers that some September cargo deliveries are canceled, with traders warning the kingdom could exhaust exportable inventories within days. Rystad Energy said a monthlong closure would require \"a major reallocation of global crude flows.\"",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "AP / Oil & Gas Journal / Reuters",
+          "publishedAtISO": "2026-09-15T14:00:00Z",
+          "publishedAt": "Sep 15, 2026, 21:00 Bangkok"
+        },
+        {
+          "headline": "Wheat Pulls Back from 3.5-Year High as Trump Energy Truce Revives Black Sea Grain Hopes",
+          "body": "Wheat futures fell toward $7.12/bushel on Sept 15, their lowest in three weeks, after US President Trump announced a truce on strikes targeting Russia and Ukraine's energy facilities, and Turkey moved to broker a deal to halt attacks on Black Sea shipping. The prospect of improved grain export flows weighed on prices, which remain below the 3.5-year high of $7.67 reached on August 28. The USDA simultaneously cut 2026/27 export forecasts for Russia by 3 million metric tons to 43 MMT and Ukraine by 1 MMT to 12.5 MMT, limiting the downside. Wheat is still up ~38% year-on-year, reflecting war-driven supply disruptions throughout 2026.",
+          "sector": "Agriculture",
+          "sentiment": "neutral",
+          "magnitude": "medium",
+          "source": "Trading Economics / USDA",
+          "publishedAtISO": "2026-09-15T12:00:00Z",
+          "publishedAt": "Sep 15, 2026, 19:00 Bangkok"
+        }
+      ]
+    }
+  }
+}
