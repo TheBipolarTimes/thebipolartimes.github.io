@@ -1,0 +1,183 @@
+{
+  "publication": "The BiPolar Times",
+  "slogan": "The Newspaper That Connects The Markets Of Both Worlds",
+  "timezone": "Asia/Bangkok",
+  "exportedAt": "2026-09-29T04:34:04.301Z",
+  "generatedFrom": "private-dashboard",
+  "sections": {
+    "us": {
+      "id": "us",
+      "label": "US",
+      "ticker": "NYSE · NASDAQ · S&P 500",
+      "lastUpdated": "2026-09-29T04:22:16.569Z",
+      "news": [
+        {
+          "headline": "10-Year Treasury Hits Fresh 19-Year High at 5.27%, Hammering Equities Monday",
+          "body": "The benchmark 10-year U.S. Treasury yield climbed as high as 5.272% on Monday—a fresh 19-year high not seen since mid-2007—driven by persistent US-Iran geopolitical tensions keeping oil elevated, a hawkish Fed tone, and strong underlying economic data. Over 65% of U.S. issues fell on the day, with the S&P 500 shedding 0.5% and the Nasdaq down 0.6–0.9%; the 30-year yield simultaneously reached 5.56%. Traders are now pricing nearly a 65% probability of another 25bp Fed rate hike in October. The yield surge is pressuring equity valuations broadly and adding urgency to the week's key data releases: JOLTS today, PCE and ADP on Wednesday, and nonfarm payrolls Friday.",
+          "sector": "Finance / Macro",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Bloomberg / Trading Economics / Investrade",
+          "publishedAtISO": "2026-09-28T22:11:00Z",
+          "publishedAt": "Sep 29, 2026, 05:11 Bangkok"
+        },
+        {
+          "headline": "Paramount Skydance Launches $44.4B Debt Offering to Fund Warner Bros. Discovery Buyout",
+          "body": "Paramount Skydance (PSKY) began marketing a $44.4 billion senior secured debt offering—comprising $32 billion of investment-grade first-lien notes and $12.4 billion of high-yield second-lien bonds—to fund its $110 billion acquisition of Warner Bros. Discovery (WBD). The mega-deal debt sale is contingent on federal court approval of a settlement with 12 state attorneys general, the last remaining regulatory hurdle. Commitments on a concurrent $7.5 billion Citi-led term loan are due September 30; PSKY shares rose roughly 3.84% on the news. The transaction, if completed, would create one of the largest entertainment companies in history.",
+          "sector": "Communication Services",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Deadline / The Wrap / PitchBook",
+          "publishedAtISO": "2026-09-28T15:17:00Z",
+          "publishedAt": "Sep 28, 2026, 22:17 Bangkok"
+        },
+        {
+          "headline": "Boeing Shares Shed ~7% as FAA Halts 737 MAX 10 Certification Over VNAV Glitch",
+          "body": "Boeing confirmed a vertical navigation (VNAV) software glitch on the 737 MAX 7 and MAX 10 that can disengage automated flight guidance during go-around maneuvers; the FAA convened a safety review board and declared 'safety dictates the certification timeline.' The MAX 10, which was days away from receiving FAA certification, faces an indefinite delay, while MAX 7 deliveries—nearly all destined for Southwest Airlines—are also complicated. Boeing shares extended losses to fall nearly 7% on Monday, hitting 2026 lows. The software fix is not expected until 2028, compounding investor concern over Boeing's already beleaguered recovery plan.",
+          "sector": "Industrials",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNBC / CBS News",
+          "publishedAtISO": "2026-09-28T13:00:00Z",
+          "publishedAt": "Sep 28, 2026, 20:00 Bangkok"
+        },
+        {
+          "headline": "Kodiak Sciences Surges ~156% After DAYBREAK Phase 3 Wet AMD Trial Hits Primary Endpoints",
+          "body": "Kodiak Sciences (KOD) announced that both Zenkuda (tarcocimab tedromer) and tabirafusp-ted met the one-year primary endpoint of non-inferiority in best-corrected visual acuity in the pivotal Phase 3 DAYBREAK study in wet age-related macular degeneration. Zenkuda demonstrated strong efficacy matching or exceeding the aflibercept comparator during loading, with 54% of patients achieving six-month durability and a 0% intraocular inflammation rate. Shares surged approximately 156% on the session, with KOD targeting a BLA submission in Q4 2026 across five positive Phase 3 studies. The results position Kodiak as a potential challenger in the $15 billion anti-VEGF market dominated by Regeneron's Eylea.",
+          "sector": "Healthcare / Biotech",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "SEC 8-K / GuruFocus / TheStreet",
+          "publishedAtISO": "2026-09-28T12:00:00Z",
+          "publishedAt": "Sep 28, 2026, 19:00 Bangkok"
+        },
+        {
+          "headline": "UiPath (PATH) Slumps After DA Davidson Cuts to Underperform on AI Pricing Backlash",
+          "body": "DA Davidson downgraded UiPath (PATH) to Underperform from Neutral with a $10 price target—roughly 20% below the prevailing ~$12.46 share price—citing mixed customer and partner feedback on AI pricing following the company's FUSION Investor Day on September 22. The analyst flagged pushback on UiPath's AI module pricing as a near-term headwind that could suppress adoption and limit revenue growth, part of a broader wave of target cuts also from UBS, BMO Capital, and Canaccord Genuity. PATH had already declined 8.3% in the prior week before Monday's additional selling pressure. The downgrades highlight competitive risk from frontier AI model providers encroaching on RPA and workflow automation.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "medium",
+          "source": "Investing.com / Benzinga / TipRanks",
+          "publishedAtISO": "2026-09-28T07:02:00Z",
+          "publishedAt": "Sep 28, 2026, 14:02 Bangkok"
+        }
+      ]
+    },
+    "asia": {
+      "id": "asia",
+      "label": "East + SE Asia",
+      "ticker": "Nikkei · HSI · SSE · KOSPI · TWSE · SET · SGX · IDX · KLSE · PSEi · VN-Index",
+      "lastUpdated": "2026-09-29T04:25:35.432Z",
+      "news": [
+        {
+          "headline": "Japan FM Katayama Reiterates Weak-Yen Is 'Problematic'; BOJ Rate-Hike Risk Rises",
+          "body": "Japanese Finance Minister Satsuki Katayama told reporters on September 29 that an undervalued yen is \"generally problematic\" and confirmed she agreed with U.S. Treasury Secretary Scott Bessent on September 25 to step up bilateral FX cooperation, raising market expectations of further coordinated intervention or a BOJ rate hike. The remarks echoed language used before Japan and the U.S. conducted their first coordinated yen-buying intervention in roughly 28 years in late July 2026; USD/JPY held near 157.45 following the comments. The Nikkei 225 extended losses to 1.1% on September 29 — partly driven by exporters sensitive to a stronger yen — with SoftBank Group, Mitsubishi UFJ, and Toyota each falling more than 2%.",
+          "sector": "Finance",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Bloomberg / FXStreet / Newsquawk",
+          "publishedAtISO": "2026-09-29T02:25:00Z",
+          "publishedAt": "Sep 29, 2026, 09:25 Bangkok"
+        },
+        {
+          "headline": "MAS Deploys S$1.45 Billion (US$1.1B) Third EQDP Tranche; Adds SGX Market-Making Sleeve",
+          "body": "Singapore's Monetary Authority of Singapore announced on September 29 it will allocate S$1.45 billion to five asset managers as the third funding batch under its S$6.5 billion Equity Market Development Programme (EQDP), which was expanded from S$5 billion after Budget 2026. MAS is also introducing a new market-making sleeve to lift trading liquidity in SGX-listed stocks, supplementing earlier measures including a S$30 million \"Value Unlock\" programme, reduced board lots for stocks above S$10, and a proposed SGX-Nasdaq dual-listing bridge. The announcement is positive for SGX-listed equities and signals continued institutional commitment to deepening Singapore's equity market after the STI has risen roughly 22% year-to-date.",
+          "sector": "Finance",
+          "sentiment": "positive",
+          "magnitude": "medium",
+          "source": "MAS / Reuters / InvestingLive",
+          "publishedAtISO": "2026-09-29T01:30:00Z",
+          "publishedAt": "Sep 29, 2026, 08:30 Bangkok"
+        },
+        {
+          "headline": "KOSPI Plunges 2.7% on Return from Chuseok; Samsung, SK Hynix Each Fall >5%",
+          "body": "South Korea's KOSPI dropped 2.70% to 6,889.74 on September 28 — its first close below 7,000 in four sessions — as markets reopened after the Chuseok holiday and absorbed a surge in U.S. Treasury yields and elevated oil prices accumulated during the break. Samsung Electronics fell 4.29% and SK Hynix dropped 4.73%, with SK Square (SK Hynix's parent) sliding 7.23%. Foreign and institutional investors were heavy net sellers throughout the session, with sentiment additionally weighed by scrutiny of SK Group's ownership structure tied to subsidiary Solidigm's potential U.S. IPO.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Korea Times / Seoul Economic Daily",
+          "publishedAtISO": "2026-09-28T07:35:00Z",
+          "publishedAt": "Sep 28, 2026, 14:35 Bangkok"
+        },
+        {
+          "headline": "China CSI 300 Hits 1-Year Low as Trump-Xi Summit Fails to Break Key Deadlocks",
+          "body": "China's CSI 300 fell 2.22% to 4,340.76 on September 28, touching a one-year low as post-summit optimism faded; the Shanghai Composite lost 1.67% and the Shenzhen Component dropped 3.44% to a nine-month low. The Trump-Xi meeting delivered only a modest tariff reduction on ~$30 billion of bilateral imports and a trade-truce extension to January, with no progress on AI cooperation, Taiwan, or the Iran conflict. The CSI 300 Telecom Services sub-index slumped more than 6%, and thin volumes ahead of China's week-long National Day holiday amplified the selloff.",
+          "sector": "Other",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Reuters / Business Recorder",
+          "publishedAtISO": "2026-09-28T07:00:00Z",
+          "publishedAt": "Sep 28, 2026, 14:00 Bangkok"
+        },
+        {
+          "headline": "China Signals Approval for Alibaba, ByteDance to Buy Nvidia RTX Pro 5500 Chips",
+          "body": "China's Ministry of Industry and Information Technology told ByteDance, Alibaba, and other domestic firms it intends to approve purchases of Nvidia's newly launched RTX Pro 5500 Blackwell workstation GPU, asking companies to submit planned volumes and use cases; ByteDance is reportedly weighing an order of around 1 million cards. The move is seen as a potential regulatory gap in U.S. export controls, as some industry executives expect the workstation-class chip to fall outside the toughest restrictions, though no U.S. regulatory body has confirmed this. The development is market-moving for Asian tech names with AI-chip exposure — including TSMC (which manufactures the GB202 die) and regional AI-infrastructure plays — while Nvidia said its China business remains constrained by both U.S. and Chinese restrictions.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Reuters / The Information",
+          "publishedAtISO": "2026-09-28T03:00:00Z",
+          "publishedAt": "Sep 28, 2026, 10:00 Bangkok"
+        }
+      ]
+    },
+    "commodities": {
+      "id": "commodities",
+      "label": "Commodities",
+      "ticker": "WTI · Brent · Gas · RBOB · Heating Oil · Coal · Gold · Silver · Copper · Aluminum · Iron Ore · Lithium · Platinum · Palladium · Grains · Softs · Oilseeds · Lumber · Rubber · BDI",
+      "lastUpdated": "2026-09-29T04:33:01.375Z",
+      "news": [
+        {
+          "headline": "Silver Surges 7.5%, Gold Tops $4,713 as Oil Weakness Cuts Rate-Hike Fears",
+          "body": "Silver jumped 7.47% to $75.50/oz on September 28 while gold rose 3.84% to $4,713.30/oz, with platinum and palladium adding 4.22% and 5.39% respectively. The broad precious-metals rally was driven by crude oil falling more than 3% in the same session, which softened inflation expectations and reduced urgency for aggressive Fed rate action. The simultaneous gains across all four major precious metals—rather than a single-metal move—raises the signal value of the session. Treasury yield trajectory remains the primary risk, with yields having pushed gold sharply lower as recently as September 21.",
+          "sector": "Precious Metals",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Discovery Alert / MDC Markets",
+          "publishedAtISO": "2026-09-28T22:00:00Z",
+          "publishedAt": "Sep 29, 2026, 05:00 Bangkok"
+        },
+        {
+          "headline": "Saudi East-West Pipeline Resumes Exports at 3.5 Mb/d After Drone Strike Repairs",
+          "body": "Saudi Arabia resumed crude exports through its repaired East-West Pipeline on September 28, with flows reaching approximately 3.5 million barrels per day—about half the line's export capacity of ~5 mb/d. The pipeline had been offline since September 13 after drone strikes halted crude loadings at the Red Sea port of Yanbu, a critical bypass route given the ongoing Strait of Hormuz disruption from the U.S.-Iran conflict. The partial resumption contributed to oil prices pulling back from session highs, with Brent settling near $105/bbl. European buyers who had been told they would receive no allocated barrels next month will receive some relief, though full capacity restoration is still weeks away.",
+          "sector": "Energy",
+          "sentiment": "neutral",
+          "magnitude": "high",
+          "source": "Bloomberg / Rigzone",
+          "publishedAtISO": "2026-09-28T14:00:00Z",
+          "publishedAt": "Sep 28, 2026, 21:00 Bangkok"
+        },
+        {
+          "headline": "Trump Rejects Iran Strait of Hormuz Deal; Brent Holds Above $105",
+          "body": "U.S. President Trump rejected an Iranian proposal to reopen the Strait of Hormuz within seven days, keeping Brent crude elevated above $105/barrel on September 28. Iranian officials privately expressed pessimism about reaching a deal before U.S. midterm elections in November, while a White House official said the U.S. was under no pressure to negotiate. WTI advanced above $93/bbl for a second consecutive session. The standoff keeps roughly 20% of global seaborne oil trade at risk, and markets now price a prolonged supply premium into forward curves.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Bloomberg / Reuters",
+          "publishedAtISO": "2026-09-28T10:02:00Z",
+          "publishedAt": "Sep 28, 2026, 17:02 Bangkok"
+        },
+        {
+          "headline": "Iron Ore Hits Five-Week Low as China Restocking Ends, Mills Cut Output",
+          "body": "Dalian iron ore futures fell to a five-week low of 700 yuan/mt on September 28, with the most-traded January contract settling at 703.5 yuan (~$104.7/t), down 1.1% on the day; Singapore's October contract slipped to $94.45/t. SMM flagged that pre-National Day restocking demand is largely complete and price support is weakening, with Chinese port inventories rising and mills buying only as needed in thin trade. China's crude-steel output fell 3.7% year-on-year in August and 3.1% in the first eight months of 2026, compounding the demand-side pressure. The high-grade premium also collapsed intra-session, reversing the prior week's quality premium widening.",
+          "sector": "Bulk Commodities",
+          "sentiment": "negative",
+          "magnitude": "medium",
+          "source": "Hellenic Shipping News / Rio Times Online",
+          "publishedAtISO": "2026-09-28T06:20:00Z",
+          "publishedAt": "Sep 28, 2026, 13:20 Bangkok"
+        },
+        {
+          "headline": "Trump Eyes U.S. Diesel Export Ban as Retail Price Hits Record $6.45/Gallon",
+          "body": "President Trump said on September 27 his administration is \"very seriously\" considering a ban on U.S. diesel exports, citing record retail diesel prices of $6.45/gallon and midterm election pressure. The U.S. currently exports approximately 1.5 million barrels per day of diesel, making it the world's largest diesel exporter; a ban would tighten global distillate supply already stressed by the Middle East conflict. Goldman Sachs warned a prolonged ban could paradoxically raise domestic gasoline prices, while Morgan Stanley noted it would meaningfully lift global diesel benchmarks. The American Petroleum Institute publicly opposed the measure, and the White House has not yet issued a formal decision.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNBC / CBS News / Bloomberg",
+          "publishedAtISO": "2026-09-27T21:55:00Z",
+          "publishedAt": "Sep 28, 2026, 04:55 Bangkok"
+        }
+      ]
+    }
+  }
+}
