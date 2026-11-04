@@ -1,0 +1,183 @@
+{
+  "publication": "The BiPolar Times",
+  "slogan": "The Newspaper That Connects The Markets Of Both Worlds",
+  "timezone": "Asia/Bangkok",
+  "exportedAt": "2026-11-04T08:02:56.730Z",
+  "generatedFrom": "private-dashboard",
+  "sections": {
+    "us": {
+      "id": "us",
+      "label": "US",
+      "ticker": "NYSE · NASDAQ · S&P 500",
+      "lastUpdated": "2026-11-04T07:33:28.536Z",
+      "news": [
+        {
+          "headline": "Democratic Midterm Sweep Sends S&P 500 Futures Down 1.2%, Dollar Slides",
+          "body": "Democrats won control of both chambers of Congress in the 2026 midterm elections, delivering a major rebuke to President Trump. S&P 500 futures fell as much as 1.2% and Nasdaq 100 futures dropped over 2% overnight before paring losses as dip buyers emerged; the 10-year Treasury yield fell 6 basis points to 4.906% and the dollar weakened against all G-10 peers. Analysts flagged heightened risk of regulatory pressure on AI, Big Tech, and data-center tax incentives under a Democratic Congress. Futures recovered most losses by the Asian open, with JPMorgan estimating a net ~0.5% S&P drag on the session.",
+          "sector": "Other",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Reuters / Bloomberg",
+          "publishedAtISO": "2026-11-04T07:06:00Z",
+          "publishedAt": "Nov 4, 2026, 14:06 Bangkok"
+        },
+        {
+          "headline": "AMD Surges 8% After-Hours as Q3 Data Center Revenue Doubles to $8.5B",
+          "body": "Advanced Micro Devices reported Q3 revenue of $13.4 billion (+45% YoY), beating the $13.1B consensus, with data center segment revenue surging 97% to a record $8.5B, ahead of the $8.2B estimate. Non-GAAP EPS of $2.09 topped the $1.97 forecast, and AMD guided Q4 revenue to ~$17B, well above the $16.2B analyst estimate. CEO Lisa Su stated she expects server revenue to double YoY in 2027 and data center AI growth to accelerate faster than projected 90 days ago. The results directly counter the broader AI-spending skepticism that hammered Intel and hyperscalers the prior week, sending AMD stock up 8% in extended trading.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CNBC / AMD SEC Filing",
+          "publishedAtISO": "2026-11-03T21:17:00Z",
+          "publishedAt": "Nov 4, 2026, 04:17 Bangkok"
+        },
+        {
+          "headline": "Oracle Prices $20B Stock-and-Bond Offering for AI Buildout; Shares Fall ~8%",
+          "body": "Oracle filed to sell 86.2 million shares at $116 each (an 11.2% discount) and issued $10B in senior notes across five tranches, raising a combined $20B to fund its AI and cloud data-center expansion. The equity pricing triggered an ~8% stock decline as the dilution and ongoing debt load unnerved investors already sensitive to hyperscaler spending; Oracle's stock is now near its 52-week low. The company committed to capping total additional capital market funding at $20B through FY2030 and reiterated a $225B+ FY2030 revenue target. Shares fell more than 6% on the initial Monday filing before the final pricing was confirmed Tuesday.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Reuters / Benzinga / SEC Filing",
+          "publishedAtISO": "2026-11-03T13:56:00Z",
+          "publishedAt": "Nov 3, 2026, 20:56 Bangkok"
+        },
+        {
+          "headline": "IDEXX Laboratories Surges ~22% on Q3 Beat and Raised 2026 Guidance",
+          "body": "IDEXX Laboratories (IDXX) jumped ~22% to $671.64 on November 2, its largest single-day gain in years, after Q3 revenue of $1.21B (+10% YoY) beat the $1.19B consensus and adjusted EPS of $3.96 topped the $3.71 estimate — the company's seventh consecutive EPS beat. Management raised full-year 2026 EPS guidance to $14.96–$15.16 and revenue guidance to $4.74–$4.77B, both above consensus, driven by accelerating adoption of its new inVue Dx analyzers with in-clinic consumables up 15% organically. The outsized move stood out as a rare non-AI catalyst in a week dominated by tech selloffs, lifting the broader healthcare sector. Even after the surge, IDEXX stock remained down ~1% year-to-date.",
+          "sector": "Other",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "TheStreet / Yahoo Finance",
+          "publishedAtISO": "2026-11-02T19:00:00Z",
+          "publishedAt": "Nov 3, 2026, 02:00 Bangkok"
+        },
+        {
+          "headline": "Marvell Acquires Lumentum in $115B All-Stock Deal, Largest-Ever Public Tech M&A",
+          "body": "Marvell Technology agreed to acquire optical-components maker Lumentum in an all-stock transaction with an implied enterprise value of $115B — the largest merger ever between publicly traded tech companies. Lumentum shareholders receive 4.5 Marvell shares per share, a 23.9% premium to the Oct. 28 unaffected close, and will own ~33% of the combined entity. The deal aims to integrate networking chips with photonics to capture a $550B total addressable market, targeting over $1B in annual cost synergies and EPS accretion in year one post-close. Marvell shares fell ~13% and Lumentum gained ~18% on the announcement, reflecting typical acquirer dilution concerns in an all-stock deal.",
+          "sector": "Technology",
+          "sentiment": "neutral",
+          "magnitude": "high",
+          "source": "Bloomberg / Axios / SEC Filing",
+          "publishedAtISO": "2026-11-02T12:15:00Z",
+          "publishedAt": "Nov 2, 2026, 19:15 Bangkok"
+        }
+      ]
+    },
+    "asia": {
+      "id": "asia",
+      "label": "East + SE Asia",
+      "ticker": "Nikkei · HSI · SSE · KOSPI · TWSE · SET · SGX · IDX · KLSE · PSEi · VN-Index",
+      "lastUpdated": "2026-11-04T07:49:55.169Z",
+      "news": [
+        {
+          "headline": "UOB Q3 Profit Beats Year-Ago but Misses Forecasts; Shares Tumble >5%",
+          "body": "Singapore's United Overseas Bank reported Q3 net profit of S$1.25 billion on Nov 4, up 182% year-on-year from a depressed base but short of the Bloomberg consensus of S$1.38 billion. Net interest margin compressed 6 bps quarter-on-quarter to 1.68% due to higher funding costs, while trading and investment income fell 33% YoY. Shares slid over 5% to S$38.36—the first SGX-listed bank to report this cycle—raising concern for peers DBS and OCBC, which report Thursday and Friday. Investors flagged NIM pressure and Greater China asset quality as the key overhangs going into the remainder of earnings season.",
+          "sector": "Finance",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Straits Times / AsiaOne / Longbridge",
+          "publishedAtISO": "2026-11-04T06:30:00Z",
+          "publishedAt": "Nov 4, 2026, 13:30 Bangkok"
+        },
+        {
+          "headline": "Nikkei Plunges Up to 4.8% as Democratic US Midterm Sweep Hits AI, Chip Names",
+          "body": "Japan's Nikkei 225 fell as much as 4.8% intraday on Nov 4 before paring losses to close ~1.4% lower, as Democratic gains in both chambers of the US Congress stoked fears of stricter AI data-centre regulation. SoftBank slumped ~7%, Kioxia dropped 10%, Advantest fell 6.4%, Tokyo Electron lost 5%, and fibre-optic cable makers Fujikura and Furukawa Electric slid 8–9%. The sell-off targeted AI-supply-chain proxies rather than the broad market—130 of 225 Nikkei components fell. Markets are repricing the risk that a Democratic-controlled Congress could slow the US data-centre buildout on which Japan's chip-equipment and components sector heavily depends.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Bloomberg / Japan Times / Reuters",
+          "publishedAtISO": "2026-11-04T04:26:00Z",
+          "publishedAt": "Nov 4, 2026, 11:26 Bangkok"
+        },
+        {
+          "headline": "KOSPI Whipsaws 7%+ Intraday as Midterm Fears Reverse AMD-Led Open Rally",
+          "body": "South Korea's KOSPI opened up 2.43% on Nov 4—lifted by AMD's after-hours earnings beat and a 2.64% rebound in the Philadelphia Semiconductor Index—before collapsing below 5,600 as Democratic midterm results filtered in, implying a congressional blue sweep. At its worst, Samsung Electronics fell to -5.2% and SK Hynix to -5.8%; the index eventually staged a partial recovery. The intraday range exceeded 700 points, illustrating how Korea's semiconductor-heavy index now trades as a real-time proxy for US AI-infrastructure sentiment. Analysts at Korea Investment & Securities flagged potential short-covering once final results are confirmed.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Bloomberg / Seoul Economic Daily / BigGo Finance",
+          "publishedAtISO": "2026-11-04T02:15:00Z",
+          "publishedAt": "Nov 4, 2026, 09:15 Bangkok"
+        },
+        {
+          "headline": "PBOC Deploys Third SFISF Round, Makes Buyback Facility Permanent After CSI 300's Worst Month in a Decade",
+          "body": "China's PBOC on Nov 2–3 launched its third Securities, Funds and Insurance Companies Swap Facility (SFISF) operation of ~100 billion yuan, made its share-buyback relending facility permanent at a cut rate of 1%, and raised the FX reserve requirement ratio from 4% to 6% (effective Nov 15) to slow the yuan's 13-session winning streak. The CSI 300 had fallen 8.5% in October, its worst monthly decline in a decade. Applications for the buyback relending scheme surpassed 200 billion yuan (~$30 billion). Despite an initial 1.1% SSE bounce, gains were short-lived, with the Shanghai Composite slipping back as investors questioned whether backstop tools can offset structural demand weakness.",
+          "sector": "Finance",
+          "sentiment": "neutral",
+          "magnitude": "high",
+          "source": "Caixin / SCMP / Reuters / Beijing Review",
+          "publishedAtISO": "2026-11-03T12:58:00Z",
+          "publishedAt": "Nov 3, 2026, 19:58 Bangkok"
+        },
+        {
+          "headline": "Taiwan Central Bank Quietly Drops Daily Cap on Exporter Dollar Sales to Defend TWD",
+          "body": "Taiwan's central bank told select lenders on or around Nov 2–3 that exporters' US dollar sales would no longer face daily limits, allowing more conversion to support the New Taiwan dollar after record foreign equity outflows made TWD Asia's worst-performing currency in October. The TWD rebounded from its weakest level since April 2025 at 32.59/USD. The daily cap had originally been introduced in 2025 to prevent panic dollar selling from amplifying the currency's surge; reversing it now signals the authorities have shifted to defending against depreciation. Credit Agricole CIB described the move as a signal that officials are becoming less tolerant of TWD weakness.",
+          "sector": "Finance",
+          "sentiment": "neutral",
+          "magnitude": "medium",
+          "source": "Bloomberg / Taipei Times",
+          "publishedAtISO": "2026-11-03T01:47:00Z",
+          "publishedAt": "Nov 3, 2026, 08:47 Bangkok"
+        }
+      ]
+    },
+    "commodities": {
+      "id": "commodities",
+      "label": "Commodities",
+      "ticker": "WTI · Brent · Gas · RBOB · Heating Oil · Coal · Gold · Silver · Copper · Aluminum · Iron Ore · Lithium · Platinum · Palladium · Grains · Softs · Oilseeds · Lumber · Rubber · BDI",
+      "lastUpdated": "2026-11-04T07:51:05.007Z",
+      "news": [
+        {
+          "headline": "Gold Surges >2% Above $4,000 as Democratic Midterm Wins Sink Dollar, Yields",
+          "body": "Spot gold climbed 2.2% to $4,016 per ounce on Nov 4 after Democrats secured decisive victories in US midterm elections, weakening the dollar and driving Treasury yields lower. Markets interpreted a likely Democratic-controlled Congress as reducing the probability of deficit-expanding fiscal policy under President Trump over the next two years. The move reclaimed the psychologically critical $4,000 level, with Dec futures rising to ~$4,027. Friday's NFP report is now the next key catalyst for the Fed rate-path outlook.",
+          "sector": "Gold",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Reuters / Bloomberg / CNBC",
+          "publishedAtISO": "2026-11-04T06:19:00Z",
+          "publishedAt": "Nov 4, 2026, 13:19 Bangkok"
+        },
+        {
+          "headline": "WTI Crude Dives 6.5% to ~$97 on US-Iran Diplomacy; Rystad Warns Gulf Flows Won't Normalize",
+          "body": "WTI crude oil plunged ~6.5% to near $96.90 on Nov 2 after Iranian negotiators held a third consecutive day of talks with Qatari mediators in Doha, sparking hopes of a deal to end the US-Israel-Iran war. Brent fell over 7% intraday below $105, unwinding much of October's 14% geopolitical risk premium. However, Rystad Energy cautioned on Nov 3 that Persian Gulf crude flows are unlikely to normalize any time soon, even with a deal, citing multiple unresolved US preconditions. Oil partially rebounded to Brent $103.60 / WTI $95.98 by Nov 4 as a US strike on Iran's Qeshm Island and Libya pipeline disruption reasserted supply risk.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Reuters / OilPrice.com / Bloomberg",
+          "publishedAtISO": "2026-11-04T05:15:00Z",
+          "publishedAt": "Nov 4, 2026, 12:15 Bangkok"
+        },
+        {
+          "headline": "Silver Rebounds 4%+ on Nov 4 After Worst Month Since 2008; Heraeus Flags India Import Surge",
+          "body": "Spot silver climbed ~4% to $51.80/oz on Nov 4, staging its strongest single-session recovery in weeks after October's 18%+ drawdown — silver's steepest monthly decline since 2008. The bounce was supported by the dollar's weakening post-midterms and Heraeus flagging that India is set to ramp up silver imports significantly into 2027, citing industrial and investment demand. Silver remains ~56% below its January 2026 peak of $121.58, and WisdomTree forecasts a ~3% decline in 2026 industrial demand to ~640 million ounces. The gold/silver ratio remains stretched, with technical analysts watching whether the $52–$54 zone can be reclaimed to signal a sustainable reversal.",
+          "sector": "Precious Metals",
+          "sentiment": "positive",
+          "magnitude": "medium",
+          "source": "Kitco / Trading Economics / Heraeus",
+          "publishedAtISO": "2026-11-04T04:00:00Z",
+          "publishedAt": "Nov 4, 2026, 11:00 Bangkok"
+        },
+        {
+          "headline": "Copper Hits 2.5-Month Low at $13,883/t as AI Tech Selloff and LME Stock Build Weigh",
+          "body": "LME three-month copper dropped as much as 2.6% to a session low of $13,883 per metric tonne on Nov 3 — its lowest since August 19 — as a renewed AI and semiconductor equity selloff dampened industrial demand sentiment. An inflow of 17,325 tonnes into US LME-registered warehouses pushed total LME copper stocks to a four-month high of 309,650 tonnes, adding further pressure. Losses were partially cushioned by China's Yangshan copper import premium holding near $200/t, its highest in over a decade, signalling continued physical tightness in the top consuming nation. Cochilco's downgrade of Chile's 2026 copper production forecast kept the supply side supportive even as speculative positioning turned bearish.",
+          "sector": "Base Metals",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Reuters / Bloomberg / Mining.com",
+          "publishedAtISO": "2026-11-03T16:30:00Z",
+          "publishedAt": "Nov 3, 2026, 23:30 Bangkok"
+        },
+        {
+          "headline": "WGC: Central Bank Gold Buying Surges 42% YoY in Q3 to Highest Since Q4 2024",
+          "body": "The World Gold Council reported on Nov 3 that central banks net purchased 321 tonnes of gold in Q3 2026, up 42% year-over-year and the strongest quarterly pace since Q4 2024, bringing year-to-date buying to 675 tonnes. China and Poland were the largest disclosed buyers at 63 and 41 tonnes respectively, while Russia was the sole major seller at -19 tonnes. Gold-backed ETF holdings simultaneously hit a record 4,256 tonnes after adding 211 tonnes in the quarter. The WGC raised its full-year central-bank demand forecast to at least match 2025's 848-tonne total, though it cut its investment-demand growth forecast to ~200 tonnes from 400 tonnes previously.",
+          "sector": "Gold",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Bloomberg / Kitco / World Gold Council",
+          "publishedAtISO": "2026-11-03T06:00:00Z",
+          "publishedAt": "Nov 3, 2026, 13:00 Bangkok"
+        }
+      ]
+    }
+  }
+}
