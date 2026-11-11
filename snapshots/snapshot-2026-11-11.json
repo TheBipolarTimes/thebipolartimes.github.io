@@ -1,0 +1,183 @@
+{
+  "publication": "The BiPolar Times",
+  "slogan": "The Newspaper That Connects The Markets Of Both Worlds",
+  "timezone": "Asia/Bangkok",
+  "exportedAt": "2026-11-11T10:14:07.051Z",
+  "generatedFrom": "private-dashboard",
+  "sections": {
+    "us": {
+      "id": "us",
+      "label": "US",
+      "ticker": "NYSE · NASDAQ · S&P 500",
+      "lastUpdated": "2026-11-11T10:10:31.412Z",
+      "news": [
+        {
+          "headline": "Anthropic Launches IPO Roadshow at $70–$78/Share, Targeting ~$1.4T Valuation",
+          "body": "Anthropic filed an amended S-1 on November 10 and began marketing its Nasdaq IPO (ticker: ANT) with a proposed price range of $70–$78 per share covering 825 million public shares. The offering would value the Claude maker at roughly $1.4 trillion, making it potentially the largest U.S. tech IPO on record. Trading is targeted for the week of November 16–20, ahead of Thanksgiving. The debut arrives amid Nvidia-driven AI sector turbulence, with investors using Anthropic's valuation as a real-time gauge of AI sector confidence.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "TechCrunch / Yahoo Finance / TasteTrade",
+          "publishedAtISO": "2026-11-10T22:02:00Z",
+          "publishedAt": "Nov 11, 2026, 05:02 Bangkok"
+        },
+        {
+          "headline": "Costco Declares Record $30/Share Special Dividend Totaling ~$13.3B, Renews $4B Buyback",
+          "body": "Costco Wholesale (COST) announced on November 10 a special cash dividend of $30 per share—its largest ever and double the $15 payout of January 2024—totaling approximately $13.3 billion, payable December 4 to shareholders of record November 24. The board simultaneously reauthorized a $4 billion stock repurchase program through November 2030, up from the prior $3.1 billion authorization. Shares rose ~1.7% in after-hours trading to roughly $1,083, as the payout signals robust cash generation from Costco's membership-fee business model. The special dividend represents about 2.8% of the share price and roughly 1.4 times Costco's fiscal 2026 net income.",
+          "sector": "Other",
+          "sentiment": "positive",
+          "magnitude": "medium",
+          "source": "Benzinga / GuruFocus / Investor.Costco.com",
+          "publishedAtISO": "2026-11-10T21:15:00Z",
+          "publishedAt": "Nov 11, 2026, 04:15 Bangkok"
+        },
+        {
+          "headline": "CoreWeave Q3 Revenue Surges 168% to $3.66B; Backlog Hits Record $133B",
+          "body": "CoreWeave (CRWV) reported Q3 2026 revenue of $3.66 billion, up 168% year-over-year and ahead of the $3.54 billion consensus, with adjusted operating income of $379 million crushing the $246 million estimate. The AI cloud infrastructure provider raised full-year 2026 revenue guidance to $13.0–$13.3 billion and lifted its year-end annualized run-rate target to $20–$21 billion. Revenue backlog hit a record $133 billion, up 138% year-over-year. Shares surged roughly 13% in after-hours, lifting Nasdaq futures and Asian AI stocks overnight, countering the broader market sell-off driven by hot CPI.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "CNBC / 247WallSt / InvestingLive",
+          "publishedAtISO": "2026-11-10T21:13:00Z",
+          "publishedAt": "Nov 11, 2026, 04:13 Bangkok"
+        },
+        {
+          "headline": "Nvidia Falls 5.5% as Board Hires Wachtell Lipton to Lead Jensen Huang Probe",
+          "body": "Nvidia (NVDA) dropped 5.47% to $168.89 on November 10—its second consecutive session decline of more than 4%—after independent directors retained former federal prosecutor Joon H. Kim and law firm Wachtell, Lipton, Rosen & Katz to lead an independent investigation into reports that CEO Jensen Huang was targeted by a foreign intelligence operation and that his relationship allegedly aided $7.5 billion in chip shipments to Chinese firms. The FBI is also conducting its own investigation, and three House committee chairs summoned Huang for a closed-door briefing on November 18. With Nvidia's Q3 earnings due November 17, analysts estimate a ~15% probability the CEO is ultimately removed, casting a governance overhang on the stock ahead of its key report.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "CNBC / Motley Fool / The Statesman",
+          "publishedAtISO": "2026-11-10T17:15:00Z",
+          "publishedAt": "Nov 11, 2026, 00:15 Bangkok"
+        },
+        {
+          "headline": "Hot October CPI (+0.4% MoM) Seals December Fed Hike; 50 bp Move on Table",
+          "body": "The U.S. Bureau of Labor Statistics reported October CPI rose 0.4% month-over-month, above the 0.3% consensus, while core CPI also beat at 0.3% for a third consecutive month. Hours earlier, Fed Governor Christopher Waller had flagged a 50 basis point December hike if core CPI printed at 0.3% or above, hitting the precise threshold. CME FedWatch odds of a December hike surged to ~88%, with a 50 bp move priced at ~12–15%, up from zero the prior session; the 10-year Treasury yield climbed toward 5%. Equities tumbled on release, with Nasdaq futures falling 1.4% and S&P 500 futures down 0.8%, while the dollar index gained 0.55%.",
+          "sector": "Finance",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Reuters / Fox Business / Seeking Alpha",
+          "publishedAtISO": "2026-11-10T13:36:00Z",
+          "publishedAt": "Nov 10, 2026, 20:36 Bangkok"
+        }
+      ]
+    },
+    "asia": {
+      "id": "asia",
+      "label": "East + SE Asia",
+      "ticker": "Nikkei · HSI · SSE · KOSPI · TWSE · SET · SGX · IDX · KLSE · PSEi · VN-Index",
+      "lastUpdated": "2026-11-11T10:12:04.619Z",
+      "news": [
+        {
+          "headline": "Reuters Tankan: Japan Manufacturer Sentiment Hits 5-Year High of +27 on Chip Boom",
+          "body": "Japan's Reuters Tankan index for large manufacturers rose to +27 in November from +22 in October — its highest reading since August 2021 — driven by booming semiconductor and data-centre demand, with the electronics sub-index leaping to +39 from +25 and precision machinery (including chip equipment) advancing to +42. Non-manufacturer sentiment also surged to +35, the strongest since June 2018. The data reinforced the Nikkei's third consecutive day of gains, with the benchmark up ~1.2% to ~61,190 on Wednesday. The poll is a closely watched leading indicator for the BoJ's official quarterly Tankan and bolsters the case for a December rate hike.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "medium",
+          "source": "Reuters",
+          "publishedAtISO": "2026-11-10T23:04:00Z",
+          "publishedAt": "Nov 11, 2026, 06:04 Bangkok"
+        },
+        {
+          "headline": "TSMC Reports Record October Revenue of $17.9B, Up 59.7% YoY on AI Chip Demand",
+          "body": "Taiwan Semiconductor Manufacturing Co. posted its highest-ever monthly revenue of NT$586.89 billion (~$17.9B) in October 2026, surging 59.7% year-on-year and 14.7% from September, smashing the prior record set in August. The result directly countered the prevailing AI-spending-peak narrative that had triggered a sharp regional tech sell-off the prior week. TSMC also raised its full-year 2026 revenue growth forecast to ~44% in USD terms. Taiwan's Taiex surged 3.6% on the day, with TSMC shares up 3.1%; the data catalysed a broad Asian chip-stock rebound including Samsung (+3.4%) and SK Hynix (+5.4%).",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "high",
+          "source": "Reuters / SEC Filing (TSMC 6-K)",
+          "publishedAtISO": "2026-11-10T16:07:00Z",
+          "publishedAt": "Nov 10, 2026, 23:07 Bangkok"
+        },
+        {
+          "headline": "SoftBank Swings to ¥1.12 Trillion ($7B) Loss on US Data-Centre Writedown",
+          "body": "SoftBank Group reported a fiscal Q2 net loss of ¥1.12 trillion ($7.1B), reversing a ¥2.5 trillion profit a year earlier, missing analyst consensus which had expected a ¥129B profit. The loss was driven by a ¥597B ($3.73B) writedown on non-refundable advance payments for power-generation equipment for its 8-gigawatt Ohio AI data-centre project, alongside a decline in Intel stake valuations. Despite the miss, SoftBank shares had already surged ~14% in Tokyo on Tuesday before results were released, then fell ~3% on Wednesday as markets digested the magnitude of the writedown. The result raises further scrutiny over Masayoshi Son's aggressive AI infrastructure expansion strategy.",
+          "sector": "Technology",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Bloomberg / CNBC",
+          "publishedAtISO": "2026-11-10T06:35:00Z",
+          "publishedAt": "Nov 10, 2026, 13:35 Bangkok"
+        },
+        {
+          "headline": "BoJ October Meeting Summary Signals Near-Certain December Rate Hike to 1.5%",
+          "body": "The Bank of Japan's summary of opinions from its October 29–30 meeting, released Tuesday, showed multiple board members pushing for faster rate increases after underlying inflation reached the central bank's 2% target, with one member urging the BoJ to act \"without becoming overly cautious.\" The BoJ held its policy rate at 1.25% in October but analysts now overwhelmingly expect a hike to 1.5% in December, with a longer-run terminal rate of 1.75–2.0% priced in. The hawkish signal initially firmed the yen, but hotter-than-expected US CPI released the same day reasserted USD strength, pushing USD/JPY back toward 158.95 and partially offsetting any equity drag on rate-sensitive Japanese stocks.",
+          "sector": "Finance",
+          "sentiment": "neutral",
+          "magnitude": "high",
+          "source": "Japan Times / Reuters",
+          "publishedAtISO": "2026-11-10T02:00:00Z",
+          "publishedAt": "Nov 10, 2026, 09:00 Bangkok"
+        },
+        {
+          "headline": "China October Exports Surge 35.2%, Trade Surplus Tops $1 Trillion for Second Year",
+          "body": "China's General Administration of Customs reported October exports rose 35.2% year-on-year to $412.3B, beating forecasts of 33.5%, while imports surged 41.6% — the sharpest jump since May 2011. The January–October cumulative trade surplus reached $1.04 trillion, surpassing the $1 trillion mark a full month earlier than in 2025 and putting full-year 2026 on track for a new record above last year's $1.2 trillion. The AI infrastructure build-out is cited as the primary driver of high-tech export demand including chips, servers, and networking equipment. The data provided an additional tailwind for Chinese tech and export-linked stocks, though mainland and Hong Kong indices showed only modest gains amid broader diplomatic friction concerns.",
+          "sector": "Technology",
+          "sentiment": "positive",
+          "magnitude": "medium",
+          "source": "CNBC / Asia Financial",
+          "publishedAtISO": "2026-11-10T02:00:00Z",
+          "publishedAt": "Nov 10, 2026, 09:00 Bangkok"
+        }
+      ]
+    },
+    "commodities": {
+      "id": "commodities",
+      "label": "Commodities",
+      "ticker": "WTI · Brent · Gas · RBOB · Heating Oil · Coal · Gold · Silver · Copper · Aluminum · Iron Ore · Lithium · Platinum · Palladium · Grains · Softs · Oilseeds · Lumber · Rubber · BDI",
+      "lastUpdated": "2026-11-11T10:13:28.933Z",
+      "news": [
+        {
+          "headline": "Brent Slides 7% in Two Sessions on US-Iran Peace Hopes, Recovers Near $92",
+          "body": "Brent crude fell roughly 7% across Monday and Tuesday to multi-week lows near $91-92/bbl before edging higher on Wednesday as traders weighed diplomatic progress on the US-Iran conflict. WTI traded below $87, with the US benchmark now nearly 20% off its late-October peak. President Trump signalled further strikes on Iran were unlikely, though sanctions and a naval blockade remain unresolved sticking points. Markets remain on edge as any ceasefire deal could substantially ease supply-risk premiums built up since mid-year.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Bloomberg / Angel One",
+          "publishedAtISO": "2026-11-11T05:24:00Z",
+          "publishedAt": "Nov 11, 2026, 12:24 Bangkok"
+        },
+        {
+          "headline": "Ukraine Drone Strikes Slash Russian Oil Refining Capacity by ~30%, Hitting 9 Facilities",
+          "body": "Renewed Ukrainian drone attacks since late October have disrupted operations at nine of Russia's 35 major refineries, cutting combined crude processing capacity by roughly 30%, Reuters reported on Nov. 10. The campaign's latest strike hit Russia's second-largest refinery, the Kirishi plant in Leningrad Oblast, on the night of Nov. 8-9, sparking large fires. The affected facilities represent a combined nameplate capacity of approximately 2.2 million barrels per day, adding a supply-disruption counterweight to the bearish US-Iran peace narrative for global oil markets.",
+          "sector": "Energy",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Reuters / Kyiv Independent",
+          "publishedAtISO": "2026-11-10T16:25:00Z",
+          "publishedAt": "Nov 10, 2026, 23:25 Bangkok"
+        },
+        {
+          "headline": "Gold, Silver Plunge After Hot US October CPI Fans December Fed Rate-Hike Bets",
+          "body": "The US Labor Department reported October CPI rose 0.4% month-on-month, above the 0.3% consensus, lifting year-on-year inflation to 3.7%. Gold fell sharply on the data before rebounding partially on Nov. 11, trading around $4,033-4,080/oz after earlier touching above $4,100; silver also dropped sharply. The stronger dollar and rising Treasury yields triggered by heightened December rate-hike expectations drove the precious metals selloff. Spot gold is now down over 3% month-on-month and roughly 28% off its January 2026 all-time high of $5,608.",
+          "sector": "Precious Metals",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Kitco / BLS / Trading Economics",
+          "publishedAtISO": "2026-11-10T13:30:00Z",
+          "publishedAt": "Nov 10, 2026, 20:30 Bangkok"
+        },
+        {
+          "headline": "Natural Gas Rises to 4-Week High as Cold-Snap Forecasts Lift Heating Demand",
+          "body": "US natural gas futures climbed to around $3.24-3.31/MMBtu on Nov. 10-11, reaching their highest level in four weeks, as forecasts of a sharp cold spell pointed to stronger heating demand. The EIA's November STEO noted a warm start to November had previously pressured prices, projecting average Henry Hub prices of $2.87/MMBtu through March; however, the cold-weather revision is shifting near-term sentiment. Despite the bounce, nat gas remains approximately 27% below year-ago levels, capping bullish momentum.",
+          "sector": "Energy",
+          "sentiment": "positive",
+          "magnitude": "medium",
+          "source": "EIA / Trading Economics / FX Empire",
+          "publishedAtISO": "2026-11-10T10:00:00Z",
+          "publishedAt": "Nov 10, 2026, 17:00 Bangkok"
+        },
+        {
+          "headline": "Codelco Discloses 42,100-Tonne Output Overstatement, Cuts 2026 Guidance to 1.2Mt",
+          "body": "Chile's state copper miner Codelco confirmed it overstated production by 42,100 tonnes across 2024-2025 and cut its 2026 output forecast from 1.34 million to slightly above 1.2 million tonnes; Chile's mining minister separately said over $10 billion of Codelco's $32 billion in capex delivered poor returns. The Andina operation also suffered a tailings spill that halted processing. With October Chilean copper exports down 5.4% year-on-year and China's Yangshan import premium surging to a record $230/t, the guidance cut reinforces a tightening supply narrative even as macro headwinds from US rate expectations weigh on prices.",
+          "sector": "Base Metals",
+          "sentiment": "negative",
+          "magnitude": "high",
+          "source": "Reuters / Northern Miner / SMM",
+          "publishedAtISO": "2026-11-10T08:00:00Z",
+          "publishedAt": "Nov 10, 2026, 15:00 Bangkok"
+        }
+      ]
+    }
+  }
+}
